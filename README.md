@@ -12,4 +12,4 @@ Continue, Use your linux!
 
 ---
 
-*KiteAB.ga   2018-2020
+*KiteAB.ga   2018-2020*
