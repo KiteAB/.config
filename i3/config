@@ -60,7 +60,7 @@ bindsym $mod+d exec dmenu_run
 # change focus
 bindsym $mod+j focus left
 bindsym $mod+k focus down
-bindsym $mod+l focus up
+bindsym $mod+Alt+l focus up
 bindsym $mod+semicolon focus right
 
 # alternatively, you can use the cursor keys:
@@ -177,6 +177,10 @@ mode "resize" {
 }
 
 bindsym $mod+r mode "resize"
+
+bindsym $mod+l exec "i3lock -c 313131 -n"
+bindsym $mod+q exec "qq"
+bindsym $mod+Shift+p "deepin-screenshot"
 
 exec_always --no-startup-id variety
 exec_always picom -o 0.95 -i 0.88 --detect-rounded-corners --vsync --blur-background-fixed -f -D 5 -b
