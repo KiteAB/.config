@@ -16,9 +16,7 @@ Continue, Use your linux!
 
 ## My Arch Linux packages
 
----
-
-#### See my-packages.txt
+##### See my-packages.txt
 
 
 
