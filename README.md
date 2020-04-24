@@ -11,12 +11,18 @@ Continue, Use your linux!
 ##### Hint: My system is Arch Linux, if your system is ubuntu or fedora, you maybe can't use this config.
 
 
+---
+
 
 ## My Arch Linux packages
 
 ---
 
-See my-packages.txt
+#### See my-packages.txt
+
+
+
+---
 
 
 
