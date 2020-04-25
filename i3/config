@@ -180,16 +180,15 @@ bindsym $mod+r mode "resize"
 
 bindsym $mod+l exec "i3lock -c 313131 -n"
 bindsym $mod+q exec "qq"
-bindsym $mod+Shift+p "deepin-screenshot"
 
 exec_always --no-startup-id variety
-exec_always picom -o 0.95 -i 0.88 --detect-rounded-corners --vsync --blur-background-fixed -f -D 5 -b
+exec_always picom -o 0.95 -i 0.88 --detect-rounded-corners --vsync --blur-background-fixed -f -D 5 -cC -b
 exec_always sleep 2; fcitx
 exec_always /usr/lib/gsd-xsettings
 exec_always killall i3bar; killall polybar; polybar bar1
 
 new_window pixel
-new_float normal
+new_float pixel
 smart_borders on
 smart_gaps on
 
