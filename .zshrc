@@ -21,3 +21,4 @@ alias up='sudo pacman -Syu'
 alias c=clear
 alias ra=ranger
 alias cs=cowsay
+alias vim=nvim
