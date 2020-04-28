@@ -6,7 +6,7 @@
 
 #### Effect (partial):
 
-![https://raw.githubusercontent.com/KiteAB/.config/master/screenshots/1.png]()
+![](https://raw.githubusercontent.com/KiteAB/.config/master/screenshots/1.png)
 
 ---
 
