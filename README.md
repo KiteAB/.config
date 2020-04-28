@@ -10,7 +10,7 @@ Continue, Use your linux!
 
 ##### Hint: My system is Arch Linux, if your system is ubuntu or fedora, you maybe can't use this config.
 
-And, please don't put these file to your ~/.config folder, because some folders(eg. .vim .zshrc) can't apply config if you put these folder(s) to .config folder.
+And, please don't put these file to your ~/.config folder, because some folders(eg. .vim) can't apply config if you put these folder(s) to .config folder.
 
 ---
 
