@@ -14,6 +14,9 @@ And, please don't put these file to your ~/.config folder, because some folders(
 
 ---
 
+### WARNING: PLEASE READ THESE CONFIGURATION FILES BEFORE USING MY NVIM OR VIM CONFIGURATION, BECAUSE YOUR MACHINE DOES NOT NECESSARILYL HAVE THE DEPENDENCIES THAT MY CONFIGUATION FILE NEEDS!!
+
+---
 
 ## My Arch Linux packages
 
