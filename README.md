@@ -4,6 +4,12 @@
 
 ---
 
+#### Effect (partial):
+
+![https://raw.githubusercontent.com/KiteAB/.config/master/screenshots/1.png]()
+
+---
+
 ### WARNING: YOU CANNOT COPY AND PASTE MY CONFIG FILE! BUT YOU CAN COPY, EDIT AND PASTE.
 
 Continue, Use your linux!
@@ -14,18 +20,10 @@ And, please don't put these file to your ~/.config folder, because some folders(
 
 ---
 
-### WARNING: PLEASE READ THESE CONFIGURATION FILES BEFORE USING MY NVIM OR VIM CONFIGURATION, BECAUSE YOUR MACHINE DOES NOT NECESSARILYL HAVE THE DEPENDENCIES THAT MY CONFIGUATION FILE NEEDS!!
+#### WARNING: PLEASE READ THESE CONFIGURATION FILES BEFORE USING MY NVIM OR VIM CONFIGURATION, BECAUSE YOUR MACHINE **DOES NOT NECESSARILYL HAVE THE DEPENDENCIES THAT MY CONFIGUATION FILE NEEDS**!!
 
 ---
 
 ## My Arch Linux packages
 
-##### See my-packages.txt
-
-
-
----
-
-
-
-*KiteAB.ga   2018-2020*
+See my-packages.txtf
