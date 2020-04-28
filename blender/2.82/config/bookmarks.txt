@@ -1,5 +1,0 @@
-[Bookmarks]
-[Recent]
-/home/kiteab/blender/
-/home/kiteab/blender/mw/
-/home/kiteab/blender/software/

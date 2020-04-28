@@ -1,1 +1,0 @@
-{Intel Open Source Technology Center/Mesa DRI Intel(R) HD Graphics 4400 (HSW GT2)/4.5 (Core Profile) Mesa 20.0.4}=SUPPORTED
