@@ -26,4 +26,4 @@ And, please don't put these file to your ~/.config folder, because some folders(
 
 ## My Arch Linux packages
 
-See my-packages.txtf
+See my-packages.txt
