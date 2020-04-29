@@ -1,8 +1,19 @@
+"___  _____   __  _   _  _____ ___  _________  _____ 
+"|  \/  |\ \ / / | | | ||_   _||  \/  || ___ \/  __ \
+"| .  . | \ V /  | | | |  | |  | .  . || |_/ /| /  \/
+"| |\/| |  \ /   | | | |  | |  | |\/| ||    / | |    
+"| |  | |  | |   \ \_/ / _| |_ | |  | || |\ \ | \__/\
+"\_|  |_/  \_/    \___/  \___/ \_|  |_/\_| \_| \____/
+
+" Author: @KiteAB
+
+
 let mapleader=" "
 syntax on
 set number
-set relativenumber
 set cursorline
+set relativenumber
+"set norelativenumber
 set wrap
 set showcmd
 set wildmenu
