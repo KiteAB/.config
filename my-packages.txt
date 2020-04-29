@@ -151,7 +151,7 @@ figlet 2.2.5-3
 file 5.38-3
 filesystem 2019.10-2
 findutils 4.7.0-2
-fish 3.1.0-3
+fish 3.1.1-1
 flac 1.3.3-1
 flameshot 0.6.0-4
 flex 2.6.4-3
@@ -193,7 +193,7 @@ glslang 8.13.3559-1
 glu 9.0.1-1
 gmp 6.2.0-1
 gnome-autoar 0.2.4-1
-gnome-desktop 1:3.36.1-1
+gnome-desktop 1:3.36.2-1
 gnome-settings-daemon 3.36.0-1
 gnupg 2.2.20-1
 gnutls 3.6.13-1
@@ -248,7 +248,7 @@ i3lock 2.12-1
 i3status 2.13-2
 iana-etc 20200401-1
 icu 65.1-3
-imagemagick 7.0.10.9-1
+imagemagick 7.0.10.10-1
 imlib2 1.6.1-1
 inkscape 0.92.5-1
 intel-tbb 2020.2-1
@@ -521,7 +521,7 @@ libldap 2.4.49-1
 liblqr 0.4.2-2
 libluv 1.36.0-1
 libmad 0.15.1b-8
-libmagick6 6.9.11.9-1
+libmagick6 6.9.11.10-1
 libmatroska 1.5.2-1
 libmfx 20.1.1-1
 libmicrohttpd 0.9.70-1
@@ -653,7 +653,7 @@ libxvmc 1.0.12-2
 libxxf86vm 1.1.4-3
 libyaml 0.2.4-1
 libzip 1.6.1-1
-licenses 20191011-2
+licenses 20200427-1
 lilv 0.24.8-1
 linux 5.6.7.arch1-1
 linux-api-headers 5.4.17-1
@@ -777,7 +777,7 @@ phonon-qt5-gstreamer 4.10.0-1
 picom 7.5-3
 pinentry 1.1.0-5
 pixman 0.40.0-1
-pkgconf 1.6.3-3
+pkgconf 1.6.3-4
 polkit 0.116-5
 polkit-qt5 0.113.0-1
 polybar 3.4.2-2
@@ -972,7 +972,7 @@ vim-runtime 8.2.0510-2
 virtualbox 6.1.6-1
 virtualbox-host-dkms 6.1.6-1
 visual-studio-code-bin 1.44.2-1
-vlc 3.0.9.2-2
+vlc 3.0.10-1
 volume_key 0.3.12-2
 vulkan-icd-loader 1.2.135-1
 wayland 1.18.0-2

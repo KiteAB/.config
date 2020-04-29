@@ -8,7 +8,6 @@
 # i3 config file (v4)
 #
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
-
 set $mod Mod4
 #set $mod Mod1
 
@@ -64,10 +63,10 @@ bindsym $mod+i focus up
 bindsym $mod+l focus right
 
 # alternatively, you can use the cursor keys:
-bindsym $mod+Left focus left
-bindsym $mod+Down focus down
-bindsym $mod+Up focus up
-bindsym $mod+Right focus right
+#bindsym $mod+Left focus left
+#bindsym $mod+Down focus down
+#bindsym $mod+Up focus up
+#bindsym $mod+Right focus right
 
 # move focused window
 bindsym $mod+Shift+j move left
@@ -162,14 +161,14 @@ mode "resize" {
         # Pressing down will grow the window’s height.
         bindsym j resize shrink width 10 px or 10 ppt
         bindsym k resize grow height 10 px or 10 ppt
-        bindsym l resize shrink height 10 px or 10 ppt
-        bindsym semicolon resize grow width 10 px or 10 ppt
+        bindsym i resize shrink height 10 px or 10 ppt
+        bindsym l resize grow width 10 px or 10 ppt
 
         # same bindings, but for the arrow keys
-        bindsym Left resize shrink width 10 px or 10 ppt
-        bindsym Down resize grow height 10 px or 10 ppt
-        bindsym Up resize shrink height 10 px or 10 ppt
-        bindsym Right resize grow width 10 px or 10 ppt
+        bindsym j resize shrink width 10 px or 10 ppt
+        bindsym k resize grow height 10 px or 10 ppt
+        bindsym i resize shrink height 10 px or 10 ppt
+        bindsym l resize grow width 10 px or 10 ppt
 
         # back to normal: Enter or Escape or $mod+r
         bindsym Return mode "default"
@@ -180,17 +179,19 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 
 bindsym $mod+t exec "i3lock -c 313131 -n"
-bindsym $mod+q exec "qq"
 bindsym $mod+p exec "deepin-screenshot"
-
-exec_always --no-startup-id variety
-exec_always picom -o 0.95 -i 0.88 --detect-rounded-corners --vsync --blur-background-fixed -f -D 5 -cC -b
-exec_always sleep 2; fcitx
-exec_always /usr/lib/gsd-xsettings
-exec_always killall i3bar; killall polybar; polybar bar1
+bindsym $mod+Ctrl+e exec "dde-file-manager"
+#exec_always --no-startup-id variety
+#exec_always picom -o 0.95 -i 0.88 --detect-rounded-corners --vsync --blur-background-fixed -f -D 5 -cC -b
+#exec_always sleep 2; fcitx
+#exec_always /usr/lib/gsd-xsettings
+#exec_always killall i3bar; killall polybar; polybar bar1
+#exec_always xmodmap ~/.xmodmap
+exec ~/scripts/i3/autostart.sh
 
 new_window pixel
 new_float pixel
+
 smart_borders on
 smart_gaps on
 
@@ -202,7 +203,6 @@ gaps outer -2
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
 #bar {
-        #status_command i3status
-#	status_command polybar bar1
+#        status_command i3status
 #}
 

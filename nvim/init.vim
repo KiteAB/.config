@@ -1,7 +1,7 @@
 let mapleader=" "
 syntax on
 set number
-set norelativenumber
+set relativenumber
 set cursorline
 set wrap
 set showcmd
@@ -43,6 +43,7 @@ call plug#begin('~/.config/nvim/plugged')
 
 Plug 'vim-airline/vim-airline'
 Plug 'connorholyday/vim-snazzy'
+Plug 'connorholyday/vim-snazzy-themes'
 Plug 'dhruvasagar/vim-table-mode'
 Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for' :['markdown', 'vim-plug'] }
 Plug 'ncm2/ncm2'
