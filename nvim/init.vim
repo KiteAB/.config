@@ -42,8 +42,9 @@ map <LEADER>sc :set spell!<CR>
 call plug#begin('~/.config/nvim/plugged')
 
 Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
 Plug 'connorholyday/vim-snazzy'
-Plug 'connorholyday/vim-snazzy-themes'
+Plug 'connorholyday/vim-snazzy'
 Plug 'dhruvasagar/vim-table-mode'
 Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for' :['markdown', 'vim-plug'] }
 Plug 'ncm2/ncm2'
@@ -55,4 +56,7 @@ Plug 'SirVer/ultisnips'
 call plug#end()
 
 let g:SnazzyTransparent = 1
+
+
+let g:airline_theme='ayu_mirage'
 color snazzy
