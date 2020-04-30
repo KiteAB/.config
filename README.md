@@ -27,3 +27,9 @@ WARNING: PLEASE READ THESE CONFIGURATION FILES BEFORE USING MY NVIM OR VIM CONFI
 ## My Arch Linux packages
 
 See my-packages.txt
+
+---
+
+## About my scripts
+
+See [my scripts project]: https://github.com/KiteAB/scripts
