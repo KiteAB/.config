@@ -69,5 +69,5 @@ call plug#end()
 let g:SnazzyTransparent = 1
 
 
-let g:airline_theme='ayu_mirage'
+let g:airline_theme='deus'
 color snazzy
