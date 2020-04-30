@@ -32,4 +32,4 @@ See my-packages.txt
 
 ## About my scripts
 
-See my scripts project: https://github.com/KiteAB/scripts and git clone this project to your ~/scripts folder
+See my scripts project: https://github.com/KiteAB/scripts and git clone this project to your ~/scripts/i3 folder
