@@ -25,7 +25,7 @@ alias vim=nvim
 alias sudo='sudo -E'
 
 # vi mode
-bindkey -v
+#bindkey -v
 bindkey -M vicmd "n" vi-insert
 bindkey -M vicmd "N" vi-insert-bol
 bindkey -M vicmd "j" vi-backward-char
