@@ -12,13 +12,21 @@ let mapleader=" "
 syntax on
 set number
 set cursorline
+set noexpandtab
+set autoindent
+set list
+set listchars=tab:\|\ ,trail:▫
 set relativenumber
 "set norelativenumber
 set wrap
 set showcmd
 set wildmenu
 
-set scrolloff=5
+set scrolloff=4
+set ttimeoutlen=0
+set notimeout
+set viewoptions=cursor,folds,slash,unix
+set tw=0
 
 set hlsearch
 exec "nohlsearch"
@@ -26,6 +34,7 @@ set incsearch
 set ignorecase
 set smartcase
 
+noremap <LEADER>rc :e ~/.config/nvim/init.vim<CR>
 noremap = nzz
 noremap - Nzz
 noremap <LEADER><CR> :nohlsearch<CR>
@@ -63,11 +72,18 @@ Plug 'ncm2/ncm2-path'
 Plug 'ncm2/ncm2-jedi'
 Plug 'numirias/semshi'
 Plug 'SirVer/ultisnips'
+Plug 'roxma/nvim-yarp'
+Plug 'ncm2/ncm2-bufword'
+Plug 'honza/vim-snippets'
+Plug 'ajmwagar/vim-deus'
 
 call plug#end()
 
 let g:SnazzyTransparent = 1
-
-
-let g:airline_theme='deus'
 color snazzy
+"color deus
+let g:airline_theme='deus'
+
+let g:UltiSnipsExpandTrigger="<tab>"
+let g:UltiSnipsJumpForwardTrigger="<c-b>"
+let g:UltiSnipsJumpBackwardTrigger="<c-z>"
