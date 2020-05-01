@@ -21,6 +21,11 @@ set relativenumber
 set wrap
 set showcmd
 set wildmenu
+set tabstop=2
+set shiftwidth=2
+set softtabstop=2
+set autoindent
+set list
 
 set scrolloff=4
 set ttimeoutlen=0
@@ -34,6 +39,7 @@ set incsearch
 set ignorecase
 set smartcase
 
+" open my vimrc at any time
 noremap <LEADER>rc :e ~/.config/nvim/init.vim<CR>
 noremap = nzz
 noremap - Nzz
