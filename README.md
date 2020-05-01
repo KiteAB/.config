@@ -6,7 +6,7 @@
 
 #### Effect (neovim):
 
-![](https://raw.githubusercontent.com/KiteAB/.config/master/screenshots/1.png)
+![](screenshots/1.png)
 
 ---
 
