@@ -71,8 +71,8 @@ bindsym $mod+l focus right
 # move focused window
 bindsym $mod+Shift+j move left
 bindsym $mod+Shift+k move down
-bindsym $mod+Shift+l move up
-bindsym $mod+Shift+semicolon move right
+bindsym $mod+Shift+i move up
+bindsym $mod+Shift+l move right
 
 # alternatively, you can use the cursor keys:
 bindsym $mod+Shift+Left move left
@@ -179,18 +179,21 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 
 bindsym $mod+t exec "i3lock -c 313131 -n"
-bindsym $mod+p exec "deepin-screenshot"
+bindsym Print exec "deepin-screenshot"
 bindsym $mod+Ctrl+e exec "dde-file-manager"
 
-bindsym $mod+Shift+d exec "xmodmap ~/.xmodmap-qwerty"
-bindsym $mod+Shift+o exec "xmodmap ~/.xmodmap-colemak"
+bindsym $mod+ctrl+s exec "bash ~/scripts/i3/sk.sh"
+bindsym $mod+shift+ctrl+s exec "killall screenkey"
+
+bindsym $mod+Shift+n exec "xmodmap ~/.xmodmap-code"
+bindsym $mod+Shift+m exec "xmodmap ~/.xmodmap-game"
 
 #exec_always --no-startup-id variety
 #exec_always picom -o 0.95 -i 0.88 --detect-rounded-corners --vsync --blur-background-fixed -f -D 5 -cC -b
 #exec_always sleep 2; fcitx
 #exec_always /usr/lib/gsd-xsettings
 #exec_always killall i3bar; killall polybar; polybar bar1
-exec xmodmap ~/.xmodmap
+#exec xmodmap ~/.xmodmap
 exec ~/scripts/i3/autostart.sh
 
 new_window pixel
