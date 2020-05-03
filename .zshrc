@@ -1,4 +1,6 @@
-export ZSH="$HOME/.oh-my-zsh"
+export ZSH="/home/kiteab/.oh-my-zsh"
+
+#ZSH_THEME="robbyrussell"
 
 plugins=(git
 	z
@@ -6,9 +8,6 @@ plugins=(git
 	fast-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
-
-# Enable 256 color
-export TERM="xterm-256color"
 
 # Initialize command prompt
 export PS1="%n@%m:%~%# "
@@ -23,6 +22,7 @@ alias ra=ranger
 alias cs=cowsay
 alias vim=nvim
 alias sudo='sudo -E'
+alias chardraw=figlet
 
 # vi mode
 #bindkey -v
@@ -48,3 +48,16 @@ function zle-keymap-select {
 zle -N zle-keymap-select
 
 echo -ne '\e[5 q'
+
+function zle_eval {
+	echo -en "\e[2K\r"
+	eval "$@"
+	zle redisplay
+}
+
+function openlazygit {
+	zle_eval openlazygit
+}
+
+zle -N openlazygit; bindkey "^G" openlazygit
+

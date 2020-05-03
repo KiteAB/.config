@@ -65,6 +65,7 @@ ca-certificates-utils 20181109-3
 cabextract 1.9.1-1
 cairo 1.17.2+17+g52a7c79fd-2
 cairomm 1.12.2-3
+calcurse 4.6.0-1
 cantarell-fonts 1:0.201-1
 cblas 3.9.0-2
 cdparanoia 10.2-7
@@ -72,6 +73,7 @@ cifs-utils 6.10-1
 clang 10.0.0-2
 cmatrix 2.0-1
 colord 1.4.4+9+g1ce26da-1
+colordiff 1.0.18-2
 compiler-rt 10.0.0-1
 confuse 3.2.2-1
 convertlit 1.8-8
@@ -130,9 +132,10 @@ dtkwidget 2.1.1-6
 dtkwm 2.0.12-6
 e2fsprogs 1.45.6-1
 ebook-tools 0.2.2-6
+ed 1.16-1
 efibootmgr 17-1
 efivar 37-3
-electron 8.2.3-2
+electron 8.2.5-1
 elfutils 0.178-2
 embree 3.9.0-1
 enchant 2.2.8-1
@@ -156,7 +159,7 @@ figlet 2.2.5-3
 file 5.38-3
 filesystem 2019.10-2
 findutils 4.7.0-2
-fish-git 2:3.1.2.r627.gaa8c9df2d-1
+fish-git 2:3.1.2.r628.g3e29b0d91-1
 flac 1.3.3-1
 flameshot 0.6.0-4
 flex 2.6.4-3
@@ -182,6 +185,7 @@ gcr 3.36-1
 gd 2.3.0-1
 gdbm 1.18.1-3
 gdk-pixbuf2 2.40.0-2
+gdl 3.34.0-1
 gegl 0.4.22-1
 geoclue 2.5.6-1
 geocode-glib 3.26.2-1
@@ -229,6 +233,7 @@ gtk3 1:3.24.20-1
 gtkmm 1:2.24.5-3
 gtkmm3 3.24.2-1
 gtkspell 2.0.16-7
+gtkspell3 3.0.10-2
 guile 2.2.6-2
 gupnp-dlna 0.10.5+4+gc947eed-1
 gvfs 1.44.1-1
@@ -255,7 +260,7 @@ icu 67.1-1
 iease-music 1.3.4-1
 imagemagick 7.0.10.10-1
 imlib2 1.6.1-1
-inkscape 0.92.5-1
+inkscape 1.0-2
 intel-tbb 2020.2-1
 intel-ucode 20191115-3
 iproute2 5.6.0-1
@@ -302,7 +307,7 @@ kdnssd 5.69.0-1
 kdsoap 1.9.0-1
 kdsoap-ws-discovery-client git20200316-2
 kexec-tools 2.0.20-1
-keynav 0.20110708.0-3
+keynav 0.20180821.0-1
 keyutils 1.6.1-3
 kfilemetadata 5.69.0-1
 kglobalaccel 5.69.0-1
@@ -337,6 +342,7 @@ kyotocabinet 1.2.77-1
 l-smash 2.14.5-1
 lame 3.100-2
 lapack 3.9.0-2
+lazygit 0.20.2-1
 lcms2 2.9-2
 ldb 1:2.1.2-1
 ldns 1.7.1-2
@@ -374,7 +380,7 @@ lib32-lcms2 2.9-1
 lib32-libappindicator-gtk2 12.10.0-11
 lib32-libasyncns 0.8+3+g68cd5af-2
 lib32-libcap 2.33-1
-lib32-libcups 2.3.1-1
+lib32-libcups 2.3.3-1
 lib32-libdatrie 0.2.12-1
 lib32-libdbusmenu-glib 16.04.0-4
 lib32-libdbusmenu-gtk2 16.04.0-4
@@ -619,6 +625,7 @@ libutil-linux 2.35.1-2
 libuv 1.37.0-1
 libva 2.7.1-1
 libvdpau 1.3-1
+libvisio 0.1.7-3
 libvisual 0.4.0-7
 libvoikko 4.3-1
 libvorbis 1.3.6-1
@@ -629,6 +636,7 @@ libwebp 1.1.0-1
 libwmf 0.2.12-1
 libwpd 0.10.3-1
 libwpe 1.6.0-1
+libwpg 0.3.3-1
 libx11 1.6.9-6
 libxau 1.0.9-2
 libxaw 1.0.13-2
@@ -765,7 +773,7 @@ osinfo-db 20200214-1
 p11-kit 0.23.20-4
 p7zip 16.02-5
 package-query 1.10-1
-pacman 5.2.1-4
+pacman 5.2.1-5
 pacman-contrib 1.3.0-1
 pacman-mirrorlist 20200411-1
 pam 1.3.1-2
@@ -792,10 +800,10 @@ pkgconf 1.6.3-4
 polkit 0.116-5
 polkit-qt5 0.113.0-1
 polybar 3.4.2-2
-poppler 0.87.0-1
+poppler 0.88.0-1
 poppler-data 0.4.9-1
-poppler-glib 0.87.0-1
-poppler-qt5 0.87.0-1
+poppler-glib 0.88.0-1
+poppler-qt5 0.88.0-1
 popt 1.16-12
 portsmf 234-1
 postgresql-libs 12.2-3
@@ -857,8 +865,39 @@ python-wcwidth 0.1.9-1
 python-webencodings 0.5.1-4
 python-yaml 5.3.1-1
 python2 2.7.18-1
+python2-appdirs 1.4.3-5
+python2-backports 1.0-2
+python2-cachecontrol 0.12.6-1
 python2-cairo 1.18.2-4
+python2-chardet 3.0.4-4
+python2-colorama 0.4.3-1
+python2-configparser 4.0.2-1
+python2-contextlib2 0.6.0.post1-1
+python2-distlib 0.3.0-1
+python2-distro 1.5.0-1
 python2-gobject2 2.28.7-5
+python2-html5lib 1.0.1-7
+python2-idna 2.9-1
+python2-importlib-metadata 1.5.2-1
+python2-ipaddress 1.0.23-1
+python2-msgpack 0.6.2-3
+python2-ordered-set 3.1.1-1
+python2-packaging 20.3-1
+python2-pathlib2 2.3.5-1
+python2-pep517 0.8.2-1
+python2-pip 20.0.2-1
+python2-progress 1.5-3
+python2-pyparsing 2.4.7-1
+python2-pytoml 0.1.21-3
+python2-requests 2.23.0-1
+python2-retrying 1.3.3-6
+python2-scandir 1.10.0-3
+python2-setuptools 2:44.1.0-1
+python2-six 1.14.0-1
+python2-toml 0.10.0-3
+python2-urllib3 1.25.9-1
+python2-webencodings 0.5.1-4
+python2-zipp 1:1.1.0-1
 qca 2.3.0-1
 qt5-base 5.14.2-2
 qt5-declarative 5.14.2-1
@@ -972,7 +1011,7 @@ upower 0.99.11-1
 usbmuxd 1.1.0+69+g8a69f1a-1
 usbutils 012-2
 util-linux 2.35.1-2
-v4l-utils 1.18.0-1
+v4l-utils 1.18.0-2
 vamp-plugin-sdk 2.9.0-1
 variety 0.8.3-1
 vi 1:070224-4
@@ -1001,8 +1040,8 @@ wpa_supplicant 2:2.9-7
 wpebackend-fdo 1.6.0-1
 wps-office-cn 11.1.0.9505-1
 wqy-microhei 0.2.0_beta-9
-wxgtk-common 3.0.4-2
-wxgtk3 3.0.4-2
+wxgtk-common 3.0.5-1
+wxgtk3 3.0.5-1
 x264 3:0.159.r2999.296494a-1
 x265 3.3-1
 x86_energy_perf_policy 5.6-1
@@ -1093,4 +1132,3 @@ zita-resampler 1.6.2-2
 zlib 1:1.2.11-4
 zsh 5.8-1
 zstd 1.4.4-1
-

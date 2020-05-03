@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =6
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/kiteab'
 let g:netrw_dirhist_6='/home/kiteab/applications'
 let g:netrw_dirhist_5='/home/kiteab'
 let g:netrw_dirhist_4='/home/kiteab/.audacity-data'
