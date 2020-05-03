@@ -4,7 +4,7 @@
 
 ---
 
-#### Effect (neovim):
+#### Effect (dwm and vim):
 
 ![](screenshots/1.png)
 
@@ -32,4 +32,10 @@ See my-packages.txt
 
 ## About my scripts
 
-See my scripts project: https://github.com/KiteAB/scripts and clone this project to your ~/scripts/i3 folder
+See [this project](https://github.com/KiteAB/scripts)
+
+---
+
+## About my dynamic window manager
+
+See [this project](https://github.com/KiteAB/dwm)
