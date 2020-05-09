@@ -26,7 +26,7 @@ WARNING: PLEASE READ THESE CONFIGURATION FILES BEFORE USING MY NVIM OR VIM CONFI
 
 ## My Arch Linux packages
 
-See my-packages.txt
+See [my-packages.txt](my-packages.txt)
 
 ---
 
