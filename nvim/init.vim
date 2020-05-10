@@ -195,6 +195,23 @@ noremap tl :+tabnext
 noremap tmj :-tabmove<CR>
 noremap tml :+tabmove<CR>
 
+source ~/.config/nvim/md-snippets.vim
+autocmd BufRead,BufNewFile *.md setlocal spell
+
+nnoremap \t :tabe<CR>:-tabmove<CR>:term sh -c 'st'<CR><C-\><C-N>:q<CR>
+inoremap <C-u> <ESC>lx$p
+
+noremap <LEADER>/ :set splitbelow<CR>:split<CR>:res+10<CR>:term<CR>
+noremap <LEADER><LEADER> <Esc>/<++><CR>:nohlsearch<CR>c4l
+noremap ` ~
+noremap <C-c> zz
+autocmd BufEnter * silent! ;cd %:p:h
+noremap tx :r !figlet
+
+noremap <LEADER>- :lN<CR>
+noremap <LEADER>= :lne<CR>
+
+noremap \s :%s//g<left><left>
 
 
 "call plug#begin('~/.vim/plugged')
@@ -205,7 +222,18 @@ Plug 'RRethy/vim-illuminate'
 Plug 'AndrewRadev/splitjoin.vim'
 Plug 'KabbAmine/vCoolor.vim'
 Plug 'pechorin/any-jump.vim'
-
+Plug 'airblade/vim-rooter'
+Plug 'skywind3000/asynctasks.vim'
+Plug 'skywind3000/asyncrun.vim'
+Plug 'junkblocker/git-time-lapse'
+Plug 'theniceboy/vim-calc'
+Plug 'bling/vim-bufferline'
+Plug 'jaxbot/semantic-highlight.vim'
+Plug 'rrethy/vim-hexokinase', { 'do': 'make hexokinase'}
+Plug 'junegunn/fzf.vim'
+Plug 'kevinhwang91/rnvimr'
+Plug 'liuchengxu/vista.vim'
+Plug 'puremourning/vimspector', {'do': './install_gadget.py --enable-c --enable-python --enable-go'}
 
 "Plug 'vim-airline/vim-airline'
 "Plug 'vim-airline/vim-airline-themes'
