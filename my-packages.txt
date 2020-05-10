@@ -24,7 +24,7 @@ argon2 20190702-3
 aria2 1.35.0-2
 aribb24 1.0.3-2
 asciidoc 8.6.10-1
-asp 5-1
+asp 5-2
 aspell 0.60.8-1
 at-spi2-atk 2.34.2-1
 at-spi2-core 2.36.0-1
@@ -102,7 +102,7 @@ deepin-libwine 2.18_22-1
 deepin-qt-dbus-factory 5.1.0.0-1
 deepin-qt5dxcb-plugin 5.0.11-1
 deepin-qt5integration 5.1.0-1
-deepin-screen-recorder 5.8.0.10-2
+deepin-screen-recorder 5.8.0.11-1
 deepin-turbo 0.0.3-1
 deepin-udis86 1.72_2-3
 deepin-wine 2.18_22-3
@@ -268,7 +268,7 @@ i3status 2.13-2
 iana-etc 20200428-1
 icu 67.1-1
 iease-music 1.3.4-1
-imagemagick 7.0.10.10-2
+imagemagick 7.0.10.11-1
 imlib2 1.6.1-1
 inkscape 1.0-3
 intel-tbb 2020.2-1
@@ -548,7 +548,7 @@ libmatroska 1.5.2-1
 libmediainfo 19.09-1
 libmfx 20.1.1-1
 libmicrohttpd 0.9.70-3
-libmm-glib 1.12.8-1
+libmm-glib 1.12.10-1
 libmms 0.6.4-3
 libmng 2.0.3-2
 libmnl 1.0.4-3
@@ -764,6 +764,7 @@ openssl 1.1.1.g-1
 openssl-1.0 1.0.2.u-1
 opensubdiv 3.4.3-1
 openvdb 7.0.0-3
+openvpn 2.4.9-2
 opera-ffmpeg-codecs 81.0.4044.129-1
 opus 1.3.1-1
 orc 0.4.31-1
@@ -793,7 +794,9 @@ perl-timedate 2.32-1
 picom 8-2
 pinentry 1.1.0-5
 pixman 0.40.0-1
+pkcs11-helper 1.26.0-1
 pkgconf 1.6.3-4
+pkgfile 21-1
 polkit 0.116-5
 polkit-qt5 0.113.0-1
 polybar 3.4.2-2
@@ -919,6 +922,7 @@ quazip 0.9-1
 ranger 1.9.3-1
 re2 1:20200501-1
 readline 8.0.004-1
+recode 3.7.6-1
 rest 0.8.1-3
 rofi 1.5.4-1
 rtkit 0.13-1
@@ -926,6 +930,7 @@ rttr 0.9.6-2
 rubberband 1.8.2-3
 ruby 2.7.1-2
 ruby-irb 1.2.1-1
+ruby-ncurses 1.3.1-14
 ruby-pkg-config 1.4.1-1
 ruby-reline 0.0.7-2
 rubygems 3.1.2-4
@@ -981,7 +986,7 @@ texinfo 6.7-3
 thefuck 3.30-1
 thin-provisioning-tools 0.8.5-3
 threadweaver 5.69.0-1
-thunderbird 68.7.0-2
+thunderbird 68.8.0-1
 tigervnc 1.10.1-2
 tinyxml 2.6.2-6
 tlp 1.3.1-2
