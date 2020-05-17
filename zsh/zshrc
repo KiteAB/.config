@@ -1,0 +1,43 @@
+# init
+echo -ne "\e[5 q"
+
+# source
+source ~/.config/zsh/env.zsh
+source ~/.config/zsh/fzf.zsh
+source ~/.config/zsh/mappings.zsh
+source ~/.config/zsh/completion.zsh
+source ~/.oh-my-zsh/custom/plugins/zsh-history-substring-search/zsh-history-substring-search.plugin.zsh
+source ~/.config/zsh/autopair.zsh
+
+# Path to your oh-my-zsh installation.
+export ZSH="/home/kiteab/.oh-my-zsh"
+
+# theme
+ZSH_THEME="robbyrussell"
+
+# plug
+plugins=(z
+	k
+	git
+	zsh-autopair
+	zfm
+	fzf-tab
+	fast-syntax-highlighting
+	zsh-autosuggestions
+	zsh-completions
+	history-substring-search)
+
+# zsh-completion setting
+autoload -U compinit && compinit
+
+# omz init
+source $ZSH/oh-my-zsh.sh
+
+# Aliases
+alias c=clear
+alias vim=nvim
+alias s=neofetch
+alias cs=cowsay
+alias ra=ranger
+alias sudo='sudo -E'
+
