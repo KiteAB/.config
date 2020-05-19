@@ -2,9 +2,11 @@
 
 #### Hello, there are my config file.
 
+Chinese ver is in [here](README-cn.md)
+
 ---
 
-#### Effect (dwm and vim):
+#### Effect (dwm and nvim):
 
 ![](screenshots/1.png)
 
@@ -12,9 +14,7 @@
 
 Continue, Use your linux!
 
-##### Hint: My system is Arch Linux, if your system is ubuntu or fedora, you maybe can't use this config.
-
-And, please don't put these file to your ~/.config folder, because some folders(eg. .vim) can't apply config if you put these folder(s) to .config folder.
+##### Hint: My system is [Arch Linux](https://www.archlinux.org), if your system is [ubuntu](https://www.ubuntu.com), you maybe can't use this config.
 
 ---
 
