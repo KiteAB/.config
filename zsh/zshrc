@@ -125,4 +125,5 @@ source ~/.config/zsh/vi.zsh
 source ~/.config/zsh/env.zsh
 source ~/.config/zsh/tmux.zsh
 
+autopair-init
 source ~/.zim/modules/fzf-tab/fzf-tab.plugin.zsh
