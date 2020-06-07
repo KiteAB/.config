@@ -1,5 +1,6 @@
 alias c='clear'
 alias cs='cowsay'
+alias cdiff='colordiff'
 alias gc='git config credential.helper store'
 alias gg='git clone'
 alias ipy='ipython'
