@@ -2,8 +2,6 @@
 
 #### Hello, there are my config file.
 
-Chinese ver is in [here](README-cn.md)
-
 ---
 
 #### Effect (dwm and nvim):
@@ -14,7 +12,7 @@ Chinese ver is in [here](README-cn.md)
 
 Continue, Use your linux!
 
-##### Hint: My system is [Arch Linux](https://www.archlinux.org), if your system is [ubuntu](https://www.ubuntu.com), you maybe can't use this config.
+##### Hint: My system is [Arch Linux](https://www.archlinux.org), if your system is [ubuntu](https://www.ubuntu.com) or other, you maybe can't use this config.
 
 ---
 
