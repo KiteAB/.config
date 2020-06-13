@@ -37,6 +37,7 @@ audit 2.8.5-6
 autoconf 2.69-7
 automake 1.16.2-3
 avahi 0.8+15+ge8a3dd0-1
+awesome-terminal-fonts 1.1.0-2
 axel 2.17.9-1
 babl 0.1.78-1
 base 2-2
@@ -693,6 +694,7 @@ lm_sensors 3.6.0-2
 lmdb 0.9.25-1
 log4cplus 2.0.5-1
 lsb-release 1.4-15
+lsd 0.16.0-1
 lshw B.02.19.2-1
 lsof 4.93.2-3
 lua 5.3.5-3
@@ -824,6 +826,7 @@ pixman 0.40.0-1
 pkcs11-helper 1.26.0-1
 pkgconf 1.7.3-1
 pkgfile 21-2
+plymouth 0.9.4-7
 polkit 0.116-5
 polkit-qt5 0.113.0-2
 polybar 3.4.3-1
