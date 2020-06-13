@@ -11,8 +11,8 @@ zmodule archive
 zmodule zsh-users/zsh-completions
 zmodule zsh-users/zsh-autosuggestions
 zmodule zsh-users/zsh-history-substring-search
-zmodule zsh-users/zsh-syntax-highlighting
 zmodule zdharma/fast-syntax-highlighting
+zmodule zsh-users/zsh-syntax-highlighting
 zmodule supercrabtree/k
 zmodule hlissner/zsh-autopair
 zmodule pabloariasal/zfm
