@@ -127,7 +127,6 @@ source ~/.config/zsh/env.zsh
 source ~/.config/zsh/tmux.zsh
 source ~/.config/zsh/mappings.zsh
 
-autopair-init
 source ~/.zim/modules/fzf-tab/fzf-tab.plugin.zsh
 
 # thefuck init
