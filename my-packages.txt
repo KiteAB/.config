@@ -47,7 +47,7 @@ audit 2.8.5-6
 autoconf 2.69-7
 automake 1.16.2-3
 avahi 0.8+15+ge8a3dd0-1
-awesome-terminal-fonts 1.1.0-2
+awesome-terminal-fonts 1.1.0-3
 axel 2.17.9-1
 babl 0.1.78-1
 base 2-2
@@ -82,18 +82,21 @@ cairomm 1.12.2-4
 calcurse 4.6.0-1
 cantarell-fonts 1:0.201-1
 cblas 3.9.0-3
+ccls 0.20190823.6-1
 cdparanoia 10.2-8
 cheese 3.34.0+23+gcac6d3a1-1
 chili-sddm-theme 0.1.5-1
 chromaprint 1.5.0-1
 cifs-utils 6.10-1
+clang 10.0.0-3
 clutter 1.26.4-1
 clutter-gst 3.0.27-3
 clutter-gtk 1.8.4-2
-cmatrix 2.0-1
+cmatrix 2.0-2
 cogl 1.22.8-1
 colord 1.4.4+9+g1ce26da-2
 colordiff 1.0.18-2
+compiler-rt 10.0.0-1
 confuse 3.2.2-1
 containerd 1.3.4-2
 coreutils 8.32-1
@@ -112,7 +115,7 @@ debtap 3.3-1
 deepin-desktop-base 2:2020.04.12.2-2
 deepin-fonts-wine 2.18_22-1
 deepin-gtk-theme 2020.06.10-1
-deepin-icon-theme 2020.06.27-1
+deepin-icon-theme 2020.06.29-1
 deepin-libwine 2.18_22-1
 deepin-turbo 0.0.3-1
 deepin-udis86 1.72_2-3
@@ -183,7 +186,7 @@ figlet 2.2.5-4
 file 5.39-1
 filesystem 2020.05.20-1
 findutils 4.7.0-2
-fish-git 2:3.1.2.r935.ga966ace4a-1
+fish-git 2:3.1.2.r943.g614c49485-1
 flac 1.3.3-2
 flameshot 0.6.0-4
 flashplugin 32.0.0.387-1
@@ -301,7 +304,6 @@ imagemagick 7.0.10.22-1
 imlib2 1.6.1-2
 inetutils 1.9.4-8
 inkscape 1.0-4
-intel-tbb 2020.2-1
 intel-ucode 20200616-1
 iproute2 5.7.0-1
 iptables 1:1.8.5-2
@@ -551,7 +553,7 @@ libexif 0.6.22-1
 libfakekey 0.3-1
 libfdk-aac 2.0.1-1
 libffi 3.3-3
-libfontenc 1.1.4-2
+libfontenc 1.1.4-3
 libgcrypt 1.8.5-2
 libgdiplus 5.6.1-3
 libgee 0.20.3-2
@@ -1027,6 +1029,7 @@ qtwebkit 2.3.4-7
 quazip 0.9.1-1
 rainbarf-git 20140404-1
 ranger-git 1.9.3.20.g7e167b63-1
+rapidjson 1.1.0-4
 raptor 2.0.15-13
 rdesktop 1.9.0-2
 re2 1:20200601-1
@@ -1111,6 +1114,7 @@ taglib 1.11.1-4
 talloc 2.3.1-2
 tar 1.32-3
 task 2.5.1-2
+tbb 2020.2-1
 tdb 1.4.3-2
 tevent 1:0.10.2-1
 texinfo 6.7-3
@@ -1131,9 +1135,9 @@ trash-cli 0.17.1.14-5
 trayer 1.1.8-2
 tree 1.8.0-2
 tslib 1.21-2
-ttf-dejavu 2.37+18+g9b5d1b2f-1
+ttf-dejavu 2.37+18+g9b5d1b2f-2
 ttf-droid 20121017-7
-ttf-font-awesome 5.13.1-1
+ttf-font-awesome 5.13.1-2
 ttf-inconsolata 1:3.000-2
 ttf-joypixels 6.0.0-1
 ttf-liberation 2.1.1-1
@@ -1152,7 +1156,7 @@ usbmuxd 1.1.1-1
 usbutils 012-2
 util-linux 2.35.2-1
 v2ray 4.25.1-1
-v2ray-domain-list-community 202006280803-1
+v2ray-domain-list-community 202006290805-1
 v2ray-geoip 202006240003-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.3-2
@@ -1221,9 +1225,10 @@ xorg-bdftopcf 1.1-2
 xorg-docs 1.7.1-3
 xorg-font-util 1.3.2-2
 xorg-font-utils 7.6-6
-xorg-fonts-100dpi 1.0.3-6
-xorg-fonts-75dpi 1.0.3-6
-xorg-fonts-alias 1.0.3-3
+xorg-fonts-100dpi 1.0.3-7
+xorg-fonts-75dpi 1.0.3-7
+xorg-fonts-alias-100dpi 1.0.3-5
+xorg-fonts-alias-75dpi 1.0.3-5
 xorg-fonts-encodings 1.0.5-2
 xorg-iceauth 1.0.8-2
 xorg-luit 1.1.1-4
@@ -1281,7 +1286,7 @@ yaml-cpp 0.6.3-2
 yaourt 1.9-1
 yarn 1.22.4-1
 yay 10.0.2-1
-zbar 0.23.1-1
+zbar 0.23.1-2
 zenity 3.32.0+17+gfb0938f-2
 zeromq 4.3.2-1
 zim 0.73.0-1
