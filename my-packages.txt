@@ -3,7 +3,7 @@ aalib 1.4rc5-14
 acl 2.2.53-3
 acorn 1:7.3.1-1
 acpi 1.7-3
-acpi_call 1.1.0-329
+acpi_call 1.1.0-330
 adapta-gtk-theme 3.95.0.11-1
 adobe-source-code-pro-fonts 2.030ro+1.050it-6
 adobe-source-han-mono-cn-fonts 1.002-4
@@ -19,9 +19,10 @@ alsa-plugins 1:1.2.2-2
 alsa-topology-conf 1.2.3-1
 alsa-ucm-conf 1.2.3-2
 alsa-utils 1.2.3-2
-amdvlk 2020.Q2.5-1
+amdvlk 2020.Q2.6-1
 android-tools 30.0.0-2
 aom 2.0.0-1
+apm 2.5.0-2
 appmenu-gtk-module 0.7.3-1
 arandr 0.1.10-4
 arc-gtk-theme 20200513-1
@@ -68,7 +69,7 @@ boost-libs 1.72.0-2
 breeze 5.19.2-1
 breeze-gtk 5.19.2-1
 breeze-icons 5.71.0-1
-bridge-utils 1.6-4
+bridge-utils 1.7-1
 brotli 1.0.7-3
 btrfs-progs 5.6.1-3
 bubblewrap 0.4.1-1
@@ -144,7 +145,7 @@ dmraid 1.0.0.rc16.3-12
 dnssec-anchors 20190629-2
 docbook-xml 4.5-9
 docbook-xsl 1.79.2-7
-docker 1:19.03.11-1
+docker 1:19.03.12-1
 dos2unix 7.4.1-1
 dosfstools 4.1-3
 dotnet-host 3.1.3.sdk103.2-1
@@ -175,7 +176,7 @@ expat 2.2.9-3
 faac 1.30-2
 faad2 2.9.2-1
 fakeroot 1.24-2
-faudio 20.06-1
+faudio 20.07-1
 fcitx-configtool 0.4.10-4
 fcitx-lilydjwg-git 2:4.2.9.7.20200616-1
 fcitx-qt5 1.2.4-5
@@ -188,7 +189,7 @@ figlet 2.2.5-4
 file 5.39-1
 filesystem 2020.05.20-1
 findutils 4.7.0-2
-fish-git 2:3.1.2.r955.gca188fef8-1
+fish-git 2:3.1.2.r959.g90d8df812-1
 flac 1.3.3-2
 flameshot 0.6.0-4
 flashplugin 32.0.0.387-1
@@ -282,8 +283,8 @@ gupnp-dlna 0.10.5+4+gc947eed-2
 gupnp-igd 0.2.5+3+gedd78a6-3
 gvfs 1.44.1-4
 gzip 1.10-3
-harfbuzz 2.6.8-1
-harfbuzz-icu 2.6.8-1
+harfbuzz 2.6.8-2
+harfbuzz-icu 2.6.8-2
 hdf5 1.12.0-2
 hdparm 9.58-3
 hicolor-icon-theme 0.17-2
@@ -394,7 +395,7 @@ less 551-3
 lib32-acl 2.2.53-1
 lib32-alsa-lib 1.2.3.1-1
 lib32-alsa-plugins 1.2.2-1
-lib32-amdvlk 2020.Q2.5-1
+lib32-amdvlk 2020.Q2.6-1
 lib32-atk 2.36.0-1
 lib32-attr 2.4.48-1
 lib32-bzip2 1.0.8-2
@@ -402,7 +403,7 @@ lib32-cairo 1.17.2+25+gaee96d175-1
 lib32-dbus 1.12.18-1
 lib32-e2fsprogs 1.45.6-1
 lib32-expat 2.2.9-1
-lib32-faudio 20.06-1
+lib32-faudio 20.07-1
 lib32-flac 1.3.3-1
 lib32-fontconfig 2:2.13.91+48+gfcb0420-2
 lib32-freetype2 2.10.2-1
@@ -416,7 +417,7 @@ lib32-glu 9.0.1-1
 lib32-gmp 6.2.0-1
 lib32-gnutls 3.6.14-1
 lib32-gtk2 2.24.32-2
-lib32-harfbuzz 2.6.8-1
+lib32-harfbuzz 2.6.8-2
 lib32-icu 67.1-1
 lib32-keyutils 1.6.1-1
 lib32-krb5 1.18.2-1
@@ -497,7 +498,7 @@ lib32-sdl2 2.0.12-1
 lib32-sqlite 3.32.3-1
 lib32-systemd 245.6-1
 lib32-util-linux 2.35.2-1
-lib32-vulkan-icd-loader 1.2.141-1
+lib32-vulkan-icd-loader 1.2.145-1
 lib32-wayland 1.18.0-2
 lib32-xz 5.2.5-1
 lib32-zlib 1.2.11-2
@@ -740,10 +741,10 @@ libxxf86vm 1.1.4-4
 libyaml 0.2.5-1
 licenses 20200427-1
 lilv 0.24.8-2
-linux 5.7.6.arch1-1
+linux 5.7.7.arch1-1
 linux-api-headers 5.6.11-1
 linux-firmware 20200519.8ba6fa6-1
-linux-headers 5.7.6.arch1-1
+linux-headers 5.7.7.arch1-1
 llpp 32-1
 llvm-libs 10.0.0-2
 lm_sensors 3.6.0-2
@@ -782,14 +783,16 @@ mdadm 4.1-2
 media-player-info 24-2
 mesa 20.1.2-1
 mesa-demos 8.4.0-4
+metasploit 5.0.88-1
 metis 5.1.0.p8-1
 minizip 1:1.2.11-4
 mjpegtools 2.1.0-5
 mkinitcpio 27-3
 mkinitcpio-busybox 1.31.1-1
+mlocate 0.26.git.20170220-3
 mlt 6.20.0-3
 mobile-broadband-provider-info 20190618-2
-mono 6.4.0.198-2
+mono 6.8.0.123-1
 mono-addins 1.3.3-3
 monodevelop-stable 7.8.3.2-2
 moreutils 0.63-1
@@ -823,7 +826,7 @@ network-manager-applet 1.18.0-1
 networkmanager 1.24.2-1
 newsboat 2.20.1-1
 nm-connection-editor 1.18.0-1
-node-gyp 6.1.0-1
+node-gyp 7.0.0-1
 nodejs 14.5.0-1
 notmuch-runtime 0.29.3-2
 noto-fonts 20190926-4
@@ -871,7 +874,7 @@ pam 1.3.1-2
 pambase 20190105.1-2
 pango 1:1.44.7+11+g73b46b04-1
 pangomm 2.42.1-2
-papirus-icon-theme 20200602-1
+papirus-icon-theme 20200702-1
 parted 3.3-2
 patch 2.7.6-8
 pavucontrol 1:4.0-2
@@ -899,13 +902,13 @@ polybar 3.4.3-1
 poppler 0.88.0-1
 poppler-data 0.4.9-2
 poppler-glib 0.88.0-1
-popt 1.16-12
+popt 1.18-1
 portaudio 1:19.6.0-7
 portsmf 234-2
 postgresql-libs 12.3-2
 potrace 1.16-2
 procps-ng 3.3.16-2
-protobuf 3.12.0-1
+protobuf 3.12.3-1
 psmisc 23.3-2
 ptex 2.3.2-1
 pulseaudio 13.0-3
@@ -932,7 +935,7 @@ python-distro 1.5.0-1
 python-evdev 1.3.0-1
 python-future 0.18.2-2
 python-gobject 3.36.1-1
-python-html5lib 1.0.1-7
+python-html5lib 1.1-1
 python-httplib2 0.18.1-1
 python-idna 2.9-1
 python-jedi 0.17.0-1
@@ -945,7 +948,7 @@ python-parso 0.7.0-1
 python-pep517 0.8.2-1
 python-pexpect 4.8.0-1
 python-pickleshare 0.7.5-3
-python-pillow 6.2.1-1
+python-pillow 7.2.0-1
 python-pip 20.1.1-1
 python-ply 3.11-5
 python-progress 1.5-3
@@ -970,7 +973,7 @@ python-soupsieve 1.9.6-1
 python-toml 0.10.1-1
 python-traitlets 4.3.3-3
 python-urllib3 1.25.9-1
-python-wcwidth 0.2.4-2
+python-wcwidth 0.2.5-1
 python-webencodings 0.5.1-4
 python-xlrd 1.2.0-3
 python-yaml 5.3.1-1
@@ -986,7 +989,7 @@ python2-contextlib2 0.6.0.post1-1
 python2-distlib 0.3.0-1
 python2-distro 1.5.0-1
 python2-gobject2 2.28.7-5
-python2-html5lib 1.0.1-7
+python2-html5lib 1.1-1
 python2-idna 2.9-1
 python2-importlib-metadata 1.6.1-1
 python2-ipaddress 1.0.23-2
@@ -1036,7 +1039,7 @@ ranger-git 1.9.3.20.g7e167b63-1
 rapidjson 1.1.0-4
 raptor 2.0.15-13
 rdesktop 1.9.0-2
-re2 1:20200601-1
+re2 1:20200701-1
 readline 8.0.004-1
 recode 3.7.6-2
 redshift 1.12-3
@@ -1049,6 +1052,7 @@ rtkit 0.13-1
 rtmpdump 1:2.4.r96.fa8646d-6
 rubberband 1.8.2-3
 ruby 2.7.1-2
+ruby-bundler 2.1.4-1
 ruby-diff-lcs 1.3-4
 ruby-irb 1.2.4-1
 ruby-manpages 0.6.1-3
@@ -1068,7 +1072,7 @@ ruby-term-ansicolor 1.7.1-1
 ruby-tins 1.16.3-3
 rubygems 3.1.3-1
 run-parts 4.8.6.1-2
-runc 1.0.0rc90-1
+runc 1.0.0rc91-1
 sbc 1.4-2
 scrcpy 1.14-1
 screenfetch 3.9.1-1
@@ -1085,7 +1089,7 @@ setconf 0.7.6-1
 shaderc 2020.0-1
 shadow 4.8.1-1
 shared-mime-info 2.0+1+g6bf9e4f-2
-shotcut 20.04.12-2
+shotcut 20.06.28-1
 simplescreenrecorder 0.4.2-1
 slang 2.3.2-2
 smbclient 4.12.3-1
@@ -1108,7 +1112,7 @@ steam 1.0.0.63-1
 stfl 0.24-4
 sudo 1.9.1-1
 suil 0.10.6-2
-suitesparse 5.7.2-1
+suitesparse 5.8.0-1
 swh-plugins 0.4.17-3
 sysfsutils 2.1.0-11
 systemd 245.6-8
@@ -1124,7 +1128,7 @@ tevent 1:0.10.2-1
 texinfo 6.7-3
 thefuck 3.30-1
 thin-provisioning-tools 0.8.5-3
-thunderbird 68.9.0-1
+thunderbird 68.10.0-1
 tigervnc 1.10.1-2
 timeshift 20.03-3
 tinyxml 2.6.2-7
@@ -1160,8 +1164,8 @@ usbmuxd 1.1.1-1
 usbutils 012-2
 util-linux 2.35.2-1
 v2ray 4.25.1-1
-v2ray-domain-list-community 202006290805-1
-v2ray-geoip 202006240003-1
+v2ray-domain-list-community 202007020813-1
+v2ray-geoip 202007010004-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.3-2
 v4l2loopback-dkms 0.12.5-1
@@ -1170,14 +1174,14 @@ variety 0.8.3-1
 vi 1:070224-4
 vid.stab 1.1-3
 virtualbox 6.1.10-1
-virtualbox-host-modules-arch 6.1.10-7
+virtualbox-host-modules-arch 6.1.10-8
 visual-studio-code-bin 1.46.1-1
 vlc 3.0.11-1
 vmaf 1.5.2-1
 volume_key 0.3.12-3
 vte-common 0.60.3-1
 vte3 0.60.3-1
-vulkan-icd-loader 1.2.141-1
+vulkan-icd-loader 1.2.145-1
 w3m 0.5.3.git20200507-1
 wavpack 5.3.0-1
 wayland 1.18.0-2
@@ -1214,6 +1218,7 @@ xcb-util-keysyms 0.4.0-3
 xcb-util-renderutil 0.3.9-3
 xcb-util-wm 0.4.1-3
 xcb-util-xrm 1.3-2
+xclip 0.13-3
 xdg-dbus-proxy 0.1.2-2
 xdg-utils 1.1.3+19+g9816ebb-1
 xdotool 3.20160805.1-2
