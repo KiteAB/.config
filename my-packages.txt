@@ -20,6 +20,7 @@ alsa-topology-conf 1.2.3-1
 alsa-ucm-conf 1.2.3-2
 alsa-utils 1.2.3-2
 amdvlk 2020.Q2.6-1
+amtk 5.0.2-1
 android-tools 30.0.0-2
 aom 2.0.0-1
 apm 2.5.0-2
@@ -85,6 +86,7 @@ cairomm 1.12.2-4
 calcurse 4.6.0-1
 cantarell-fonts 1:0.201-1
 cblas 3.9.0-3
+ccal 2.5.3-3
 ccls 0.20190823.6-1
 cdparanoia 10.2-8
 cheese 3.34.0+23+gcac6d3a1-1
@@ -108,7 +110,7 @@ cracklib 2.9.7-2
 cronie 1.5.5-1
 cryptsetup 2.3.3-1
 ctags 1:r20200106+ga3c87ab5-1
-curl 7.71.0-1
+curl 7.71.1-1
 dav1d 0.7.1-1
 db 5.3.28-5
 dbus 1.12.18-1
@@ -155,7 +157,7 @@ double-conversion 3.1.5-2
 downgrade 8.0.0-1
 doxygen 1.8.18-2
 droidcam 1:1.3-1
-dtkcore 1:5.2.2-2
+dtkcore 1:5.2.2.1-1
 dtkwm 2.0.12-8
 e2fsprogs 1.45.6-2
 ed 1.16-1
@@ -219,6 +221,7 @@ gd 2.3.0-1
 gdbm 1.18.1-3
 gdk-pixbuf2 2.40.0-2
 gdl 3.34.0-2
+gedit 3.36.2-1
 gegl 0.4.24-1
 gendesk 1.0.5-2
 genymotion 3.1.0-1
@@ -262,6 +265,7 @@ gsettings-qt 0.1.20170110-2
 gsfonts 20180524-3
 gsl 2.6-2
 gsm 1.0.19-1
+gspell 1.8.3-1
 gssdp 1.2.3-1
 gst-plugins-bad 1.16.2-13
 gst-plugins-bad-libs 1.16.2-13
@@ -275,6 +279,7 @@ gtk2 2.24.32-2
 gtk3 1:3.24.21-1
 gtkmm 1:2.24.5-4
 gtkmm3 3.24.2-2
+gtksourceview4 4.6.1-1
 gtkspell 2.0.16-8
 gtkspell3 3.0.10-2
 guile 2.2.6-2
@@ -506,7 +511,7 @@ lib32-zstd 1.4.4-2
 libaec 1.0.4-1
 libaio 0.3.112-2
 libao 1.2.2-3
-libappindicator-gtk3 12.10.0-14
+libappindicator-gtk3 12.10.0.r296-1
 libarchive 3.4.3-1
 libass 0.14.0-2
 libassuan 2.5.3-2
@@ -639,6 +644,7 @@ libotf 0.9.16-3
 libp11-kit 0.23.20-5
 libpcap 1.9.1-2
 libpciaccess 0.16-2
+libpeas 1.26.0-1
 libpgm 5.2.122-5
 libpipeline 1.5.2-1
 libplacebo 1.29.1-3
@@ -655,7 +661,7 @@ libraqm 0.7.0-2
 libraw 0.19.5-3
 libraw1394 2.1.2-3
 librevenge 0.0.4-3
-librsvg 2:2.48.7-1
+librsvg 2:2.48.8-1
 libsamplerate 0.1.9-3
 libsasl 2.1.27-3
 libseccomp 2.4.2-1
@@ -859,7 +865,7 @@ openssl-1.0 1.0.2.u-1
 opensubdiv 3.4.3-1
 openvdb 7.0.0-5
 openvpn 2.4.9-2
-opera-ffmpeg-codecs 83.0.4103.97-1
+opera-ffmpeg-codecs 83.0.4103.116-1
 opus 1.3.1-2
 orc 0.4.31-2
 os-prober 1.77-1
@@ -930,7 +936,7 @@ python-contextlib2 0.6.0.post1-1
 python-dbus 1.2.16-1
 python-dbus-common 1.2.16-1
 python-decorator 4.4.2-1
-python-distlib 0.3.0-1
+python-distlib 0.3.1-1
 python-distro 1.5.0-1
 python-evdev 1.3.0-1
 python-future 0.18.2-2
@@ -967,7 +973,7 @@ python-pyzmq 19.0.1-1
 python-requests 2.24.0-1
 python-resolvelib 0.4.0-1
 python-retrying 1.3.3-7
-python-setuptools 1:47.3.1-1
+python-setuptools 1:47.3.2-1
 python-six 1.15.0-1
 python-soupsieve 1.9.6-1
 python-toml 0.10.1-1
@@ -986,7 +992,7 @@ python2-chardet 3.0.4-5
 python2-colorama 0.4.3-1
 python2-configparser 4.0.2-2
 python2-contextlib2 0.6.0.post1-1
-python2-distlib 0.3.0-1
+python2-distlib 0.3.1-1
 python2-distro 1.5.0-1
 python2-gobject2 2.28.7-5
 python2-html5lib 1.1-1
@@ -1015,7 +1021,7 @@ python2-zipp 1:1.1.1-1
 qca 2.3.0-1
 qq-linux 2.0.0_b2_1082-1
 qt4 4.8.7-33
-qt5-base 5.15.0-3
+qt5-base 5.15.0-4
 qt5-declarative 5.15.0-1
 qt5-graphicaleffects 5.15.0-1
 qt5-location 5.15.0-1
@@ -1112,7 +1118,7 @@ steam 1.0.0.63-1
 stfl 0.24-4
 sudo 1.9.1-1
 suil 0.10.6-2
-suitesparse 5.8.0-1
+suitesparse 5.8.0-2
 swh-plugins 0.4.17-3
 sysfsutils 2.1.0-11
 systemd 245.6-8
@@ -1124,6 +1130,7 @@ tar 1.32-3
 task 2.5.1-2
 tbb 2020.2-1
 tdb 1.4.3-2
+tepl 4.4.0-1
 tevent 1:0.10.2-1
 texinfo 6.7-3
 thefuck 3.30-1
@@ -1142,7 +1149,7 @@ tracker-miners 2.3.3-2
 trash-cli 0.17.1.14-5
 trayer 1.1.8-2
 tree 1.8.0-2
-tslib 1.21-2
+tslib 1.22-1
 ttf-dejavu 2.37+18+g9b5d1b2f-2
 ttf-droid 20121017-7
 ttf-font-awesome 5.13.1-2
@@ -1164,7 +1171,7 @@ usbmuxd 1.1.1-1
 usbutils 012-2
 util-linux 2.35.2-1
 v2ray 4.25.1-1
-v2ray-domain-list-community 202007020813-1
+v2ray-domain-list-community 202007030901-1
 v2ray-geoip 202007010004-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.3-2
