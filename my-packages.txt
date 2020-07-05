@@ -4,6 +4,7 @@ acl 2.2.53-3
 acorn 1:7.3.1-1
 acpi 1.7-3
 acpi_call 1.1.0-330
+acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-1
 adobe-source-code-pro-fonts 2.030ro+1.050it-6
 adobe-source-han-mono-cn-fonts 1.002-4
@@ -191,7 +192,7 @@ figlet 2.2.5-4
 file 5.39-1
 filesystem 2020.05.20-1
 findutils 4.7.0-2
-fish-git 2:3.1.2.r959.g90d8df812-1
+fish-git 2:3.1.2.r962.g79d6710db-1
 flac 1.3.3-2
 flameshot 0.6.0-4
 flashplugin 32.0.0.387-1
@@ -309,10 +310,10 @@ i3status 2.13-2
 iana-etc 20200624-1
 icu 67.1-1
 iease-music 1.3.4-1
-imagemagick 7.0.10.22-1
+imagemagick 7.0.10.23-1
 imlib2 1.6.1-2
 inetutils 1.9.4-8
-inkscape 1.0-4
+inkscape 1.0-5
 intel-ucode 20200616-1
 iproute2 5.7.0-1
 iptables 1:1.8.5-2
@@ -391,7 +392,6 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.0-3
-lazygit 0.20.4-2
 lcms2 2.11-2
 ldb 1:2.1.3-1
 ldns 1.7.1-2
@@ -617,7 +617,7 @@ libmnl 1.0.4-3
 libmodplug 0.8.9.0-3
 libmpc 1.1.0-2
 libmpcdec 1:0.1+r475-3
-libmpdclient 2.18-1
+libmpdclient 2.19-1
 libmpeg2 0.5.1-7
 libmypaint 1.5.1-2
 libnautilus-extension 3.36.3-1
@@ -695,13 +695,13 @@ libusb 1.0.23-2
 libusbmuxd 2.0.2-1
 libutempter 1.2.0-1
 libutil-linux 2.35.2-1
-libuv 1.38.0-1
+libuv 1.38.1-1
 libva 2.8.0-1
 libvdpau 1.4-1
 libvisio 0.1.7-3
 libvisual 0.4.0-8
 libvoikko 4.3-2
-libvorbis 1.3.6-2
+libvorbis 1.3.7-1
 libvpx 1.8.2-2
 libvterm 0.1.3.git1.65dbda-1
 libwacom 1.4.1-1
@@ -769,7 +769,7 @@ lua52-lpeg 1.0.2-2
 lua52-luajson 1.3.4-3
 lua52-socket 20190219-1
 luajit 2.0.5-3
-lutris 0.5.6-2
+lutris 0.5.7-1
 lvm2 2.02.187-3
 lxappearance 0.6.3-2
 lz4 1:1.9.2-2
@@ -802,7 +802,7 @@ mono 6.8.0.123-1
 mono-addins 1.3.3-3
 monodevelop-stable 7.8.3.2-2
 moreutils 0.63-1
-motrix-git 1.5.15.r25.gcfe66cf-1
+motrix-git 1.5.15.r27.g20c3027-1
 movit 1.6.3-1
 mozilla-common 1.4-6
 mpd 0.21.24-1
@@ -905,9 +905,9 @@ pkgfile 21-2
 polkit 0.116-5
 polkit-qt5 0.113.0-2
 polybar 3.4.3-1
-poppler 0.88.0-1
+poppler 0.90.0-1
 poppler-data 0.4.9-2
-poppler-glib 0.88.0-1
+poppler-glib 0.90.0-1
 popt 1.18-1
 portaudio 1:19.6.0-7
 portsmf 234-2
@@ -973,7 +973,7 @@ python-pyzmq 19.0.1-1
 python-requests 2.24.0-1
 python-resolvelib 0.4.0-1
 python-retrying 1.3.3-7
-python-setuptools 1:47.3.2-1
+python-setuptools 1:49.1.0-1
 python-six 1.15.0-1
 python-soupsieve 1.9.6-1
 python-toml 0.10.1-1
@@ -1171,7 +1171,7 @@ usbmuxd 1.1.1-1
 usbutils 012-2
 util-linux 2.35.2-1
 v2ray 4.25.1-1
-v2ray-domain-list-community 202007030901-1
+v2ray-domain-list-community 202007040555-1
 v2ray-geoip 202007010004-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.3-2
