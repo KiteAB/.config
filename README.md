@@ -1,6 +1,6 @@
 # My .config
 
-#### Hello, there are my config file.
+#### Hello, there are my config file. (I'm a Colemak user.)
 
 ---
 
