@@ -6,7 +6,7 @@
 
 #### Effect ([dwm](https://github.com/KiteAB/dwm) and [nvim](https://github.com/KiteAB/nvim)):
 
-![](screenshots/1.png)
+![](./screenshots/1.png)
 
 ---
 
