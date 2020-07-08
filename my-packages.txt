@@ -1,5 +1,6 @@
 a52dec 0.7.4-11
 aalib 1.4rc5-14
+accounts-qml-module 0.7-2
 acl 2.2.53-3
 acorn 1:7.3.1-1
 acpi 1.7-3
@@ -98,6 +99,7 @@ clutter 1.26.4-1
 clutter-gst 3.0.27-3
 clutter-gtk 1.8.4-2
 cmatrix 2.0-2
+cmus 2.8.0-3
 cogl 1.22.8-1
 colord 1.4.4+9+g1ce26da-2
 colordiff 1.0.18-2
@@ -142,6 +144,8 @@ device-mapper 2.02.187-3
 dhcpcd 9.1.2-2
 diffutils 3.7-3
 discord 0.0.10-3
+discount 2.2.6-2
+djvulibre 3.5.27-6
 dkms 2.8.1-4
 dmenu 4.9-1
 dmraid 1.0.0.rc16.3-12
@@ -229,6 +233,7 @@ genymotion 3.1.0-1
 geoclue 2.5.6-1
 geocode-glib 3.26.2-1
 gettext 0.20.2-1
+ghostscript 9.52-1
 giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.20-1
@@ -311,6 +316,7 @@ i3status 2.13-2
 iana-etc 20200624-1
 icu 67.1-1
 iease-music 1.3.4-1
+ijs 0.35-3
 imagemagick 7.0.10.23-1
 imlib2 1.6.1-2
 inetutils 1.9.4-8
@@ -338,6 +344,8 @@ js60 60.9.0-2
 json-c 0.14-4
 json-glib 1.4.4-2
 jsoncpp 1.9.2-1
+kaccounts-integration 20.04.2-1
+kactivities 5.71.0-1
 karchive 5.71.0-1
 kauth 5.71.0-1
 kbd 2.2.0-5
@@ -368,6 +376,7 @@ kio 5.71.0-1
 kirigami2 5.71.0-1
 kitemviews 5.71.0-1
 kjobwidgets 5.71.0-1
+kjs 5.71.0-1
 klavaro 3.09-2
 kmod 27-1
 knewstuff 5.71.0-1
@@ -509,6 +518,8 @@ lib32-wayland 1.18.0-2
 lib32-xz 5.2.5-1
 lib32-zlib 1.2.11-2
 lib32-zstd 1.4.4-2
+libaccounts-glib 1.25-1
+libaccounts-qt 1.16-2
 libaec 1.0.4-1
 libaio 0.3.112-2
 libao 1.2.2-3
@@ -546,6 +557,7 @@ libdbusmenu-qt5 0.9.3+16.04.20160218-5
 libdc1394 2.2.6-2
 libdca 0.0.7-1
 libde265 1.0.5-2
+libdiscid 0.6.2-3
 libdrm 2.4.102-1
 libdv 1.0.0-9
 libdvbpsi 1:1.3.3-2
@@ -600,6 +612,7 @@ libiptcdata 1.0.4-4
 libjpeg-turbo 2.0.5-1
 libjpeg6-turbo 1.5.3-2
 libkate 0.4.1-7
+libkexiv2 20.04.2-1
 libksba 1.4.0-1
 libldap 2.4.50-2
 liblqr 0.4.2-3
@@ -643,6 +656,7 @@ libopenshot-audio 0.2.0-1
 libosinfo 1.7.1-1
 libotf 0.9.16-3
 libp11-kit 0.23.20-5
+libpaper 1.1.28-1
 libpcap 1.9.1-2
 libpciaccess 0.16-2
 libpeas 1.26.0-1
@@ -674,6 +688,7 @@ libsndfile 1.0.28-3
 libsodium 1.0.18-1
 libsoup 2.70.0-1
 libsoxr 0.1.3-2
+libspectre 0.2.9-1
 libspiro 1:20200505-1
 libspnav 0.2.3-3
 libsrtp 1:2.3.0-1
@@ -845,6 +860,7 @@ nspr 4.26-1
 nss 3.54-1
 ntfs-3g 2017.3.23-4
 obs-studio 25.0.8-1
+okular 20.04.2-1
 onefetch 2.2.0-1
 oniguruma 6.9.5_rev1-1
 openal 1.20.1-2
@@ -898,6 +914,8 @@ perl-ipc-run 20180523.0-1
 perl-mailtools 2.21-4
 perl-time-duration 1:1.20-3
 perl-timedate 2.33-2
+phonon-qt5 4.11.1-2
+phonon-qt5-gstreamer 4.10.0-2
 picom 8-2
 pinentry 1.1.0-5
 pixman 0.40.0-1
@@ -910,6 +928,7 @@ polybar 3.4.3-1
 poppler 0.90.0-1
 poppler-data 0.4.9-2
 poppler-glib 0.90.0-1
+poppler-qt5 0.90.0-1
 popt 1.18-1
 portaudio 1:19.6.0-7
 portsmf 234-2
@@ -923,6 +942,7 @@ pulseaudio 13.0-3
 pulseaudio-alsa 1:1.2.2-2
 pulseaudio-bluetooth 13.0-3
 pulseaudio-qt 1.2-2
+purpose 5.71.0-1
 pygobject-devel 3.36.1-1
 pygtk 2.24.0-13
 python 3.8.3-1
@@ -1036,6 +1056,7 @@ qt5-speech 5.15.0-1
 qt5-svg 5.15.0-1
 qt5-wayland 5.15.0-1
 qt5-webchannel 5.15.0-1
+qt5-webengine 5.15.0-4
 qt5-webkit 5.212.0alpha4-6
 qt5-websockets 5.15.0-1
 qt5-x11extras 5.15.0-1
@@ -1098,6 +1119,10 @@ shaderc 2020.0-1
 shadow 4.8.1-1
 shared-mime-info 2.0+1+g6bf9e4f-2
 shotcut 20.06.28-1
+signon-kwallet-extension 20.04.2-1
+signon-plugin-oauth2 0.24-3
+signon-ui 0.17+20171022-2
+signond 8.60-3
 simplescreenrecorder 0.4.2-1
 slang 2.3.2-2
 smbclient 4.12.3-1
@@ -1139,6 +1164,7 @@ tevent 1:0.10.2-1
 texinfo 6.7-3
 thefuck 3.30-1
 thin-provisioning-tools 0.8.5-3
+threadweaver 5.71.0-1
 thunderbird 68.10.0-1
 tigervnc 1.10.1-2
 timeshift 20.03-3
