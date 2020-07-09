@@ -15,7 +15,7 @@ adobe-source-serif-pro-fonts 3.001-2
 adwaita-icon-theme 3.36.1-1
 alacritty 0.4.3-1
 alembic 1.7.12-4
-alsa-lib 1.2.3.1-1
+alsa-lib 1.2.3.2-1
 alsa-plugins 1:1.2.2-2
 alsa-topology-conf 1.2.3-1
 alsa-ucm-conf 1.2.3-2
@@ -196,7 +196,7 @@ figlet 2.2.5-4
 file 5.39-1
 filesystem 2020.05.20-1
 findutils 4.7.0-2
-fish-git 2:3.1.2.r999.g8d25ed962-1
+fish-git 2:3.1.2.r1006.g7ea396ab3-1
 flac 1.3.3-2
 flameshot 0.6.0-4
 flashplugin 32.0.0.387-1
@@ -250,7 +250,7 @@ gmic 2.9.1-2
 gmime3 3.2.7-1
 gmp 6.2.0-1
 gnome-autoar 0.2.4-2
-gnome-desktop 1:3.36.3.1-1
+gnome-desktop 1:3.36.4-1
 gnome-video-effects 0.5.0+4+g9554041-2
 gnupg 2.2.20-4
 gnutls 3.6.14-2
@@ -408,7 +408,7 @@ ldns 1.7.1-2
 lensfun 0.3.95-2
 less 551-3
 lib32-acl 2.2.53-1
-lib32-alsa-lib 1.2.3.1-1
+lib32-alsa-lib 1.2.3.2-1
 lib32-alsa-plugins 1.2.2-1
 lib32-amdvlk 2020.Q2.6-1
 lib32-atk 2.36.0-1
@@ -576,7 +576,7 @@ libfakekey 0.3-1
 libfdk-aac 2.0.1-1
 libffi 3.3-3
 libfontenc 1.1.4-3
-libgcrypt 1.8.5-2
+libgcrypt 1.8.6-1
 libgdiplus 5.6.1-3
 libgee 0.20.3-2
 libgexiv2 0.12.1-1
@@ -613,6 +613,7 @@ libjpeg-turbo 2.0.5-1
 libjpeg6-turbo 1.5.3-2
 libkate 0.4.1-7
 libkexiv2 20.04.2-1
+libkeybinder3 0.3.2-3
 libksba 1.4.0-1
 libldap 2.4.50-2
 liblqr 0.4.2-3
@@ -683,6 +684,7 @@ libseccomp 2.4.2-1
 libsecret 0.20.3-1
 libshout 1:2.4.3-3
 libsigc++ 2.10.3-1
+libsigsegv 2.12-2
 libsm 1.2.3-2
 libsndfile 1.0.28-3
 libsodium 1.0.18-1
@@ -695,6 +697,7 @@ libsrtp 1:2.3.0-1
 libssh 0.9.4-1
 libssh2 1.9.0-2
 libstemmer 0+713-2
+libsynctex 2020.54586-4
 libtar 1.2.20-5
 libtasn1 4.16.0-1
 libteam 1.30-1
@@ -763,6 +766,9 @@ libxvmc 1.0.12-3
 libxxf86vm 1.1.4-4
 libyaml 0.2.5-1
 licenses 20200427-1
+lightdm 1:1.30.0-3
+lightdm-gtk-greeter 1:2.0.8-1
+lightdm-gtk-greeter-settings 1.2.2-4
 lilv 0.24.8-2
 linux 5.7.7.arch1-1
 linux-api-headers 5.6.11-1
@@ -840,6 +846,7 @@ neofetch 7.0.0-1
 neomutt 20200626-1
 neon 0.31.2-1
 neovim 0.4.3-3
+neovim-remote 2.4.0-2
 nerd-fonts-fira-code 2.1.0-4
 nerd-fonts-source-code-pro 2.1.0-4
 net-tools 1.60.20181103git-2
@@ -906,6 +913,7 @@ pciutils 3.7.0-1
 pcre 8.44-1
 pcre2 10.35-1
 pcsclite 1.9.0-1
+peek 1.5.1-2
 pepper-flash 32.0.0.387-1
 perl 5.32.0-1
 perl-error 0.17029-2
@@ -963,6 +971,7 @@ python-distro 1.5.0-1
 python-evdev 1.3.0-1
 python-future 0.18.2-2
 python-gobject 3.36.1-1
+python-greenlet 0.4.16-1
 python-html5lib 1.1-1
 python-httplib2 0.18.1-1
 python-idna 2.9-1
@@ -985,6 +994,7 @@ python-psutil 5.7.0-1
 python-ptyprocess 0.6.0-4
 python-pycurl 7.43.0.5-1
 python-pygments 2.6.1-2
+python-pynvim 0.4.1-1
 python-pyparsing 2.4.7-1
 python-pyqt5 5.15.0-3
 python-pyqt5-sip 12.8.0-1
@@ -1056,7 +1066,7 @@ qt5-speech 5.15.0-1
 qt5-svg 5.15.0-1
 qt5-wayland 5.15.0-1
 qt5-webchannel 5.15.0-1
-qt5-webengine 5.15.0-4
+qt5-webengine 5.15.0-5
 qt5-webkit 5.212.0alpha4-6
 qt5-websockets 5.15.0-1
 qt5-x11extras 5.15.0-1
@@ -1152,6 +1162,7 @@ sysfsutils 2.1.0-11
 systemd 245.6-8
 systemd-libs 245.6-8
 systemd-sysvcompat 245.6-8
+t1lib 5.1.2-8
 taglib 1.11.1-4
 talloc 2.3.1-2
 tar 1.32-3
@@ -1162,6 +1173,9 @@ tdb 1.4.3-2
 tepl 4.4.0-1
 tevent 1:0.10.2-1
 texinfo 6.7-3
+texlive-bibtexextra 2020.55376-1
+texlive-bin 2020.54586-4
+texlive-core 2020.55416-1
 thefuck 3.30-1
 thin-provisioning-tools 0.8.5-3
 threadweaver 5.71.0-1
@@ -1202,8 +1216,8 @@ usbmuxd 1.1.1-1
 usbutils 012-2
 util-linux 2.35.2-1
 v2ray 4.26.0-1
-v2ray-domain-list-community 20200706235819-1
-v2ray-geoip 202007010004-1
+v2ray-domain-list-community 20200708074028-1
+v2ray-geoip 202007080004-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.3-2
 v4l2loopback-dkms 0.12.5-1
@@ -1231,7 +1245,7 @@ which 2.21-5
 wildmidi 0.4.3-2
 wine 5.12-1
 wine-gecko 2.47.1-1
-wine-mono 5.0.0-1
+wine-mono 5.1.0-1
 winetricks 20200412-1
 wireless_tools 30.pre9-3
 wmctrl 1.07-5
@@ -1326,7 +1340,7 @@ xorg-xwininfo 1.1.5-2
 xorg-xwud 1.0.5-2
 xorgproto 2020.1-1
 xsel 1.2.0.20190821-1
-xterm 356-1
+xterm 357-1
 xvidcore 1.3.7-2
 xxhash 0.7.4-1
 xz 5.2.5-1
@@ -1338,7 +1352,7 @@ yay 10.0.2-1
 zbar 0.23.1-2
 zenity 3.32.0+17+gfb0938f-2
 zeromq 4.3.2-1
-zim 0.73.0-1
+zim 0.73.1-1
 zip 3.0-9
 zita-alsa-pcmi 0.3.2-3
 zita-resampler 1.6.2-3
