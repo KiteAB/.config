@@ -6,8 +6,8 @@ zmodule utility
 zmodule completion
 zmodule git-info
 zmodule gitster
-zmodule archive
 zmodule magicmace
+#zmodule archive
 #zmodule zsh-users/zsh-syntax-highlighting
 zmodule zdharma/fast-syntax-highlighting
 zmodule zsh-users/zsh-autosuggestions
