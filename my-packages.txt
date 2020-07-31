@@ -4,7 +4,7 @@ accounts-qml-module 0.7-2
 acl 2.2.53-3
 acorn 1:7.3.1-1
 acpi 1.7-3
-acpi_call 1.1.0-333
+acpi_call 1.1.0-334
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-1
 adobe-source-code-pro-fonts 2.030ro+1.050it-6
@@ -29,7 +29,7 @@ anbox-modules-dkms-git 1:1223.4b8f89b-2
 android-tools 30.0.0-2
 aom 2.0.0-1
 apm 2.5.0-2
-appmenu-gtk-module 0.7.3.1-1
+appmenu-gtk-module 0.7.3.2-1
 arandr 0.1.10-4
 arc-gtk-theme 20200513-1
 arc-icon-theme 20161122-3
@@ -167,11 +167,12 @@ docker 1:19.03.12-2
 dolphin 20.04.3-1
 dos2unix 7.4.1-2
 dosfstools 4.1-3
-dotnet-host 3.1.6.sdk106-1
-dotnet-runtime 3.1.6.sdk106-1
-dotnet-sdk 3.1.6.sdk106-1
+dotnet-host 3.1.6.sdk106-2
+dotnet-runtime 3.1.6.sdk106-2
+dotnet-sdk 3.1.6.sdk106-2
+dotnet-targeting-pack 3.1.6.sdk106-2
 double-conversion 3.1.5-2
-downgrade 8.0.0-1
+downgrade 8.1.0-1
 doxygen 1.8.18-2
 droidcam 1:1.3-1
 dtkcore 1:5.2.2.2-1
@@ -181,7 +182,7 @@ ebook-tools 0.2.2-7
 ed 1.16-1
 efibootmgr 17-1
 efivar 37-4
-electron 9.1.1-1
+electron 9.1.2-1
 electron4 4.2.12-6
 electronic-wechat 2.3.1-1
 elfutils 0.180-1
@@ -200,15 +201,15 @@ farstream 0.2.9-2
 faudio 20.07-1
 fcitx5-chewing 0.0.0.20200728-1
 fcitx5-chinese-addons-git r267.7ee2c2d-1
-fcitx5-config-qt-git r303.7d075ef-1
-fcitx5-git r608.327912d-1
+fcitx5-config-qt-git r308.5326f79-1
+fcitx5-git r611.297308b-2
 fcitx5-gtk-git r46.fc335f1-1
 fcitx5-material-color 0.0.0.20200729-1
-fcitx5-pinyin-moegirl 20200714-1
-fcitx5-pinyin-moegirl-rime 20200714-1
+fcitx5-pinyin-moegirl 20200730-1
+fcitx5-pinyin-moegirl-rime 20200730-1
 fcitx5-pinyin-zhwiki 20200720-1
-fcitx5-qt4-git r183.22e84ba-1
-fcitx5-qt5-git r183.22e84ba-1
+fcitx5-qt4-git r185.cf6daf5-1
+fcitx5-qt5-git r185.cf6daf5-1
 fcitx5-rime-git r132.e4fc600-1
 fd 8.1.1-1
 feh 3.4.1-1
@@ -218,7 +219,7 @@ figlet 2.2.5-4
 file 5.39-1
 filesystem 2020.05.20-1
 findutils 4.7.0-2
-fish-git 2:3.1.2.r1111.g2809d637d-1
+fish-git 2:3.1.2.r1113.gcaf64fd0c-1
 flac 1.3.3-2
 flameshot 0.6.0-4
 flashplugin 32.0.0.403-1
@@ -262,7 +263,7 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.20-1
 git 2.28.0-1
-github-cli 0.11.0-2
+github-cli 0.11.1-1
 glances 3.1.4.1-1
 glew 2.2.0-2
 glib-networking 2.64.3-2
@@ -278,7 +279,7 @@ gnome-autoar 0.2.4-2
 gnome-desktop 1:3.36.4-1
 gnome-video-effects 0.5.0+4+g9554041-2
 gnupg 2.2.21-1
-gnuplot 5.4.0-1
+gnuplot 5.4.0-3
 gnutls 3.6.14-2
 go 2:1.14.6-1
 gobject-introspection-runtime 1.64.1-2
@@ -377,7 +378,7 @@ jq 1.6-3
 jre8-openjdk 8.u262-1
 jre8-openjdk-headless 8.u262-1
 js60 60.9.0-2
-json-c 0.14-4
+json-c 0.15-1
 json-glib 1.4.4-2
 jsoncpp 1.9.3-1
 kaccounts-integration 20.04.3-1
@@ -417,6 +418,7 @@ kinit 5.72.0-1
 kio 5.72.0-1
 kio-extras 20.04.3-1
 kirigami2 5.72.0-1
+kitemmodels 5.72.0-1
 kitemviews 5.72.0-1
 kjobwidgets 5.72.0-1
 kjs 5.72.0-1
@@ -432,6 +434,7 @@ kpeoplevcard 0.1-1
 kpty 5.72.0-1
 krb5 1.18.2-1
 krdc 20.04.3-1
+krita 4.3.0-2
 kservice 5.72.0-1
 ktextwidgets 5.72.0-1
 kwallet 5.72.0-1
@@ -591,7 +594,7 @@ libcddb 1.3.2-6
 libcdio 2.1.0-2
 libcdio-paranoia 10.2+2.0.1-2
 libcdr 0.1.6-2
-libcerf 1.13-2
+libcerf 2.0-1
 libchewing 0.5.1-4
 libcmis 0.5.2-4
 libconfig 1.7.2-3
@@ -778,7 +781,7 @@ libsynctex 2020.54586-4
 libtar 1.2.20-5
 libtasn1 4.16.0-1
 libtd-git r4534.ab5d3537-1
-libteam 1.30-1
+libteam 1.31-1
 libtermkey 0.22-2
 libthai 0.1.28-2
 libtheora 1.1.1-5
@@ -853,10 +856,10 @@ lightdm 1:1.30.0-3
 lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-4
 lilv 0.24.8-2
-linux 5.7.10.arch1-1
+linux 5.7.11.arch1-1
 linux-api-headers 5.6.11-1
 linux-firmware 20200721.2b823fc-1
-linux-headers 5.7.10.arch1-1
+linux-headers 5.7.11.arch1-1
 lirc 1:0.10.1-6
 llpp 32-1
 llvm-libs 10.0.1-1
@@ -924,11 +927,12 @@ mpv 1:0.32.0-4
 msbuild-stable 16.6_xamarinxplat.2020.04.29.14.43_0xamarin5_ubuntu2004b1-3
 msgpack-c 3.3.0-1
 mtdev 1.1.6-1
+mtpaint 3.49.27-1
 mtpfs 1.1-4
 mujs 1.0.7-1
 mutt 1.14.6-1
 mypaint-brushes1 1.3.1-1
-nano 4.9.3-1
+nano 5.0-1
 nautilus 3.36.3-1
 ncurses 6.2-1
 ndctl 69-1
@@ -943,6 +947,7 @@ nerd-fonts-ubuntu-mono 2.1.0-4
 net-tools 1.60.20181103git-2
 netease-cloud-music 1.2.1-1
 netpbm 10.73.32-1
+netstandard-targeting-pack 3.1.6.sdk106-2
 nettle 3.6-1
 network-manager-applet 1.18.0-1
 networkmanager 1.26.0-1
@@ -950,8 +955,8 @@ new-session-manager 1.4.0-2
 newsboat 2.20.1-2
 nm-connection-editor 1.18.0-1
 node-gyp 7.0.0-2
-nodejs 14.6.0-1
-notmuch-runtime 0.29.3-2
+nodejs 14.7.0-1
+notmuch-runtime 0.30-1
 noto-fonts 20190926-4
 noto-fonts-emoji 20200720-1
 npm 6.14.7-1
@@ -1148,7 +1153,7 @@ python2-toml 0.10.1-1
 python2-urllib3 1.25.10-1
 python2-webencodings 0.5.1-4
 python2-zipp 1:1.1.1-1
-qca 2.3.1-1
+qca 2.3.1-2
 qq-linux 2.0.0_b2_1082-1
 qt4 4.8.7-33
 qt5-base 5.15.0-4
@@ -1181,7 +1186,7 @@ rav1e 0.3.3-1
 rdesktop 1.9.0-2
 re2 1:20200706-1
 readline 8.0.004-1
-recode 3.7.6-2
+recode 3.7.7-1
 redland 1:1.0.17-8
 redshift 1.12-3
 reiserfsprogs 3.6.27-3
@@ -1221,7 +1226,7 @@ ruby-tins 1.16.3-3
 rubygems 3.1.4-1
 run-parts 4.8.6.1-2
 runc 1.0.0rc91-1
-rust 1:1.45.0-2
+rust 1:1.45.1-1
 sbc 1.4-2
 scrcpy 1.14-1
 screen 4.8.0-1
@@ -1342,7 +1347,7 @@ vid.stab 1.1-3
 vim 8.2.0814-3
 vim-runtime 8.2.0814-3
 virtualbox 6.1.12-3
-virtualbox-host-modules-arch 6.1.12-3
+virtualbox-host-modules-arch 6.1.12-4
 vlc 3.0.11-1
 vmaf 1.5.2-1
 volume_key 0.3.12-3
@@ -1468,7 +1473,7 @@ xorgproto 2020.1-1
 xsel 1.2.0.20190821-1
 xterm 358-1
 xvidcore 1.3.7-2
-xxhash 0.7.4-1
+xxhash 0.8.0-1
 xz 5.2.5-1
 yajl 2.1.0-3
 yaml-cpp 0.6.3-2
