@@ -99,7 +99,7 @@ chili-sddm-theme 0.1.5-1
 chromaprint 1.5.0-1
 cifs-utils 6.10-1
 clang 10.0.1-1
-cldr-emoji-annotation 37.0.13.0.0.1-1
+cldr-emoji-annotation 37.0.13.0.0.2-1
 clucene 2.3.3.4-11
 clutter 1.26.4-1
 clutter-gst 3.0.27-3
@@ -186,7 +186,7 @@ farstream 0.2.9-2
 fcitx5-chewing 0.0.0.20200728-1
 fcitx5-chinese-addons-git r267.7ee2c2d-1
 fcitx5-config-qt-git r308.5326f79-1
-fcitx5-git r611.297308b-2
+fcitx5-git r613.a01766b-1
 fcitx5-gtk-git r46.fc335f1-1
 fcitx5-material-color 0.0.0.20200729-1
 fcitx5-pinyin-moegirl 20200730-1
@@ -203,7 +203,7 @@ figlet 2.2.5-4
 file 5.39-1
 filesystem 2020.05.20-1
 findutils 4.7.0-2
-fish-git 2:3.1.2.r1113.gcaf64fd0c-1
+fish-git 2:3.1.2.r1122.gb990bb1f7-1
 flac 1.3.3-2
 flameshot 0.6.0-4
 flashplugin 32.0.0.403-1
@@ -277,7 +277,7 @@ graphite 1:1.3.14-1
 graphviz 2.44.1-2
 grep 3.4-1
 groff 1.22.4-3
-grub 2:2.04-7
+grub 2:2.04-8
 gsettings-desktop-schemas 3.36.1-1
 gsfonts 20180524-3
 gsl 2.6-2
@@ -319,7 +319,7 @@ hspell 1.4-3
 htop 2.2.0-3
 http-parser 2.9.4-1
 hub 2.14.2-2
-hugo 0.73.0-2
+hugo 0.74.0-1
 hunspell 1.7.0-3
 hwids 20200306-1
 hwloc 2.2.0-1
@@ -406,7 +406,7 @@ kwayland 5.72.0-1
 kwidgetsaddons 5.72.0-1
 kwindowsystem 5.72.0-1
 kxmlgui 5.72.0-1
-kyotocabinet 1.2.77-2
+kyotocabinet 1.2.78-1
 l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
@@ -733,7 +733,7 @@ libwpd 0.10.3-2
 libwpe 1.6.0-1
 libwpg 0.3.3-2
 libwps 0.4.11-1
-libx11 1.6.9-7
+libx11 1.6.10-1
 libxau 1.0.9-3
 libxaw 1.0.13-3
 libxcb 1.14-1
@@ -820,7 +820,7 @@ mbedtls 2.16.7-1
 md4c 0.4.4-1
 mdadm 4.1-2
 media-player-info 24-2
-mesa 20.1.4-1
+mesa 20.1.4-3
 mesa-demos 8.4.0-4
 metasploit 5.0.99-1
 metis 5.1.0.p8-1
@@ -830,7 +830,7 @@ mjpegtools 2.1.0-5
 mkinitcpio 28-1
 mkinitcpio-busybox 1.31.1-1
 mlocate 0.26.git.20170220-3
-mlt 6.20.0-5
+mlt 6.22.0-2
 mobile-broadband-provider-info 20190618-2
 mono 6.10.0.104-1
 mono-addins 1.3.3-3
@@ -998,7 +998,7 @@ python-pillow 7.2.0-1
 python-pip 20.1.1-1
 python-progress 1.5-3
 python-prompt_toolkit 3.0.5-1
-python-psutil 5.7.0-1
+python-psutil 5.7.1-1
 python-ptyprocess 0.6.0-4
 python-pycurl 7.43.0.5-1
 python-pygments 2.6.1-3
@@ -1014,7 +1014,7 @@ python-resolvelib 0.4.0-1
 python-retrying 1.3.3-7
 python-setuptools 1:49.2.0-1
 python-six 1.15.0-1
-python-soupsieve 1.9.6-1
+python-soupsieve 2.0.1-1
 python-toml 0.10.1-1
 python-traitlets 4.3.3-3
 python-urllib3 1.25.10-1
@@ -1100,6 +1100,7 @@ rime-terra-pinyin 0.0.0.20200207-2
 ripgrep 12.1.1-1
 rofi 1.5.4-2
 rsync 3.2.2-2
+rtaudio 5.1.0-3
 rtkit 0.13-1
 rtmpdump 1:2.4.r96.fa8646d-6
 rubberband 1.8.2-4
@@ -1189,7 +1190,7 @@ texlive-bin 2020.54586-4
 texlive-core 2020.55416-1
 thefuck 3.30-1
 thin-provisioning-tools 0.8.5-3
-thunderbird 68.10.0-1
+thunderbird 68.11.0-1
 tigervnc 1.10.1-2
 timeshift 20.03-3
 tinyxml 2.6.2-7
@@ -1312,13 +1313,13 @@ xorg-fonts-encodings 1.0.5-2
 xorg-iceauth 1.0.8-2
 xorg-luit 1.1.1-4
 xorg-mkfontscale 1.2.1-2
-xorg-server 1.20.8-2
-xorg-server-common 1.20.8-2
-xorg-server-devel 1.20.8-2
-xorg-server-xephyr 1.20.8-2
-xorg-server-xnest 1.20.8-2
-xorg-server-xvfb 1.20.8-2
-xorg-server-xwayland 1.20.8-2
+xorg-server 1.20.8-3
+xorg-server-common 1.20.8-3
+xorg-server-devel 1.20.8-3
+xorg-server-xephyr 1.20.8-3
+xorg-server-xnest 1.20.8-3
+xorg-server-xvfb 1.20.8-3
+xorg-server-xwayland 1.20.8-3
 xorg-sessreg 1.1.2-2
 xorg-setxkbmap 1.3.2-2
 xorg-smproxy 1.0.6-3
