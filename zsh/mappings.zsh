@@ -16,3 +16,9 @@ function openlazynpm {
 
 zle -N openlazynpm; bindkey "^N" openlazynpm
 
+function openlazydocker {
+    zle_eval sudo lazydocker
+}
+
+zle -N openlazydocker; bindkey "^A" openlazydocker
+
