@@ -13,7 +13,7 @@ adobe-source-han-sans-cn-fonts 2.001-2
 adobe-source-han-sans-tw-fonts 2.001-2
 adobe-source-serif-pro-fonts 3.001-2
 adwaita-icon-theme 3.36.1-1
-alacritty 0.4.3-1
+alacritty 0.5.0-1
 alembic 1.7.13-1
 alsa-lib 1.2.3.2-1
 alsa-plugins 1:1.2.2-2
@@ -183,15 +183,15 @@ fakeroot 1.24-2
 farstream 0.2.9-2
 fcitx5-chewing 0.0.0.20200728-1
 fcitx5-chinese-addons-git r267.7ee2c2d-1
-fcitx5-config-qt-git r308.5326f79-1
-fcitx5-git r613.a01766b-1
+fcitx5-config-qt-git r311.9e036a7-2
+fcitx5-git r616.7c7dbd0-1
 fcitx5-gtk-git r46.fc335f1-1
 fcitx5-material-color 0.0.0.20200729-1
 fcitx5-pinyin-moegirl 20200730-1
 fcitx5-pinyin-moegirl-rime 20200730-1
 fcitx5-pinyin-zhwiki 20200720-1
-fcitx5-qt4-git r185.cf6daf5-1
-fcitx5-qt5-git r185.cf6daf5-1
+fcitx5-qt4-git r186.47628ac-1
+fcitx5-qt5-git r186.47628ac-1
 fcitx5-rime-git r132.e4fc600-1
 fd 8.1.1-1
 feh 3.4.1-1
@@ -201,7 +201,7 @@ figlet 2.2.5-4
 file 5.39-1
 filesystem 2020.05.20-1
 findutils 4.7.0-2
-fish-git 2:3.1.2.r1122.gb990bb1f7-1
+fish-git 2:3.1.2.r1127.gac1f63781-1
 flac 1.3.3-2
 flameshot 0.6.0-4
 flashplugin 32.0.0.403-1
@@ -326,7 +326,7 @@ iana-etc 20200720-1
 icu 67.1-1
 iease-music 1.3.4-1
 ijs 0.35-3
-imagemagick 7.0.10.24-2
+imagemagick 7.0.10.25-1
 imlib2 1.6.1-2
 inetutils 1.9.4-8
 inkscape 1.0-5
@@ -452,7 +452,7 @@ lib32-libtasn1 4.16.0-1
 lib32-libtiff 4.1.0-1
 lib32-libunwind 1.3.1-1
 lib32-libvorbis 1.3.7-1
-lib32-libx11 1.6.9-1
+lib32-libx11 1.6.10-1
 lib32-libxau 1.0.9-1
 lib32-libxcb 1.14-1
 lib32-libxcursor 1.2.0-1
@@ -708,7 +708,6 @@ libusb 1.0.23-2
 libusb-compat 0.1.7-1
 libusbmuxd 2.0.2-1
 libutempter 1.2.1-1
-libutf8proc 2.5.0-2
 libutil-linux 2.36-1
 libuv 1.38.1-1
 libva 2.8.0-1
@@ -821,7 +820,7 @@ mjpegtools 2.1.0-5
 mkinitcpio 28-1
 mkinitcpio-busybox 1.31.1-1
 mlocate 0.26.git.20170220-3
-mlt 6.22.0-2
+mlt 6.22.1-2
 mobile-broadband-provider-info 20190618-2
 mono 6.10.0.104-1
 mono-addins 1.3.3-3
@@ -845,7 +844,7 @@ ndctl 69-1
 neofetch 7.0.0-1
 neomutt 20200626-1
 neon 0.31.2-1
-neovim-git 0.4.0.r1502.g1153ac903-1
+neovim 0.4.3-3
 neovim-remote 2.4.0-2
 nerd-fonts-fira-code 2.1.0-4
 nerd-fonts-source-code-pro 2.1.0-4
@@ -884,7 +883,7 @@ openimagedenoise 1.2.2-1
 openimageio 2.1.16.0-2
 openjpeg2 2.3.1-2
 openmpi 4.0.4-1
-openshadinglanguage 1.10.11-1
+openshadinglanguage 1.10.13-1
 openshot 2.5.1-1
 openssh 8.3p1-3
 openssl 1.1.1.g-2
@@ -901,12 +900,12 @@ p7zip 16.02-6
 package-query 1.10-1
 pacman 5.2.2-1
 pacman-contrib 1.4.0-1
-pacman-mirrorlist 20200606-1
+pacman-mirrorlist 20200801-1
 pam 1.3.1-2
 pambase 20190105.1-2
 pango 1:1.44.7+11+g73b46b04-1
 pangomm 2.42.1-2
-papirus-icon-theme 20200702-1
+papirus-icon-theme 20200801-1
 parted 3.3-2
 patch 2.7.6-8
 pavucontrol 1:4.0-2
