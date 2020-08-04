@@ -1,9 +1,9 @@
 a52dec 0.7.4-11
 aalib 1.4rc5-14
 acl 2.2.53-3
-acorn 1:7.3.1-1
+acorn 1:7.4.0-1
 acpi 1.7-3
-acpi_call 1.1.0-334
+acpi_call 1.1.0-335
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-1
 adobe-source-code-pro-fonts 2.030ro+1.050it-6
@@ -182,16 +182,16 @@ faad2 2.9.2-1
 fakeroot 1.24-2
 farstream 0.2.9-2
 fcitx5-chewing 0.0.0.20200728-1
-fcitx5-chinese-addons-git r270.3d6ed96-1
-fcitx5-config-qt-git r312.61f01dc-1
-fcitx5-git r617.3422605-1
+fcitx5-chinese-addons-git r271.8628b8e-1
+fcitx5-config-qt-git r315.e819708-1
+fcitx5-git r618.158d132-1
 fcitx5-gtk-git r46.fc335f1-1
 fcitx5-material-color 0.0.0.20200729-1
 fcitx5-pinyin-moegirl 20200730-1
 fcitx5-pinyin-moegirl-rime 20200730-1
 fcitx5-pinyin-zhwiki 20200720-1
-fcitx5-qt4-git r186.47628ac-1
-fcitx5-qt5-git r186.47628ac-1
+fcitx5-qt4-git r187.91a4b14-1
+fcitx5-qt5-git r187.91a4b14-1
 fcitx5-rime-git r132.e4fc600-1
 fd 8.1.1-1
 feh 3.4.1-1
@@ -261,7 +261,7 @@ go 2:1.14.6-1
 gobject-introspection-runtime 1.64.1-2
 google-chrome 84.0.4147.105-1
 google-glog 0.4.0-2
-gopls 0.4.3-0
+gopls 0.4.4-0
 gperftools 2.7-2
 gpgme 1.14.0-1
 gpm 1.20.7.r27.g1fd1941-2
@@ -333,7 +333,7 @@ intel-ucode 20200616-1
 iproute2 5.7.0-1
 iptables 1:1.8.5-2
 iputils 20190709-2
-ipython 7.16.1-1
+ipython 7.17.0-1
 irssi 1.2.2-3
 iso-codes 4.5.0-1
 iw 5.4-1
@@ -601,7 +601,7 @@ libluv 1.36.0-1
 libmad 0.15.1b-9
 libmagick6 6.9.11.24-1
 libmatroska 1.5.2-2
-libmfx 20.2.0-1
+libmfx 20.2.1-1
 libmicrohttpd 0.9.71-1
 libmikmod 3.3.11.1-4
 libmm-glib 1.14.0-1
@@ -692,7 +692,7 @@ libstemmer 0+713-2
 libsynctex 2020.54586-4
 libtar 1.2.20-5
 libtasn1 4.16.0-1
-libtd-git r4534.ab5d3537-1
+libtd-git r4570.1b628d3a-1
 libteam 1.31-1
 libtermkey 0.22-2
 libthai 0.1.28-2
@@ -725,7 +725,7 @@ libwpd 0.10.3-2
 libwpe 1.6.0-1
 libwpg 0.3.3-2
 libwps 0.4.11-1
-libx11 1.6.10-1
+libx11 1.6.10-2
 libxau 1.0.9-3
 libxaw 1.0.13-3
 libxcb 1.14-1
@@ -767,10 +767,10 @@ lightdm 1:1.30.0-3
 lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-4
 lilv 0.24.8-2
-linux 5.7.11.arch1-1
+linux 5.7.12.arch1-1
 linux-api-headers 5.6.11-1
 linux-firmware 20200721.2b823fc-1
-linux-headers 5.7.11.arch1-1
+linux-headers 5.7.12.arch1-1
 lirc 1:0.10.1-6
 llpp 32-1
 llvm-libs 10.0.1-1
@@ -870,7 +870,7 @@ nspr 4.27-1
 nss 3.55-2
 ntfs-3g 2017.3.23-4
 ocaml 4.10.0-1
-onefetch 2.2.0-1
+onefetch 2.3.0-1
 oniguruma 6.9.5_rev1-1
 openal 1.20.1-2
 opencc 1.1.1-3
@@ -999,7 +999,7 @@ python-pyzmq 19.0.1-1
 python-requests 2.24.0-1
 python-resolvelib 0.4.0-1
 python-retrying 1.3.3-7
-python-setuptools 1:49.2.0-1
+python-setuptools 1:49.2.1-1
 python-six 1.15.0-1
 python-soupsieve 2.0.1-1
 python-toml 0.10.1-1
@@ -1109,7 +1109,7 @@ ruby-tins 1.16.3-3
 rubygems 3.1.4-1
 run-parts 4.8.6.1-2
 runc 1.0.0rc91-1
-rust 1:1.45.1-1
+rust 1:1.45.2-1
 sbc 1.4-2
 scrcpy 1.14-1
 screen 4.8.0-1
@@ -1222,7 +1222,7 @@ vid.stab 1.1-3
 vim 8.2.0814-3
 vim-runtime 8.2.0814-3
 virtualbox 6.1.12-3
-virtualbox-host-modules-arch 6.1.12-4
+virtualbox-host-modules-arch 6.1.12-5
 vlc 3.0.11-1
 vmaf 1.5.2-1
 volume_key 0.3.12-3
