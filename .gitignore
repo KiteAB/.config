@@ -20,6 +20,7 @@ ranger/folders.conf
 /mutt/accounts/*
 !/my-packages.txt
 !/jesseduffield/
+!/fcitx5/
 /jesseduffield/lazygit/*
 jesseduffield/lazynpm/state.yml
 !/jesseduffield/lazygit/config.yml
