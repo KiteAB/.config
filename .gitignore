@@ -22,6 +22,7 @@ ranger/folders.conf
 !/jesseduffield/
 !/fcitx5/
 /fcitx5/crash.log
+!/picom.conf
 /jesseduffield/lazygit/*
 jesseduffield/lazynpm/state.yml
 !/jesseduffield/lazygit/config.yml
