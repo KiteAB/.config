@@ -10,6 +10,8 @@ ranger/folders.conf
 !/alacritty/
 !/fish/
 !/neofetch/
+!/gh/
+/gh/hosts.yml
 !/omf/
 !/.zshrc
 !/.gitignore
