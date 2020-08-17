@@ -21,6 +21,7 @@ ranger/folders.conf
 !/mutt/
 /mutt/accounts/*
 !/my-packages.txt
+!/vimium-options.json
 !/jesseduffield/
 !/fcitx5/
 /fcitx5/crash.log
