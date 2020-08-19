@@ -32,7 +32,7 @@ appmenu-gtk-module 0.7.3.2-1
 arandr 0.1.10-4
 arc-gtk-theme 20200513-1
 arc-icon-theme 20161122-3
-archlinux-keyring 20200622-1
+archlinux-keyring 20200817-1
 archlinux-themes-sddm 2.0-1
 archlinuxcn-keyring 20200728-1
 arctime 2.4-1
@@ -120,6 +120,7 @@ conky-manager 2.4-4
 containerd 1.4.0-2
 coreutils 8.32-1
 cowsay 3.04-2
+cpupower 5.7-1
 cracklib 2.9.7-2
 cronie 1.5.5-1
 cryptsetup 2.3.3-1
@@ -187,9 +188,9 @@ faad2 2.9.2-1
 fakeroot 1.24-2
 farstream 0.2.9-2
 faudio 20.08-2
-fcitx5 0.0.0.20200817-1
+fcitx5 0.0.0.20200818-1
 fcitx5-chewing 0.0.0.20200728-2
-fcitx5-chinese-addons 0.0.0.20200817-1
+fcitx5-chinese-addons 0.0.0.20200818-1
 fcitx5-configtool 0.0.0.20200813-1
 fcitx5-gtk 0.0.0.20200607-3
 fcitx5-lua 0.0.0.20200802-3
@@ -220,9 +221,9 @@ freetype2 2.10.2-1
 frei0r-plugins 1.7.0-1
 fribidi 1.0.10-1
 fsharp 4.5.0-5
-fuse-common 3.9.2-1
+fuse-common 3.9.3-1
 fuse2 2.9.9-4
-fuse3 3.9.2-1
+fuse3 3.9.3-1
 fzf 0.22.0-1
 gamemode 1.5.1-2
 gavl 1.4.0-4
@@ -338,7 +339,7 @@ inkscape 1.0-5
 intel-ucode 20200616-1
 iproute2 5.8.0-1
 iptables 1:1.8.5-2
-iputils 20190709-2
+iputils 20190709-3
 ipython 7.17.0-1
 irssi 1.2.2-3
 iso-codes 4.5.0-1
@@ -375,7 +376,7 @@ kcoreaddons 5.73.0-1
 kcrash 5.73.0-1
 kdbusaddons 5.73.0-1
 kdeclarative 5.73.0-1
-kdeconnect-git 20.08.0.r34.87db95b2-1
+kdeconnect-git 20.08.0.r36.f953678e-1
 kdecoration 5.19.4-1
 kded 5.73.0-1
 kexec-tools 2.0.20-2
@@ -545,7 +546,7 @@ lib32-readline 8.0.0-1
 lib32-rest 0.8.1-2
 lib32-sdl2 2.0.12-1
 lib32-sqlite 3.32.3-1
-lib32-systemd 246.1-1
+lib32-systemd 246.2-1
 lib32-tdb 1.4.3-1
 lib32-util-linux 2.35.2-1
 lib32-v4l-utils 1.20.0-1
@@ -932,7 +933,7 @@ nodejs 14.8.0-1
 notmuch-runtime 0.30-1
 noto-fonts 20190926-4
 noto-fonts-emoji 20200720-1
-npm 6.14.7-1
+npm 6.14.8-1
 npth 1.6-2
 nspr 4.27-1
 nss 3.55-2
@@ -1236,9 +1237,9 @@ swh-plugins 0.4.17-4
 sxhkd 0.6.2-1
 sysfsutils 2.1.0-11
 sysstat 12.3.3-1
-systemd 246.1-1
-systemd-libs 246.1-1
-systemd-sysvcompat 246.1-1
+systemd 246.2-1
+systemd-libs 246.2-1
+systemd-sysvcompat 246.2-1
 t1lib 5.1.2-8
 taglib 1.11.1-4
 talloc 2.3.1-2
@@ -1296,8 +1297,8 @@ usbmuxd 1.1.1-1
 usbutils 012-2
 util-linux 2.36-1
 v2ray 4.27.0-1
-v2ray-domain-list-community 20200816052637-1
-v2ray-geoip 202008120004-1
+v2ray-domain-list-community 20200818143740-1
+v2ray-geoip 202008190004-1
 v4l-utils 1.20.0-1
 v4l2loopback-dkms 0.12.5-1
 vamp-plugin-sdk 2.10.0-1
@@ -1367,7 +1368,7 @@ xf86-video-vesa 2.4.0-3
 xfce4-power-manager 1.6.6-1
 xfconf 4.14.3-1
 xflux 20130901-6
-xfsprogs 5.6.0-2
+xfsprogs 5.7.0-3
 xjadeo 0.8.9-2
 xkeyboard-config 2.30-2
 xkeycaps 2.47-1
@@ -1434,7 +1435,7 @@ yajl 2.1.0-3
 yaml-cpp 0.6.3-2
 yaourt 1.9-1
 yarn 1.22.4-1
-yay 10.0.3-1
+yay 10.0.4-1
 zbar 0.23.1-2
 zenity 3.32.0+50+gc229637-1
 zeromq 4.3.2-2
