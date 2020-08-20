@@ -1,5 +1,5 @@
 export XDG_CONFIG_HOME=$HOME/.config
-export LOCALBIN=$XDG_CONFIG_HOME/bin
+#export LOCALBIN=$XDG_CONFIG_HOME/bin
 export PATH=$PATH:$LOCALBIN
 export LOCALPROG=$HOME/prog
 export GOPATH=$HOME/go
@@ -24,4 +24,5 @@ export RANGER_LOAD_DEFAULT_RC="false"
 export EDITOR=nvim
 export ZSH_AUTOSUGGEST_USE_ASYNC=1
 export ZSH_AUTOSUGGEST_MANUAL_REBIND=1
-
+export FLUTTER_STORAGE_BASE_URL="https://mirrors.bfsu.edu.cn/flutter"
+export PUB_HOSTED_URL="https://mirrors.bfsu.edu.cn/dart-pub"
