@@ -7,6 +7,7 @@
 ranger/plugins/__pycache__/*
 ranger/colorschemes/__pycache__/*
 ranger/folders.conf
+!/picom.conf
 !/alacritty/
 !/fish/
 !/neofetch/
