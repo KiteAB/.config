@@ -724,7 +724,7 @@ Language=ru
 Label=se
 
 [keyboard-se-smi]
-Description="Keyboard - Swedish - orthern Saami (Sweden)"
+Description="Keyboard - Swedish - Northern Saami (Sweden)"
 Language=se
 Label=se
 
@@ -780,6 +780,11 @@ Label=bg
 
 [keyboard-bg-bas_phonetic]
 Description="Keyboard - Bulgarian - Bulgarian (new phonetic)"
+Language=bg
+Label=bg
+
+[keyboard-bg-bekl]
+Description="Keyboard - Bulgarian - Bulgarian (enhanced)"
 Language=bg
 Label=bg
 
@@ -870,6 +875,11 @@ Label=us
 
 [keyboard-us-dvp]
 Description="Keyboard - English (US) - English (programmer Dvorak)"
+Language=en
+Label=us
+
+[keyboard-us-symbolic]
+Description="Keyboard - English (US) - English (US, Symbolic)"
 Language=en
 Label=us
 
@@ -1339,7 +1349,7 @@ Language=en
 Label=ie
 
 [keyboard-ie-CloGaelach]
-Description="Keyboard - Irish - CloGaelach"
+Description="Keyboard - Irish - aelach"
 Language=ga
 Label=ie
 
@@ -1454,7 +1464,7 @@ Language=bn
 Label=bd
 
 [keyboard-bd-probhat]
-Description="Keyboard - Bangla - Bangla (Probhat)"
+Description="Keyboard - Bangla - ngla (Probhat)"
 Language=bn
 Label=bd
 
@@ -1834,7 +1844,7 @@ Language=ta
 Label=in
 
 [keyboard-in-tam_tamilnet_TAB]
-Description="Keyboard - Indian - Tamil (TamilNet '99, TAB encoding)"
+Description="Keyboard - Indian - '99, TAB encoding)"
 Language=ta
 Label=in
 
@@ -1909,13 +1919,13 @@ Language=en
 Label=in
 
 [keyboard-in-iipa]
-Description="Keyboard - Indian - Indic IPA (IIPA)"
-Language=en
+Description="Keyboard - Indian - Indic (phonetic, IPA)"
+Language=
 Label=in
 
 [keyboard-in-marathi]
-Description="Keyboard - Indian - मराठी इन्स्क्रिप्ट"
-Language=en
+Description="Keyboard - Indian - Marathi (enhanced Inscript)"
+Language=mr
 Label=in
 
 [keyboard-in-modi-kagapa]
@@ -2748,8 +2758,23 @@ Description="Keyboard - German - German (no dead keys)"
 Language=de
 Label=de
 
+[keyboard-de-e1]
+Description="Keyboard - German - German (E1)"
+Language=de
+Label=de
+
+[keyboard-de-e2]
+Description="Keyboard - German - German (E2)"
+Language=de
+Label=de
+
 [keyboard-de-T3]
 Description="Keyboard - German - German (T3)"
+Language=de
+Label=de
+
+[keyboard-de-us]
+Description="Keyboard - German - German (US)"
 Language=de
 Label=de
 
@@ -2789,7 +2814,7 @@ Language=de
 Label=de
 
 [keyboard-de-dsb]
-Description="Keyboard - German - Lower Sorbian"
+Description="Keyboard - German - ian"
 Language=dsb
 Label=de
 
@@ -2816,11 +2841,6 @@ Label=de
 [keyboard-de-deadtilde]
 Description="Keyboard - German - German (dead tilde)"
 Language=de
-Label=de
-
-[keyboard-de-us]
-Description="Keyboard - German - German (US)"
-Language=en
 Label=de
 
 [keyboard-de-hu]
@@ -2983,7 +3003,7 @@ Description="Keyboard - Hungarian - Hungarian (QWERTZ, 101-key, dot, dead keys)"
 Language=hu
 Label=hu
 
-[keyboard-hu-101_qwertz_dot_nodead]
+[keyboard-hu-wertz_dot_nodead]
 Description="Keyboard - Hungarian - Hungarian (QWERTZ, 101-key, dot, no dead keys)"
 Language=hu
 Label=hu
@@ -3053,7 +3073,7 @@ Description="Keyboard - Hungarian - Old Hungarian"
 Language=hu
 Label=hu
 
-[keyboard-hu-ohu_lig]
+[keyboard-hu-oldhunlig]
 Description="Keyboard - Hungarian - Old Hungarian (for ligatures)"
 Language=hu
 Label=hu
@@ -3115,6 +3135,11 @@ Label=tr
 
 [keyboard-tr-sun_type6]
 Description="Keyboard - Turkish - Turkish (Sun Type 6/7)"
+Language=tr
+Label=tr
+
+[keyboard-tr-otk]
+Description="Keyboard - Turkish - Old Turkic"
 Language=tr
 Label=tr
 
