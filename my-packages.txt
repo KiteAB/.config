@@ -4,7 +4,7 @@ accounts-qml-module 0.7-3
 acl 2.2.53-3
 acorn 1:8.0.4-1
 acpi 1.7-3
-acpi_call 1.1.0-357
+acpi_call 1.1.0-358
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-1
 adobe-source-code-pro-fonts 2.030ro+1.050it-6
@@ -21,7 +21,7 @@ alsa-topology-conf 1.2.4-2
 alsa-ucm-conf 1.2.4-2
 alsa-utils 1.2.4-2
 amd-ucode 20201023.dae4b4c-1
-amdvlk 2020.Q4.2-1
+amdvlk 2020.Q4.3-1
 amtk 5.2.0-2
 android-tools 30.0.4-2
 aom 2.0.0-1
@@ -74,11 +74,17 @@ cairomm 1.12.2-4
 cantarell-fonts 1:0.201-1
 cblas 3.9.0-3
 cdparanoia 10.2-8
+cheese 3.38.0-1
+chromaprint 1.5.0-3
 cifs-utils 6.11-1
 clang 10.0.1-1
 cldr-emoji-annotation 37.0.13.0.0.2-1
 clucene 2.3.3.4-11
+clutter 1.26.4-1
+clutter-gst 3.0.27-3
+clutter-gtk 1.8.4-2
 cmake 3.18.4-1
+cogl 1.22.8-1
 colord 1.4.5-1
 compiler-rt 10.0.1-1
 confuse 3.3-2
@@ -96,7 +102,7 @@ dconf 0.38.0-1
 desktop-file-utils 0.26-1
 device-mapper 2.02.187-3
 dhcp 4.4.2-2
-dhcpcd 9.3.1-1
+dhcpcd 9.3.2-1
 diffutils 3.7-3
 discord 0.0.12-2
 distorm 3.5-1
@@ -132,7 +138,7 @@ fcitx5-configtool 5.0.0-1
 fcitx5-gtk 5.0.0-1
 fcitx5-material-color 0.0.0.20200729-1
 fcitx5-pinyin-moegirl 20201014-1
-fcitx5-pinyin-zhwiki 20201020-1
+fcitx5-pinyin-zhwiki 20201101-1
 fcitx5-qt 5.0.0-1
 fd 8.1.1-1
 feh 3.5-1
@@ -144,6 +150,7 @@ findutils 4.7.0-2
 flac 1.3.3-2
 flameshot 0.8.5-1
 flex 2.6.4-3
+fluidsynth 2.1.5-2
 fmt 7.1.0-1
 fontconfig 2:2.13.91+48+gfcb0420-2
 frameworkintegration 5.75.0-1
@@ -181,9 +188,10 @@ glu 9.0.1-2
 gmp 6.2.0-1
 gnome-autoar 0.2.4-2
 gnome-desktop 1:3.38.1-1
+gnome-video-effects 0.5.0+4+g9554041-2
 gnupg 2.2.23-1
 gnutls 3.6.15-1
-go 2:1.15.3-1
+go 2:1.15.4-1
 gobject-introspection-runtime 1.66.1-1
 google-chrome 86.0.4240.183-1
 gpgme 1.14.0-1
@@ -200,8 +208,12 @@ gsfonts 20200910-1
 gsl 2.6-2
 gsm 1.0.19-1
 gspell 1.8.4-1
+gssdp 1.2.3-1
+gst-plugins-bad 1.18.1-1
+gst-plugins-bad-libs 1.18.1-1
 gst-plugins-base 1.18.1-1
 gst-plugins-base-libs 1.18.1-1
+gst-plugins-good 1.18.1-1
 gstreamer 1.18.1-1
 gtk-update-icon-cache 1:3.24.23-4
 gtk2 2.24.32-2
@@ -212,7 +224,9 @@ gtkspell3 3.0.10-2
 gtop 1.0.2-2
 guile 2.2.6-2
 gumbo-parser 0.10.1-2
+gupnp 1.2.4-1
 gupnp-dlna 0.10.5+4+gc947eed-2
+gupnp-igd 1.2.0-1
 gvfs 1.46.1-1
 gzip 1.10-3
 harfbuzz 2.7.2-1
@@ -231,6 +245,7 @@ i3lock-color-git r752.1127e2a-1
 iana-etc 20201012-1
 ibam 0.5.2-9
 icu 67.1-1
+imagemagick 7.0.10.35-1
 imlib2 1.7.0-1
 inkscape 1.0.1-2
 iproute2 5.9.0-1
@@ -252,7 +267,7 @@ js78 78.4.0-1
 json-c 0.15-1
 json-glib 1.6.0-1
 jsoncpp 1.9.4-1
-kaccounts-integration 20.08.2-1
+kaccounts-integration 20.08.3-1
 karchive 5.75.0-1
 kauth 5.75.0-1
 kbd 2.3.0-2
@@ -267,10 +282,10 @@ kcoreaddons 5.75.0-1
 kcrash 5.75.0-1
 kdbusaddons 5.75.0-1
 kdeclarative 5.75.0-1
-kdeconnect 20.08.2-1
+kdeconnect 20.08.3-1
 kdecoration 5.20.2-1
 kded 5.75.0-1
-kdenlive 20.08.2-1
+kdenlive 20.08.3-1
 keyutils 1.6.3-1
 kfilemetadata 5.75.0-1
 kglobalaccel 5.75.0-1
@@ -306,7 +321,7 @@ lensfun 0.3.95-2
 less 551-3
 lib32-alsa-lib 1.2.4-2
 lib32-alsa-plugins 1.2.2-1
-lib32-amdvlk 2020.Q4.2-1
+lib32-amdvlk 2020.Q4.3-1
 lib32-bzip2 1.0.8-2
 lib32-clang 10.0.1-1
 lib32-curl 7.73.0-1
@@ -323,7 +338,7 @@ lib32-libffi 3.3-2
 lib32-libglvnd 1.3.2-1
 lib32-libgpg-error 1.38-1
 lib32-libidn2 2.3.0-1
-lib32-libldap 2.4.53-1
+lib32-libldap 2.4.54-1
 lib32-libpciaccess 0.16-1
 lib32-libpsl 0.21.1-1
 lib32-libssh2 1.9.0-1
@@ -374,6 +389,7 @@ libasyncns 0.8+3+g68cd5af-3
 libatasmart 0.19-5
 libatomic_ops 7.6.10-2
 libavc1394 0.5.4-4
+libavtp 0.1.0-2
 libblockdev 2.24-1
 libbluray 1.2.1-1
 libbs2b 3.1.0-7
@@ -401,9 +417,11 @@ libdatrie 0.2.12-2
 libdbusmenu-glib 16.04.0-4
 libdbusmenu-gtk3 16.04.0-4
 libdbusmenu-qt5 0.9.3+16.04.20160218-5
+libdc1394 2.2.6-2
 libdca 0.0.7-1
 libde265 1.0.8-1
 libdrm 2.4.102-1
+libdv 1.0.0-9
 libdvbpsi 1:1.3.3-2
 libdvdnav 6.1.0-2
 libdvdread 6.1.1-1
@@ -421,6 +439,7 @@ libevent 2.1.12-1
 libexif 0.6.22-1
 libexttextcat 3.4.5-2
 libfakekey 0.3-2
+libfdk-aac 2.0.1-2
 libffi 3.3-3
 libfontenc 1.1.4-3
 libfreehand 0.1.2-3
@@ -429,6 +448,7 @@ libgcrypt 1.8.7-1
 libgdiplus 5.6.1-3
 libgexiv2 0.12.1-1
 libglvnd 1.3.2-1
+libgme 0.6.3-1
 libgpg-error 1.39-1
 libgrss 0.7.0+16+g971c421-3
 libgsf 1.14.47-1
@@ -447,20 +467,25 @@ libimobiledevice 1.3.0-1
 libindicator-gtk3 12.10.1-9
 libinih 52-1
 libinput 1.16.3-1
+libinstpatch 1.1.5-1
 libiptcdata 1.0.4-5
 libixion 0.16.1-1
 libjpeg-turbo 2.0.5-3
+libkate 0.4.1-7
 libksba 1.4.0-2
 liblangtag 0.6.3-2
 libldap 2.4.54-1
 liblqr 0.4.2-3
+liblrdf 0.6.1-4
 libluv 1.36.0-1
 libmad 0.15.1b-9
 libmagick6 6.9.11.35-1
 libmatroska 1.6.2-1
 libmfx 20.2.1-1
+libmicrodns 0.2.0-1
 libmicrohttpd 0.9.71-1
 libmm-glib 1.14.6-1
+libmms 0.6.4-3
 libmng 2.0.3-3
 libmnl 1.0.4-3
 libmodplug 0.8.9.0-3
@@ -477,6 +502,7 @@ libnewt 0.52.21-4
 libnfnetlink 1.0.1-4
 libnftnl 1.1.7-1
 libnghttp2 1.41.0-1
+libnice 0.1.18-1
 libnl 3.5.0-2
 libnm 1.26.4-1
 libnma 1.8.30-1
@@ -484,6 +510,7 @@ libnotify 0.7.9-1
 libnsl 1.3.0-1
 libnumbertext 1.0.6-1
 libodfgen 0.1.7-2
+libofa 0.9.3-9
 libogg 1.3.4-2
 libomxil-bellagio 0.9.3-3
 liborcus 0.16.1-1
@@ -515,6 +542,7 @@ libsamplerate 0.1.9-3
 libsasl 2.1.27-3
 libseccomp 2.4.2-1
 libsecret 0.20.4-1
+libshout 1:2.4.4-1
 libsigc++ 2.10.4-2
 libsm 1.2.3-2
 libsndfile 1.0.28-3
@@ -523,6 +551,7 @@ libsoup 2.72.0+5+g0b094bff-3
 libsoxr 0.1.3-2
 libspiro 1:20200505-2
 libspnav 0.2.3-3
+libsrtp 1:2.3.0-1
 libssh 0.9.5-1
 libssh2 1.9.0-2
 libstaroffice 0.0.7-1
@@ -602,7 +631,7 @@ lightdm 1:1.30.0-4
 lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-4
 lilv 0.24.10-1
-linux 5.9.3.arch1-1
+linux 5.9.4.arch1-1
 linux-api-headers 5.8-1
 linux-firmware 20201023.dae4b4c-1
 lirc 1:0.10.1-6
@@ -637,6 +666,7 @@ media-player-info 24-2
 mesa 20.2.1-1
 metis 5.1.0.p10-1
 minizip 1:1.2.11-4
+mjpegtools 2.1.0-5
 mkinitcpio 29-1
 mkinitcpio-busybox 1.31.1-2
 mlt 6.22.1-4
@@ -724,6 +754,7 @@ poppler-data 0.4.10-1
 poppler-glib 20.10.0-1
 poppler-qt5 20.10.0-1
 popt 1.18-1
+portaudio 1:19.6.0-7
 portsmf 234-2
 potrace 1.16-2
 procps-ng 3.3.16-2
@@ -800,7 +831,7 @@ python2-toml 0.10.2-1
 python2-urllib3 1.25.10-2
 python2-webencodings 0.5.1-4
 python2-zipp 1:1.1.1-1
-qca 2.3.1-3
+qca 2.3.1-4
 qt5-base 5.15.1-3
 qt5-declarative 5.15.1-1
 qt5-graphicaleffects 5.15.1-1
@@ -839,6 +870,7 @@ ruby 2.7.2-1
 ruby-irb 1.2.7-1
 ruby-reline 0.1.6-1
 rubygems 3.1.4-1
+sbc 1.4-2
 scrcpy 1.16-1
 screenfetch 3.9.1-1
 screenkey 1.2-1
@@ -850,7 +882,7 @@ serd 0.30.6-1
 shaderc 2020.0-1
 shadow 4.8.1-4
 shared-mime-info 2.0+1+g6bf9e4f-2
-signon-kwallet-extension 20.08.2-1
+signon-kwallet-extension 20.08.3-1
 signon-plugin-oauth2 0.24-3
 signon-ui 0.17+20171022-2
 signond 8.60-3
@@ -862,6 +894,7 @@ sonnet 5.75.0-1
 sord 0.16.6-1
 sound-theme-freedesktop 0.8-4
 soundtouch 2.2-1
+spandsp 0.0.6-3
 speex 1.2.0-3
 speexdsp 1.2.0-2
 spirv-tools 2020.4-1
@@ -873,6 +906,7 @@ steam 1.0.0.66-1
 sudo 1.9.3.p1-1
 suil 0.10.8-1
 suitesparse 5.8.1-1
+svt-hevc 1.5.0-1
 sysfsutils 2.1.0-11
 systemd 246.6-1
 systemd-libs 246.6-1
@@ -916,7 +950,7 @@ util-linux 2.36-4
 util-linux-libs 2.36-4
 v2ray 4.32.0-1
 v2ray-domain-list-community 20201102141726-1
-v2ray-geoip 202011040310-1
+v2ray-geoip 202011050012-1
 v4l-utils 1.20.0-1
 vamp-plugin-sdk 2.10.0-1
 vi 1:070224-4
@@ -931,12 +965,14 @@ volume_key 0.3.12-3
 vulkan-icd-loader 1.2.158-1
 vulkan-radeon 20.2.1-1
 w3m 0.5.3.git20200507-2
+wavpack 5.3.0-1
 wayland 1.18.0-2
 wayland-protocols 1.20-1
 webkit2gtk 2.30.2-1
 webrtc-audio-processing 0.3.1-2
 wget 1.20.3-3
 which 2.21-5
+wildmidi 0.4.3-3
 woff2 1.0.2-3
 wpa_supplicant 2:2.9-7
 wpebackend-fdo 1.8.0-1
@@ -1000,7 +1036,7 @@ xorg-xgamma 1.0.6-3
 xorg-xhost 1.0.8-2
 xorg-xinit 1.4.1-3
 xorg-xinput 1.6.3-2
-xorg-xkbcomp 1.4.3-1
+xorg-xkbcomp 1.4.4-1
 xorg-xkbevd 1.1.4-3
 xorg-xkbutils 1.0.4-4
 xorg-xkill 1.0.5-2
@@ -1025,6 +1061,7 @@ yajl 2.1.0-4
 yaml-cpp 0.6.3-2
 yaourt 1.9-1
 yay 10.1.0-1
+zbar 0.23.1-2
 zenity 3.32.0+55+gd7bedff-1
 zeromq 4.3.3-2
 zip 3.0-9
@@ -1033,3 +1070,5 @@ zita-resampler 1.6.2-3
 zlib 1:1.2.11-4
 zsh 5.8-1
 zstd 1.4.5-1
+zvbi 0.2.35-4
+zxing-cpp 1.1.1-1
