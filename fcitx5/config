@@ -3,6 +3,8 @@
 EnumerateWithTriggerKeys=True
 # Temporally switch between first and current Input Method
 AltTriggerKeys=
+# Skip first input method while enumerating
+EnumerateSkipFirst=False
 
 [Hotkey/TriggerKeys]
 0=Control+space
@@ -57,4 +59,6 @@ DefaultPageSize=5
 EnabledAddons=
 # Force Disabled Addons
 DisabledAddons=
+# Preload input method to be used by default
+PreloadInputMethod=True
 
