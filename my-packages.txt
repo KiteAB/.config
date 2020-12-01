@@ -4,7 +4,7 @@ accounts-qml-module 0.7-3
 acl 2.2.53-3
 acorn 1:8.0.4-1
 acpi 1.7-3
-acpi_call 1.2.1-5
+acpi_call 1.2.1-7
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-1
@@ -29,7 +29,7 @@ aom 2.0.0-1
 arandr 0.1.10-4
 arc-icon-theme 20161122-3
 archlinux-keyring 20201028-1
-archlinuxcn-keyring 20201019-1
+archlinuxcn-keyring 20201201-1
 argon2 20190702-3
 aria2 1.35.0-2
 aribb24 1.0.3-3
@@ -93,7 +93,7 @@ cogl 1.22.8-1
 colord 1.4.5-1
 compiler-rt 11.0.0-1
 confuse 3.3-2
-containerd 1.4.2-2
+containerd 1.4.3-1
 convertlit 1.8-10
 coreutils 8.32-1
 cowsay 3.04-2
@@ -163,7 +163,7 @@ flac 1.3.3-2
 flameshot 0.8.5-1
 flex 2.6.4-3
 fluidsynth 2.1.5-2
-fmt 7.1.2-2
+fmt 7.1.3-1
 fontconfig 2:2.13.91+48+gfcb0420-2
 frameworkintegration 5.76.0-1
 freetype2 2.10.4-1
@@ -251,7 +251,7 @@ harfbuzz 2.7.2-1
 harfbuzz-icu 2.7.2-1
 hdf5 1.12.0-2
 hicolor-icon-theme 0.17-2
-hidapi 0.10.0-2
+hidapi 0.10.1-1
 hmcl 3.3.172-1
 htop 3.0.2-1
 http-parser 2.9.4-1
@@ -265,7 +265,7 @@ iana-etc 20201012-1
 ibam 0.5.2-9
 icoutils 0.32.3-3
 icu 67.1-1
-imagemagick 7.0.10.44-1
+imagemagick 7.0.10.45-1
 imlib2 1.7.0-1
 inkscape 1.0.1-2
 iproute2 5.9.0-1
@@ -303,7 +303,7 @@ kcoreaddons 5.76.0-1
 kcrash 5.76.0-1
 kdbusaddons 5.76.0-1
 kdeclarative 5.76.0-1
-kdeconnect-git 20.08.0.r134.11e9aec3-1
+kdeconnect-git 20.08.0.r135.9082ed46-1
 kdecoration 5.20.3-1
 kded 5.76.0-1
 kdenlive 20.08.3-1
@@ -537,7 +537,7 @@ liblqr 0.4.2-3
 liblrdf 0.6.1-4
 libluv 1.36.0-1
 libmad 0.15.1b-9
-libmagick6 6.9.11.41-1
+libmagick6 6.9.11.45-1
 libmatroska 1.6.2-1
 libmfx 20.3.1-1
 libmicrodns 0.2.0-1
@@ -692,7 +692,7 @@ lightdm 1:1.30.0-4
 lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-4
 lilv 0.24.10-1
-linux 5.9.10.arch1-1
+linux 5.9.11.arch2-1
 linux-api-headers 5.8-1
 linux-firmware 20201120.bc9cd0b-1
 lirc 1:0.10.1-6
@@ -1114,7 +1114,7 @@ usbutils 013-1
 util-linux 2.36.1-3
 util-linux-libs 2.36.1-3
 v2ray 4.33.0-1
-v2ray-domain-list-community 20201126091400-1
+v2ray-domain-list-community 20201130101618-1
 v2ray-geoip 202011260013-1
 v4l-utils 1.20.0-1
 vamp-plugin-sdk 2.10.0-1
