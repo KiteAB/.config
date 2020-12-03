@@ -72,7 +72,7 @@ c-ares 1.17.1-1
 ca-certificates 20181109-4
 ca-certificates-mozilla 3.59-1
 ca-certificates-utils 20181109-4
-cairo 1.17.2+25+gaee96d175-1
+cairo 1.17.4-1
 cairomm 1.12.2-4
 cantarell-fonts 1:0.201-1
 capnproto 0.8.0-1
@@ -88,7 +88,7 @@ clucene 2.3.3.4-11
 clutter 1.26.4-1
 clutter-gst 3.0.27-3
 clutter-gtk 1.8.4-2
-cmake 3.19.1-1
+cmake 3.19.1-2
 cogl 1.22.8-1
 colord 1.4.5-1
 compiler-rt 11.0.0-1
@@ -109,7 +109,7 @@ dconf 0.38.0-1
 desktop-file-utils 0.26-1
 device-mapper 2.02.187-3
 dhcp 4.4.2-2
-dhcpcd 9.3.3-1
+dhcpcd 9.3.4-1
 diffutils 3.7-3
 discord 0.0.12-2
 distorm 3.5-2
@@ -191,13 +191,13 @@ gettext 0.21-1
 giflib 5.2.1-2
 gimp 2.10.22-1
 git 2.29.2-1
-git-delta-git 0.4.5.20201129-1
+git-delta-git 0.4.5.20201202-2
 github-cli 1.3.0-1
 glew 2.2.0-2
 glib-networking 2.66.0-1
 glib2 2.66.3-1
 glibc 2.32-5
-glibmm 2.64.4-1
+glibmm 2.64.5-1
 glslang 11.0.0-1
 glu 9.0.1-2
 gmp 6.2.0-1
@@ -208,7 +208,7 @@ gnupg 2.2.24-1
 gnutls 3.6.15-1
 go 2:1.15.5-2
 gobject-introspection-runtime 1.66.1-3
-google-chrome 87.0.4280.66-1
+google-chrome 87.0.4280.88-1
 google-glog 0.4.0-2
 gperftools 2.8-1
 gpgme 1.15.0-2
@@ -267,7 +267,7 @@ icoutils 0.32.3-3
 icu 67.1-1
 imagemagick 7.0.10.45-1
 imlib2 1.7.0-1
-inkscape 1.0.1-2
+inkscape 1.0.1-3
 iproute2 5.9.0-1
 iptables 1:1.8.6-1
 iputils 20200821-1
@@ -303,7 +303,7 @@ kcoreaddons 5.76.0-2
 kcrash 5.76.0-1
 kdbusaddons 5.76.0-2
 kdeclarative 5.76.0-1
-kdeconnect-git 20.08.0.r135.9082ed46-1
+kdeconnect-git 20.08.0.r137.8bf54f61-1
 kdecoration 5.20.4-1
 kded 5.76.0-1
 kdenlive 20.08.3-1
@@ -358,7 +358,7 @@ lib32-fontconfig 2:2.13.91+48+gfcb0420-2
 lib32-freetype2 2.10.4-1
 lib32-gcc-libs 10.2.0-4
 lib32-gettext 0.21-1
-lib32-glib2 2.66.2-1
+lib32-glib2 2.66.3-1
 lib32-glibc 2.32-5
 lib32-glu 9.0.1-1
 lib32-harfbuzz 2.7.2-1
@@ -376,7 +376,7 @@ lib32-libgpg-error 1.38-1
 lib32-libice 1.0.10-1
 lib32-libidn2 2.3.0-1
 lib32-libjpeg-turbo 2.0.6-1
-lib32-libldap 2.4.54-1
+lib32-libldap 2.4.56-1
 lib32-libnl 3.5.0-1
 lib32-libnsl 1.3.0-1
 lib32-libpcap 1.9.1-2
@@ -407,7 +407,7 @@ lib32-libxrender 0.9.10-2
 lib32-libxshmfence 1.3-2
 lib32-libxss 1.2.3-1
 lib32-libxxf86vm 1.1.4-2
-lib32-llvm-libs 11.0.0-1
+lib32-llvm-libs 11.0.0-2
 lib32-lm_sensors 3.6.0-1
 lib32-lz4 1.9.2-1
 lib32-mesa 20.2.3-1
@@ -423,7 +423,7 @@ lib32-pcre 8.44-1
 lib32-readline 8.0.0-1
 lib32-sdl2 2.0.12-1
 lib32-sqlite 3.33.0-1
-lib32-systemd 246.6-1
+lib32-systemd 247.1-1
 lib32-util-linux 2.36.1-1
 lib32-vulkan-icd-loader 1.2.158-1
 lib32-vulkan-radeon 20.2.3-1
@@ -437,7 +437,7 @@ libaccounts-qt 1.16-2
 libaec 1.0.4-1
 libaio 0.3.112-2
 libappindicator-gtk3 12.10.0.r296-1
-libarchive 3.4.3-1
+libarchive 3.5.0-1
 libass 0.15.0-2
 libassuan 2.5.4-1
 libasyncns 0.8+3+g68cd5af-3
@@ -532,7 +532,7 @@ libjpeg-turbo 2.0.6-1
 libkate 0.4.1-7
 libksba 1.4.0-2
 liblangtag 0.6.3-2
-libldap 2.4.54-1
+libldap 2.4.56-1
 liblqr 0.4.2-3
 liblrdf 0.6.1-4
 libluv 1.36.0-1
@@ -593,7 +593,7 @@ libqxp 0.0.2-4
 libraqm 0.7.1-1
 libraw 0.20.2-1
 libraw1394 2.1.2-3
-libreoffice-fresh 7.0.3-3
+libreoffice-fresh 7.0.3-4
 librevenge 0.0.4-3
 librime 1:1.6.1-1
 librime-data 0.0.0.20200908-1
@@ -697,7 +697,7 @@ linux-api-headers 5.8-1
 linux-firmware 20201120.bc9cd0b-1
 lirc 1:0.10.1-8
 llpp 33-1
-llvm-libs 11.0.0-3
+llvm-libs 11.0.0-4
 lm_sensors 3.6.0-2
 lmdb 0.9.27-1
 log4cplus 2.0.5-1
@@ -834,10 +834,10 @@ pixman 0.40.0-1
 pkgconf 1.7.3-1
 polkit 0.118-1
 polkit-qt5 0.113.0-2
-poppler 20.10.0-1
+poppler 20.12.0-1
 poppler-data 0.4.10-1
-poppler-glib 20.10.0-1
-poppler-qt5 20.10.0-1
+poppler-glib 20.12.0-1
+poppler-qt5 20.12.0-1
 popt 1.18-1
 portaudio 1:19.6.0-7
 portsmf 234-2
@@ -888,7 +888,7 @@ python-jinja 2.11.2-4
 python-jsonrpc-server 0.4.0-3
 python-jupyter_client 6.1.7-3
 python-jupyter_core 4.6.3-4
-python-language-server 0.36.0-3
+python-language-server 0.36.1-1
 python-markdown 3.3.3-2
 python-markupsafe 1.1.1-6
 python-msgpack 1.0.0-3
@@ -995,7 +995,7 @@ qt5-webchannel 5.15.2-1
 qt5-webengine 5.15.2-1
 qt5-webkit 5.212.0alpha4-8
 qt5-x11extras 5.15.2-1
-qv2ray 2.6.3-7
+qv2ray 2.6.3-8
 radeontool 1.6.3-4
 rainbarf-git 20140404-1
 ranger-git 1.9.3.101.g57127d53-1
@@ -1068,9 +1068,9 @@ suil 0.10.8-1
 suitesparse 5.8.1-1
 svt-hevc 1.5.0-1
 sysfsutils 2.1.0-11
-systemd 246.6-1
-systemd-libs 246.6-1
-systemd-sysvcompat 246.6-1
+systemd 247.1-1
+systemd-libs 247.1-1
+systemd-sysvcompat 247.1-1
 taglib 1.11.1-4
 talloc 2.3.1-5
 tar 1.32-3
