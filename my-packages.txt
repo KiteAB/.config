@@ -191,8 +191,8 @@ gettext 0.21-1
 giflib 5.2.1-2
 gimp 2.10.22-1
 git 2.29.2-1
-git-delta-git 0.4.5.20201202-2
-github-cli 1.3.0-1
+git-delta-git 0.4.5.20201203-2
+github-cli 1.3.1-1
 glew 2.2.0-2
 glib-networking 2.66.0-1
 glib2 2.66.3-1
@@ -205,7 +205,7 @@ gnome-autoar 0.2.4-2
 gnome-desktop 1:3.38.2-1
 gnome-video-effects 0.5.0+4+g9554041-2
 gnupg 2.2.24-1
-gnutls 3.6.15-1
+gnutls 3.7.0-1
 go 2:1.15.5-2
 gobject-introspection-runtime 1.66.1-3
 google-chrome 87.0.4280.88-1
@@ -747,7 +747,7 @@ msgpack-c 3.3.0-1
 mtdev 1.1.6-1
 mujs 1.0.9-1
 mypaint-brushes1 1.3.1-1
-nano 5.3-1
+nano 5.4-1
 nautilus 3.38.2-1
 ncurses 6.2-1
 ndctl 70.1-1
@@ -1007,7 +1007,7 @@ re2 1:20201001-1
 readline 8.0.004-1
 recode 3.7.8-1
 redland 1:1.0.17-8
-reflector 2020.9-2
+reflector 2020.12-1
 rest 0.8.1-3
 rhash 1.4.0-1
 rime-bopomofo 0.0.0.20190120-2
@@ -1058,7 +1058,7 @@ spandsp 0.0.6-3
 speex 1.2.0-3
 speexdsp 1.2.0-2
 spirv-tools 2020.4-1
-sqlite 3.33.0-2
+sqlite 3.34.0-1
 sratom 0.6.6-1
 srt 1.4.2-1
 startup-notification 0.12-7
@@ -1114,8 +1114,8 @@ usbutils 013-1
 util-linux 2.36.1-4
 util-linux-libs 2.36.1-4
 v2ray 4.33.0-1
-v2ray-domain-list-community 20201130101618-1
-v2ray-geoip 202011260013-1
+v2ray-domain-list-community 20201203134740-1
+v2ray-geoip 202012030015-1
 v4l-utils 1.20.0-1
 vamp-plugin-sdk 2.10.0-1
 ventoy-bin 1.0.29-1
