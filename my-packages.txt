@@ -28,7 +28,7 @@ android-tools 30.0.5-1
 aom 2.0.1-1
 arandr 0.1.10-5
 arc-icon-theme 20161122-3
-archlinux-keyring 20201028-1
+archlinux-keyring 20201210-1
 archlinuxcn-keyring 20201201-1
 argon2 20190702-3
 aria2 1.35.0-2
@@ -100,7 +100,7 @@ cowsay 3.04-2
 cpupower 5.9-2
 cryptsetup 2.3.4-1
 ctags 1:r20200106+ga3c87ab5-1
-curl 7.73.0-1
+curl 7.74.0-1
 dav1d 0.7.1-1
 db 5.3.28-5
 dbus 1.12.20-1
@@ -352,7 +352,7 @@ lib32-amdvlk 2020.Q4.5-1
 lib32-attr 2.4.48-1
 lib32-bzip2 1.0.8-2
 lib32-clang 11.0.0-2
-lib32-curl 7.73.0-1
+lib32-curl 7.74.0-1
 lib32-dbus 1.12.20-1
 lib32-e2fsprogs 1.45.6-1
 lib32-expat 2.2.10-1
@@ -428,7 +428,7 @@ lib32-sdl2 2.0.12-1
 lib32-sqlite 3.33.0-1
 lib32-systemd 247.1-1
 lib32-util-linux 2.36.1-1
-lib32-vulkan-icd-loader 1.2.158-1
+lib32-vulkan-icd-loader 1.2.162-1
 lib32-vulkan-radeon 20.3.0-1
 lib32-wayland 1.18.0-2
 lib32-xz 5.2.5-1
@@ -718,7 +718,7 @@ lua53 5.3.6-1
 luajit 2.0.5-3
 lvm2 2.02.187-3
 lxappearance 0.6.3-4
-lz4 1:1.9.2-2
+lz4 1:1.9.3-1
 lzo 2.10-3
 m17n-db 1.8.0-3
 m17n-lib 1.8.0-7
@@ -1070,7 +1070,7 @@ sqlite 3.34.0-1
 sratom 0.6.6-1
 srt 1.4.2-1
 startup-notification 0.12-7
-steam 1.0.0.67-1
+steam 1.0.0.68-1
 sudo 1.9.4-2
 suil 0.10.8-1
 suitesparse 5.8.1-1
@@ -1136,7 +1136,7 @@ virtualbox-host-dkms 6.1.16-3
 vlc 3.0.11.1-6
 vmaf 1.5.3-1
 volume_key 0.3.12-5
-vulkan-icd-loader 1.2.158-1
+vulkan-icd-loader 1.2.162-1
 vulkan-radeon 20.3.0-3
 w3m 0.5.3.git20200507-2
 wavpack 5.3.0-1
@@ -1227,7 +1227,7 @@ xorg-xrefresh 1.0.6-2
 xorg-xset 1.2.4-2
 xorg-xsetroot 1.1.2-2
 xorg-xvinfo 1.1.4-2
-xorg-xwayland 1.20.0.r792.g36e353bcf-3
+xorg-xwayland 1.20.0.r792.g36e353bcf-5
 xorg-xwd 1.0.7-2
 xorg-xwininfo 1.1.5-2
 xorg-xwud 1.0.5-2
