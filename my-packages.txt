@@ -21,7 +21,7 @@ alsa-plugins 1:1.2.2-2
 alsa-topology-conf 1.2.4-2
 alsa-ucm-conf 1.2.4-2
 alsa-utils 1.2.4-2
-amd-ucode 20201120.bc9cd0b-1
+amd-ucode 20201218.646f159-1
 amdvlk 2020.Q4.6-1
 amtk 5.2.0-2
 android-tools 30.0.5-1
@@ -48,6 +48,7 @@ audit 2.8.5-9
 autoconf 2.69-7
 automake 1.16.2-3
 avahi 0.8+15+ge8a3dd0-3
+awesome-terminal-fonts 1.1.0-3
 babl 0.1.82-1
 base 2-2
 bash 5.1.0-2
@@ -267,8 +268,8 @@ iana-etc 20201012-1
 ibam 0.5.2-9
 icoutils 0.32.3-3
 icu 67.1-1
-imagemagick 7.0.10.51-1
-imlib2 1.7.0-1
+imagemagick 7.0.10.52-1
+imlib2 1.7.1-1
 inkscape 1.0.1-3
 iproute2 5.9.0-1
 iptables 1:1.8.6-1
@@ -282,8 +283,11 @@ java-environment-common 3-3
 java-runtime-common 3-3
 java8-openjfx 8.u202-3
 jbig2dec 0.19-1
+jdk11-openjdk 11.0.8.u10-1
 jdk8-openjdk 8.u265-1
 jemalloc 1:5.2.1-3
+jre11-openjdk 11.0.8.u10-1
+jre11-openjdk-headless 11.0.8.u10-1
 jre8-openjdk 8.u265-1
 jre8-openjdk-headless 8.u265-1
 js78 78.6.0-1
@@ -320,7 +324,7 @@ kirigami2 5.77.0-1
 kitemviews 5.77.0-1
 kjobwidgets 5.77.0-1
 kmod 27-2
-knewstuff 5.77.0-1
+knewstuff 5.77.0-2
 knotifications 5.77.0-1
 knotifyconfig 5.77.0-1
 kpackage 5.77.0-1
@@ -337,7 +341,7 @@ kxmlgui 5.77.0-1
 l-smash 2.14.5-2
 lame 3.100-3
 lapack 3.9.0-3
-lazydocker 0.10-2
+lazydocker 0.10-3
 lcms2 2.11-2
 ldb 1:2.2.0-3
 ldns 1.7.1-2
@@ -392,7 +396,7 @@ lib32-libtiff 4.1.0-1
 lib32-libtirpc 1.3.1-1
 lib32-libunistring 0.9.10-1
 lib32-libunwind 1.3.1-1
-lib32-libva-mesa-driver 20.3.0-1
+lib32-libva-mesa-driver 20.3.1-1
 lib32-libx11 1.7.0-1
 lib32-libxau 1.0.9-1
 lib32-libxcb 1.14-1
@@ -412,12 +416,12 @@ lib32-libxxf86vm 1.1.4-2
 lib32-llvm-libs 11.0.0-2
 lib32-lm_sensors 3.6.0-1
 lib32-lz4 1.9.2-1
-lib32-mesa 20.3.0-1
-lib32-mesa-vdpau 20.3.0-1
+lib32-mesa 20.3.1-1
+lib32-mesa-vdpau 20.3.1-1
 lib32-ncurses 6.2-1
 lib32-nspr 4.29-1
 lib32-nss 3.60-1
-lib32-opencl-mesa 20.3.0-1
+lib32-opencl-mesa 20.3.1-1
 lib32-openssl 1:1.1.1.i-1
 lib32-p11-kit 0.23.22-1
 lib32-pam 1.4.0-1
@@ -428,7 +432,7 @@ lib32-sqlite 3.33.0-1
 lib32-systemd 247.2-1
 lib32-util-linux 2.36.1-1
 lib32-vulkan-icd-loader 1.2.162-1
-lib32-vulkan-radeon 20.3.0-1
+lib32-vulkan-radeon 20.3.1-1
 lib32-wayland 1.18.0-2
 lib32-xz 5.2.5-1
 lib32-zlib 1.2.11-2
@@ -500,7 +504,7 @@ libfdk-aac 2.0.1-2
 libffi 3.3-4
 libfontenc 1.1.4-3
 libfreehand 0.1.2-3
-libftdi 1.4-6
+libftdi 1.5-1
 libgcrypt 1.8.7-1
 libgdiplus 5.6.1-3
 libgexiv2 0.12.1-3
@@ -557,6 +561,7 @@ libmwaw 0.3.17-1
 libmypaint 1.5.1-2
 libnautilus-extension 3.38.2-1
 libndp 1.7-2
+libnet 1:1.1.6-1
 libnetfilter_conntrack 1.0.8-1
 libnewt 0.52.21-5
 libnfnetlink 1.0.1-4
@@ -637,14 +642,14 @@ libusbmuxd 2.0.2-1
 libutempter 1.2.1-1
 libuv 1.40.0-1
 libva 2.10.0-1
-libva-mesa-driver 20.3.0-3
+libva-mesa-driver 20.3.1-1
 libvdpau 1.4-1
 libvisio 0.1.7-3
 libvisual 0.4.0-8
 libvorbis 1.3.7-2
 libvpx 1.9.0-1
 libvterm 0.1.3.git1.65dbda-1
-libwacom 1.6-1
+libwacom 1.7-1
 libwebp 1.1.0-1
 libwmf 0.2.12-2
 libwpd 0.10.3-2
@@ -696,7 +701,7 @@ lightdm-gtk-greeter-settings 1.2.2-5
 lilv 0.24.10-3
 linux 5.9.14.arch1-1
 linux-api-headers 5.8-1
-linux-firmware 20201120.bc9cd0b-1
+linux-firmware 20201218.646f159-1
 linuxqq 2.0.0_b2_1084-2
 lirc 1:0.10.1-8
 llpp 33-1
@@ -706,6 +711,7 @@ lmdb 0.9.27-1
 log4cplus 2.0.5-1
 lpsolve 5.5.2.5-4
 lsb-release 1.4-18
+lsd 0.16.0-2
 lsof 4.94.0-1
 lua 5.4.2-1
 lua52 5.2.4-5
@@ -731,8 +737,8 @@ mbedtls 2.16.7-1
 md4c 0.4.6-1
 mdadm 4.1-2
 media-player-info 24-2
-mesa 20.3.0-3
-mesa-vdpau 20.3.0-3
+mesa 20.3.1-1
+mesa-vdpau 20.3.1-1
 metis 5.1.0.p10-1
 microsoft-edge-dev-bin 88.0.692.0-1
 minizip 1:1.2.11-4
@@ -754,7 +760,7 @@ mypaint-brushes1 1.3.1-1
 nano 5.4-1
 nautilus 3.38.2-1
 ncurses 6.2-1
-ndctl 70.1-1
+ndctl 71-1
 neofetch 7.1.0-2
 neon 0.31.2-1
 neovim 0.4.4-1
@@ -780,7 +786,7 @@ ocl-icd 2.2.13-1
 onefetch 2.8.0-1
 openal 1.21.0-1
 opencc 1.1.1-5
-opencl-mesa 20.3.0-3
+opencl-mesa 20.3.1-1
 opencollada 1:1.6.68-2
 opencolorio 1.1.1-6
 opencore-amr 0.1.5-5
@@ -854,7 +860,7 @@ procps-ng 3.3.16-2
 protobuf 3.12.4-3
 psmisc 23.3-2
 ptex 2.3.2-2
-pugixml 1.10-2
+pugixml 1.11.3-1
 pulseaudio 14.0-1
 pulseaudio-alsa 1:1.2.2-2
 pulseaudio-qt 1.2-2
@@ -925,7 +931,7 @@ python-pyqt5 5.15.2-2
 python-pyqt5-sip 12.8.1-3
 python-pyqtwebengine 5.15.2-2
 python-pyte 0.8.0-6
-python-pyzmq 19.0.1-4
+python-pyzmq 20.0.0-1
 python-qrcode 6.1-6
 python-qtconsole 5.0.1-1
 python-qtpy 1.9.0-5
@@ -1044,6 +1050,9 @@ screen 4.8.0-2
 screenfetch 3.9.1-1
 screenkey 1.3-1
 sd 0.7.6-1
+sddm 0.19.0-2
+sddm-kcm 5.20.4-1
+sddm-sugar-light 1.0-2
 sdl 1.2.15-14
 sdl2 2.0.12-3
 sed 4.8-1
@@ -1088,7 +1097,7 @@ tbb 2020.3-1
 tdb 1.4.3-4
 teamspeak3 3.5.6-1
 teamspeak3-server 3.13.3-1
-telegram-desktop 2.4.7-4
+telegram-desktop 2.4.7-5
 tepl 5.0.1-1
 tevent 1:0.10.2-3
 texinfo 6.7-3
@@ -1109,7 +1118,7 @@ ttf-liberation 2.1.1-1
 ttf-linux-libertine 5.3.0-6
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-2
 ttf-opensans 1.101-2
-ttf-sarasa-gothic 0.16.0-1
+ttf-sarasa-gothic 0.16.1-1
 ttf-symbola 13.00-2
 ttf-twemoji-color 13.0.1-1
 twolame 0.4.0-2
@@ -1125,7 +1134,7 @@ usbutils 013-1
 util-linux 2.36.1-4
 util-linux-libs 2.36.1-4
 v2ray 4.33.0-1
-v2ray-domain-list-community 20201217111439-1
+v2ray-domain-list-community 20201219090500-1
 v2ray-geoip 202012170018-1
 v4l-utils 1.20.0-1
 vamp-plugin-sdk 2.10.0-1
@@ -1140,7 +1149,7 @@ vlc 3.0.11.1-6
 vmaf 1.5.3-1
 volume_key 0.3.12-5
 vulkan-icd-loader 1.2.162-1
-vulkan-radeon 20.3.0-3
+vulkan-radeon 20.3.1-1
 w3m 0.5.3.git20200507-2
 wavpack 5.3.0-1
 wayland 1.18.0-2
