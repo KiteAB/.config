@@ -250,13 +250,13 @@ gdl 3.34.0-2
 gedit 3.38.1-1
 gegl 0.4.26-1
 geoip 1.6.12-2
-geoip-database 20201110-1
+geoip-database 20201222-1
 gettext 0.21-1
 ghostscript 9.53.3-2
 giflib 5.2.1-2
 gimp 2.10.22-1
 git 2.29.2-1
-git-delta-git 0.5.0.20201223-1
+git-delta-git 0.5.0.20201224-1
 github-cli 1.4.0-1
 glew 2.2.0-2
 glib-networking 2.66.0-1
@@ -338,7 +338,7 @@ icoutils 0.32.3-3
 icu 68.2-1
 id3lib 3.8.3-18
 ijs 0.35-3
-imagemagick 7.0.10.52-1
+imagemagick 7.0.10.53-1
 imlib2 1.7.1-1
 incidenceeditor 20.12.0-1
 inkscape 1.0.1-3
@@ -828,6 +828,7 @@ libgphoto2 2.5.26-1
 libgravatar 20.12.0-1
 libgrss 0.7.0+16+g971c421-3
 libgsf 1.14.47-1
+libgtop 2.40.0+2+g31db82ef-2
 libgudev 234-1
 libgusb 0.3.5-1
 libgxps 0.3.1-2
@@ -879,7 +880,7 @@ liblqr 0.4.2-3
 liblrdf 0.6.1-4
 libluv 1.36.0-1
 libmad 0.15.1b-9
-libmagick6 6.9.11.52-1
+libmagick6 6.9.11.53-1
 libmatroska 1.6.2-1
 libmbim 1.24.4-1
 libmfx 20.5.0-1
@@ -1018,8 +1019,8 @@ libxdamage 1.1.5-3
 libxdg-basedir 1.2.0-5
 libxdmcp 1.1.3-3
 libxext 1.3.4-3
-libxfce4ui 4.14.1-3
-libxfce4util 4.14.0-2
+libxfce4ui 4.16.0-1
+libxfce4util 4.16.0-1
 libxfixes 5.0.3-4
 libxfont2 2.0.4-3
 libxft 2.3.3-2
@@ -1098,7 +1099,7 @@ marisa 0.2.6-3
 markdownpart 20.12.0-1
 mbedtls 2.16.7-1
 mbox-importer 20.12.0-1
-md4c 0.4.6-1
+md4c 0.4.7-1
 mdadm 4.1-2
 media-player-info 24-2
 mesa 20.3.1-1
@@ -1117,7 +1118,7 @@ mobile-broadband-provider-info 20190618-2
 modemmanager 1.14.8-1
 modemmanager-qt 5.77.0-1
 molequeue 0.9.0-2
-mono 6.10.0.104-1
+mono 6.12.0.107-1
 motrix-git 1.5.15.r36.ga4a4b23-1
 mpfr 4.1.0-1
 mpg123 1.26.3-2
@@ -1174,7 +1175,7 @@ openssh 8.4p1-2
 openssl 1.1.1.i-2
 openssl-1.0 1.0.2.u-1
 opensubdiv 3.4.3-4
-openvdb 7.2.0-1
+openvdb 7.2.1-1
 openxr 1.0.12-1
 opus 1.3.1-2
 orc 0.4.32-1
@@ -1313,7 +1314,7 @@ python-jupyter_core 4.6.3-4
 python-language-server 0.36.2-1
 python-markdown 3.3.3-2
 python-markupsafe 1.1.1-6
-python-msgpack 1.0.0-3
+python-msgpack 1.0.2-2
 python-numpy 1.19.4-3
 python-ordered-set 4.0.2-3
 python-packaging 20.8-2
@@ -1591,7 +1592,7 @@ util-linux 2.36.1-4
 util-linux-libs 2.36.1-4
 v2ray 4.33.0-1
 v2ray-domain-list-community 20201223134317-1
-v2ray-geoip 202012170018-1
+v2ray-geoip 202012240026-1
 v4l-utils 1.20.0-1
 vamp-plugin-sdk 2.10.0-1
 ventoy-bin 1.0.31-1
@@ -1650,8 +1651,8 @@ xf86-input-libinput 0.30.0-1
 xf86-video-amdgpu 19.1.0-2
 xf86-video-ati 1:19.1.0-2
 xf86-video-vesa 2.5.0-1
-xfce4-power-manager 1.6.6-1
-xfconf 4.14.4-1
+xfce4-power-manager 4.16.0-1
+xfconf 4.16.0-1
 xfsprogs 5.8.0-2
 xkeyboard-config 2.31-1
 xmlsec 1.2.31-1
