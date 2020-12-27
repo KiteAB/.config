@@ -134,6 +134,7 @@ convertlit 1.8-10
 coordgen 1.4.2-1
 coreutils 8.32-1
 cowsay 3.04-2
+cpio 2.13-2
 cpupower 5.10-2
 cronie 1.5.5-1
 cryptsetup 2.3.4-1
@@ -230,6 +231,7 @@ freecell-solver 6.2.0-1
 freetype2 2.10.4-1
 frei0r-plugins 1.7.0-1
 fribidi 1.0.10-1
+frpc 0.34.3-1
 fuse-common 3.10.1-1
 fuse2 2.9.9-4
 fuse3 3.10.1-1
@@ -257,7 +259,7 @@ ghostscript 9.53.3-2
 giflib 5.2.1-2
 gimp 2.10.22-1
 git 2.29.2-1
-git-delta-git 0.5.0.20201224-1
+git-delta-git 0.5.0.20201226-1
 github-cli 1.4.0-1
 glew 2.2.0-2
 glib-networking 2.66.0-1
@@ -477,6 +479,7 @@ killbots 20.12.0-1
 kimageannotator 0.4.0-1
 kimagemapeditor 20.12.0-1
 kimap 20.12.0-1
+kindd 2.1.0-1
 kinfocenter 5.20.4-1
 kinit 5.77.0-1
 kio 5.77.0-2
@@ -808,7 +811,7 @@ libepoxy 1.5.5-1
 libepubgen 0.1.1-2
 libetonyek 0.1.9-2
 libev 4.33-1
-libevdev 1.10.0-1
+libevdev 1.10.0-2
 libevent 2.1.12-1
 libexif 0.6.22-1
 libexttextcat 3.4.5-2
@@ -1122,7 +1125,7 @@ modemmanager 1.14.8-1
 modemmanager-qt 5.77.0-1
 molequeue 0.9.0-2
 mono 6.12.0.107-1
-motrix-git 1.5.15.r36.ga4a4b23-1
+motrix-git 1.5.15.r37.g79bf90b-1
 mpfr 4.1.0-1
 mpg123 1.26.3-2
 mplayer 38157-3
@@ -1579,7 +1582,7 @@ ttf-linux-libertine 5.3.0-6
 ttf-ms-fonts 2.0-12
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-2
 ttf-opensans 1.101-2
-ttf-sarasa-gothic 0.16.2-1
+ttf-sarasa-gothic 0.16.3-1
 ttf-symbola 13.00-2
 ttf-twemoji-color 13.0.1-1
 twolame 0.4.0-2
@@ -1590,6 +1593,8 @@ umbrello 20.12.0-1
 unibilium 2.1.0-2
 unicode-cldr 38.0-1
 unity-editor 1:2019.2.19f1-1
+unity-editor-doc 2019.2.19f1-1
+unity-editor-windows 2019.2.19f1-1
 unzip 6.0-14
 upower 0.99.11-3
 usbmuxd 1.1.1-1
@@ -1597,8 +1602,8 @@ usbutils 013-1
 util-linux 2.36.1-4
 util-linux-libs 2.36.1-4
 v2ray 4.33.0-1
-v2ray-domain-list-community 20201223134317-1
-v2ray-geoip 202012240026-1
+v2ray-domain-list-community 20201226082826-1
+v2ray-geoip 202012260831-1
 v4l-utils 1.20.0-1
 vamp-plugin-sdk 2.10.0-1
 ventoy-bin 1.0.31-1
