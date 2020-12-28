@@ -80,7 +80,7 @@ binutils 2.35.1-1
 bison 3.7.2-1
 black-hole-solver 1.10.1-1
 blas 3.9.0-3
-blender 17:2.91.0-8
+blender 17:2.91.0-9
 blinken 20.12.0-1
 blosc 1.20.1-1
 bluedevil 1:5.20.4-1
@@ -259,7 +259,7 @@ ghostscript 9.53.3-2
 giflib 5.2.1-2
 gimp 2.10.22-1
 git 2.29.2-1
-git-delta-git 0.5.0.20201226-1
+git-delta-git 0.5.0.20201228-1
 github-cli 1.4.0-1
 glew 2.2.0-2
 glib-networking 2.66.0-1
@@ -321,8 +321,8 @@ gupnp-igd 1.2.0-1
 gvfs 1.46.1-1
 gwenview 20.12.0-1
 gzip 1.10-3
-harfbuzz 2.7.3-1
-harfbuzz-icu 2.7.3-1
+harfbuzz 2.7.4-1
+harfbuzz-icu 2.7.4-1
 hdf5 1.12.0-2
 hicolor-icon-theme 0.17-2
 hidapi 0.10.1-1
@@ -642,7 +642,7 @@ lib32-gnutls 3.7.0-1
 lib32-gst-plugins-base-libs 1.18.2-1
 lib32-gstreamer 1.18.2-1
 lib32-gtk3 3.24.24-1
-lib32-harfbuzz 2.7.3-1
+lib32-harfbuzz 2.7.4-1
 lib32-icu 68.2-1
 lib32-json-glib 1.6.0-1
 lib32-keyutils 1.6.3-1
@@ -720,7 +720,7 @@ lib32-lm_sensors 3.6.0-1
 lib32-lz4 1.9.2-1
 lib32-mesa 20.3.1-1
 lib32-mesa-vdpau 20.3.1-1
-lib32-mpg123 1.26.3-1
+lib32-mpg123 1.26.4-1
 lib32-ncurses 6.2-1
 lib32-nettle 3.6-1
 lib32-nspr 4.29-1
@@ -940,8 +940,6 @@ libpipeline 1.5.3-1
 libplacebo 2.72.2-1
 libplist 2.2.0-3
 libpng 1.6.37-3
-libpng12 1.2.59-2
-libpqxx 6.4.5-2
 libproxy 0.4.16-1
 libpsl 0.21.1-1
 libpulse 14.0-1
@@ -1172,7 +1170,7 @@ opencl-mesa 20.3.1-1
 opencollada 1:1.6.68-2
 opencolorio 1.1.1-6
 opencore-amr 0.1.5-5
-openexr 2.5.3-5
+openexr 2.5.3-6
 openimagedenoise 1.2.4-1
 openimageio 2.2.9.0-3
 openjpeg2 2.3.1-3
@@ -1182,7 +1180,7 @@ openssh 8.4p1-2
 openssl 1.1.1.i-2
 openssl-1.0 1.0.2.u-1
 opensubdiv 3.4.3-4
-openvdb 7.2.1-1
+openvdb 8.0.0-1
 openxr 1.0.12-1
 opus 1.3.1-2
 orc 0.4.32-1
@@ -1261,7 +1259,6 @@ poppler-qt5 20.12.1-1
 popt 1.18-1
 portaudio 1:19.6.0-7
 portsmf 234-2
-postgresql-libs 13.1-3
 potrace 1.16-2
 powerdevil 5.20.4-1
 poxml 20.12.0-1
@@ -1592,9 +1589,6 @@ udisks2 2.9.1-1
 umbrello 20.12.0-1
 unibilium 2.1.0-2
 unicode-cldr 38.0-1
-unity-editor 1:2019.2.19f1-1
-unity-editor-doc 2019.2.19f1-1
-unity-editor-windows 2019.2.19f1-1
 unzip 6.0-14
 upower 0.99.11-3
 usbmuxd 1.1.1-1
