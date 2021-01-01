@@ -260,7 +260,7 @@ ghostscript 9.53.3-2
 giflib 5.2.1-2
 gimp 2.10.22-1
 git 2.30.0-1
-git-delta-git 0.5.1.20201231-1
+git-delta-git 0.5.1.20210101-1
 github-cli 1.4.0-1
 glew 2.2.0-2
 glib-networking 2.66.0-1
@@ -1181,7 +1181,7 @@ opencore-amr 0.1.5-5
 openexr 2.5.3-6
 openimagedenoise 1.2.4-1
 openimageio 2.2.9.0-3
-openjpeg2 2.3.1-3
+openjpeg2 2.4.0-1
 openmpi 4.0.5-2
 openshadinglanguage 1.11.10.0-3
 openssh 8.4p1-2
@@ -1600,7 +1600,7 @@ ttf-sarasa-gothic 0.16.3-1
 ttf-symbola 13.00-2
 ttf-twemoji-color 13.0.1-1
 twolame 0.4.0-2
-tzdata 2020e-1
+tzdata 2020f-1
 uchardet 0.0.7-1
 udisks2 2.9.1-1
 ueberzug 18.1.8-1
@@ -1614,8 +1614,8 @@ usbutils 013-1
 util-linux 2.36.1-4
 util-linux-libs 2.36.1-4
 v2ray 4.33.0-1
-v2ray-domain-list-community 20201230045146-1
-v2ray-geoip 202012280937-1
+v2ray-domain-list-community 20201231171202-1
+v2ray-geoip 202012310028-1
 v4l-utils 1.20.0-1
 vala 0.50.2-1
 vamp-plugin-sdk 2.10.0-1
