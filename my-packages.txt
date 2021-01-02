@@ -136,7 +136,7 @@ coreutils 8.32-1
 cowsay 3.04-2
 cpio 2.13-2
 cpupower 5.10-2
-cronie 1.5.5-1
+cronie 1.5.5-2
 cryptsetup 2.3.4-1
 ctags 1:r20200106+ga3c87ab5-1
 curl 7.74.0-1
@@ -177,6 +177,7 @@ dragon 20.12.0-1
 drkonqi 5.20.4-1
 e2fsprogs 1.45.6-3
 ebook-tools 0.2.2-7
+eclipse-platform 4.18-1
 editorconfig-core-c 0.12.4-1
 efibootmgr 17-2
 efivar 37-4
@@ -335,7 +336,7 @@ hidapi 0.10.1-1
 hmcl 3.3.172-1
 htop 3.0.4-1
 http-parser 2.9.4-1
-hugo 0.79.1-1
+hugo 0.80.0-1
 hunspell 1.7.0-3
 hwids 20200813.1-1
 hwloc 2.2.0-1
@@ -698,7 +699,7 @@ lib32-libudev0-shim 1-4
 lib32-libunistring 0.9.10-1
 lib32-libunwind 1.3.1-1
 lib32-libusb 1.0.23-2
-lib32-libva-mesa-driver 20.3.1-1
+lib32-libva-mesa-driver 20.3.2-1
 lib32-libvorbis 1.3.7-1
 lib32-libx11 1.7.0-1
 lib32-libxau 1.0.9-1
@@ -725,8 +726,8 @@ lib32-libxxf86vm 1.1.4-2
 lib32-llvm-libs 11.0.0-2
 lib32-lm_sensors 3.6.0-1
 lib32-lz4 1.9.2-1
-lib32-mesa 20.3.1-1
-lib32-mesa-vdpau 20.3.1-1
+lib32-mesa 20.3.2-1
+lib32-mesa-vdpau 20.3.2-1
 lib32-mpg123 1.26.4-1
 lib32-ncurses 6.2-1
 lib32-nettle 3.6-1
@@ -734,7 +735,7 @@ lib32-nspr 4.29-1
 lib32-nss 3.60-1
 lib32-ocl-icd 2.2.13-1
 lib32-openal 1.21.0-1
-lib32-opencl-mesa 20.3.1-1
+lib32-opencl-mesa 20.3.2-1
 lib32-openssl 1:1.1.1.i-1
 lib32-orc 0.4.32-1
 lib32-p11-kit 0.23.22-1
@@ -752,7 +753,7 @@ lib32-tdb 1.4.3-1
 lib32-util-linux 2.36.1-1
 lib32-vkd3d 1.2-2
 lib32-vulkan-icd-loader 1.2.162-1
-lib32-vulkan-radeon 20.3.1-1
+lib32-vulkan-radeon 20.3.2-1
 lib32-wayland 1.18.0-2
 lib32-xz 5.2.5-1
 lib32-zlib 1.2.11-2
@@ -1004,7 +1005,7 @@ libusbmuxd 2.0.2-1
 libutempter 1.2.1-1
 libuv 1.40.0-1
 libva 2.10.0-1
-libva-mesa-driver 20.3.1-1
+libva-mesa-driver 20.3.2-2
 libvdpau 1.4-1
 libvisio 0.1.7-4
 libvisual 0.4.0-8
@@ -1108,13 +1109,14 @@ mariadb-clients 10.5.8-1
 mariadb-libs 10.5.8-1
 marisa 0.2.6-3
 markdownpart 20.12.0-1
+maven 3.6.3-1
 mbedtls 2.16.7-1
 mbox-importer 20.12.0-1
 md4c 0.4.7-1
 mdadm 4.1-2
 media-player-info 24-2
-mesa 20.3.1-1
-mesa-vdpau 20.3.1-1
+mesa 20.3.2-2
+mesa-vdpau 20.3.2-2
 messagelib 20.12.0-1
 metis 5.1.0.p10-1
 microsoft-edge-dev-bin 88.0.692.0-1
@@ -1174,7 +1176,7 @@ onefetch 2.8.0-1
 openal 1.21.0-1
 openbabel 3.1.1-2
 opencc 1.1.1-5
-opencl-mesa 20.3.1-1
+opencl-mesa 20.3.2-2
 opencollada 1:1.6.68-2
 opencolorio 1.1.1-6
 opencore-amr 0.1.5-5
@@ -1277,7 +1279,7 @@ print-manager 20.12.0-1
 prison 5.77.0-1
 procps-ng 3.3.16-2
 protobuf 3.12.4-3
-psmisc 23.3-2
+psmisc 23.3-4
 ptex 2.3.2-2
 pugixml 1.11.4-1
 pulseaudio 14.0-1
@@ -1508,7 +1510,7 @@ signon-plugin-oauth2 0.25-1
 signon-ui 0.17+20171022-2
 signond 8.60-3
 slang 2.3.2-2
-smartmontools 7.1-4
+smartmontools 7.2-1
 smbclient 4.13.3-2
 snappy 1.1.8-2
 socat 1.7.3.4-2
@@ -1631,7 +1633,7 @@ vmaf 1.5.3-1
 volume_key 0.3.12-5
 vtk 8.2.0-17
 vulkan-icd-loader 1.2.162-1
-vulkan-radeon 20.3.1-1
+vulkan-radeon 20.3.2-2
 w3m 0.5.3.git20200507-2
 wavpack 5.3.0-1
 wayland 1.18.0-2
