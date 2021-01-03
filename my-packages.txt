@@ -201,7 +201,7 @@ faac 1.30-2
 faad2 2.10.0-1
 fakeroot 1.25.3-1
 farstream 0.2.9-2
-faudio 20.12-1
+faudio 21.01-1
 fcitx5 5.0.3-2
 fcitx5-chewing 5.0.2-1
 fcitx5-chinese-addons 5.0.2-3
@@ -269,7 +269,7 @@ glib2 2.66.4-1
 glib2-docs 2.66.4-1
 glibc 2.32-5
 glibmm 2.64.5-1
-glslang 11.0.0-1
+glslang 11.1.0-1
 glu 9.0.1-2
 gmp 6.2.1-1
 gnome-autoar 0.2.4-2
@@ -433,7 +433,7 @@ kde-dev-utils 20.12.0-1
 kde-gtk-config 5.20.4-1
 kdebugsettings 20.12.0-1
 kdeclarative 5.77.0-1
-kdeconnect-git 20.08.0.r141.8a5858a9-1
+kdeconnect-git 20.08.0.r142.1711f8b3-1
 kdecoration 5.20.4-1
 kded 5.77.0-1
 kdeedu-data 20.12.0-1
@@ -633,7 +633,7 @@ lib32-dbus 1.12.20-1
 lib32-dconf 0.38.0-1
 lib32-e2fsprogs 1.45.6-1
 lib32-expat 2.2.10-1
-lib32-faudio 20.12-1
+lib32-faudio 21.01-1
 lib32-flac 1.3.3-1
 lib32-fontconfig 2:2.13.91+48+gfcb0420-2
 lib32-freetype2 2.10.4-1
@@ -1182,7 +1182,7 @@ opencolorio 1.1.1-6
 opencore-amr 0.1.5-5
 openexr 2.5.3-6
 openimagedenoise 1.2.4-1
-openimageio 2.2.9.0-3
+openimageio 2.2.10.0-1
 openjpeg2 2.4.0-1
 openmpi 4.0.5-2
 openshadinglanguage 1.11.10.0-3
@@ -1342,7 +1342,7 @@ python-path-and-address 2.0.1-1
 python-pep517 0.9.1-3
 python-pexpect 4.8.0-3
 python-pickleshare 0.7.5-5
-python-pillow 8.0.1-3
+python-pillow 8.1.0-1
 python-pip 20.2.4-1
 python-pluggy 0.13.1-4
 python-ply 3.11-7
@@ -1466,7 +1466,7 @@ redland 1:1.0.17-8
 reflector 2020.12.20.1-1
 rest 0.8.1-3
 rhash 1.4.0-1
-rime-bopomofo 0.0.0.20190120-2
+rime-bopomofo 0.0.0.20210102-1
 rime-cangjie 0.0.0.20201030-1
 rime-emoji 0.0.0.20191102-1
 rime-essay 0.0.0.20201222-1
@@ -1489,7 +1489,7 @@ run-parts 4.8.6.1-2
 runc 1.0.0rc92-1
 sane 1.0.31-3
 sbc 1.5-1
-scrcpy 1.16-1
+scrcpy 1.17-1
 screen 4.8.0-2
 screenfetch 3.9.1-1
 screenkey 1.3-1
@@ -1598,7 +1598,7 @@ ttf-linux-libertine 5.3.0-6
 ttf-ms-fonts 2.0-12
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-2
 ttf-opensans 1.101-2
-ttf-sarasa-gothic 0.16.3-1
+ttf-sarasa-gothic 0.16.4-1
 ttf-symbola 13.00-2
 ttf-twemoji-color 13.0.1-1
 twolame 0.4.0-2
