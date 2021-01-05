@@ -155,7 +155,7 @@ deepin.com.qq.im.light 7.9.14308deepin8-4
 desktop-file-utils 0.26-1
 device-mapper 2.02.187-3
 dhcp 4.4.2-2
-dhcpcd 9.3.4-1
+dhcpcd 9.4.0-1
 diffutils 3.7-3
 discord 0.0.13-1
 discount 2.2.7-1
@@ -188,10 +188,11 @@ electronic-wechat 2.3.1-2
 elfutils 0.181-1
 elisa 20.12.0-1
 emacs 27.1-3
+emacsclient-desktop-git r2.5bdd031-1
 embree 3.12.1-1
 enca 1.19-4
 enchant 2.2.13-2
-ethtool 1:5.9-1
+ethtool 1:5.10-1
 eventviews 20.12.0-1
 exempi 2.5.2-1
 exfat-utils 1.3.0-2
@@ -209,7 +210,7 @@ fcitx5-configtool 5.0.1-1
 fcitx5-gtk 5.0.1-1
 fcitx5-material-color 0.0.0.20201212-1
 fcitx5-pinyin-moegirl 20201214-1
-fcitx5-pinyin-zhwiki 20201220-1
+fcitx5-pinyin-zhwiki 20210101-1
 fcitx5-qt 5.0.1-1
 fcitx5-rime 5.0.2-1
 fd 8.2.1-1
@@ -237,7 +238,7 @@ frpc 0.34.3-1
 fuse-common 3.10.1-1
 fuse2 2.9.9-4
 fuse3 3.10.1-1
-fzf 0.24.4-1
+fzf 0.25.0-1
 gamemode 1.6-9
 gavl 1.4.0-4
 gawk 5.1.0-1
@@ -249,7 +250,7 @@ gcr 3.38-1
 gd 2.3.0-1
 gdb 10.1-4
 gdb-common 10.1-4
-gdbm 1.18.1-3
+gdbm 1.19-1
 gdk-pixbuf2 2.42.2-1
 gdl 3.34.0-2
 gedit 3.38.1-1
@@ -261,7 +262,7 @@ ghostscript 9.53.3-2
 giflib 5.2.1-2
 gimp 2.10.22-1
 git 2.30.0-1
-git-delta-git 0.5.1.20210101-1
+git-delta-git 0.5.1.20210104-1
 github-cli 1.4.0-1
 glew 2.2.0-2
 glib-networking 2.66.0-1
@@ -282,7 +283,7 @@ go 2:1.15.6-1
 gobject-introspection-runtime 1.66.1-3
 google-chrome 87.0.4280.88-1
 google-glog 0.4.0-2
-gperftools 2.8-1
+gperftools 2.8.1-1
 gpgme 1.15.0-2
 gpm 1.20.7.r38.ge82d1a6-3
 gptfdisk 1.0.5-1
@@ -348,7 +349,7 @@ icoutils 0.32.3-3
 icu 68.2-1
 id3lib 3.8.3-18
 ijs 0.35-3
-imagemagick 7.0.10.54-1
+imagemagick 7.0.10.55-1
 imlib2 1.7.1-1
 incidenceeditor 20.12.0-1
 inkscape 1.0.1-4
@@ -952,7 +953,7 @@ libproxy 0.4.17-1
 libpsl 0.21.1-1
 libpulse 14.0-1
 libqaccessibilityclient 0.4.1-2
-libqalculate 3.15.0-2
+libqalculate 3.16.0-1
 libqmi 1.26.6-1
 libquvi 0.9.4-6
 libquvi-scripts 0.9.20131130-5
@@ -1110,7 +1111,7 @@ mariadb-libs 10.5.8-1
 marisa 0.2.6-3
 markdownpart 20.12.0-1
 maven 3.6.3-1
-mbedtls 2.16.7-1
+mbedtls 2.25.0-1
 mbox-importer 20.12.0-1
 md4c 0.4.7-1
 mdadm 4.1-2
@@ -1125,7 +1126,7 @@ minizip 1:1.2.11-4
 minuet 20.12.0-1
 mjpegtools 2.1.0-5
 mkinitcpio 29-1
-mkinitcpio-busybox 1.31.1-2
+mkinitcpio-busybox 1.32.1-1
 mlt 6.24.0-1
 mobile-broadband-provider-info 20201225-1
 modemmanager 1.14.8-1
@@ -1160,7 +1161,7 @@ nginx 1.18.0-2
 nm-connection-editor 1.18.0-1
 nmap 7.91-1
 node-gyp 7.1.1-1
-nodejs 15.5.0-1
+nodejs 15.5.1-1
 noto-fonts 20201226-1
 noto-fonts-cjk 20201206-1
 noto-fonts-emoji 20200916-1
@@ -1169,7 +1170,7 @@ npth 1.6-2
 nspr 4.29-1
 nss 3.60-1
 ntfs-3g 2017.3.23-5
-obs-studio 26.1.0-1
+obs-studio 26.1.0-2
 ocl-icd 2.2.13-1
 okular 20.12.0-1
 onefetch 2.8.0-1
@@ -1198,7 +1199,7 @@ os-prober 1.77-2
 osinfo-db 20201015-1
 oxygen 5.20.4-1
 p11-kit 0.23.22-1
-p7zip 16.02-6
+p7zip 17.03-1
 package-query 1.11-1
 pacman 5.2.2-1
 pacman-contrib 1.4.0-1
@@ -1458,7 +1459,7 @@ rapidjson 1.1.0-5
 raptor 2.0.15-15
 rar 6.0.0-1
 rasqal 1:0.9.33-4
-rav1e 0.3.4-1
+rav1e 0.3.5-1
 re2 1:20201101-1
 readline 8.1.0-2
 recode 3.7.8-1
@@ -1482,8 +1483,8 @@ rtmpdump 1:2.4.r96.fa8646d-6
 rttr 0.9.6-3
 rubberband 1.9-1
 ruby 2.7.2-1
-ruby-irb 1.2.7-1
-ruby-reline 0.1.6-1
+ruby-irb 1.3.0-1
+ruby-reline 0.2.0-1
 rubygems 3.1.4-1
 run-parts 4.8.6.1-2
 runc 1.0.0rc92-1
@@ -1504,7 +1505,7 @@ semver 7.3.4-1
 serd 0.30.6-1
 shaderc 2020.3-1
 shadow 4.8.1-4
-shared-mime-info 2.0+1+g6bf9e4f-2
+shared-mime-info 2.0+57+gc1d1c70-1
 signon-kwallet-extension 20.12.0-1
 signon-plugin-oauth2 0.25-1
 signon-ui 0.17+20171022-2
@@ -1615,8 +1616,8 @@ usbmuxd 1.1.1-1
 usbutils 013-1
 util-linux 2.36.1-4
 util-linux-libs 2.36.1-4
-v2ray 4.33.0-1
-v2ray-domain-list-community 20201231171202-1
+v2ray 4.34.0-1
+v2ray-domain-list-community 20210105010857-1
 v2ray-geoip 202012310028-1
 v4l-utils 1.20.0-1
 vala 0.50.2-1
