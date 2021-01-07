@@ -13,6 +13,7 @@ ranger/folders.conf
 !/gh/
 /gh/hosts.yml
 !/omf/
+!/latte/
 !/.zshrc
 !/.gitignore
 !/README.md
