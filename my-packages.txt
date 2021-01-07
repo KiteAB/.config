@@ -45,6 +45,7 @@ arc-icon-theme 20161122-3
 archlinux-appstream-data 20201223-1
 archlinux-keyring 20201210-1
 archlinuxcn-keyring 20201201-1
+arctime 2.4.1-1
 argon2 20190702-3
 aria2 1.35.0-2
 aribb24 1.0.3-3
@@ -56,7 +57,7 @@ at-spi2-atk 2.38.0-1
 at-spi2-core 2.38.0-1
 atk 2.36.0-1
 atkmm 2.28.1-1
-atop 2.5.0-3
+atop 2.6.0-2
 attica 5.77.0-1
 attr 2.4.48-3
 audacity 1:2.4.1-4
@@ -198,6 +199,7 @@ exempi 2.5.2-1
 exfat-utils 1.3.0-2
 exiv2 0.27.3-1
 expat 2.2.10-2
+extra-cmake-modules 5.77.0-1
 faac 1.30-2
 faad2 2.10.0-1
 fakeroot 1.25.3-1
@@ -262,7 +264,7 @@ ghostscript 9.53.3-2
 giflib 5.2.1-2
 gimp 2.10.22-1
 git 2.30.0-1
-git-delta-git 0.5.1.20210105-1
+git-delta-git 0.5.1.20210107-1
 github-cli 1.4.0-1
 glew 2.2.0-2
 glib-networking 2.66.0-1
@@ -281,7 +283,7 @@ gnupg 2.2.25-1
 gnutls 3.7.0-1
 go 2:1.15.6-1
 gobject-introspection-runtime 1.66.1-3
-google-chrome 87.0.4280.88-1
+google-chrome 87.0.4280.141-1
 google-glog 0.4.0-2
 gperftools 2.8.1-1
 gpgme 1.15.0-2
@@ -349,7 +351,7 @@ icoutils 0.32.3-3
 icu 68.2-1
 id3lib 3.8.3-18
 ijs 0.35-3
-imagemagick 7.0.10.55-1
+imagemagick 7.0.10.56-1
 imlib2 1.7.1-1
 incidenceeditor 20.12.0-1
 inkscape 1.0.1-4
@@ -608,7 +610,7 @@ kxmlgui 5.77.0-1
 l-smash 2.14.5-2
 lame 3.100-3
 lapack 3.9.0-3
-latte-dock 0.9.11-1
+latte-dock-git 0.9.11.r4700.f8cce7ac-1
 lazydocker 0.10-3
 lcms2 2.11-2
 ldb 1:2.2.0-3
@@ -646,7 +648,7 @@ lib32-glib-networking 2.66.0-1
 lib32-glib2 2.66.4-1
 lib32-glibc 2.32-5
 lib32-glu 9.0.1-1
-lib32-gmp 6.2.0-1
+lib32-gmp 6.2.1-1
 lib32-gnutls 3.7.0-1
 lib32-gst-plugins-base-libs 1.18.2-1
 lib32-gstreamer 1.18.2-1
@@ -734,7 +736,7 @@ lib32-ncurses 6.2-1
 lib32-nettle 3.6-1
 lib32-nspr 4.29-1
 lib32-nss 3.60-1
-lib32-ocl-icd 2.2.13-1
+lib32-ocl-icd 2.2.14-1
 lib32-openal 1.21.0-1
 lib32-opencl-mesa 20.3.2-1
 lib32-openssl 1:1.1.1.i-1
@@ -812,7 +814,7 @@ libdvbpsi 1:1.3.3-2
 libdvdnav 6.1.0-2
 libdvdread 6.1.1-1
 libe-book 0.1.3-8
-libebml 1.4.0-1
+libebml 1.4.1-1
 libebur128 1.2.4-3
 libedit 20191231_3.1-2
 libelf 0.182-1
@@ -1153,7 +1155,7 @@ nerd-fonts-complete 2.1.0-4
 net-snmp 5.9-3
 net-tools 1.60.20181103git-2
 netpbm 10.73.33-1
-nettle 3.6-1
+nettle 3.7-1
 network-manager-applet 1.18.0-1
 networkmanager 1.26.4-1
 networkmanager-qt 5.77.0-1
@@ -1171,7 +1173,7 @@ nspr 4.29-1
 nss 3.60-1
 ntfs-3g 2017.3.23-5
 obs-studio 26.1.0-2
-ocl-icd 2.2.13-1
+ocl-icd 2.2.14-1
 okular 20.12.0-1
 onefetch 2.8.0-1
 openal 1.21.0-1
@@ -1335,7 +1337,7 @@ python-lxml 4.6.2-1
 python-markdown 3.3.3-2
 python-markupsafe 1.1.1-6
 python-msgpack 1.0.2-2
-python-numpy 1.19.4-3
+python-numpy 1.19.5-1
 python-ordered-set 4.0.2-3
 python-packaging 20.8-2
 python-parso 1:0.7.1-3
@@ -1348,7 +1350,7 @@ python-pip 20.2.4-1
 python-pluggy 0.13.1-4
 python-ply 3.11-7
 python-progress 1.5-5
-python-prompt_toolkit 3.0.8-3
+python-prompt_toolkit 3.0.9-1
 python-psutil 5.8.0-1
 python-ptyprocess 0.6.0-6
 python-pycparser 2.20-3
@@ -1617,12 +1619,12 @@ usbutils 013-1
 util-linux 2.36.1-4
 util-linux-libs 2.36.1-4
 v2ray 4.34.0-1
-v2ray-domain-list-community 20210105135438-1
+v2ray-domain-list-community 20210106164413-1
 v2ray-geoip 202012310028-1
 v4l-utils 1.20.0-1
 vala 0.50.2-1
 vamp-plugin-sdk 2.10.0-1
-ventoy-bin 1.0.31-1
+ventoy-bin 1.0.32-1
 vi 1:070224-4
 vid.stab 1.1-3
 vim 8.2.1989-3
@@ -1675,6 +1677,7 @@ xclip 0.13-3
 xdg-dbus-proxy 0.1.2-2
 xdg-desktop-portal-kde 5.20.5-1
 xdg-utils 1.1.3+19+g9816ebb-1
+xdotool 3.20160805.1-3
 xerces-c 3.2.3-2
 xf86-input-libinput 0.30.0-1
 xf86-video-amdgpu 19.1.0-2
