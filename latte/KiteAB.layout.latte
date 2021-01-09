@@ -33,21 +33,6 @@ PreloadWeight=0
 isInLatteDock=true
 launchers59=applications:org.kde.dolphin.desktop,applications:google-chrome.desktop,applications:emacs.desktop,applications:systemsettings.desktop,applications:st.desktop,applications:org.kde.ksysguard.desktop,applications:hmcl.desktop,applications:visual-studio-code.desktop,file:///usr/share/applications/steam.desktop,applications:com.obsproject.Studio.desktop,applications:org.kde.kdenlive.desktop,applications:screenkey.desktop,applications:virtualbox.desktop,applications:audacity.desktop,applications:org.inkscape.Inkscape.desktop,applications:gimp.desktop,applications:teamspeak3.desktop,applications:electron-netease-cloud-music.desktop,applications:org.flameshot.Flameshot.desktop,applications:wps-office-prometheus.desktop,applications:telegramdesktop.desktop,applications:qv2ray.desktop
 
-[Containments][1][Applets][48]
-immutability=1
-plugin=org.kde.plasma.kickerdash
-
-[Containments][1][Applets][48][Configuration]
-PreloadWeight=60
-
-[Containments][1][Applets][48][Configuration][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
-[Containments][1][Applets][48][Configuration][General]
-favoriteSystemActions=logout
-favoritesPortedToKAstats=true
-
 [Containments][1][Applets][49]
 immutability=1
 plugin=org.kde.plasma.trash
@@ -62,6 +47,20 @@ plugin=org.kde.latte.separator
 [Containments][1][Applets][54][Configuration]
 PreloadWeight=26
 
+[Containments][1][Applets][69]
+immutability=1
+plugin=org.kde.plasma.dittomenu
+
+[Containments][1][Applets][69][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][1][Applets][69][Configuration][General]
+customButtonImage=app-launcher
+favoriteSystemActions=logout,lock-screen
+favoritesPortedToKAstats=true
+useCustomButtonImage=true
+
 [Containments][1][ConfigDialog]
 DialogHeight=901
 DialogWidth=539
@@ -72,7 +71,7 @@ PreloadWeight=0
 [Containments][1][General]
 advanced=false
 alignmentUpgraded=true
-appletOrder=48;2;54;49
+appletOrder=69;2;54;49
 durationTime=x1
 iconSize=49
 lengthExtMargin=4
@@ -113,7 +112,7 @@ immutability=1
 plugin=org.kde.kdeconnect
 
 [Containments][15][Applets][16][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][15][Applets][17]
 immutability=1
@@ -211,14 +210,14 @@ immutability=1
 plugin=org.kde.plasma.mediacontroller
 
 [Containments][15][Applets][67][Configuration]
-PreloadWeight=42
+PreloadWeight=34
 
 [Containments][15][Applets][68]
 immutability=1
 plugin=org.kde.plasma.mediacontroller_plus
 
 [Containments][15][Applets][68][Configuration]
-PreloadWeight=42
+PreloadWeight=34
 
 [Containments][15][General]
 extraItems=org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.mediacontroller,org.kde.plasma.devicenotifier,org.kde.kdeconnect,org.kde.plasma.printmanager,org.kde.plasma.bluetooth,org.kde.plasma.keyboardindicator,org.kde.plasma.vault,org.kde.ktp-contactlist,org.kde.plasma.nightcolorcontrol,org.kde.plasma.volume,org.kde.plasma.mediacontroller_plus
@@ -281,7 +280,7 @@ immutability=1
 plugin=org.kpple.kppleMenu
 
 [Containments][4][Applets][44][Configuration]
-PreloadWeight=92
+PreloadWeight=100
 
 [Containments][4][Applets][44][Configuration][ConfigDialog]
 DialogHeight=540
