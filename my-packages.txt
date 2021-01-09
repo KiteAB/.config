@@ -33,7 +33,7 @@ alsa-topology-conf 1.2.4-2
 alsa-ucm-conf 1.2.4-2
 alsa-utils 1.2.4-2
 amd-ucode 20201218.646f159-1
-amdvlk 2020.Q4.6-1
+amdvlk 2021.Q1.1-1
 amtk 5.2.0-2
 analitza 20.12.1-1
 android-tools 30.0.5-1
@@ -102,7 +102,7 @@ bubblewrap 0.4.1-1
 bzip2 1.0.8-4
 c-ares 1.17.1-1
 ca-certificates 20181109-4
-ca-certificates-mozilla 3.60-1
+ca-certificates-mozilla 3.60.1-1
 ca-certificates-utils 20181109-4
 cabextract 1.9.1-2
 cairo 1.17.4-3
@@ -264,7 +264,7 @@ ghostscript 9.53.3-2
 giflib 5.2.1-2
 gimp 2.10.22-1
 git 2.30.0-1
-git-delta-git 0.5.1.20210107-2
+git-delta-git 0.5.1.20210108-1
 github-cli 1.4.0-1
 glew 2.2.0-2
 glib-networking 2.66.0-1
@@ -276,7 +276,7 @@ glslang 11.1.0-1
 glu 9.0.1-2
 gmp 6.2.1-1
 gnome-autoar 0.2.4-2
-gnome-desktop 1:3.38.2-1
+gnome-desktop 1:3.38.3-1
 gnome-video-effects 0.5.0+4+g9554041-2
 gnugo 3.8-7
 gnupg 2.2.25-1
@@ -327,7 +327,7 @@ gumbo-parser 0.10.1-2
 gupnp 1.2.4-1
 gupnp-dlna 0.10.5+4+gc947eed-2
 gupnp-igd 1.2.0-1
-gvfs 1.46.1-1
+gvfs 1.46.2-1
 gwenview 20.12.1-1
 gzip 1.10-3
 harfbuzz 2.7.4-1
@@ -531,7 +531,7 @@ knetattach 5.20.5-1
 knetwalk 20.12.1-1
 knewstuff 5.77.0-2
 knights 20.12.1-1
-knotes 20.12.1-1
+knotes 20.12.1-2
 knotifications 5.77.0-1
 knotifyconfig 5.77.0-1
 kolf 20.12.1-1
@@ -621,7 +621,7 @@ leveldb 1.22-2
 lib32-acl 2.2.53-1
 lib32-alsa-lib 1.2.4-2
 lib32-alsa-plugins 1.2.2-1
-lib32-amdvlk 2020.Q4.6-1
+lib32-amdvlk 2021.Q1.1-1
 lib32-at-spi2-atk 2.38.0-1
 lib32-at-spi2-core 2.38.0-1
 lib32-atk 2.36.0-1
@@ -735,7 +735,7 @@ lib32-mpg123 1.26.4-1
 lib32-ncurses 6.2-1
 lib32-nettle 3.6-1
 lib32-nspr 4.29-1
-lib32-nss 3.60-1
+lib32-nss 3.60.1-1
 lib32-ocl-icd 2.2.14-1
 lib32-openal 1.21.0-1
 lib32-opencl-mesa 20.3.2-1
@@ -834,7 +834,7 @@ libfreehand 0.1.2-3
 libftdi 1.5-1
 libgcrypt 1.8.7-1
 libgdiplus 5.6.1-3
-libgexiv2 0.12.1-3
+libgexiv2 0.12.1-4
 libgit2 1:1.1.0-1
 libglvnd 1.3.2-1
 libgme 0.6.3-1
@@ -895,10 +895,10 @@ liblqr 0.4.2-3
 liblrdf 0.6.1-4
 libluv 1.36.0-1
 libmad 0.15.1b-9
-libmagick6 6.9.11.54-1
+libmagick6 6.9.11.56-1
 libmatroska 1.6.2-1
 libmbim 1.24.4-1
-libmfx 20.5.0-1
+libmfx 20.5.1-1
 libmicrodns 0.2.0-1
 libmicrohttpd 0.9.72-1
 libmm-glib 1.14.8-1
@@ -925,7 +925,7 @@ libnftnl 1.1.8-1
 libnghttp2 1.41.0-1
 libnice 0.1.18-1
 libnl 3.5.0-2
-libnm 1.26.4-1
+libnm 1.28.1dev+7+g3f5df3cdc6-1
 libnma 1.8.30-1
 libnotify 0.7.9-1
 libnsl 1.3.0-1
@@ -1066,7 +1066,7 @@ licenses 20200427-1
 lightdm 1:1.30.0-4
 lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-5
-lilv 0.24.10-3
+lilv 0.24.12-1
 linux 5.10.5.arch1-1
 linux-api-headers 5.8-1
 linux-firmware 20201218.646f159-1
@@ -1157,7 +1157,7 @@ net-tools 1.60.20181103git-2
 netpbm 10.73.33-1
 nettle 3.7-1
 network-manager-applet 1.18.0-1
-networkmanager 1.26.4-1
+networkmanager 1.28.1dev+7+g3f5df3cdc6-1
 networkmanager-qt 5.77.0-1
 nginx 1.18.0-2
 nm-connection-editor 1.18.0-1
@@ -1167,10 +1167,10 @@ nodejs 15.5.1-1
 noto-fonts 20201226-1
 noto-fonts-cjk 20201206-1
 noto-fonts-emoji 20200916-1
-npm 6.14.10-1
+npm 6.14.11-1
 npth 1.6-2
 nspr 4.29-1
-nss 3.60-1
+nss 3.60.1-1
 ntfs-3g 2017.3.23-5
 obs-studio 26.1.0-2
 ocl-icd 2.2.14-1
@@ -1504,7 +1504,7 @@ sdl 1.2.15-14
 sdl2 2.0.14-1
 sed 4.8-1
 semver 7.3.4-1
-serd 0.30.6-1
+serd 0.30.8-1
 shaderc 2020.3-1
 shadow 4.8.1-4
 shared-mime-info 2.0+57+gc1d1c70-1
@@ -1519,7 +1519,7 @@ snappy 1.1.8-2
 socat 1.7.3.4-2
 solid 5.77.0-1
 sonnet 5.77.0-1
-sord 0.16.6-1
+sord 0.16.8-1
 sound-theme-freedesktop 0.8-4
 soundtouch 2.2-1
 source-highlight 3.1.9-4
@@ -1530,13 +1530,13 @@ speexdsp 1.2.0-2
 spglib 1.16.0-1
 spirv-tools 2020.4-1
 sqlite 3.34.0-1
-sratom 0.6.6-1
+sratom 0.6.8-1
 srt 1.4.2-1
 startup-notification 0.12-7
 steam 1.0.0.68-1
 step 20.12.1-1
 sudo 1.9.4.p2-2
-suil 0.10.8-1
+suil 0.10.10-1
 suitesparse 5.8.1-1
 svgpart 20.12.1-1
 svt-hevc 1.5.0-1
@@ -1754,7 +1754,7 @@ zeroconf-ioslave 20.12.1-1
 zeromq 4.3.3-2
 zip 3.0-9
 zita-alsa-pcmi 0.3.2-3
-zita-resampler 1.6.2-3
+zita-resampler 1.8.0-1
 zlib 1:1.2.11-4
 zsh 5.8-1
 zstd 1.4.5-1
