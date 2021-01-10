@@ -216,7 +216,7 @@ fcitx5-pinyin-zhwiki 20210101-1
 fcitx5-qt 5.0.1-1
 fcitx5-rime 5.0.2-1
 fd 8.2.1-1
-feh 3.6.1-1
+feh 3.6.2-1
 ffmpeg 2:4.3.1-3
 ffmpegthumbs 20.12.1-1
 fftw 3.3.9-1
@@ -351,7 +351,7 @@ icoutils 0.32.3-3
 icu 68.2-1
 id3lib 3.8.3-18
 ijs 0.35-3
-imagemagick 7.0.10.56-1
+imagemagick 7.0.10.57-1
 imlib2 1.7.1-1
 incidenceeditor 20.12.1-1
 inkscape 1.0.1-4
@@ -522,12 +522,11 @@ kmenuedit 5.20.5-1
 kmime 20.12.1-1
 kmines 20.12.1-1
 kmix 20.12.1-1
-kmod 27-2
+kmod 28-1
 kmousetool 20.12.1-1
 kmouth 20.12.1-1
 kmplot 20.12.1-1
 knavalbattle 20.12.1-1
-knetattach 5.20.5-1
 knetwalk 20.12.1-1
 knewstuff 5.77.0-2
 knights 20.12.1-1
@@ -955,7 +954,7 @@ libproxy 0.4.17-1
 libpsl 0.21.1-1
 libpulse 14.0-1
 libqaccessibilityclient 0.4.1-2
-libqalculate 3.16.0-1
+libqalculate 3.16.1-1
 libqmi 1.26.6-1
 libquvi 0.9.4-6
 libquvi-scripts 0.9.20131130-5
@@ -1023,7 +1022,7 @@ libwpd 0.10.3-2
 libwpe 1.8.0-1
 libwpg 0.3.3-2
 libwps 0.4.12-1
-libx11 1.7.0-2
+libx11 1.7.0-3
 libxau 1.0.9-3
 libxaw 1.0.13-3
 libxcb 1.14-1
@@ -1105,8 +1104,8 @@ mailcommon 20.12.1-1
 mailimporter 20.12.1-1
 make 4.3-3
 man-db 2.9.3-1
-marble 20.12.1-1
-marble-common 20.12.1-1
+marble 20.12.1-2
+marble-common 20.12.1-2
 mariadb 10.5.8-1
 mariadb-clients 10.5.8-1
 mariadb-libs 10.5.8-1
@@ -1232,10 +1231,10 @@ perl-http-date 6.05-3
 perl-http-message 6.27-1
 perl-http-negotiate 6.01-8
 perl-io-html 1.004-1
-perl-libwww 6.51-1
+perl-libwww 6.52-1
 perl-lwp-mediatypes 6.02-8
 perl-mailtools 2.21-4
-perl-net-http 6.19-4
+perl-net-http 6.20-1
 perl-timedate 2.33-2
 perl-try-tiny 0.30-5
 perl-uri 5.05-1
@@ -1253,7 +1252,7 @@ pixman 0.40.0-1
 pkgconf 1.7.3-1
 pkgfile 21-2
 plasma-browser-integration 5.20.5-1
-plasma-desktop 5.20.5-1
+plasma-desktop 5.20.5-2
 plasma-disks 5.20.5-1
 plasma-framework 5.77.0-2
 plasma-integration 5.20.5-1
@@ -1262,7 +1261,7 @@ plasma-pa 5.20.5-1
 plasma-sdk 5.20.5-1
 plasma-thunderbolt 5.20.5-1
 plasma-vault 5.20.5-1
-plasma-workspace 5.20.5-1
+plasma-workspace 5.20.5-2
 plasma-workspace-wallpapers 5.20.5-1
 polkit 0.118-1
 polkit-kde-agent 5.20.5-1
@@ -1350,7 +1349,7 @@ python-pip 20.2.4-1
 python-pluggy 0.13.1-4
 python-ply 3.11-7
 python-progress 1.5-5
-python-prompt_toolkit 3.0.9-1
+python-prompt_toolkit 3.0.10-1
 python-psutil 5.8.0-1
 python-ptyprocess 0.6.0-6
 python-pycparser 2.20-3
@@ -1370,7 +1369,7 @@ python-qtpy 1.9.0-5
 python-requests 2.25.1-1
 python-resolvelib 0.5.4-1
 python-retrying 1.3.3-9
-python-setuptools 1:51.1.1-1
+python-setuptools 1:51.1.2-1
 python-sgmllib 5.2.1-9
 python-sip4 4.19.24-1
 python-six 1.15.0-3
@@ -1466,7 +1465,7 @@ re2 1:20201101-1
 readline 8.1.0-2
 recode 3.7.8-1
 redland 1:1.0.17-8
-reflector 2020.12.20.1-1
+reflector 2021-1
 rest 0.8.1-3
 rhash 1.4.0-1
 rime-bopomofo 0.0.0.20210102-1
@@ -1601,14 +1600,14 @@ ttf-linux-libertine 5.3.0-6
 ttf-ms-fonts 2.0-12
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-2
 ttf-opensans 1.101-2
-ttf-sarasa-gothic 0.16.4-1
+ttf-sarasa-gothic 0.16.5-1
 ttf-symbola 13.00-2
 ttf-twemoji-color 13.0.1-1
 twolame 0.4.0-2
 tzdata 2020f-1
 uchardet 0.0.7-1
 udisks2 2.9.1-1
-ueberzug 18.1.8-1
+ueberzug 18.1.9-1
 umbrello 20.12.1-1
 unibilium 2.1.0-2
 unicode-cldr 38.0-1
