@@ -5,7 +5,7 @@ accountsservice 0.6.55-3
 acl 2.2.53-3
 acorn 1:8.0.4-1
 acpi 1.7-3
-acpi_call 1.2.1-17
+acpi_call 1.2.1-18
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-1
@@ -26,7 +26,7 @@ akonadiconsole 20.12.1-1
 akregator 20.12.1-1
 alacritty 0.7.1-1
 alembic 1.7.16-1
-alsa-card-profiles 14.1-1
+alsa-card-profiles 14.1-2
 alsa-lib 1.2.4-3
 alsa-plugins 1:1.2.2-2
 alsa-topology-conf 1.2.4-2
@@ -211,7 +211,7 @@ fcitx5-chinese-addons 5.0.3-1
 fcitx5-configtool 5.0.2-1
 fcitx5-gtk 5.0.3-1
 fcitx5-material-color 0.0.0.20201212-1
-fcitx5-pinyin-moegirl 20210110-1
+fcitx5-pinyin-moegirl 20210114-1
 fcitx5-pinyin-zhwiki 20210101-1
 fcitx5-qt 5.0.2-2
 fcitx5-rime 5.0.3-1
@@ -306,13 +306,13 @@ gsl 2.6-2
 gsm 1.0.19-1
 gspell 1.8.4-1
 gssdp 1.2.3-1
-gst-libav 1.18.2-1
-gst-plugins-bad 1.18.2-2
-gst-plugins-bad-libs 1.18.2-2
-gst-plugins-base 1.18.2-1
-gst-plugins-base-libs 1.18.2-1
-gst-plugins-good 1.18.2-1
-gstreamer 1.18.2-1
+gst-libav 1.18.3-1
+gst-plugins-bad 1.18.3-1
+gst-plugins-bad-libs 1.18.3-1
+gst-plugins-base 1.18.3-1
+gst-plugins-base-libs 1.18.3-1
+gst-plugins-good 1.18.3-1
+gstreamer 1.18.3-1
 gtk-doc 1.33.1-1
 gtk-update-icon-cache 1:4.0.1-1
 gtk2 2.24.33-1
@@ -609,7 +609,7 @@ kxmlgui 5.78.0-1
 l-smash 2.14.5-2
 lame 3.100-3
 lapack 3.9.0-3
-latte-dock-git 0.9.11.r4721.15c3b363-1
+latte-dock-git 0.9.11.r4728.33d08c92-2
 lazydocker 0.10-3
 lcms2 2.11-2
 ldb 1:2.2.0-3
@@ -695,7 +695,7 @@ lib32-libsoup 2.72.0-1
 lib32-libssh2 1.9.0-1
 lib32-libtasn1 4.16.0-1
 lib32-libthai 0.1.28-1
-lib32-libtiff 4.1.0-1
+lib32-libtiff 4.2.0-1
 lib32-libtirpc 1.3.1-1
 lib32-libudev0-shim 1-4
 lib32-libunistring 0.9.10-1
@@ -727,7 +727,7 @@ lib32-libxv 1.0.11-2
 lib32-libxxf86vm 1.1.4-2
 lib32-llvm-libs 11.0.1-1
 lib32-lm_sensors 3.6.0-1
-lib32-lz4 1.9.2-1
+lib32-lz4 1.9.3-1
 lib32-mesa 20.3.2-1
 lib32-mesa-vdpau 20.3.2-1
 lib32-mpg123 1.26.4-1
@@ -759,7 +759,7 @@ lib32-vulkan-radeon 20.3.2-1
 lib32-wayland 1.18.0-2
 lib32-xz 5.2.5-1
 lib32-zlib 1.2.11-2
-lib32-zstd 1.4.5-1
+lib32-zstd 1.4.8-1
 libabw 0.1.3-2
 libaccounts-glib 1.25-3
 libaccounts-qt 1.16-2
@@ -791,7 +791,7 @@ libcdio 2.1.0-2
 libcdio-paranoia 10.2+2.0.1-2
 libcdr 0.1.6-3
 libchewing 0.5.1-4
-libclc 11.0.0-1
+libclc 11.0.1-1
 libcloudproviders 0.3.1-2
 libcmis 0.5.2-6
 libconfig 1.7.2-3
@@ -952,7 +952,7 @@ libplist 2.2.0-3
 libpng 1.6.37-3
 libproxy 0.4.17-1
 libpsl 0.21.1-1
-libpulse 14.1-1
+libpulse 14.1-2
 libqaccessibilityclient 0.4.1-2
 libqalculate 3.16.1-1
 libqmi 1.26.8-1
@@ -1066,7 +1066,7 @@ lightdm 1:1.30.0-4
 lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-5
 lilv 0.24.12-1
-linux 5.10.6.arch1-1
+linux 5.10.7.arch1-1
 linux-api-headers 5.8-1
 linux-firmware 20201218.646f159-1
 linuxqq 2.0.0_b2_1084-2
@@ -1135,7 +1135,7 @@ modemmanager-qt 5.78.0-1
 molequeue 0.9.0-2
 mono 6.12.0.107-1
 mono-msbuild 16.8.xamarinxplat.2020.07.30.15.02-1
-motrix-git 1.5.15.r60.gc3400d9-2
+motrix-git 1.5.15.r63.gd020359-1
 mpfr 4.1.0-1
 mpg123 1.26.3-2
 mplayer 38157-3
@@ -1163,7 +1163,7 @@ nginx 1.18.0-2
 nm-connection-editor 1.18.0-1
 nmap 7.91-1
 node-gyp 7.1.1-1
-nodejs 15.5.1-1
+nodejs 15.6.0-1
 noto-fonts 20201226-1
 noto-fonts-cjk 20201206-1
 noto-fonts-emoji 20200916-1
@@ -1287,7 +1287,7 @@ protobuf 3.12.4-3
 psmisc 23.3-4
 ptex 2.3.2-2
 pugixml 1.11.4-1
-pulseaudio 14.1-1
+pulseaudio 14.1-2
 pulseaudio-alsa 1:1.2.2-2
 pulseaudio-qt 1.2-2
 purpose 5.78.0-1
@@ -1598,6 +1598,7 @@ ttf-dejavu 2.37+18+g9b5d1b2f-2
 ttf-droid 20121017-8
 ttf-hack 3.003-3
 ttf-inconsolata 1:3.000-2
+ttf-jetbrains-mono 2.221-1
 ttf-joypixels 6.0.0-1
 ttf-liberation 2.1.2-1
 ttf-linux-libertine 5.3.0-6
@@ -1624,16 +1625,16 @@ usbutils 013-1
 util-linux 2.36.1-4
 util-linux-libs 2.36.1-4
 v2ray 4.34.0-1
-v2ray-domain-list-community 20210111031038-1
-v2ray-geoip 202101070033-1
+v2ray-domain-list-community 20210114153207-1
+v2ray-geoip 202101140050-1
 v4l-utils 1.20.0-1
 vala 0.50.3-1
 vamp-plugin-sdk 2.10.0-1
 ventoy-bin 1.0.32-1
 vi 1:070224-4
 vid.stab 1.1-3
-vim 8.2.1989-3
-vim-runtime 8.2.1989-3
+vim 8.2.2347-1
+vim-runtime 8.2.2347-1
 virtualbox 6.1.16-4
 virtualbox-host-dkms 6.1.16-4
 visual-studio-code-bin 1.52.1-1
@@ -1652,7 +1653,7 @@ webrtc-audio-processing 0.3.1-2
 wget 1.21.1-1
 which 2.21-5
 wildmidi 0.4.3-3
-wine 5.22-1
+wine 6.0-1
 winetricks 20201206-1
 wmctrl 1.07-6
 woff2 1.0.2-3
