@@ -9,7 +9,7 @@ acpi_call 1.2.1-18
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-1
-adobe-source-code-pro-fonts 2.032ro+1.052it+1.012var-1
+adobe-source-code-pro-fonts 2.038ro+1.058it+1.018var-1
 adobe-source-han-mono-cn-fonts 1.002-6
 adobe-source-han-sans-cn-fonts 2.002-1
 adobe-source-han-serif-cn-fonts 1.001-3
@@ -26,7 +26,7 @@ akonadiconsole 20.12.1-1
 akregator 20.12.1-1
 alacritty 0.7.1-1
 alembic 1.7.16-1
-alsa-card-profiles 14.1-2
+alsa-card-profiles 14.2-1
 alsa-lib 1.2.4-3
 alsa-plugins 1:1.2.2-2
 alsa-topology-conf 1.2.4-2
@@ -188,8 +188,7 @@ electron9 9.4.1-1
 electronic-wechat 2.3.1-2
 elfutils 0.182-1
 elisa 20.12.1-1
-emacs 27.1-3
-emacsclient-desktop-git r2.5bdd031-1
+emacs-git 28.0.50.144840-1
 embree 3.12.1-1
 enca 1.19-4
 enchant 2.2.13-2
@@ -351,7 +350,7 @@ icoutils 0.32.3-3
 icu 68.2-1
 id3lib 3.8.3-18
 ijs 0.35-3
-imagemagick 7.0.10.57-1
+imagemagick 7.0.10.58-1
 imlib2 1.7.1-1
 incidenceeditor 20.12.1-1
 inkscape 1.0.1-4
@@ -436,7 +435,7 @@ kde-dev-utils 20.12.1-1
 kde-gtk-config 5.20.5-2
 kdebugsettings 20.12.1-1
 kdeclarative 5.78.0-1
-kdeconnect-git 20.08.0.r144.1162cc7b-1
+kdeconnect-git 20.08.0.r146.a558af4d-2
 kdecoration 5.20.5-1
 kded 5.78.0-1
 kdeedu-data 20.12.1-1
@@ -609,7 +608,7 @@ kxmlgui 5.78.0-1
 l-smash 2.14.5-2
 lame 3.100-3
 lapack 3.9.0-3
-latte-dock-git 0.9.11.r4728.33d08c92-2
+latte-dock-git 0.9.11.r4733.3ec62e6e-1
 lazydocker 0.10-3
 lcms2 2.11-2
 ldb 1:2.2.0-3
@@ -664,7 +663,7 @@ lib32-libcanberra-pulse 0.30+2+gc0620e4-3
 lib32-libcap 2.46-1
 lib32-libcups 2.3.3-1
 lib32-libdatrie 0.2.12-1
-lib32-libdrm 2.4.103-1
+lib32-libdrm 2.4.104-1
 lib32-libelf 0.181-1
 lib32-libepoxy 1.5.5-1
 lib32-libffi 3.3-2
@@ -687,7 +686,7 @@ lib32-libpciaccess 0.16-1
 lib32-libpng 1.6.37-3
 lib32-libproxy 0.4.16-1
 lib32-libpsl 0.21.1-1
-lib32-libpulse 14.1-1
+lib32-libpulse 14.2-1
 lib32-librsvg 2.50.2-1
 lib32-libsm 1.2.3-1
 lib32-libsndfile 1.0.28-3
@@ -701,7 +700,7 @@ lib32-libudev0-shim 1-4
 lib32-libunistring 0.9.10-1
 lib32-libunwind 1.3.1-1
 lib32-libusb 1.0.24-1
-lib32-libva-mesa-driver 20.3.2-1
+lib32-libva-mesa-driver 20.3.3-1
 lib32-libvorbis 1.3.7-1
 lib32-libx11 1.7.0-1
 lib32-libxau 1.0.9-1
@@ -728,8 +727,8 @@ lib32-libxxf86vm 1.1.4-2
 lib32-llvm-libs 11.0.1-1
 lib32-lm_sensors 3.6.0-1
 lib32-lz4 1.9.3-1
-lib32-mesa 20.3.2-1
-lib32-mesa-vdpau 20.3.2-1
+lib32-mesa 20.3.3-1
+lib32-mesa-vdpau 20.3.3-1
 lib32-mpg123 1.26.4-1
 lib32-ncurses 6.2-1
 lib32-nettle 3.6-1
@@ -737,7 +736,7 @@ lib32-nspr 4.29-1
 lib32-nss 3.60.1-1
 lib32-ocl-icd 2.2.14-1
 lib32-openal 1.21.0-1
-lib32-opencl-mesa 20.3.2-1
+lib32-opencl-mesa 20.3.3-1
 lib32-openssl 1:1.1.1.i-1
 lib32-orc 0.4.32-1
 lib32-p11-kit 0.23.22-1
@@ -755,7 +754,7 @@ lib32-tdb 1.4.3-1
 lib32-util-linux 2.36.1-1
 lib32-vkd3d 1.2-2
 lib32-vulkan-icd-loader 1.2.166-1
-lib32-vulkan-radeon 20.3.2-1
+lib32-vulkan-radeon 20.3.3-1
 lib32-wayland 1.18.0-2
 lib32-xz 5.2.5-1
 lib32-zlib 1.2.11-2
@@ -900,7 +899,7 @@ libmbim 1.24.4-1
 libmfx 20.5.1-1
 libmicrodns 0.2.0-1
 libmicrohttpd 0.9.72-1
-libmm-glib 1.14.8-1
+libmm-glib 1.14.10-1
 libmms 0.6.4-3
 libmng 2.0.3-3
 libmnl 1.0.4-3
@@ -952,7 +951,7 @@ libplist 2.2.0-3
 libpng 1.6.37-3
 libproxy 0.4.17-1
 libpsl 0.21.1-1
-libpulse 14.1-2
+libpulse 14.2-1
 libqaccessibilityclient 0.4.1-2
 libqalculate 3.16.1-1
 libqmi 1.26.8-1
@@ -1007,7 +1006,7 @@ libusbmuxd 2.0.2-1
 libutempter 1.2.1-1
 libuv 1.40.0-1
 libva 2.10.0-1
-libva-mesa-driver 20.3.2-2
+libva-mesa-driver 20.3.3-1
 libvdpau 1.4-1
 libvisio 0.1.7-4
 libvisual 0.4.0-8
@@ -1117,8 +1116,8 @@ mbox-importer 20.12.1-1
 md4c 0.4.7-1
 mdadm 4.1-2
 media-player-info 24-2
-mesa 20.3.2-2
-mesa-vdpau 20.3.2-2
+mesa 20.3.3-1
+mesa-vdpau 20.3.3-1
 messagelib 20.12.1-1
 metis 5.1.0.p10-1
 microsoft-edge-dev-bin 88.0.692.0-1
@@ -1130,7 +1129,7 @@ mkinitcpio 29-1
 mkinitcpio-busybox 1.32.1-2
 mlt 6.24.0-1
 mobile-broadband-provider-info 20201225-1
-modemmanager 1.14.8-1
+modemmanager 1.14.10-1
 modemmanager-qt 5.78.0-1
 molequeue 0.9.0-2
 mono 6.12.0.107-1
@@ -1144,7 +1143,7 @@ msgpack-c 3.3.0-2
 mtdev 1.1.6-1
 mujs 1.0.9-1
 mypaint-brushes1 1.3.1-1
-nano 5.4-1
+nano 5.5-1
 nautilus 3.38.2-1
 ncurses 6.2-1
 ndctl 71.1-1
@@ -1181,7 +1180,7 @@ onefetch 2.9.1-1
 openal 1.21.0-1
 openbabel 3.1.1-2
 opencc 1.1.1-5
-opencl-mesa 20.3.2-2
+opencl-mesa 20.3.3-1
 opencollada 1:1.6.68-2
 opencolorio 1.1.1-6
 opencore-amr 0.1.5-5
@@ -1287,7 +1286,7 @@ protobuf 3.12.4-3
 psmisc 23.3-4
 ptex 2.3.2-2
 pugixml 1.11.4-1
-pulseaudio 14.1-2
+pulseaudio 14.2-1
 pulseaudio-alsa 1:1.2.2-2
 pulseaudio-qt 1.2-2
 purpose 5.78.0-1
@@ -1463,7 +1462,7 @@ rapidjson 1.1.0-5
 raptor 2.0.15-15
 rar 6.0.0-1
 rasqal 1:0.9.33-4
-rav1e 0.3.5-1
+rav1e 0.4.0-1
 re2 1:20201101-1
 readline 8.1.0-2
 recode 3.7.8-1
@@ -1643,7 +1642,7 @@ vmaf 1.5.3-1
 volume_key 0.3.12-5
 vtk 8.2.0-17
 vulkan-icd-loader 1.2.166-1
-vulkan-radeon 20.3.2-2
+vulkan-radeon 20.3.3-1
 w3m 0.5.3.git20200507-2
 wavpack 5.3.0-2
 wayland 1.18.0-2
