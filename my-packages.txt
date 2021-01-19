@@ -5,7 +5,7 @@ accountsservice 0.6.55-3
 acl 2.2.53-3
 acorn 1:8.0.4-1
 acpi 1.7-3
-acpi_call 1.2.1-18
+acpi_call 1.2.1-19
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-1
@@ -33,7 +33,7 @@ alsa-topology-conf 1.2.4-2
 alsa-ucm-conf 1.2.4-2
 alsa-utils 1.2.4-2
 amd-ucode 20201218.646f159-1
-amdvlk 2021.Q1.1-1
+amdvlk 2021.Q1.1-2
 amtk 5.2.0-2
 analitza 20.12.1-1
 android-tools 30.0.5-1
@@ -169,7 +169,7 @@ dmraid 1.0.0.rc16.3-12
 dnssec-anchors 20190629-3
 docbook-xml 4.5-9
 docbook-xsl 1.79.2-7
-docker 1:20.10.2-1
+docker 1:20.10.2-3
 dolphin 20.12.1-1
 dolphin-plugins 20.12.1-1
 dosfstools 4.1-3
@@ -188,7 +188,7 @@ electron9 9.4.1-1
 electronic-wechat 2.3.1-2
 elfutils 0.182-1
 elisa 20.12.1-1
-emacs-git 28.0.50.144846-1
+emacs-git 28.0.50.144863-1
 embree 3.12.1-1
 enca 1.19-4
 enchant 2.2.13-2
@@ -204,7 +204,7 @@ faad2 2.10.0-1
 fakeroot 1.25.3-1
 farstream 0.2.9-2
 faudio 21.01-1
-fcitx5 5.0.4-1
+fcitx5 5.0.4-2
 fcitx5-chewing 5.0.3-1
 fcitx5-chinese-addons 5.0.3-1
 fcitx5-configtool 5.0.2-1
@@ -357,7 +357,7 @@ inkscape 1.0.1-4
 iproute2 5.10.0-2
 iptables 1:1.8.6-1
 iputils 20200821-1
-ipython 7.19.0-4
+ipython 7.19.0-5
 iso-codes 4.5.0-1
 itinerary 20.12.1-1
 iw 5.9-1
@@ -435,7 +435,7 @@ kde-dev-utils 20.12.1-1
 kde-gtk-config 5.20.5-2
 kdebugsettings 20.12.1-1
 kdeclarative 5.78.0-1
-kdeconnect-git 20.08.0.r147.96677dda-1
+kdeconnect-git 20.08.0.r148.c7411ead-1
 kdecoration 5.20.5-1
 kded 5.78.0-1
 kdeedu-data 20.12.1-1
@@ -619,7 +619,7 @@ leveldb 1.22-2
 lib32-acl 2.2.53-1
 lib32-alsa-lib 1.2.4-2
 lib32-alsa-plugins 1.2.2-1
-lib32-amdvlk 2021.Q1.1-1
+lib32-amdvlk 2021.Q1.1-2
 lib32-at-spi2-atk 2.38.0-1
 lib32-at-spi2-core 2.38.0-1
 lib32-atk 2.36.0-1
@@ -684,7 +684,7 @@ lib32-libogg 1.3.4-2
 lib32-libpcap 1.10.0-1
 lib32-libpciaccess 0.16-1
 lib32-libpng 1.6.37-3
-lib32-libproxy 0.4.16-1
+lib32-libproxy 0.4.17-1
 lib32-libpsl 0.21.1-1
 lib32-libpulse 14.2-1
 lib32-librsvg 2.50.2-1
@@ -747,7 +747,7 @@ lib32-pixman 0.40.0-1
 lib32-polkit 0.118-1
 lib32-readline 8.1.0-2
 lib32-rest 0.8.1-2
-lib32-sdl2 2.0.12-1
+lib32-sdl2 2.0.14-1
 lib32-sqlite 3.33.0-1
 lib32-systemd 247.2-1
 lib32-tdb 1.4.3-1
@@ -893,7 +893,7 @@ liblqr 0.4.2-3
 liblrdf 0.6.1-4
 libluv 1.36.0-1
 libmad 0.15.1b-9
-libmagick6 6.9.11.56-1
+libmagick6 6.9.11.58-1
 libmatroska 1.6.2-1
 libmbim 1.24.4-1
 libmfx 20.5.1-1
@@ -928,7 +928,7 @@ libnma 1.8.30-1
 libnotify 0.7.9-1
 libnsl 1.3.0-1
 libnumbertext 1.0.6-1
-libodfgen 0.1.7-2
+libodfgen 0.1.8-1
 libofa 0.9.3-9
 libogg 1.3.4-2
 libomxil-bellagio 0.9.3-3
@@ -1065,10 +1065,10 @@ lightdm 1:1.30.0-4
 lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-5
 lilv 0.24.12-1
-linux 5.10.7.arch1-1
+linux 5.10.8.arch1-1
 linux-api-headers 5.8-1
 linux-firmware 20201218.646f159-1
-linuxqq 2.0.0_b2_1084-2
+linuxqq 1:2.0.0_b2_1084-3
 lirc 1:0.10.1-8
 llpp 33-1
 llvm-libs 11.0.1-1
@@ -1335,7 +1335,7 @@ python-jupyter_client 6.1.7-3
 python-jupyter_core 4.6.3-4
 python-language-server 0.36.2-1
 python-lxml 4.6.2-1
-python-markdown 3.3.3-2
+python-markdown 3.3.3-3
 python-markupsafe 1.1.1-6
 python-msgpack 1.0.2-2
 python-numpy 1.19.5-1
@@ -1371,7 +1371,7 @@ python-qtpy 1.9.0-5
 python-requests 2.25.1-1
 python-resolvelib 0.5.4-1
 python-retrying 1.3.3-9
-python-setuptools 1:51.1.2-1
+python-setuptools 1:51.2.0-1
 python-sgmllib 5.2.1-9
 python-sip4 4.19.24-1
 python-six 1.15.0-3
@@ -1616,7 +1616,8 @@ udisks2 2.9.1-1
 ueberzug 18.1.9-1
 umbrello 20.12.1-1
 unibilium 2.1.0-2
-unicode-cldr 38.0-1
+unicode-cldr 38.0-2
+unicode-cldr-annotations 38.0-2
 unzip 6.0-14
 upower 0.99.11-3
 usbmuxd 1.1.1-1
