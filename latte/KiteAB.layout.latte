@@ -129,14 +129,14 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][15][Applets][18][Configuration]
-PreloadWeight=0
+PreloadWeight=25
 
 [Containments][15][Applets][19]
 immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][15][Applets][19][Configuration]
-PreloadWeight=35
+PreloadWeight=40
 
 [Containments][15][Applets][19][Configuration][ConfigDialog]
 DialogHeight=540
@@ -250,7 +250,7 @@ raiseOnDesktopChange=false
 settingsComplexity=4
 timerHide=700
 timerShow=0
-viewType=0
+viewType=1
 visibility=0
 wallpaperplugin=org.kde.image
 
@@ -276,7 +276,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][4][Applets][14][Configuration]
-PreloadWeight=81
+PreloadWeight=100
 SystrayContainmentId=15
 
 [Containments][4][Applets][23]
@@ -284,7 +284,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][4][Applets][23][Configuration]
-PreloadWeight=55
+PreloadWeight=60
 
 [Containments][4][Applets][44]
 immutability=1
@@ -444,7 +444,7 @@ animationWindowAddedInGroup=false
 animationWindowInAttention=false
 appletOrder=62;44;9;8;58;14;66;12;65;61;64;23;63
 appletShadowsEnabled=false
-backgroundShadowSize=20
+autoSizeEnabled=false
 dragActiveWindowEnabled=true
 durationTime=x3
 iconSize=20
@@ -455,6 +455,7 @@ panelTransparency=49
 plasmaBackgroundForPopups=true
 shadows=None
 shadowsUpgraded=true
+solidBackgroundForMaximized=true
 splitterPosition=4
 splitterPosition2=5
 tasksUpgraded=true
