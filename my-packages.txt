@@ -38,8 +38,11 @@ amtk 5.2.0-2
 analitza 20.12.1-1
 android-tools 30.0.5-1
 aom 2.0.1-1
+apache 2.4.46-3
 appstream 0.13.1-1
 appstream-qt 0.13.1-1
+apr 1.7.0-3
+apr-util 1.6.1-8
 arandr 0.1.10-5
 arc-icon-theme 20161122-3
 archlinux-appstream-data 20201223-1
