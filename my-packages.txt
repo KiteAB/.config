@@ -188,13 +188,13 @@ eclipse-platform 4.18-1
 editorconfig-core-c 0.12.4-1
 efibootmgr 17-2
 efivar 37-4
-electron 11.2.0-1
+electron 11.2.1-1
 electron-netease-cloud-music 0.9.26-1
 electron9 9.4.1-1
 electronic-wechat 2.3.1-2
 elfutils 0.182-1
 elisa 20.12.1-1
-emacs-git 28.0.50.144938-1
+emacs-git 28.0.50.144959-1
 embree 3.12.1-1
 enca 1.19-4
 enchant 2.2.13-2
@@ -217,7 +217,7 @@ fcitx5-configtool 5.0.2-1
 fcitx5-gtk 5.0.3-1
 fcitx5-material-color 0.0.0.20201212-1
 fcitx5-pinyin-moegirl 20210114-1
-fcitx5-pinyin-zhwiki 20210101-1
+fcitx5-pinyin-zhwiki 20210120-1
 fcitx5-qt 5.0.2-2
 fcitx5-rime 5.0.3-1
 fd 8.2.1-1
@@ -615,7 +615,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.0-3
-latte-dock-git 0.9.11.r4784.27f34834-1
+latte-dock-git 0.9.11.r4808.bba3c292-1
 lazydocker 0.10-3
 lcms2 2.11-2
 ldb 1:2.2.0-3
@@ -1253,7 +1253,7 @@ perl-mailtools 2.21-4
 perl-net-http 6.20-1
 perl-timedate 2.33-2
 perl-try-tiny 0.30-5
-perl-uri 5.05-1
+perl-uri 5.06-1
 perl-www-robotrules 6.02-8
 phonon-qt5 4.11.1-2
 phonon-qt5-gstreamer 4.10.0-2
@@ -1550,7 +1550,7 @@ speex 1.2.0-3
 speexdsp 1.2.0-2
 spglib 1.16.0-1
 spirv-tools 2020.4-1
-sqlite 3.34.0-1
+sqlite 3.34.1-1
 sratom 0.6.8-1
 srt 1.4.2-1
 startup-notification 0.12-7
