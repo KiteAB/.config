@@ -5,7 +5,7 @@ accountsservice 0.6.55-3
 acl 2.2.53-3
 acorn 1:8.0.4-1
 acpi 1.7-3
-acpi_call 1.2.1-20
+acpi_call 1.2.1-21
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-1
@@ -80,6 +80,7 @@ bash 5.1.004-1
 bash-language-server 1.17.0-3
 bashtop 0.9.25-1
 bc 1.07.1-4
+bilibili-live-helper-bin 2.2.2-1
 binutils 2.35.1-1
 bison 3.7.2-1
 black-hole-solver 1.10.1-1
@@ -105,7 +106,7 @@ bubblewrap 0.4.1-1
 bzip2 1.0.8-4
 c-ares 1.17.1-1
 ca-certificates 20181109-4
-ca-certificates-mozilla 3.60.1-1
+ca-certificates-mozilla 3.61-1
 ca-certificates-utils 20181109-4
 cabextract 1.9.1-2
 cairo 1.17.4-3
@@ -129,6 +130,7 @@ clutter 1.26.4-1
 clutter-gst 3.0.27-3
 clutter-gtk 1.8.4-2
 cmake 3.19.3-1
+cmatrix 2.0-2
 cogl 1.22.8-1
 colord 1.4.5-1
 com.qq.im.deepin 9.3.2-14
@@ -194,7 +196,10 @@ electron9 9.4.1-1
 electronic-wechat 2.3.1-2
 elfutils 0.182-1
 elisa 20.12.1-1
-emacs-git 28.0.50.144959-1
+emacs-ctable 0.1.2-3
+emacs-deferred 0.5.1-2
+emacs-epc 0.1.1-4
+emacs-git 28.0.50.144965-1
 embree 3.12.1-1
 enca 1.19-4
 enchant 2.2.13-2
@@ -356,7 +361,7 @@ icoutils 0.32.3-3
 icu 68.2-1
 id3lib 3.8.3-18
 ijs 0.35-3
-imagemagick 7.0.10.58-1
+imagemagick 7.0.10.59-1
 imlib2 1.7.1-1
 incidenceeditor 20.12.1-1
 inkscape 1.0.1-4
@@ -425,7 +430,7 @@ kcharselect 20.12.1-1
 kcmutils 5.78.0-1
 kcodecs 5.78.0-1
 kcolorchooser 20.12.1-1
-kcolorpicker 0.1.4-3
+kcolorpicker 0.1.5-1
 kcompletion 5.78.0-1
 kconfig 5.78.0-1
 kconfigwidgets 5.78.0-1
@@ -492,7 +497,7 @@ kidletime 5.78.0-1
 kig 20.12.1-1
 kigo 20.12.1-1
 killbots 20.12.1-1
-kimageannotator 0.4.0-1
+kimageannotator 0.4.0-2
 kimagemapeditor 20.12.1-1
 kimap 20.12.1-1
 kindd 2.1.0-1
@@ -740,7 +745,7 @@ lib32-mpg123 1.26.4-1
 lib32-ncurses 6.2-1
 lib32-nettle 3.6-1
 lib32-nspr 4.29-1
-lib32-nss 3.60.1-1
+lib32-nss 3.61-1
 lib32-ocl-icd 2.2.14-1
 lib32-openal 1.21.0-1
 lib32-opencl-mesa 20.3.3-1
@@ -854,7 +859,7 @@ libgusb 0.3.5-1
 libgxps 0.3.1-2
 libheif 1.10.0-1
 libibus 1.5.23+3+gaa558de8-3
-libical 3.0.8-3
+libical 3.0.9-1
 libice 1.0.10-3
 libid3tag 0.15.1b-11
 libidn 1.36-1
@@ -971,7 +976,7 @@ libraw 0.20.2-1
 libraw1394 2.1.2-3
 libreoffice-fresh 7.0.4-3
 librevenge 0.0.4-3
-librime 1:1.6.1-3
+librime 1:1.7.0-1
 librime-data 0.0.0.20201212-1
 librsvg 2:2.50.2-1
 libsamplerate 0.1.9-3
@@ -1060,7 +1065,7 @@ libxres 1.2.0-2
 libxshmfence 1.3-2
 libxslt 1.1.34-5
 libxss 1.2.3-3
-libxt 1.2.0-2
+libxt 1.2.1-1
 libxtst 1.2.3-4
 libxv 1.0.11-4
 libxvmc 1.0.12-3
@@ -1073,7 +1078,7 @@ lightdm 1:1.30.0-4
 lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-5
 lilv 0.24.12-1
-linux 5.10.9.arch1-1
+linux 5.10.10.arch1-1
 linux-api-headers 5.8-1
 linux-firmware 20201218.646f159-1
 linuxqq 1:2.0.0_b2_1084-3
@@ -1084,6 +1089,7 @@ lm_sensors 3.6.0-2
 lmdb 0.9.27-1
 log4cplus 2.0.5-1
 lokalize 20.12.1-1
+lolcat 100.0.0-2
 lpsolve 5.5.2.5-4
 lsb-release 1.4-18
 lsd 0.16.0-2
@@ -1180,7 +1186,7 @@ noto-fonts-extra 20201226-1
 npm 6.14.11-1
 npth 1.6-2
 nspr 4.29-1
-nss 3.60.1-1
+nss 3.61-1
 ntfs-3g 2017.3.23-5
 numactl 2.0.14-1
 obs-studio 26.1.0-2
@@ -1331,6 +1337,7 @@ python-decorator 4.4.2-3
 python-distlib 0.3.1-2
 python-distro 1.5.0-3
 python-docopt 0.6.2-9
+python-epc 0.0.5-2
 python-feedparser 5.2.1-9
 python-flask 1.1.2-4
 python-future 0.18.2-5
@@ -1386,7 +1393,8 @@ python-qtpy 1.9.0-5
 python-requests 2.25.1-1
 python-resolvelib 0.5.4-1
 python-retrying 1.3.3-9
-python-setuptools 1:51.3.3-1
+python-setuptools 1:52.0.0-1
+python-sexpdata 0.0.3-3
 python-sgmllib 5.2.1-9
 python-sip4 4.19.24-1
 python-six 1.15.0-3
@@ -1486,11 +1494,11 @@ redland 1:1.0.17-8
 reflector 2021-1
 rest 0.8.1-3
 rhash 1.4.1-1
-rime-bopomofo 0.0.0.20210102-1
+rime-bopomofo 0.0.0.20210124-1
 rime-cangjie 0.0.0.20201030-1
 rime-emoji 0.0.0.20191102-1
 rime-essay 0.0.0.20201222-1
-rime-luna-pinyin 0.0.0.20201105-1
+rime-luna-pinyin 0.0.0.20210124-1
 rime-prelude 0.0.0.20201212-1
 rime-stroke 0.0.0.20191221-2
 rime-terra-pinyin 0.0.0.20201018-1
@@ -1503,8 +1511,21 @@ rtmpdump 1:2.4.r96.fa8646d-6
 rttr 0.9.6-3
 rubberband 1.9-1
 ruby 2.7.2-1
+ruby-diff-lcs 1.4.4-1
 ruby-irb 1.3.0-1
+ruby-manpages 0.6.1-3
+ruby-optimist 3.0.1-1
+ruby-paint 2.2.0-1
+ruby-rainbow 3.0.0-5
+ruby-rdoc 6.2.0-2
 ruby-reline 0.2.0-1
+ruby-rspec 3.8.0-3
+ruby-rspec-core 3.8.0-3
+ruby-rspec-expectations 3.8.1-3
+ruby-rspec-mocks 3.8.0-3
+ruby-rspec-support 3.8.0-3
+ruby-term-ansicolor 1.7.1-1
+ruby-tins 1.26.0-1
 rubygems 3.1.4-1
 run-parts 4.8.6.1-2
 runc 1.0.0rc92-1
@@ -1513,7 +1534,7 @@ sbc 1.5-1
 scrcpy 1.17-1
 screen 4.8.0-2
 screenfetch 3.9.1-1
-screenkey 1.3-1
+screenkey 1.4-1
 sd 0.7.6-1
 sddm 0.19.0-3
 sddm-kcm 5.20.5-1
@@ -1735,7 +1756,7 @@ xorg-server-xvfb 1.20.10-3
 xorg-sessreg 1.1.2-2
 xorg-setxkbmap 1.3.2-2
 xorg-smproxy 1.0.6-3
-xorg-util-macros 1.19.2-2
+xorg-util-macros 1.19.3-1
 xorg-x11perf 1.6.1-2
 xorg-xauth 1.1-2
 xorg-xcmsdb 1.0.5-3
