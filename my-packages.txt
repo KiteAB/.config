@@ -33,7 +33,7 @@ alsa-topology-conf 1.2.4-2
 alsa-ucm-conf 1.2.4-2
 alsa-utils 1.2.4-2
 amd-ucode 20201218.646f159-1
-amdvlk 2021.Q1.1-2
+amdvlk 2021.Q1.2-1
 amtk 5.2.0-2
 analitza 20.12.1-1
 android-tools 30.0.5-1
@@ -199,7 +199,7 @@ elisa 20.12.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.145041-1
+emacs-git 28.0.50.145064-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.13-2
@@ -305,6 +305,7 @@ grantlee 5.2.0-3
 grantlee-editor 20.12.1-1
 grantleetheme 20.12.1-1
 graphene 1.10.2-1
+graphicsmagick 1.3.36-1
 graphite 1:1.3.14-1
 graphviz 2.44.1-6
 grep 3.6-1
@@ -365,7 +366,7 @@ ijs 0.35-3
 imagemagick 7.0.10.60-1
 imlib2 1.7.1-1
 incidenceeditor 20.12.1-1
-inkscape 1.0.1-4
+inkscape 1.0.2-1
 iproute2 5.10.0-2
 iptables 1:1.8.7-1
 iputils 20200821-1
@@ -447,7 +448,7 @@ kde-dev-utils 20.12.1-1
 kde-gtk-config 5.20.5-2
 kdebugsettings 20.12.1-1
 kdeclarative 5.78.0-1
-kdeconnect-git 20.08.0.r149.68599c82-1
+kdeconnect-git 20.08.0.r151.7d74e446-1
 kdecoration 5.20.5-1
 kded 5.78.0-1
 kdeedu-data 20.12.1-1
@@ -621,7 +622,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.0-3
-latte-dock-git 0.9.11.r4845.5c5879ac-1
+latte-dock-git 0.9.11.r4852.1f7d2d0c-1
 lazydocker 0.10-3
 lcms2 2.11-2
 ldb 1:2.2.0-3
@@ -632,7 +633,7 @@ leveldb 1.22-2
 lib32-acl 2.2.53-1
 lib32-alsa-lib 1.2.4-2
 lib32-alsa-plugins 1.2.2-1
-lib32-amdvlk 2021.Q1.1-2
+lib32-amdvlk 2021.Q1.2-1
 lib32-at-spi2-atk 2.38.0-1
 lib32-at-spi2-core 2.38.0-1
 lib32-atk 2.36.0-1
@@ -661,8 +662,8 @@ lib32-glibc 2.32-5
 lib32-glu 9.0.1-1
 lib32-gmp 6.2.1-1
 lib32-gnutls 3.7.0-1
-lib32-gst-plugins-base-libs 1.18.2-1
-lib32-gstreamer 1.18.2-1
+lib32-gst-plugins-base-libs 1.18.3-1
+lib32-gstreamer 1.18.3-1
 lib32-gtk3 3.24.24-1
 lib32-harfbuzz 2.7.4-1
 lib32-icu 68.2-1
@@ -680,7 +681,7 @@ lib32-libdrm 2.4.104-1
 lib32-libelf 0.182-1
 lib32-libepoxy 1.5.5-1
 lib32-libffi 3.3-2
-lib32-libgcrypt 1.8.7-1
+lib32-libgcrypt 1.9.1-1
 lib32-libglvnd 1.3.2-1
 lib32-libgpg-error 1.41-1
 lib32-libgudev 234-1
@@ -744,7 +745,7 @@ lib32-mesa 20.3.3-1
 lib32-mesa-vdpau 20.3.3-1
 lib32-mpg123 1.26.4-1
 lib32-ncurses 6.2-1
-lib32-nettle 3.6-1
+lib32-nettle 3.7-1
 lib32-nspr 4.29-1
 lib32-nss 3.61-1
 lib32-ocl-icd 2.2.14-1
@@ -753,7 +754,7 @@ lib32-opencl-mesa 20.3.3-1
 lib32-openssl 1:1.1.1.i-1
 lib32-orc 0.4.32-1
 lib32-p11-kit 0.23.22-1
-lib32-pam 1.4.0-1
+lib32-pam 1.5.1-1
 lib32-pango 1:1.48.1-1
 lib32-pcre 8.44-1
 lib32-pixman 0.40.0-1
@@ -843,7 +844,7 @@ libffi 3.3-4
 libfontenc 1.1.4-3
 libfreehand 0.1.2-3
 libftdi 1.5-1
-libgcrypt 1.9.0-2
+libgcrypt 1.9.1-1
 libgdiplus 5.6.1-3
 libgexiv2 0.12.1-4
 libgit2 1:1.1.0-1
@@ -985,7 +986,7 @@ libsamplerate 0.1.9-3
 libsasl 2.1.27-3
 libseccomp 2.5.1-2
 libsecret 0.20.4-1
-libshout 1:2.4.4-1
+libshout 1:2.4.5-1
 libsigc++ 2.10.6-1
 libsignon-glib 2.1-4
 libsm 1.2.3-2
@@ -1029,7 +1030,7 @@ libvncserver 0.9.13-1
 libvorbis 1.3.7-2
 libvpx 1.9.0-1
 libvterm 0.1.3.git1.65dbda-1
-libwacom 1.7-1
+libwacom 1.8-1
 libwebp 1.1.0-1
 libwmf 0.2.12-2
 libwpd 0.10.3-2
@@ -1214,7 +1215,7 @@ openssl 1.1.1.i-2
 openssl-1.0 1.0.2.u-1
 opensubdiv 3.4.3-4
 openvdb 8.0.0-1
-openxr 1.0.12-1
+openxr 1.0.14-1
 opus 1.3.1-2
 orc 0.4.32-1
 os-prober 1.77-2
@@ -1304,7 +1305,7 @@ poxml 20.12.1-1
 ppp 2.4.7-7
 print-manager 20.12.1-1
 prison 5.78.0-1
-procps-ng 3.3.16-2
+procps-ng 3.3.16-3
 protobuf 3.12.4-3
 psmisc 23.3-4
 psutils 2.04-1
@@ -1572,7 +1573,7 @@ spandsp 0.0.6-3
 spectacle 20.12.1-1
 speex 1.2.0-3
 speexdsp 1.2.0-2
-spglib 1.16.0-1
+spglib 1.16.1-1
 spirv-tools 2020.4-1
 sqlite 3.34.1-1
 sratom 0.6.8-1
@@ -1641,7 +1642,7 @@ ttf-dejavu 2.37+18+g9b5d1b2f-2
 ttf-droid 20121017-9
 ttf-hack 3.003-3
 ttf-inconsolata 1:3.000-2
-ttf-jetbrains-mono 2.221-1
+ttf-jetbrains-mono 2.225-1
 ttf-joypixels 6.0.0-1
 ttf-liberation 2.1.2-1
 ttf-linux-libertine 5.3.0-6
@@ -1669,7 +1670,7 @@ usbutils 013-1
 util-linux 2.36.1-4
 util-linux-libs 2.36.1-4
 v2ray 4.34.0-1
-v2ray-domain-list-community 20210128223122-1
+v2ray-domain-list-community 20210129143224-1
 v2ray-geoip 202101280019-1
 v4l-utils 1.20.0-1
 vala 0.50.3-1
@@ -1689,8 +1690,8 @@ vtk 8.2.0-17
 vulkan-icd-loader 1.2.166-1
 vulkan-radeon 20.3.3-1
 w3m 0.5.3.git20200507-2
-wavpack 5.3.0-2
-wayland 1.18.0-2
+wavpack 5.4.0-1
+wayland 1.19.0-1
 wayland-protocols 1.20-1
 webkit2gtk 2.30.4-3
 webrtc-audio-processing 0.3.1-2
