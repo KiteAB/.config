@@ -25,7 +25,6 @@ akonadi-search 20.12.1-1
 akonadiconsole 20.12.1-1
 akregator 20.12.1-1
 alacritty 0.7.1-1
-alembic 1.7.16-1
 alsa-card-profiles 1:0.3.20-1
 alsa-lib 1.2.4-3
 alsa-plugins 1:1.2.2-2
@@ -85,9 +84,7 @@ binutils 2.35.1-1
 bison 3.7.2-1
 black-hole-solver 1.10.1-1
 blas 3.9.0-3
-blender 17:2.91.2-2
 blinken 20.12.1-1
-blosc 1.21.0-1
 bluedevil 1:5.20.5-1
 bluez 5.55-1
 bluez-libs 5.55-1
@@ -186,7 +183,7 @@ drkonqi 5.20.5-1
 dtc 1.6.0-3
 dvdauthor 0.7.2-10
 dvgrab 3.5-9
-e2fsprogs 1.45.6-3
+e2fsprogs 1.45.7-1
 ebook-tools 0.2.2-7
 eclipse-platform 4.18-1
 editorconfig-core-c 0.12.4-1
@@ -201,8 +198,7 @@ elisa 20.12.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.145085-1
-embree 3.12.2-1
+emacs-git 28.0.50.145112-1
 enca 1.19-4
 enchant 2.2.13-2
 ethtool 1:5.10-1
@@ -222,7 +218,7 @@ fcitx5-chewing 5.0.3-1
 fcitx5-chinese-addons 5.0.3-1
 fcitx5-configtool 5.0.2-1
 fcitx5-gtk 5.0.3-1
-fcitx5-material-color 0.0.0.20201212-1
+fcitx5-material-color 0.0.0.20201212-2
 fcitx5-pinyin-moegirl 20210114-1
 fcitx5-pinyin-zhwiki 20210120-1
 fcitx5-qt 5.0.2-2
@@ -240,7 +236,7 @@ findutils 4.7.0-2
 flac 1.3.3-2
 flameshot 0.8.5-1
 flex 2.6.4-3
-fluidsynth 2.1.6-1
+fluidsynth 2.1.7-1
 fmt 7.1.3-1
 fontconfig 2:2.13.91+48+gfcb0420-2
 frameworkintegration 5.78.0-1
@@ -450,7 +446,7 @@ kde-dev-utils 20.12.1-1
 kde-gtk-config 5.20.5-2
 kdebugsettings 20.12.1-1
 kdeclarative 5.78.0-1
-kdeconnect-git 20.08.0.r151.7d74e446-2
+kdeconnect-git 20.08.0.r154.daa6f7fc-1
 kdecoration 5.20.5-1
 kded 5.78.0-1
 kdeedu-data 20.12.1-1
@@ -624,7 +620,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.0-3
-latte-dock-git 0.9.11.r4877.d7b0be1a-1
+latte-dock-git 0.9.11.r4903.32d2e75b-1
 lazydocker 0.10-3
 lcms2 2.11-2
 ldb 1:2.2.0-3
@@ -648,7 +644,7 @@ lib32-colord 1.4.5-1
 lib32-curl 7.74.0-1
 lib32-dbus 1.12.20-1
 lib32-dconf 0.38.0-1
-lib32-e2fsprogs 1.45.6-1
+lib32-e2fsprogs 1.45.7-1
 lib32-expat 2.2.10-1
 lib32-faudio 21.01-1
 lib32-flac 1.3.3-1
@@ -717,7 +713,7 @@ lib32-libudev0-shim 1-4
 lib32-libunistring 0.9.10-1
 lib32-libunwind 1.3.1-1
 lib32-libusb 1.0.24-1
-lib32-libva-mesa-driver 20.3.3-1
+lib32-libva-mesa-driver 20.3.4-1
 lib32-libvorbis 1.3.7-1
 lib32-libx11 1.7.0-1
 lib32-libxau 1.0.9-1
@@ -744,8 +740,8 @@ lib32-libxxf86vm 1.1.4-2
 lib32-llvm-libs 11.0.1-1
 lib32-lm_sensors 3.6.0-1
 lib32-lz4 1.9.3-1
-lib32-mesa 20.3.3-1
-lib32-mesa-vdpau 20.3.3-1
+lib32-mesa 20.3.4-1
+lib32-mesa-vdpau 20.3.4-1
 lib32-mpg123 1.26.4-1
 lib32-ncurses 6.2-1
 lib32-nettle 3.7-1
@@ -753,7 +749,7 @@ lib32-nspr 4.29-1
 lib32-nss 3.61-1
 lib32-ocl-icd 2.2.14-1
 lib32-openal 1.21.0-1
-lib32-opencl-mesa 20.3.3-1
+lib32-opencl-mesa 20.3.4-1
 lib32-openssl 1:1.1.1.i-1
 lib32-orc 0.4.32-1
 lib32-p11-kit 0.23.22-1
@@ -771,7 +767,7 @@ lib32-tdb 1.4.3-1
 lib32-util-linux 2.36.1-1
 lib32-vkd3d 1.2-2
 lib32-vulkan-icd-loader 1.2.166-1
-lib32-vulkan-radeon 20.3.3-1
+lib32-vulkan-radeon 20.3.4-1
 lib32-wayland 1.18.0-2
 lib32-x264 3:0.160.r3011.cde9a93-2
 lib32-xz 5.2.5-1
@@ -1005,7 +1001,6 @@ libsoxr 0.1.3-2
 libspectre 0.2.9-2
 libspeechd 0.10.2-1
 libspiro 1:20200505-2
-libspnav 0.2.3-3
 libsrtp 1:2.3.0-1
 libssh 0.9.5-1
 libssh2 1.9.0-2
@@ -1032,7 +1027,7 @@ libusbmuxd 2.0.2-1
 libutempter 1.2.1-1
 libuv 1.40.0-1
 libva 2.10.0-1
-libva-mesa-driver 20.3.3-1
+libva-mesa-driver 20.3.4-1
 libvdpau 1.4-1
 libvirt 1:7.0.0-2
 libvisio 0.1.7-4
@@ -1101,7 +1096,6 @@ llpp 33-1
 llvm-libs 11.0.1-1
 lm_sensors 3.6.0-2
 lmdb 0.9.27-1
-log4cplus 2.0.5-1
 lokalize 20.12.1-1
 lolcat 100.0.0-2
 lpsolve 5.5.2.5-4
@@ -1144,8 +1138,8 @@ mbox-importer 20.12.1-1
 md4c 0.4.7-1
 mdadm 4.1-2
 media-player-info 24-2
-mesa 20.3.3-1
-mesa-vdpau 20.3.3-1
+mesa 20.3.4-1
+mesa-vdpau 20.3.4-1
 messagelib 20.12.1-1
 metis 5.1.0.p10-1
 microsoft-edge-dev-bin 88.0.692.0-1
@@ -1203,30 +1197,22 @@ nspr 4.29-1
 nss 3.61-1
 ntfs-3g 2017.3.23-5
 numactl 2.0.14-1
-obs-studio 26.1.0-2
+obs-studio 26.1.2-1
 ocl-icd 2.2.14-1
 okular 20.12.1-1
 onefetch 2.9.1-1
 openal 1.21.0-1
 openbabel 3.1.1-2
 opencc 1.1.1-5
-opencl-mesa 20.3.3-1
-opencollada 1:1.6.68-2
-opencolorio 1.1.1-6
+opencl-mesa 20.3.4-1
 opencore-amr 0.1.5-5
 opencv 4.5.1-1
 openexr 2.5.4-1
-openimagedenoise 1.2.4-1
-openimageio 2.2.10.1-1
 openjpeg2 2.4.0-1
 openmpi 4.0.5-2
-openshadinglanguage 1.11.10.0-3
 openssh 8.4p1-2
 openssl 1.1.1.i-2
 openssl-1.0 1.0.2.u-1
-opensubdiv 3.4.3-4
-openvdb 8.0.0-1
-openxr 1.0.14-1
 opus 1.3.1-2
 orc 0.4.32-1
 os-prober 1.77-2
@@ -1320,13 +1306,10 @@ procps-ng 3.3.16-3
 protobuf 3.12.4-3
 psmisc 23.3-4
 psutils 2.04-1
-ptex 2.3.2-2
-pugixml 1.11.4-1
 pulseaudio 14.2-2
 pulseaudio-alsa 1:1.2.2-2
 pulseaudio-qt 1.2-2
 purpose 5.78.0-1
-pybind11 2.6.2-1
 pyrit 0.5.0-4
 python 3.9.1-1
 python-anytree 2.8.0-3
@@ -1375,7 +1358,6 @@ python-lxml 4.6.2-1
 python-markdown 3.3.3-3
 python-markupsafe 1.1.1-6
 python-msgpack 1.0.2-2
-python-numpy 1.19.5-1
 python-ordered-set 4.0.2-3
 python-packaging 20.8-2
 python-parso 1:0.7.1-3
@@ -1642,7 +1624,6 @@ texinfo 6.7-3
 thefuck 3.30-2
 thin-provisioning-tools 0.9.0-1
 threadweaver 5.78.0-1
-tinyxml 2.6.2-7
 tldr 1.1.0-3
 tlp 1.3.1-2
 tlp-rdw 1.3.1-2
@@ -1708,7 +1689,7 @@ vte-common 0.62.2-1
 vte3 0.62.2-1
 vtk 8.2.0-17
 vulkan-icd-loader 1.2.166-1
-vulkan-radeon 20.3.3-1
+vulkan-radeon 20.3.4-1
 w3m 0.5.3.git20200507-2
 wavpack 5.4.0-1
 wayland 1.19.0-1
