@@ -5,7 +5,7 @@ accountsservice 0.6.55-3
 acl 2.2.53-3
 acorn 1:8.0.5-1
 acpi 1.7-3
-acpi_call 1.2.1-22
+acpi_call 1.2.1-23
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-1
@@ -25,7 +25,7 @@ akonadi-search 20.12.1-1
 akonadiconsole 20.12.1-1
 akregator 20.12.1-1
 alacritty 0.7.1-1
-alsa-card-profiles 1:0.3.20-1
+alsa-card-profiles 1:0.3.21-1
 alsa-lib 1.2.4-3
 alsa-plugins 1:1.2.2-2
 alsa-topology-conf 1.2.4-2
@@ -93,6 +93,7 @@ bolt 0.9.1-1
 bomber 20.12.1-1
 boost-libs 1.75.0-2
 bovo 20.12.1-1
+box2d 2.4.1-1
 breeze 5.20.5-1
 breeze-gtk 5.20.5-1
 breeze-icons 5.78.0-1
@@ -144,7 +145,7 @@ cpupower 5.10-2
 cronie 1.5.5-2
 cryptsetup 2.3.4-1
 ctags 1:r20210106+g08b1c490-1
-curl 7.74.0-1
+curl 7.75.0-1
 dav1d 0.8.1-1
 db 5.3.28-5
 dbus 1.12.20-1
@@ -189,16 +190,16 @@ eclipse-platform 4.18-1
 editorconfig-core-c 0.12.4-1
 efibootmgr 17-2
 efivar 37-4
-electron 11.2.1-2
+electron 11.2.1-3
 electron-netease-cloud-music 0.9.26-1
-electron9 9.4.2-2
+electron9 9.4.2-3
 electronic-wechat 2.3.1-2
 elfutils 0.182-1
 elisa 20.12.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.145151-1
+emacs-git 28.0.50.145170-1
 enca 1.19-4
 enchant 2.2.13-2
 ethtool 1:5.10-1
@@ -220,7 +221,7 @@ fcitx5-configtool 5.0.2-1
 fcitx5-gtk 5.0.3-1
 fcitx5-material-color 0.0.0.20201212-2
 fcitx5-pinyin-moegirl 20210114-1
-fcitx5-pinyin-zhwiki 20210120-1
+fcitx5-pinyin-zhwiki 20210201-1
 fcitx5-qt 5.0.2-2
 fcitx5-rime 5.0.3-1
 fd 8.2.1-1
@@ -270,6 +271,7 @@ geoip 1.6.12-2
 geoip-database 20210126-1
 gettext 0.21-1
 ghostscript 9.53.3-2
+giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.22-1
 git 2.30.0-1
@@ -308,7 +310,7 @@ graphite 1:1.3.14-1
 graphviz 2.46.0-1
 grep 3.6-1
 groff 1.22.4-4
-grpc 1.35.0-3
+grpc 1.35.0-4
 grub 2:2.04-8
 gsettings-desktop-schemas 3.38.0-1
 gsfonts 20200910-1
@@ -354,7 +356,7 @@ hunspell 1.7.0-3
 hwids 20200813.1-1
 hwloc 2.4.0-1
 hyphen 2.8.8-3
-i3lock-color-git r752.1127e2a-1
+i3lock-color-git r774.a318ff3-1
 iana-etc 20201229-1
 ibam 0.5.2-9
 icoutils 0.32.3-3
@@ -503,7 +505,7 @@ kimap 20.12.1-1
 kindd 2.1.0-1
 kinfocenter 5.20.5-1
 kinit 5.78.0-1
-kio 5.78.0-2
+kio 5.78.0-3
 kio-extras 20.12.1-1
 kio-gdrive 20.12.1-1
 kipi-plugins 20.12.1-1
@@ -620,7 +622,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.0-3
-latte-dock-git 0.9.11.r4925.f27f9380-1
+latte-dock-git 0.9.11.r4937.9547509b-1
 lazydocker 0.10-3
 lcms2 2.11-2
 ldb 1:2.2.0-3
@@ -642,7 +644,7 @@ lib32-bzip2 1.0.8-2
 lib32-cairo 1.17.4-3
 lib32-clang 11.0.1-1
 lib32-colord 1.4.5-1
-lib32-curl 7.74.0-1
+lib32-curl 7.75.0-1
 lib32-dbus 1.12.20-1
 lib32-dconf 0.38.0-1
 lib32-e2fsprogs 1.46.0-1
@@ -763,13 +765,13 @@ lib32-readline 8.1.0-2
 lib32-rest 0.8.1-2
 lib32-sdl2 2.0.14-1
 lib32-sqlite 3.34.1-1
-lib32-systemd 247.2-1
+lib32-systemd 247.3-1
 lib32-tdb 1.4.3-1
 lib32-util-linux 2.36.1-1
 lib32-vkd3d 1.2-2
 lib32-vulkan-icd-loader 1.2.166-1
 lib32-vulkan-radeon 20.3.4-1
-lib32-wayland 1.18.0-2
+lib32-wayland 1.19.0-1
 lib32-x264 3:0.160.r3011.cde9a93-2
 lib32-xz 5.2.5-1
 lib32-zlib 1.2.11-2
@@ -812,7 +814,7 @@ libcmis 0.5.2-6
 libconfig 1.7.2-3
 libcroco 0.6.13-2
 libcue 2.2.1-2
-libcups 1:2.3.3op1-1
+libcups 1:2.3.3op2-1
 libdaemon 0.14-5
 libdatrie 0.2.12-2
 libdbusmenu-glib 16.04.0-4
@@ -829,7 +831,7 @@ libdvdnav 6.1.0-2
 libdvdread 6.1.1-1
 libe-book 0.1.3-8
 libebml 1.4.1-1
-libebur128 1.2.4-3
+libebur128 1.2.5-1
 libedit 20191231_3.1-3
 libelf 0.182-1
 libepoxy 1.5.5-1
@@ -981,7 +983,7 @@ libqxp 0.0.2-5
 libraqm 0.7.1-1
 libraw 0.20.2-1
 libraw1394 2.1.2-3
-libreoffice-fresh 7.0.4-4
+libreoffice-fresh 7.1.0-1
 librevenge 0.0.4-3
 librime 1:1.7.0-1
 librime-data 0.0.0.20201212-1
@@ -1038,7 +1040,7 @@ libvorbis 1.3.7-2
 libvpx 1.9.0-1
 libvterm 0.1.3.git1.65dbda-1
 libwacom 1.8-1
-libwebp 1.1.0-1
+libwebp 1.2.0-1
 libwmf 0.2.12-2
 libwpd 0.10.3-2
 libwpe 1.8.0-1
@@ -1088,7 +1090,7 @@ lightdm 1:1.30.0-4
 lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-5
 lilv 0.24.12-1
-linux 5.10.11.arch1-1
+linux 5.10.12.arch1-1
 linux-api-headers 5.8-1
 linux-firmware 20201218.646f159-1
 linuxqq 1:2.0.0_b2_1084-3
@@ -1179,11 +1181,11 @@ net-snmp 5.9-3
 net-tools 2.10-1
 netpbm 10.73.33-1
 nettle 3.7-1
-network-manager-applet 1.18.0-1
+network-manager-applet 1.20.0-1
 networkmanager 1.28.1dev+15+gaa2bc9e6e4-1
 networkmanager-qt 5.78.0-1
 nginx 1.18.0-2
-nm-connection-editor 1.18.0-1
+nm-connection-editor 1.20.0-1
 nmap 7.91-1
 node-gyp 7.1.2-1
 nodejs 15.8.0-1
@@ -1271,7 +1273,7 @@ pim-data-exporter 20.12.1-1
 pim-sieve-editor 20.12.1-1
 pimcommon 20.12.1-1
 pinentry 1.1.0-5
-pipewire 1:0.3.20-1
+pipewire 1:0.3.21-1
 pixman 0.40.0-1
 pkgconf 1.7.3-1
 pkgfile 21-2
@@ -1471,12 +1473,12 @@ qt5-svg 5.15.2-1
 qt5-tools 5.15.2-2
 qt5-wayland 5.15.2-1
 qt5-webchannel 5.15.2-1
-qt5-webengine 5.15.2-4
+qt5-webengine 5.15.2-5
 qt5-webkit 5.212.0alpha4-9
 qt5-x11extras 5.15.2-1
 qt5-xmlpatterns 5.15.2-1
 qtermwidget 0.16.1-3
-qv2ray 2.6.3-15
+qv2ray 2.6.3-16
 radeontool 1.6.3-4
 rainbarf-git 20140404-1
 ranger-git 1.9.3.101.g57127d53-1
@@ -1485,7 +1487,7 @@ raptor 2.0.15-15
 rar 6.0.0-1
 rasqal 1:0.9.33-4
 rav1e 0.4.0-1
-re2 1:20210201-1
+re2 1:20210202-1
 readline 8.1.0-2
 recode 3.7.8-1
 recordmydesktop 0.3.8.1-9
@@ -1534,6 +1536,7 @@ scrcpy 1.17-1
 screen 4.8.0-2
 screenfetch 3.9.1-1
 screenkey 1.4-1
+scrot 1.4-1
 sd 0.7.6-1
 sddm 0.19.0-3
 sddm-kcm 5.20.5-1
@@ -1587,9 +1590,9 @@ sweeper 20.12.1-1
 syndication 5.78.0-1
 syntax-highlighting 5.78.0-1
 sysfsutils 2.1.0-11
-systemd 247.2-1
-systemd-libs 247.2-1
-systemd-sysvcompat 247.2-1
+systemd 247.3-1
+systemd-libs 247.3-1
+systemd-sysvcompat 247.3-1
 systemsettings 5.20.5-1
 taglib 1.11.1-4
 talloc 2.3.2-1
@@ -1648,7 +1651,7 @@ ttf-ms-fonts 2.0-12
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-2
 ttf-opensans 1.101-2
 ttf-sarasa-gothic 0.17.0-1
-ttf-symbola 13.00-2
+ttf-symbola 13.00-9
 ttf-twemoji-color 13.0.1-1
 ttf-ubuntu-font-family 0.83-6
 twolame 0.4.0-2
@@ -1674,7 +1677,7 @@ v4l-utils 1.20.0-1
 vala 0.50.3-1
 vamp-plugin-sdk 2.10.0-1
 vde2 2.3.2-16
-ventoy-bin 1.0.33-1
+ventoy-bin 1.0.34-1
 vi 1:070224-4
 vid.stab 1.1-3
 vim 8.2.2380-1
@@ -1807,6 +1810,7 @@ zbar 0.23.1-6
 zenity 3.32.0+55+gd7bedff-1
 zeroconf-ioslave 20.12.1-1
 zeromq 4.3.3-2
+zile 2.4.15-1
 zip 3.0-9
 zita-alsa-pcmi 0.3.2-3
 zita-resampler 1.8.0-1
