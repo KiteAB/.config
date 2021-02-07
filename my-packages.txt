@@ -5,7 +5,7 @@ accountsservice 0.6.55-3
 acl 2.2.53-3
 acorn 1:8.0.5-1
 acpi 1.7-3
-acpi_call 1.2.1-24
+acpi_call 1.2.1-25
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-1
@@ -80,7 +80,7 @@ bash-language-server 1.17.0-3
 bashtop 0.9.25-1
 bc 1.07.1-4
 bilibili-live-helper-bin 2.2.2-1
-binutils 2.35.1-1
+binutils 2.36-3
 bison 3.7.3-1
 black-hole-solver 1.10.1-1
 blas 3.9.0-3
@@ -190,16 +190,16 @@ eclipse-platform 4.18-1
 editorconfig-core-c 0.12.4-1
 efibootmgr 17-2
 efivar 37-4
-electron 11.2.1-3
+electron 11.2.3-1
 electron-netease-cloud-music 0.9.26-1
-electron9 9.4.2-3
+electron9 9.4.3-1
 electronic-wechat 2.3.1-2
 elfutils 0.182-1
 elisa 20.12.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.145210-1
+emacs-git 28.0.50.145248-1
 enca 1.19-4
 enchant 2.2.13-2
 ethtool 1:5.10-1
@@ -255,8 +255,8 @@ gamemode 1.6-9
 gavl 1.4.0-4
 gawk 5.1.0-1
 gc 8.0.4-4
-gcc 10.2.0-4
-gcc-libs 10.2.0-4
+gcc 10.2.0-6
+gcc-libs 10.2.0-6
 gconf 3.2.6+11+g07808097-10
 gcr 3.38.1-1
 gd 2.3.1-1
@@ -281,7 +281,7 @@ glew 2.2.0-2
 glib-networking 2.66.0-1
 glib2 2.66.6-1
 glib2-docs 2.66.6-1
-glibc 2.32-5
+glibc 2.33-3
 glibmm 2.66.0-1
 glslang 11.1.0-1
 glu 9.0.1-2
@@ -449,7 +449,7 @@ kde-dev-utils 20.12.2-1
 kde-gtk-config 5.20.5-2
 kdebugsettings 20.12.2-1
 kdeclarative 5.78.0-1
-kdeconnect-git 20.08.0.r156.26a8ca7f-1
+kdeconnect-git 20.08.0.r157.ea661f7d-1
 kdecoration 5.20.5-1
 kded 5.78.0-1
 kdeedu-data 20.12.2-1
@@ -623,7 +623,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.0-3
-latte-dock-git 0.9.11.r4947.4222811d-1
+latte-dock-git 0.9.11.r4961.c5c94a22-1
 lazydocker 0.10-3
 lcms2 2.11-2
 ldb 1:2.2.0-3
@@ -655,12 +655,12 @@ lib32-flac 1.3.3-1
 lib32-fontconfig 2:2.13.91+48+gfcb0420-2
 lib32-freetype2 2.10.4-1
 lib32-fribidi 1.0.10-1
-lib32-gcc-libs 10.2.0-4
+lib32-gcc-libs 10.2.0-6
 lib32-gdk-pixbuf2 2.42.2-1
 lib32-gettext 0.21-1
 lib32-glib-networking 2.66.0-1
 lib32-glib2 2.66.6-1
-lib32-glibc 2.32-5
+lib32-glibc 2.33-3
 lib32-glu 9.0.1-1
 lib32-gmp 6.2.1-1
 lib32-gnutls 3.7.0-1
@@ -1095,8 +1095,8 @@ lightdm 1:1.30.0-4
 lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-5
 lilv 0.24.12-1
-linux 5.10.13.arch1-1
-linux-api-headers 5.8-1
+linux 5.10.13.arch1-2
+linux-api-headers 5.10.13-1
 linux-firmware 20201218.646f159-1
 linuxqq 1:2.0.0_b2_1084-3
 lirc 1:0.10.1-8
@@ -1279,7 +1279,7 @@ p7zip 17.03-2
 package-query 1.11-1
 pacman 5.2.2-1
 pacman-contrib 1.4.0-1
-pacman-mirrorlist 20210110-1
+pacman-mirrorlist 20210206-1
 palapeli 20.12.2-1
 pam 1.5.1-1
 pambase 20200721.1-2
@@ -1623,6 +1623,7 @@ source-highlight 3.1.9-4
 sox 14.4.2-7
 spandsp 0.0.6-3
 spectacle 20.12.2-1
+speedtest-cli 2.1.2-3
 speex 1.2.0-3
 speexdsp 1.2.0-2
 spglib 1.16.1-1
@@ -1682,7 +1683,7 @@ texinfo 6.7-3
 thefuck 3.30-2
 thin-provisioning-tools 0.9.0-1
 threadweaver 5.78.0-1
-tldr 1.1.0-3
+tldr 1.2.0-1
 tlp 1.3.1-2
 tlp-rdw 1.3.1-2
 tlpui-git 2:1.3.1.2.r0.g053a477-1
@@ -1727,7 +1728,7 @@ usbutils 013-1
 util-linux 2.36.1-4
 util-linux-libs 2.36.1-4
 v2ray 4.34.0-1
-v2ray-domain-list-community 20210205091654-1
+v2ray-domain-list-community 20210206081900-1
 v2ray-geoip 202102040014-1
 v4l-utils 1.20.0-1
 vala 0.50.3-1
