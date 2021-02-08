@@ -199,7 +199,7 @@ elisa 20.12.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.145248-1
+emacs-git 28.0.50.145264-1
 enca 1.19-4
 enchant 2.2.13-2
 ethtool 1:5.10-1
@@ -237,6 +237,7 @@ findutils 4.8.0-1
 flac 1.3.3-2
 flameshot 0.8.5-1
 flex 2.6.4-3
+fltk 1.3.5-4
 fluidsynth 2.1.7-1
 fmt 7.1.3-1
 fontconfig 2:2.13.91+48+gfcb0420-2
@@ -270,7 +271,7 @@ gegl 0.4.26-1
 geoip 1.6.12-2
 geoip-database 20210126-1
 gettext 0.21-1
-ghostscript 9.53.3-2
+ghostscript 9.53.3-3
 giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.22-1
@@ -449,7 +450,7 @@ kde-dev-utils 20.12.2-1
 kde-gtk-config 5.20.5-2
 kdebugsettings 20.12.2-1
 kdeclarative 5.78.0-1
-kdeconnect-git 20.08.0.r157.ea661f7d-1
+kdeconnect-git 20.08.0.r158.40c155f9-1
 kdecoration 5.20.5-1
 kded 5.78.0-1
 kdeedu-data 20.12.2-1
@@ -623,7 +624,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.0-3
-latte-dock-git 0.9.11.r4961.c5c94a22-1
+latte-dock-git 0.9.11.r4975.50e96667-1
 lazydocker 0.10-3
 lcms2 2.11-2
 ldb 1:2.2.0-3
@@ -1367,7 +1368,7 @@ pulseaudio-alsa 1:1.2.2-2
 pulseaudio-qt 1.2-2
 purpose 5.78.0-1
 pyrit 0.5.0-4
-python 3.9.1-1
+python 3.9.1-2
 python-anytree 2.8.0-3
 python-appdirs 1.4.4-3
 python-argcomplete 1.12.1-1
@@ -1415,7 +1416,7 @@ python-markdown 3.3.3-3
 python-markupsafe 1.1.1-6
 python-msgpack 1.0.2-2
 python-ordered-set 4.0.2-3
-python-packaging 20.8-2
+python-packaging 20.9-1
 python-parso 1:0.7.1-3
 python-path-and-address 2.0.1-1
 python-pep517 0.9.1-3
@@ -1484,7 +1485,7 @@ python2-importlib-metadata 2.1.1-1
 python2-ipaddress 1.0.23-2
 python2-msgpack 0.6.2-4
 python2-ordered-set 3.1.1-3
-python2-packaging 20.8-2
+python2-packaging 20.9-1
 python2-pathlib2 2.3.5-1
 python2-pep517 0.9.1-3
 python2-pip 20.3.1-1
@@ -1546,6 +1547,7 @@ recode 3.7.8-1
 recordmydesktop 0.3.8.1-9
 redland 1:1.0.17-8
 reflector 2021-1
+remmina 1:1.4.11-1
 rest 0.8.1-3
 rhash 1.4.1-1
 rime-bopomofo 0.0.0.20210131-1
@@ -1683,6 +1685,7 @@ texinfo 6.7-3
 thefuck 3.30-2
 thin-provisioning-tools 0.9.0-1
 threadweaver 5.78.0-1
+tigervnc 1.11.0-6
 tldr 1.2.0-1
 tlp 1.3.1-2
 tlp-rdw 1.3.1-2
@@ -1712,7 +1715,7 @@ ttf-ubuntu-font-family 0.83-6
 twolame 0.4.0-2
 tzdata 2021a-1
 uchardet 0.0.7-1
-udisks2 2.9.1-1
+udisks2 2.9.2-1
 ueberzug 18.1.9-1
 umbrello 20.12.2-1
 unibilium 2.1.0-2
