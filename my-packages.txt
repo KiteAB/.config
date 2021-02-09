@@ -5,7 +5,7 @@ accountsservice 0.6.55-3
 acl 2.2.53-3
 acorn 1:8.0.5-1
 acpi 1.7-3
-acpi_call 1.2.1-25
+acpi_call 1.2.1-26
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-1
@@ -32,7 +32,7 @@ alsa-topology-conf 1.2.4-2
 alsa-ucm-conf 1.2.4-2
 alsa-utils 1.2.4-2
 amd-ucode 20201218.646f159-1
-amdvlk 2021.Q1.2-1
+amdvlk 2021.Q1.3-1
 amtk 5.2.0-2
 analitza 20.12.2-1
 android-tools 30.0.5-1
@@ -86,8 +86,8 @@ black-hole-solver 1.10.1-1
 blas 3.9.0-3
 blinken 20.12.2-1
 bluedevil 1:5.20.5-1
-bluez 5.55-1
-bluez-libs 5.55-1
+bluez 5.55-2
+bluez-libs 5.55-2
 bluez-qt 5.78.0-1
 bolt 0.9.1-1
 bomber 20.12.2-1
@@ -199,7 +199,7 @@ elisa 20.12.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.145264-1
+emacs-git 28.0.50.145279-1
 enca 1.19-4
 enchant 2.2.13-2
 ethtool 1:5.10-1
@@ -248,9 +248,9 @@ freetype2 2.10.4-1
 frei0r-plugins 1.7.0-1
 fribidi 1.0.10-1
 frpc 0.35.1-1
-fuse-common 3.10.1-1
+fuse-common 3.10.2-1
 fuse2 2.9.9-4
-fuse3 3.10.1-1
+fuse3 3.10.2-1
 fzf 0.25.1-1
 gamemode 1.6-9
 gavl 1.4.0-4
@@ -328,7 +328,7 @@ gst-plugins-base-libs 1.18.3-1
 gst-plugins-good 1.18.3-1
 gstreamer 1.18.3-1
 gtk-doc 1.33.2-1
-gtk-update-icon-cache 1:4.0.2-1
+gtk-update-icon-cache 1:4.0.3-1
 gtk2 2.24.33-1
 gtk3 1:3.24.24-2
 gtkmm3 3.24.3-1
@@ -365,7 +365,7 @@ icoutils 0.32.3-3
 icu 68.2-1
 id3lib 3.8.3-18
 ijs 0.35-3
-imagemagick 7.0.10.61-1
+imagemagick 7.0.10.62-1
 imlib2 1.7.1-1
 incidenceeditor 20.12.2-1
 inkscape 1.0.2-3
@@ -624,7 +624,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.0-3
-latte-dock-git 0.9.11.r4975.50e96667-1
+latte-dock-git 0.9.11.r4977.69904611-1
 lazydocker 0.10-3
 lcms2 2.11-2
 ldb 1:2.2.0-3
@@ -636,7 +636,7 @@ lf 20-2
 lib32-acl 2.2.53-1
 lib32-alsa-lib 1.2.4-2
 lib32-alsa-plugins 1.2.2-1
-lib32-amdvlk 2021.Q1.2-1
+lib32-amdvlk 2021.Q1.3-1
 lib32-at-spi2-atk 2.38.0-1
 lib32-at-spi2-core 2.38.0-1
 lib32-atk 2.36.0-1
@@ -720,7 +720,7 @@ lib32-libtiff 4.2.0-1
 lib32-libtirpc 1.3.1-1
 lib32-libudev0-shim 1-4
 lib32-libunistring 0.9.10-1
-lib32-libunwind 1.3.1-1
+lib32-libunwind 1.4.0-1
 lib32-libusb 1.0.24-1
 lib32-libva-mesa-driver 20.3.4-1
 lib32-libvorbis 1.3.7-1
@@ -801,7 +801,7 @@ libblockdev 2.25-1
 libbluray 1.2.1-1
 libbs2b 3.1.0-7
 libbsd 0.10.0-2
-libburn 1.5.2-2
+libburn 1.5.4-1
 libbytesize 2.4-4
 libcaca 0.99.beta19-3
 libcacard 2.7.0-2
@@ -991,8 +991,8 @@ libraw 0.20.2-1
 libraw1394 2.1.2-3
 libreoffice-fresh 7.1.0-1
 librevenge 0.0.4-3
-librime 1:1.7.0-1
-librime-data 0.0.0.20201212-1
+librime 1:1.7.1-1
+librime-data 0.0.0.20210208-1
 librsvg 2:2.50.3-1
 libsamplerate 0.1.9-3
 libsasl 2.1.27-3
@@ -1096,7 +1096,7 @@ lightdm 1:1.30.0-4
 lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-5
 lilv 0.24.12-1
-linux 5.10.13.arch1-2
+linux 5.10.14.arch1-1
 linux-api-headers 5.10.13-1
 linux-firmware 20201218.646f159-1
 linuxqq 1:2.0.0_b2_1084-3
@@ -1278,7 +1278,7 @@ oxygen 5.20.5-1
 p11-kit 0.23.22-1
 p7zip 17.03-2
 package-query 1.11-1
-pacman 5.2.2-1
+pacman 5.2.2-2
 pacman-contrib 1.4.0-1
 pacman-mirrorlist 20210206-1
 palapeli 20.12.2-1
@@ -1555,7 +1555,7 @@ rime-cangjie 0.0.0.20201030-1
 rime-emoji 0.0.0.20191102-1
 rime-essay 0.0.0.20201222-1
 rime-luna-pinyin 0.0.0.20210131-1
-rime-prelude 0.0.0.20201212-1
+rime-prelude 0.0.0.20210208-1
 rime-stroke 0.0.0.20191221-2
 rime-terra-pinyin 0.0.0.20210201-1
 ripgrep 12.1.1-1
@@ -1737,7 +1737,7 @@ v4l-utils 1.20.0-1
 vala 0.50.3-1
 vamp-plugin-sdk 2.10.0-1
 vde2 2.3.2-16
-ventoy-bin 1.0.34-1
+ventoy-bin 1.0.35-1
 vi 1:070224-4
 vid.stab 1.1-3
 vim 8.2.2380-1
@@ -1765,10 +1765,10 @@ wget 1.21.1-1
 which 2.21-5
 wildmidi 0.4.3-3
 wine 6.1-1
-winetricks 20201206-1
+winetricks 20210206-1
 wmctrl 1.07-6
 woff2 1.0.2-3
-wpa_supplicant 2:2.9-7
+wpa_supplicant 2:2.9-8
 wpebackend-fdo 1.8.0-1
 wps-office 11.1.0.9719-1
 wqy-bitmapfont 1.0.0RC1-4
