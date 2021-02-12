@@ -37,7 +37,7 @@ amdvlk 2021.Q1.3-1
 amtk 5.2.0-2
 analitza 20.12.2-1
 android-tools 30.0.5-1
-aom 2.0.1-1
+aom 2.0.2-1
 apache 2.4.46-3
 appstream 0.14.0-4
 appstream-qt 0.14.0-4
@@ -101,7 +101,7 @@ breeze 5.20.5-1
 breeze-gtk 5.20.5-1
 breeze-icons 5.78.0-1
 bridge-utils 1.7-1
-brltty 6.2-4
+brltty 6.3-1
 brotli 1.0.9-4
 btrfs-progs 5.10.1-1
 bubblewrap 0.4.1-1
@@ -149,7 +149,7 @@ cronie 1.5.5-2
 cryptsetup 2.3.4-2
 ctags 1:r20210106+g08b1c490-1
 curl 7.75.0-1
-dav1d 0.8.1-1
+dav1d 0.8.1-2
 db 5.3.28-5
 dbus 1.12.20-1
 dbus-glib 0.110-2
@@ -202,7 +202,7 @@ elisa 20.12.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.145330-1
+emacs-git 28.0.50.145346-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.13-2
@@ -285,8 +285,8 @@ github-cli 1.5.0-1
 glew 2.2.0-2
 glfw-wayland 3.3.2-2
 glib-networking 2.66.0-1
-glib2 2.66.6-2
-glib2-docs 2.66.6-2
+glib2 2.66.7-1
+glib2-docs 2.66.7-1
 glibc 2.33-3
 glibmm 2.66.0-1
 glslang 11.1.0-1
@@ -311,7 +311,7 @@ granatier 20.12.2-1
 grantlee 5.2.0-3
 grantlee-editor 20.12.2-1
 grantleetheme 20.12.2-1
-graphene 1.10.2-1
+graphene 1.10.4-1
 graphicsmagick 1.3.36-1
 graphite 1:1.3.14-1
 graphviz 2.46.0-1
@@ -666,7 +666,7 @@ lib32-gcc-libs 10.2.0-6
 lib32-gdk-pixbuf2 2.42.2-1
 lib32-gettext 0.21-1
 lib32-glib-networking 2.66.0-1
-lib32-glib2 2.66.6-2
+lib32-glib2 2.66.7-1
 lib32-glibc 2.33-3
 lib32-glu 9.0.1-1
 lib32-gmp 6.2.1-1
@@ -685,7 +685,7 @@ lib32-libappindicator-gtk3 12.10.0-11
 lib32-libasyncns 0.8+3+g68cd5af-2
 lib32-libcanberra 0.30+2+gc0620e4-3
 lib32-libcanberra-pulse 0.30+2+gc0620e4-3
-lib32-libcap 2.47-1
+lib32-libcap 2.48-1
 lib32-libcups 2.3.3-1
 lib32-libdatrie 0.2.12-1
 lib32-libdbusmenu-glib 16.04.0-4
@@ -717,7 +717,7 @@ lib32-libpsl 0.21.1-1
 lib32-libpulse 14.2-2
 lib32-librsvg 2.50.3-1
 lib32-libsm 1.2.3-1
-lib32-libsndfile 1.0.28-3
+lib32-libsndfile 1.0.31-1
 lib32-libsoup 2.72.0-1
 lib32-libssh2 1.9.0-1
 lib32-libtasn1 4.16.0-1
@@ -766,10 +766,11 @@ lib32-ocl-icd 2.2.14-1
 lib32-openal 1.21.0-1
 lib32-opencl-mesa 20.3.4-1
 lib32-openssl 1:1.1.1.i-1
+lib32-opus 1.3.1-1
 lib32-orc 0.4.32-1
 lib32-p11-kit 0.23.22-1
 lib32-pam 1.5.1-1
-lib32-pango 1:1.48.1-1
+lib32-pango 1:1.48.2-1
 lib32-pcre 8.44-1
 lib32-pixman 0.40.0-1
 lib32-polkit 0.118-1
@@ -813,7 +814,7 @@ libcaca 0.99.beta19-3
 libcacard 2.7.0-2
 libcanberra 0.30+2+gc0620e4-3
 libcanberra-pulse 0.30+2+gc0620e4-3
-libcap 2.47-1
+libcap 2.48-1
 libcap-ng 0.8.2-1
 libcddb 1.3.2-6
 libcdio 2.1.0-2
@@ -1000,7 +1001,7 @@ librevenge 0.0.4-3
 librime 1:1.7.2-1
 librime-data 0.0.0.20210208-1
 librsvg 2:2.50.3-1
-libsamplerate 0.1.9-3
+libsamplerate 0.2.1-1
 libsasl 2.1.27-3
 libseccomp 2.5.1-2
 libsecret 0.20.4-1
@@ -1009,7 +1010,7 @@ libsigc++ 2.10.6-1
 libsignon-glib 2.1-4
 libslirp 4.4.0-1
 libsm 1.2.3-2
-libsndfile 1.0.28-3
+libsndfile 1.0.31-1
 libsodium 1.0.18-2
 libsoup 2.72.0+5+g0b094bff-3
 libsoxr 0.1.3-2
@@ -1300,7 +1301,7 @@ pacman-mirrorlist 20210206-1
 palapeli 20.12.2-1
 pam 1.5.1-1
 pambase 20200721.1-2
-pango 1:1.48.1-1
+pango 1:1.48.2-1
 pangomm 2.46.0-1
 paper 2.3-2
 parley 20.12.2-1
@@ -1447,7 +1448,7 @@ python-pip 20.3.1-1
 python-pluggy 0.13.1-4
 python-ply 3.11-7
 python-progress 1.5-5
-python-prompt_toolkit 3.0.14-1
+python-prompt_toolkit 3.0.16-1
 python-psutil 5.8.0-1
 python-ptyprocess 0.7.0-1
 python-pycparser 2.20-3
@@ -1752,8 +1753,8 @@ usbutils 013-1
 util-linux 2.36.1-4
 util-linux-libs 2.36.1-4
 v2ray 4.34.0-1
-v2ray-domain-list-community 20210210155121-1
-v2ray-geoip 202102040014-1
+v2ray-domain-list-community 20210211141342-1
+v2ray-geoip 202102110014-1
 v4l-utils 1.20.0-1
 vala 0.50.3-1
 vamp-plugin-sdk 2.10.0-1
@@ -1766,7 +1767,7 @@ vim-runtime 8.2.2489-1
 virglrenderer 0.8.2-1
 virtualbox 6.1.18-1
 virtualbox-host-dkms 6.1.18-1
-visual-studio-code-bin 1.53.1-1
+visual-studio-code-bin 1.53.2-1
 vlc 3.0.12-1
 vmaf 1.5.3-1
 volume_key 0.3.12-5
@@ -1779,7 +1780,7 @@ w3m 0.5.3.git20200507-2
 wavpack 5.4.0-1
 wayland 1.19.0-1
 wayland-protocols 1.20-1
-webkit2gtk 2.30.4-3
+webkit2gtk 2.30.5-1
 webp-pixbuf-loader 0.0.2-1
 webrtc-audio-processing 0.3.1-2
 wget 1.21.1-1
