@@ -162,7 +162,7 @@ deepin-wine5 5.0.16-1
 deepin-wine5-i386 5.0.16-1
 deepin.com.qq.im.light 7.9.14308deepin8-4
 desktop-file-utils 0.26-1
-device-mapper 2.03.11-3
+device-mapper 2.03.11-4
 dhcp 4.4.2-2
 dhcpcd 9.4.0-1
 diffutils 3.7-3
@@ -180,14 +180,14 @@ docbook-xsl 1.79.2-7
 docker 1:20.10.3-2
 dolphin 20.12.2-1
 dolphin-plugins 20.12.2-1
-dosfstools 4.1-3
+dosfstools 4.2-1
 double-conversion 3.1.5-2
 dragon 20.12.2-1
 drkonqi 5.20.5-1
 dtc 1.6.0-3
 dvdauthor 0.7.2-10
 dvgrab 3.5-9
-e2fsprogs 1.46.0-1
+e2fsprogs 1.46.1-1
 ebook-tools 0.2.2-7
 eclipse-platform 4.18-1
 editorconfig-core-c 0.12.4-1
@@ -202,7 +202,7 @@ elisa 20.12.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.145346-1
+emacs-git 28.0.50.145363-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.13-2
@@ -267,7 +267,7 @@ gcr 3.38.1-1
 gd 2.3.1-1
 gdb 10.1-4
 gdb-common 10.1-4
-gdbm 1.19-1
+gdbm 1.19-2
 gdk-pixbuf2 2.42.2-1
 gdl 3.34.0-2
 gedit 3.38.1-1
@@ -335,7 +335,7 @@ gstreamer 1.18.3-1
 gtk-doc 1.33.2-1
 gtk-update-icon-cache 1:4.0.3-1
 gtk2 2.24.33-1
-gtk3 1:3.24.24-2
+gtk3 1:3.24.25-1
 gtkmm3 3.24.3-1
 gtksourceview4 4.8.0-1
 gtkspell3 3.0.10-2
@@ -360,11 +360,11 @@ htop 3.0.5-1
 http-parser 2.9.4-1
 hugo 0.80.0-1
 hunspell 1.7.0-3
-hwids 20200813.1-1
+hwids 20201207-1
 hwloc 2.4.0-1
 hyphen 2.8.8-3
 i3lock-color-git r774.a318ff3-1
-iana-etc 20201229-1
+iana-etc 20210202-1
 ibam 0.5.2-9
 icoutils 0.32.3-3
 icu 68.2-1
@@ -630,7 +630,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.0-3
-latte-dock-git 0.9.11.r4985.ea214c52-1
+latte-dock-git 0.9.11.r4988.16c1a849-1
 lazydocker 0.10-3
 lcms2 2.12-1
 ldb 1:2.2.0-3
@@ -655,7 +655,7 @@ lib32-colord 1.4.5-1
 lib32-curl 7.75.0-1
 lib32-dbus 1.12.20-1
 lib32-dconf 0.38.0-1
-lib32-e2fsprogs 1.46.0-1
+lib32-e2fsprogs 1.46.1-1
 lib32-expat 2.2.10-1
 lib32-faudio 21.02-1
 lib32-flac 1.3.3-1
@@ -798,7 +798,7 @@ libakonadi 20.12.2-1
 libappindicator-gtk3 12.10.0.r296-1
 libarchive 3.5.1-1
 libass 0.15.0-2
-libassuan 2.5.4-1
+libassuan 2.5.4-2
 libasyncns 0.8+3+g68cd5af-3
 libatasmart 0.19-5
 libatomic_ops 7.6.10-2
@@ -998,7 +998,7 @@ libraw 0.20.2-1
 libraw1394 2.1.2-3
 libreoffice-fresh 7.1.0-1
 librevenge 0.0.4-3
-librime 1:1.7.2-1
+librime 1:1.7.3-1
 librime-data 0.0.0.20210208-1
 librsvg 2:2.50.3-1
 libsamplerate 0.2.1-1
@@ -1130,7 +1130,7 @@ lua52-luajson 1.3.4-3
 lua52-socket 20200329-1
 lua53 5.3.6-1
 luajit 2.0.5-3
-lvm2 2.03.11-3
+lvm2 2.03.11-4
 lxappearance 0.6.3-4
 lz4 1:1.9.3-1
 lzo 2.10-3
@@ -1258,7 +1258,7 @@ noto-fonts-emoji 20200916-1
 noto-fonts-emoji-blob 20190614-2
 noto-fonts-extra 20201226-1
 npm 6.14.11-1
-npth 1.6-2
+npth 1.6-3
 nspr 4.29-1
 nss 3.61-1
 ntfs-3g 2017.3.23-5
@@ -1275,7 +1275,7 @@ opencollada 1:1.6.68-2
 opencolorio1 1.1.1-2
 opencore-amr 0.1.5-5
 opencv 4.5.1-1
-openexr 2.5.4-1
+openexr 2.5.5-1
 openimagedenoise 1.2.4-1
 openimageio 2.2.11.1-1
 openjpeg2 2.4.0-1
@@ -1336,6 +1336,7 @@ perl-timedate 2.33-2
 perl-try-tiny 0.30-5
 perl-uri 5.07-1
 perl-www-robotrules 6.02-8
+pgyvpn-bin 2.2.1-1
 phonon-qt5 4.11.1-2
 phonon-qt5-gstreamer 4.10.0-2
 picmi 20.12.2-1
@@ -1398,7 +1399,7 @@ python-automat 20.2.0-5
 python-backcall 0.2.0-3
 python-cachecontrol 0.12.6-3
 python-cairo 1.20.0-3
-python-cffi 1.14.4-1
+python-cffi 1.14.5-1
 python-chardet 3.0.4-7
 python-click 7.1.2-3
 python-colorama 0.4.4-3
@@ -1491,7 +1492,7 @@ python2-appdirs 1.4.4-3
 python2-asn1crypto 1.4.0-3
 python2-backports 1.0-3
 python2-cachecontrol 0.12.6-3
-python2-cffi 1.14.4-1
+python2-cffi 1.14.5-1
 python2-chardet 3.0.4-7
 python2-colorama 0.4.4-3
 python2-configparser 4.0.2-2
@@ -1753,7 +1754,7 @@ usbutils 013-1
 util-linux 2.36.1-4
 util-linux-libs 2.36.1-4
 v2ray 4.34.0-1
-v2ray-domain-list-community 20210211141342-1
+v2ray-domain-list-community 20210212170843-1
 v2ray-geoip 202102110014-1
 v4l-utils 1.20.0-1
 vala 0.50.3-1
@@ -1786,7 +1787,7 @@ webrtc-audio-processing 0.3.1-2
 wget 1.21.1-1
 which 2.21-5
 wildmidi 0.4.3-3
-wine 6.1-1
+wine 6.2-1
 winetricks 20210206-1
 wmctrl 1.07-6
 woff2 1.0.2-3
@@ -1822,7 +1823,8 @@ xf86-input-libinput 0.30.0-1
 xf86-video-amdgpu 19.1.0-2
 xf86-video-ati 1:19.1.0-2
 xf86-video-vesa 2.5.0-1
-xfce4-power-manager 4.16.0-1
+xfce4-notifyd 0.6.2-2
+xfce4-power-manager 4.16.0-2
 xfconf 4.16.0-1
 xfsprogs 5.10.0-2
 xine-lib 1.2.11-3
