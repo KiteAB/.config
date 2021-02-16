@@ -247,6 +247,7 @@ fmt 7.1.3-1
 fontconfig 2:2.13.91+48+gfcb0420-2
 frameworkintegration 5.79.0-1
 freecell-solver 6.2.0-1
+freeglut 3.2.1-2
 freerdp 2:2.2.0-2
 freetype2 2.10.4-1
 frei0r-plugins 1.7.0-1
@@ -1131,6 +1132,7 @@ lua52-luajson 1.3.4-3
 lua52-socket 20200329-1
 lua53 5.3.6-1
 luajit 2.0.5-3
+lutris 0.5.8.3-2
 lvm2 2.03.11-4
 lxappearance 0.6.3-4
 lz4 1:1.9.3-1
@@ -1158,6 +1160,7 @@ md4c 0.4.7-1
 mdadm 4.1-2
 media-player-info 24-2
 mesa 20.3.4-1
+mesa-demos 8.4.0-4
 mesa-vdpau 20.3.4-1
 messagelib 20.12.2-1
 metis 5.1.0.p10-1
@@ -1415,6 +1418,7 @@ python-distlib 0.3.1-2
 python-distro 1.5.0-3
 python-docopt 0.6.2-9
 python-epc 0.0.5-2
+python-evdev 1.4.0-1
 python-feedparser 5.2.1-9
 python-flask 1.1.2-4
 python-future 0.18.2-5
@@ -1486,6 +1490,7 @@ python-wcwidth 0.2.5-3
 python-webencodings 0.5.1-6
 python-werkzeug 1.0.1-4
 python-xlib 0.29-1
+python-yaml 5.3.1-4
 python-zipp 3.4.0-3
 python-zope-interface 5.2.0-3
 python2 2.7.18-2
@@ -1892,6 +1897,7 @@ yakuake 20.12.2-1
 yaml-cpp 0.6.3-2
 yaourt 1.9-1
 yay 10.1.2-2
+you-get 0.4.1500-2
 zbar 0.23.1-6
 zenity 3.32.0+55+gd7bedff-1
 zeroconf-ioslave 20.12.2-1
