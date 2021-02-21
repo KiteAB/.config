@@ -108,7 +108,7 @@ bubblewrap 0.4.1-1
 bzip2 1.0.8-4
 c-ares 1.17.1-1
 ca-certificates 20181109-4
-ca-certificates-mozilla 3.61-1
+ca-certificates-mozilla 3.62-1
 ca-certificates-utils 20181109-4
 cabextract 1.9.1-2
 cairo 1.17.4-3
@@ -194,7 +194,7 @@ eclipse-platform 4.18-1
 editorconfig-core-c 0.12.4-1
 efibootmgr 17-2
 efivar 37-4
-electron 11.2.3-1
+electron 11.3.0-1
 electron-netease-cloud-music 0.9.26-1
 electron9 9.4.3-1
 electronic-wechat 2.3.1-2
@@ -203,7 +203,7 @@ elisa 20.12.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.145495-1
+emacs-git 28.0.50.145533-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.13-2
@@ -338,7 +338,7 @@ gstreamer 1.18.3-1
 gtk-doc 1.33.2-1
 gtk-update-icon-cache 1:4.0.3-1
 gtk2 2.24.33-1
-gtk3 1:3.24.25-1
+gtk3 1:3.24.25-2
 gtkmm3 3.24.3-1
 gtksourceview4 4.8.0-1
 gtkspell3 3.0.10-2
@@ -427,7 +427,7 @@ kate 20.12.2-1
 katomic 20.12.2-1
 kauth 5.79.0-1
 kbackup 20.12.2-1
-kbd 2.3.0-2
+kbd 2.4.0-2
 kblackbox 20.12.2-1
 kblocks 20.12.2-1
 kbookmarks 5.79.0-1
@@ -697,7 +697,7 @@ lib32-libdrm 2.4.104-1
 lib32-libelf 0.183-3
 lib32-libepoxy 1.5.5-1
 lib32-libffi 3.3-2
-lib32-libgcrypt 1.9.1-1
+lib32-libgcrypt 1.9.2-1
 lib32-libglvnd 1.3.2-1
 lib32-libgpg-error 1.41-1
 lib32-libgudev 234-1
@@ -764,7 +764,7 @@ lib32-mpg123 1.26.4-1
 lib32-ncurses 6.2-1
 lib32-nettle 3.7-1
 lib32-nspr 4.29-1
-lib32-nss 3.61-1
+lib32-nss 3.62-1
 lib32-ocl-icd 2.2.14-1
 lib32-openal 1.21.0-1
 lib32-opencl-mesa 20.3.4-2
@@ -866,7 +866,7 @@ libfreehand 0.1.2-3
 libftdi 1.5-1
 libgcrypt 1.9.2-1
 libgdiplus 5.6.1-3
-libgexiv2 0.12.1-4
+libgexiv2 0.12.2-1
 libgit2 1:1.1.0-1
 libglvnd 1.3.2-1
 libgme 0.6.3-1
@@ -1171,7 +1171,7 @@ milou 5.21.0-1
 minizip 1:1.2.11-4
 minuet 20.12.2-1
 mjpegtools 2.2.0beta-1
-mkinitcpio 29-1
+mkinitcpio 30-1
 mkinitcpio-busybox 1.32.1-2
 mlt 6.24.0-1
 mobile-broadband-provider-info 20201225-1
@@ -1266,7 +1266,7 @@ noto-fonts-extra 20201226-1
 npm 6.14.11-1
 npth 1.6-3
 nspr 4.29-1
-nss 3.61-1
+nss 3.62-1
 ntfs-3g 2017.3.23-5
 numactl 2.0.14-1
 obs-studio 26.1.2-1
@@ -1827,10 +1827,22 @@ xdg-desktop-portal-kde 5.21.0-1
 xdg-utils 1.1.3+19+g9816ebb-1
 xdotool 3.20160805.1-3
 xerces-c 3.2.3-2
+xf86-input-evdev 2.10.6-2
 xf86-input-libinput 0.30.0-1
+xf86-input-synaptics 1.9.1-2
+xf86-input-vmmouse 13.1.0-5
+xf86-input-void 1.4.1-5
 xf86-video-amdgpu 19.1.0-2
 xf86-video-ati 1:19.1.0-2
+xf86-video-dummy 0.3.8-4
+xf86-video-fbdev 0.5.0-2
+xf86-video-intel 1:2.99.917+916+g31486f40-1
+xf86-video-nouveau 1.0.17-1
+xf86-video-openchrome 0.6.0-4
+xf86-video-qxl 0.1.5.r16.g52c421c-1
 xf86-video-vesa 2.5.0-1
+xf86-video-vmware 13.3.0-2
+xf86-video-voodoo 1.2.5-11
 xfce4-notifyd 0.6.2-2
 xfce4-power-manager 4.16.0-2
 xfconf 4.16.0-1
