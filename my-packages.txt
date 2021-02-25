@@ -89,8 +89,8 @@ blender 17:2.91.2-5
 blinken 20.12.2-1
 blosc 1.21.0-1
 bluedevil 1:5.21.1-1
-bluez 5.55-3
-bluez-libs 5.55-3
+bluez 5.56-1
+bluez-libs 5.56-1
 bluez-qt 5.79.0-1
 bolt 0.9.1-1
 bomber 20.12.2-1
@@ -131,7 +131,7 @@ clucene 2.3.3.4-11
 clutter 1.26.4-1
 clutter-gst 3.0.27-3
 clutter-gtk 1.8.4-2
-cmake 3.19.5-1
+cmake 3.19.6-1
 cmatrix 2.0-2
 cogl 1.22.8-1
 colord 1.4.5-1
@@ -203,7 +203,7 @@ elisa 20.12.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.145586-1
+emacs-git 28.0.50.145610-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.13-2
@@ -275,7 +275,7 @@ gdl 3.34.0-2
 gedit 3.38.1-1
 gegl 0.4.26-1
 geoip 1.6.12-2
-geoip-database 20210126-1
+geoip-database 20210223-1
 gettext 0.21-1
 ghostscript 9.53.3-3
 giblib 1.2.4-8
@@ -291,7 +291,7 @@ glib2 2.66.7-1
 glib2-docs 2.66.7-1
 glibc 2.33-4
 glibmm 2.66.0-1
-glslang 11.1.0-1
+glslang 11.2.0-1
 glu 9.0.1-2
 gmp 6.2.1-1
 gnome-autoar 0.2.4-2
@@ -321,7 +321,7 @@ graphviz 2.46.0-1
 grep 3.6-1
 groff 1.22.4-4
 grpc 1.35.0-4
-grub 2:2.04-9
+grub 2:2.04-10
 gsettings-desktop-schemas 3.38.0-1
 gsfonts 20200910-1
 gsl 2.6-2
@@ -377,7 +377,7 @@ imagemagick 7.0.11.1-1
 imlib2 1.7.1-1
 incidenceeditor 20.12.2-1
 inkscape 1.0.2-3
-iproute2 5.10.0-2
+iproute2 5.11.0-1
 iptables 1:1.8.7-1
 iputils 20200821-1
 ipython 7.19.0-5
@@ -737,7 +737,7 @@ lib32-libx11 1.7.0-1
 lib32-libxau 1.0.9-1
 lib32-libxcb 1.14-1
 lib32-libxcomposite 0.4.5-1
-lib32-libxcrypt 4.4.17-1
+lib32-libxcrypt 4.4.18-1
 lib32-libxcursor 1.2.0-1
 lib32-libxdamage 1.1.5-1
 lib32-libxdmcp 1.1.3-1
@@ -983,7 +983,7 @@ libpeas 1.28.0-3
 libpgm 5.3.128-1
 libphonenumber 8.12.14-3
 libpipeline 1.5.3-1
-libplacebo 3.104.0-1
+libplacebo 3.104.0-2
 libplist 2.2.0-3
 libpng 1.6.37-3
 libproxy 0.4.17-1
@@ -1040,7 +1040,7 @@ libtommath 1.2.0-3
 libtool 2.4.6+42+gb88cebd5-14
 libudev0-shim 1-4
 libunistring 0.9.10-3
-libunwind 1.4.0-1
+libunwind 1.5.0-1
 libupnp 1.14.1-1
 liburing 0.7-2
 libusb 1.0.24-2
@@ -1058,7 +1058,7 @@ libvncserver 0.9.13-1
 libvorbis 1.3.7-2
 libvpx 1.9.0-1
 libvterm 0.1.3.git1.65dbda-1
-libwacom 1.8-1
+libwacom 1.9-1
 libwebp 1.2.0-1
 libwmf 0.2.12-2
 libwpd 0.10.3-2
@@ -1070,7 +1070,7 @@ libxau 1.0.9-3
 libxaw 1.0.13-3
 libxcb 1.14-1
 libxcomposite 0.4.5-3
-libxcrypt 4.4.17-1
+libxcrypt 4.4.18-1
 libxcursor 1.2.0-2
 libxdamage 1.1.5-3
 libxdg-basedir 1.2.0-5
@@ -1151,9 +1151,9 @@ make 4.3-3
 man-db 2.9.4-1
 marble 20.12.2-1
 marble-common 20.12.2-1
-mariadb 10.5.8-1
-mariadb-clients 10.5.8-1
-mariadb-libs 10.5.8-1
+mariadb 10.5.9-1
+mariadb-clients 10.5.9-1
+mariadb-libs 10.5.9-1
 marisa 0.2.6-3
 markdownpart 20.12.2-1
 maven 3.6.3-1
@@ -1274,7 +1274,7 @@ obs-studio 26.1.2-1
 ocl-icd 2.2.14-1
 okular 20.12.2-1
 onefetch 2.9.1-1
-openal 1.21.0-1
+openal 1.21.1-1
 openbabel 3.1.1-2
 opencc 1.1.1-5
 opencl-mesa 20.3.4-3
@@ -1396,7 +1396,7 @@ pulseaudio-qt 1.2-2
 purpose 5.79.0-1
 pybind11 2.6.2-1
 pyrit 0.5.0-4
-python 3.9.1-2
+python 3.9.2-1
 python-anytree 2.8.0-3
 python-appdirs 1.4.4-3
 python-argcomplete 1.12.1-1
@@ -1412,7 +1412,7 @@ python-click 7.1.2-3
 python-colorama 0.4.4-3
 python-constantly 15.1.0-8
 python-contextlib2 0.6.0.post1-3
-python-cryptography 3.3.1-1
+python-cryptography 3.4.6-1
 python-dateutil 2.8.1-5
 python-dbus 1.2.16-3
 python-dbus-common 1.2.16-3
@@ -1444,7 +1444,7 @@ python-lxml 4.6.2-1
 python-markdown 3.3.3-3
 python-markupsafe 1.1.1-6
 python-msgpack 1.0.2-2
-python-numpy 1.20.0-1
+python-numpy 1.20.1-1
 python-ordered-set 4.0.2-3
 python-packaging 20.9-1
 python-parso 1:0.7.1-3
@@ -1466,9 +1466,9 @@ python-pyhamcrest 1.9.0-7
 python-pyinotify 0.9.6-9
 python-pyopenssl 20.0.1-1
 python-pyparsing 2.4.7-3
-python-pyqt5 5.15.2-3
+python-pyqt5 5.15.3-1
 python-pyqt5-sip 12.8.1-3
-python-pyqt5-webengine 5.15.2-1
+python-pyqt5-webengine 5.15.3-1
 python-pyte 0.8.0-6
 python-pyzmq 20.0.0-1
 python-qrcode 6.1-6
@@ -1635,7 +1635,7 @@ sed 4.8-1
 semver 7.3.4-1
 serd 0.30.10-1
 sfml 2.5.1-2
-shaderc 2020.3-1
+shaderc 2020.3-2
 shadow 4.8.1-4
 shared-mime-info 2.0+57+gc1d1c70-1
 signon-kwallet-extension 20.12.2-1
