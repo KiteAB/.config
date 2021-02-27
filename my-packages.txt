@@ -203,7 +203,7 @@ elisa 20.12.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.145618-1
+emacs-git 28.0.50.145630-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.13-2
@@ -249,7 +249,7 @@ fontconfig 2:2.13.91+48+gfcb0420-2
 frameworkintegration 5.79.0-1
 freecell-solver 6.2.0-1
 freeglut 3.2.1-2
-freerdp 2:2.3.0-1
+freerdp 2:2.3.0-2
 freetype2 2.10.4-1
 frei0r-plugins 1.7.0-1
 fribidi 1.0.10-1
@@ -320,7 +320,7 @@ graphite 1:1.3.14-1
 graphviz 2.46.0-1
 grep 3.6-1
 groff 1.22.4-4
-grpc 1.35.0-4
+grpc 1.36.0-1
 grub 2:2.04-10
 gsettings-desktop-schemas 3.38.0-1
 gsfonts 20200910-1
@@ -459,7 +459,7 @@ kde-dev-utils 20.12.2-1
 kde-gtk-config 5.21.1-1
 kdebugsettings 20.12.2-1
 kdeclarative 5.79.0-1
-kdeconnect-git 20.08.0.r170.28e04a35-1
+kdeconnect-git 20.08.0.r171.4011cecf-1
 kdecoration 5.21.1-1
 kded 5.79.0-1
 kdeedu-data 20.12.2-1
@@ -623,7 +623,7 @@ kwayland 5.79.0-1
 kwayland-integration 5.21.1-1
 kwayland-server 5.21.1-1
 kwidgetsaddons 5.79.0-1
-kwin 5.21.1-1
+kwin 5.21.1-2
 kwindowsystem 5.79.0-1
 kwordquiz 20.12.2-1
 kwrite 20.12.2-1
@@ -633,7 +633,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.0-3
-latte-dock-git 0.9.11.r5033.ddb7dfdf-1
+latte-dock-git 0.9.11.r5035.7f9f418b-1
 lazydocker 0.10-3
 lcms2 2.12-1
 ldb 1:2.2.0-3
@@ -731,7 +731,7 @@ lib32-libudev0-shim 1-4
 lib32-libunistring 0.9.10-1
 lib32-libunwind 1.4.0-1
 lib32-libusb 1.0.24-1
-lib32-libva-mesa-driver 20.3.4-2
+lib32-libva-mesa-driver 20.3.4-3
 lib32-libvorbis 1.3.7-1
 lib32-libx11 1.7.0-1
 lib32-libxau 1.0.9-1
@@ -758,8 +758,8 @@ lib32-libxxf86vm 1.1.4-2
 lib32-llvm-libs 11.1.0-1
 lib32-lm_sensors 1:3.6.0.r41.g31d1f125-1
 lib32-lz4 1.9.3-1
-lib32-mesa 20.3.4-2
-lib32-mesa-vdpau 20.3.4-2
+lib32-mesa 20.3.4-3
+lib32-mesa-vdpau 20.3.4-3
 lib32-mpg123 1.26.4-1
 lib32-ncurses 6.2-1
 lib32-nettle 3.7-1
@@ -767,7 +767,7 @@ lib32-nspr 4.29-1
 lib32-nss 3.62-1
 lib32-ocl-icd 2.2.14-1
 lib32-openal 1.21.1-1
-lib32-opencl-mesa 20.3.4-2
+lib32-opencl-mesa 20.3.4-3
 lib32-openssl 1:1.1.1.j-1
 lib32-opus 1.3.1-1
 lib32-orc 0.4.32-1
@@ -786,7 +786,7 @@ lib32-tdb 1.4.3-1
 lib32-util-linux 2.36.2-1
 lib32-vkd3d 1.2-2
 lib32-vulkan-icd-loader 1.2.169-1
-lib32-vulkan-radeon 20.3.4-2
+lib32-vulkan-radeon 20.3.4-3
 lib32-wayland 1.19.0-1
 lib32-x264 3:0.160.r3011.cde9a93-2
 lib32-xz 5.2.5-1
@@ -879,7 +879,7 @@ libgssglue 0.4-4
 libgtop 2.40.0+2+g31db82ef-2
 libgudev 234-1
 libgusb 0.3.5-1
-libgxps 0.3.1-2
+libgxps 0.3.2-1
 libheif 1.11.0-1
 libibus 1.5.24-1
 libical 3.0.9-1
@@ -1191,7 +1191,7 @@ msgpack-c 3.3.0-2
 mtdev 1.1.6-1
 mujs 1.1.0-1
 mypaint-brushes1 1.3.1-1
-nano 5.5-1
+nano 5.6-1
 nautilus 3.38.2-1
 ncurses 6.2-1
 ndctl 71.1-1
@@ -1251,11 +1251,11 @@ net-snmp 5.9-3
 net-tools 2.10-1
 netpbm 10.73.33-1
 nettle 3.7.1-1
-network-manager-applet 1.20.0-1
+network-manager-applet 1.20.0-2
 networkmanager 1.30.0-2
 networkmanager-qt 5.79.0-1
 nginx 1.18.0-2
-nm-connection-editor 1.20.0-1
+nm-connection-editor 1.20.0-2
 nmap 7.91-1
 node-gyp 7.1.2-1
 nodejs 15.10.0-1
@@ -1480,7 +1480,7 @@ python-retrying 1.3.3-9
 python-setuptools 1:53.0.0-1
 python-sexpdata 0.0.3-3
 python-sgmllib 5.2.1-9
-python-sip4 4.19.24-1
+python-sip4 4.19.25-1
 python-six 1.15.0-3
 python-termcolor 1.1.0-10
 python-toml 0.10.2-3
@@ -1563,7 +1563,7 @@ qt5-webkit 5.212.0alpha4-9
 qt5-x11extras 5.15.2-1
 qt5-xmlpatterns 5.15.2-1
 qtermwidget 0.16.1-3
-qv2ray 2.6.3-16
+qv2ray 2.6.3-17
 radeontool 1.6.3-4
 rainbarf-git 20140404-1
 ranger 1.9.3-3
@@ -1763,7 +1763,7 @@ usbutils 013-1
 util-linux 2.36.2-1
 util-linux-libs 2.36.2-1
 v2ray 4.34.0-1
-v2ray-domain-list-community 20210225063122-1
+v2ray-domain-list-community 20210226210728-1
 v2ray-geoip 202102250625-1
 v4l-utils 1.20.0-1
 vala 0.50.3-1
