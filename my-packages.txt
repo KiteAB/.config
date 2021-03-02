@@ -26,7 +26,7 @@ akonadiconsole 20.12.2-1
 akregator 20.12.2-1
 alacritty 0.7.2-1
 alembic 1.7.16-1
-alsa-card-profiles 1:0.3.22-1
+alsa-card-profiles 1:0.3.22-2
 alsa-lib 1.2.4-3
 alsa-plugins 1:1.2.2-2
 alsa-topology-conf 1.2.4-2
@@ -39,8 +39,8 @@ analitza 20.12.2-1
 android-tools 30.0.5-1
 aom 2.0.2-1
 apache 2.4.46-3
-appstream 0.14.1-2
-appstream-qt 0.14.1-2
+appstream 0.14.2-1
+appstream-qt 0.14.2-1
 apr 1.7.0-3
 apr-util 1.6.1-8
 arandr 0.1.10-5
@@ -203,7 +203,7 @@ elisa 20.12.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.145677-1
+emacs-git 28.0.50.145695-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-1
@@ -249,7 +249,7 @@ fontconfig 2:2.13.91+48+gfcb0420-2
 frameworkintegration 5.79.0-1
 freecell-solver 6.2.0-1
 freeglut 3.2.1-2
-freerdp 2:2.3.0-2
+freerdp 2:2.3.1-1
 freetype2 2.10.4-1
 frei0r-plugins 1.7.0-1
 fribidi 1.0.10-1
@@ -258,7 +258,7 @@ fuse-common 3.10.2-1
 fuse2 2.9.9-4
 fuse3 3.10.2-1
 fzf 0.25.1-2
-gamemode 1.6-9
+gamemode 1.6.1-1
 gavl 1.4.0-4
 gawk 5.1.0-1
 gc 8.0.4-4
@@ -633,7 +633,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.0-3
-latte-dock-git 0.9.11.r5082.5d1bf427-1
+latte-dock-git 0.9.11.r5090.db99677f-1
 lazydocker 0.10-3
 lcms2 2.12-1
 ldb 1:2.2.0-3
@@ -1041,7 +1041,7 @@ libtool 2.4.6+42+gb88cebd5-14
 libudev0-shim 1-4
 libunistring 0.9.10-3
 libunwind 1.5.0-1
-libupnp 1.14.1-1
+libupnp 1.14.2-1
 liburing 0.7-2
 libusb 1.0.24-2
 libusb-compat 0.1.7-1
@@ -1083,8 +1083,8 @@ libxfont2 2.0.4-3
 libxft 2.3.3-2
 libxi 1.7.10-3
 libxinerama 1.1.4-3
-libxkbcommon 1.0.3-1
-libxkbcommon-x11 1.0.3-1
+libxkbcommon 1.1.0-1
+libxkbcommon-x11 1.1.0-1
 libxkbfile 1.1.0-2
 libxklavier 5.4-3
 libxml2 2.9.10-8
@@ -1352,7 +1352,7 @@ pim-data-exporter 20.12.2-1
 pim-sieve-editor 20.12.2-1
 pimcommon 20.12.2-1
 pinentry 1.1.0-5
-pipewire 1:0.3.22-1
+pipewire 1:0.3.22-2
 pixman 0.40.0-1
 pkgconf 1.7.3-1
 pkgfile 21-2
@@ -1769,7 +1769,7 @@ v4l-utils 1.20.0-1
 vala 0.50.4-1
 vamp-plugin-sdk 2.10.0-1
 vde2 2.3.2-16
-ventoy-bin 1.0.36-5
+ventoy-bin 1.0.36-6
 vi 1:070224-4
 vid.stab 1.1-3
 vim 8.2.2489-1
