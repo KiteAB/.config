@@ -203,7 +203,7 @@ elisa 20.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.145726-1
+emacs-git 28.0.50.145738-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-1
@@ -231,7 +231,7 @@ fcitx5-qt 5.0.3-1
 fcitx5-rime 5.0.4-1
 fd 8.2.1-1
 feh 3.6.3-1
-ffmpeg 2:4.3.1-4
+ffmpeg 2:4.3.2-1
 ffmpegthumbs 20.12.3-1
 fftw 3.3.9-1
 file 5.39-1
@@ -282,8 +282,8 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.22-2
 git 2.30.1-1
-git-delta-git 0.6.0.20210304-1
-github-cli 1.6.2-1
+git-delta-git 0.6.0.20210305-1
+github-cli 1.7.0-1
 glew 2.2.0-2
 glfw-wayland 3.3.3-1
 glib-networking 2.66.0-1
@@ -459,7 +459,7 @@ kde-dev-utils 20.12.3-1
 kde-gtk-config 5.21.2-1
 kdebugsettings 20.12.3-1
 kdeclarative 5.79.0-1
-kdeconnect-git 20.08.0.r174.042fdd36-1
+kdeconnect-git 20.08.0.r175.dc25d8ef-1
 kdecoration 5.21.2-1
 kded 5.79.0-1
 kdeedu-data 20.12.3-1
@@ -633,7 +633,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.0-3
-latte-dock-git 0.9.11.r5106.393db028-1
+latte-dock-git 0.9.11.r5107.c67a8775-1
 lazydocker 0.10-3
 lcms2 2.12-1
 ldb 1:2.2.0-3
@@ -1494,7 +1494,7 @@ python-webencodings 0.5.1-6
 python-werkzeug 1.0.1-4
 python-xlib 0.29-1
 python-yaml 5.3.1-4
-python-zipp 3.4.0-3
+python-zipp 3.4.1-1
 python-zope-interface 5.2.0-3
 python2 2.7.18-2
 python2-appdirs 1.4.4-3
@@ -1613,7 +1613,7 @@ ruby-rspec-mocks 3.8.0-3
 ruby-rspec-support 3.8.0-3
 ruby-term-ansicolor 1.7.1-1
 ruby-tins 1.26.0-1
-rubygems 3.2.7-1
+rubygems 3.2.13-1
 run-parts 4.8.6.1-2
 runc 1.0.0rc93-1
 sane 1.0.32-3
@@ -1763,7 +1763,7 @@ usbutils 013-1
 util-linux 2.36.2-1
 util-linux-libs 2.36.2-1
 v2ray 4.34.0-1
-v2ray-domain-list-community 20210304170634-1
+v2ray-domain-list-community 20210305122856-1
 v2ray-geoip 202103041656-1
 v4l-utils 1.20.0-1
 vala 0.50.4-1
@@ -1777,7 +1777,7 @@ vim-runtime 8.2.2489-1
 virglrenderer 0.8.2-1
 virtualbox 6.1.18-2
 virtualbox-host-modules-arch 6.1.18-14
-visual-studio-code-bin 1.54.0-2
+visual-studio-code-bin 1.54.1-1
 vlc 3.0.12-1
 vmaf 1.5.3-1
 volume_key 0.3.12-5
