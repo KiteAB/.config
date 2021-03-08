@@ -203,7 +203,7 @@ elisa 20.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.145763-1
+emacs-git 28.0.50.145793-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-1
@@ -235,7 +235,7 @@ ffmpeg 2:4.3.2-1
 ffmpegthumbs 20.12.3-1
 fftw 3.3.9-1
 file 5.39-1
-filebrowser-bin 2.12.0-1
+filebrowser-bin 2.12.1-1
 filelight 20.12.3-1
 filesystem 2021.01.19-1
 findutils 4.8.0-1
@@ -266,7 +266,7 @@ gcc 10.2.0-6
 gcc-libs 10.2.0-6
 gconf 3.2.6+11+g07808097-10
 gcr 3.38.1-1
-gd 2.3.1-1
+gd 2.3.2-1
 gdb 10.1-4
 gdb-common 10.1-4
 gdbm 1.19-2
@@ -373,7 +373,7 @@ icoutils 0.32.3-3
 icu 68.2-1
 id3lib 3.8.3-18
 ijs 0.35-3
-imagemagick 7.0.11.2-1
+imagemagick 7.0.11.3-1
 imlib2 1.7.1-1
 incidenceeditor 20.12.3-1
 inkscape 1.0.2-4
@@ -633,7 +633,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.0-3
-latte-dock-git 0.9.11.r5130.b940d4df-1
+latte-dock-git 0.9.11.r5133.01eb69bb-1
 lazydocker 0.10-3
 lcms2 2.12-1
 ldb 1:2.2.0-3
@@ -676,10 +676,10 @@ lib32-gmp 6.2.1-1
 lib32-gnutls 3.7.0-2
 lib32-gst-plugins-base-libs 1.18.3-1
 lib32-gstreamer 1.18.3-1
-lib32-gtk3 3.24.24-1
+lib32-gtk3 3.24.26-1
 lib32-harfbuzz 2.7.4-1
 lib32-icu 68.2-1
-lib32-json-glib 1.6.0-1
+lib32-json-glib 1.6.2-1
 lib32-keyutils 1.6.3-1
 lib32-krb5 1.18.3-1
 lib32-l-smash 2.14.5-2
@@ -690,7 +690,7 @@ lib32-libcanberra 0.30+2+gc0620e4-3
 lib32-libcanberra-pulse 0.30+2+gc0620e4-3
 lib32-libcap 2.48-1
 lib32-libcups 2.3.3-1
-lib32-libdatrie 0.2.12-1
+lib32-libdatrie 0.2.13-1
 lib32-libdbusmenu-glib 16.04.0-4
 lib32-libdbusmenu-gtk3 16.04.0-4
 lib32-libdrm 2.4.104-1
@@ -746,7 +746,7 @@ lib32-libxfixes 5.0.3-2
 lib32-libxft 2.3.3-1
 lib32-libxi 1.7.10-2
 lib32-libxinerama 1.1.4-1
-lib32-libxkbcommon 1.0.3-1
+lib32-libxkbcommon 1.1.0-1
 lib32-libxml2 2.9.10-3
 lib32-libxrandr 1.5.2-1
 lib32-libxrender 0.9.10-2
@@ -762,7 +762,7 @@ lib32-mesa 20.3.4-3
 lib32-mesa-vdpau 20.3.4-3
 lib32-mpg123 1.26.4-1
 lib32-ncurses 6.2-1
-lib32-nettle 3.7-1
+lib32-nettle 3.7.1-1
 lib32-nspr 4.29-1
 lib32-nss 3.62-1
 lib32-ocl-icd 2.2.14-1
@@ -806,6 +806,7 @@ libasyncns 0.8+3+g68cd5af-3
 libatasmart 0.19-5
 libatomic_ops 7.6.10-2
 libavc1394 0.5.4-4
+libavif 0.8.4-2
 libavtp 0.1.0-2
 libblockdev 2.25-2
 libbluray 1.2.1-1
@@ -895,7 +896,7 @@ libimobiledevice 1.3.0-3
 libindicator-gtk3 12.10.1-9
 libinih 52-2
 libinput 1.17.0-1
-libinput-gestures 2.60-1
+libinput-gestures 2.61-1
 libinput_gestures_qt 0.3.2+7+g0868859-1
 libinstpatch 1.1.6-1
 libiptcdata 1.0.4-5
@@ -1102,6 +1103,7 @@ libxv 1.0.11-4
 libxvmc 1.0.12-3
 libxxf86vm 1.1.4-4
 libyaml 0.2.5-1
+libyuv r2212+dfaf7534-2
 libzip 1.7.3-2
 libzmf 0.0.2-9
 licenses 20200427-1
@@ -1123,7 +1125,7 @@ lokalize 20.12.3-1
 lolcat 100.0.0-2
 lpsolve 5.5.2.5-4
 lsb-release 1.4-18
-lsd 0.19.0-1
+lsd 0.20.1-1
 lskat 20.12.3-1
 lsof 4.94.0-1
 lua 5.4.2-1
@@ -1335,7 +1337,7 @@ perl-http-message 6.29-1
 perl-http-negotiate 6.01-8
 perl-io-html 1.004-1
 perl-ipc-run3 0.048-8
-perl-libwww 6.52-1
+perl-libwww 6.53-1
 perl-lwp-mediatypes 6.02-8
 perl-mailtools 2.21-4
 perl-net-http 6.20-1
@@ -1461,7 +1463,7 @@ python-prompt_toolkit 3.0.16-1
 python-psutil 5.8.0-1
 python-ptyprocess 0.7.0-1
 python-pycparser 2.20-3
-python-pygments 2.8.0-1
+python-pygments 2.8.1-1
 python-pyhamcrest 1.9.0-7
 python-pyinotify 0.9.6-9
 python-pyopenssl 20.0.1-1
@@ -1672,11 +1674,12 @@ sudo 1.9.5.p2-1
 suil 0.10.10-1
 suitesparse 5.9.0-1
 svgpart 20.12.3-1
+svt-av1 0.8.6-2
 svt-hevc 1.5.0-1
 sweeper 20.12.3-1
 syndication 5.79.0-1
 syntax-highlighting 5.79.1-1
-sysfsutils 2.1.0-11
+sysfsutils 2.1.1-1
 systemd 247.3-1
 systemd-libs 247.3-1
 systemd-sysvcompat 247.3-1
@@ -1740,7 +1743,7 @@ ttf-monaco 6.1-6
 ttf-ms-fonts 2.0-12
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-2
 ttf-opensans 1.101-2
-ttf-sarasa-gothic 0.18.3-1
+ttf-sarasa-gothic 0.18.4-1
 ttf-symbola 13.00-10
 ttf-twemoji-color 13.0.1-1
 ttf-ubuntu-font-family 0.83-6
@@ -1762,8 +1765,8 @@ usbredir 0.8.0-2
 usbutils 013-1
 util-linux 2.36.2-1
 util-linux-libs 2.36.2-1
-v2ray 4.34.0-1
-v2ray-domain-list-community 20210305122856-1
+v2ray 4.35.1-1
+v2ray-domain-list-community 20210307130402-1
 v2ray-geoip 202103041656-1
 v4l-utils 1.20.0-1
 vala 0.50.4-1
