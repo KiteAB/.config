@@ -3,7 +3,7 @@ aalib 1.4rc5-14
 accounts-qml-module 0.7-3
 accountsservice 0.6.55-3
 acl 2.2.53-3
-acorn 1:8.0.5-1
+acorn 1:8.1.0-1
 acpi 1.7-3
 acpi_call 1.2.1-34
 acpilight 1.2-2
@@ -146,7 +146,7 @@ cowsay 3.04-2
 cpio 2.13-2
 cpupower 5.11-1
 cronie 1.5.5-2
-cryptsetup 2.3.4-2
+cryptsetup 2.3.4-3
 ctags 1:r20210106+g08b1c490-1
 curl 7.75.0-1
 dav1d 0.8.2-1
@@ -204,7 +204,7 @@ elisa 20.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.145803-1
+emacs-git 28.0.50.145817-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-1
@@ -219,7 +219,7 @@ faac 1.30-2
 faad2 2.10.0-1
 fakeroot 1.25.3-2
 farstream 0.2.9-2
-faudio 21.03-1
+faudio 21.03.05-1
 fcitx5 5.0.5-1
 fcitx5-chewing 5.0.4-1
 fcitx5-chinese-addons 5.0.4-1
@@ -282,8 +282,8 @@ ghostscript 9.53.3-3
 giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.22-2
-git 2.30.1-1
-git-delta-git 0.6.0.20210306-2
+git 2.30.2-1
+git-delta-git 0.6.0.20210310-1
 github-cli 1.7.0-2
 glew 2.2.0-2
 glfw-wayland 3.3.3-1
@@ -382,7 +382,7 @@ iproute2 5.11.0-1
 iptables 1:1.8.7-1
 iputils 20200821-1
 ipython 7.19.0-5
-iso-codes 4.5.0-1
+iso-codes 4.6.0-1
 itinerary 20.12.3-1
 iw 5.9-1
 jack 0.125.0-9
@@ -460,7 +460,7 @@ kde-dev-utils 20.12.3-1
 kde-gtk-config 5.21.2-1
 kdebugsettings 20.12.3-1
 kdeclarative 5.79.0-1
-kdeconnect-git 20.08.0.r175.dc25d8ef-1
+kdeconnect-git 20.08.0.r176.7193cfc9-1
 kdecoration 5.21.2-1
 kded 5.79.0-1
 kdeedu-data 20.12.3-1
@@ -634,7 +634,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.0-3
-latte-dock-git 0.9.11.r5134.7b817893-1
+latte-dock-git 0.9.11.r5136.bf016527-1
 lazydocker 0.10-3
 lcms2 2.12-1
 ldb 1:2.2.0-3
@@ -661,7 +661,7 @@ lib32-dbus 1.12.20-1
 lib32-dconf 0.38.0-1
 lib32-e2fsprogs 1.46.2-2
 lib32-expat 2.2.10-1
-lib32-faudio 21.03-1
+lib32-faudio 21.03.05-1
 lib32-flac 1.3.3-1
 lib32-fontconfig 2:2.13.91+48+gfcb0420-2
 lib32-freetype2 2.10.4-1
@@ -927,7 +927,7 @@ libktorrent 20.12.3-1
 liblangtag 0.6.3-2
 libldac 2.0.2.3-1
 libldap 2.4.57-1
-liblouis 3.16.0-1
+liblouis 3.17.0-1
 liblqr 0.4.2-3
 liblrdf 0.6.1-4
 libluv 1.36.0-1
@@ -1300,7 +1300,7 @@ openvdb 8.0.1-1
 openxr 1.0.14-1
 opus 1.3.1-2
 orc 0.4.32-1
-os-prober 1.77-2
+os-prober 1.78-1
 osinfo-db 20210202-1
 oxygen 5.21.2-1
 p11-kit 0.23.22-1
@@ -1323,7 +1323,7 @@ pavucontrol 1:4.0-2
 pciutils 3.7.0-1
 pcre 8.44-1
 pcre2 10.36-1
-pcsclite 1.9.0-1
+pcsclite 1.9.1-1
 perf 5.11-1
 perl 5.32.1-1
 perl-clone 0.45-2
@@ -1653,7 +1653,7 @@ signon-ui 0.17+20171022-2
 signond 8.60-3
 slang 2.3.2-2
 smartmontools 7.2-1
-smbclient 4.13.4-1
+smbclient 4.13.5-1
 snappy 1.1.8-2
 socat 1.7.3.4-2
 solid 5.79.0-1
@@ -1675,7 +1675,7 @@ sqlite 3.34.1-1
 sratom 0.6.8-1
 srt 1.4.2-1
 startup-notification 0.12-7
-steam 1.0.0.68-1
+steam 1.0.0.69-1
 step 20.12.3-1
 sudo 1.9.5.p2-1
 suil 0.10.10-1
@@ -1787,7 +1787,7 @@ vim-runtime 8.2.2489-1
 virglrenderer 0.8.2-1
 virtualbox 6.1.18-2
 virtualbox-host-modules-arch 6.1.18-16
-visual-studio-code-bin 1.54.1-1
+visual-studio-code-bin 1.54.1-2
 vlc 3.0.12-1
 vmaf 1.5.3-1
 volume_key 0.3.12-5
