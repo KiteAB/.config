@@ -103,7 +103,7 @@ breeze-icons 5.79.0-1
 bridge-utils 1.7-1
 brltty 6.3-1
 brotli 1.0.9-4
-btrfs-progs 5.10.1-3
+btrfs-progs 5.11-1
 bubblewrap 0.4.1-1
 bzip2 1.0.8-4
 c-ares 1.17.1-1
@@ -204,7 +204,7 @@ elisa 20.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.145817-1
+emacs-git 28.0.50.145827-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-1
@@ -283,7 +283,7 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.22-2
 git 2.30.2-1
-git-delta-git 0.6.0.20210310-1
+git-delta-git 0.6.0.20210311-1
 github-cli 1.7.0-2
 glew 2.2.0-2
 glfw-wayland 3.3.3-1
@@ -300,8 +300,8 @@ gnome-desktop 1:3.38.4-1
 gnome-video-effects 0.5.0+4+g9554041-2
 gnugo 3.8-7
 gnupg 2.2.27-1
-gnutls 3.7.0-1
-go 2:1.16-1
+gnutls 3.7.1-1
+go 2:1.16.1-1
 gobject-introspection-runtime 1.66.1-3
 google-chrome 89.0.4389.82-1
 google-glog 0.4.0-2
@@ -634,7 +634,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.0-3
-latte-dock-git 0.9.11.r5136.bf016527-1
+latte-dock-git 0.9.11.r5140.a58dfde2-1
 lazydocker 0.10-3
 lcms2 2.12-1
 ldb 1:2.2.0-3
@@ -1268,7 +1268,7 @@ noto-fonts-cjk 20201206-1
 noto-fonts-emoji 20200916-1
 noto-fonts-emoji-blob 20190614-2
 noto-fonts-extra 20201226-1
-npm 7.6.1-1
+npm 7.6.2-1
 npth 1.6-3
 nspr 4.29-1
 nss 3.62-1
@@ -1330,7 +1330,7 @@ perl-clone 0.45-2
 perl-encode-locale 1.05-7
 perl-error 0.17029-2
 perl-file-listing 6.14-1
-perl-html-parser 3.75-1
+perl-html-parser 3.76-1
 perl-html-tagset 3.20-10
 perl-http-cookies 6.10-1
 perl-http-daemon 6.06-2
@@ -1470,9 +1470,9 @@ python-pyhamcrest 1.9.0-7
 python-pyinotify 0.9.6-9
 python-pyopenssl 20.0.1-1
 python-pyparsing 2.4.7-3
-python-pyqt5 5.15.3-2
+python-pyqt5 5.15.4-1
 python-pyqt5-sip 12.8.1-3
-python-pyqt5-webengine 5.15.3-1
+python-pyqt5-webengine 5.15.4-1
 python-pyte 0.8.0-6
 python-pyzmq 20.0.0-1
 python-qrcode 6.1-6
@@ -1773,7 +1773,7 @@ usbutils 013-1
 util-linux 2.36.2-1
 util-linux-libs 2.36.2-1
 v2ray 4.35.1-1
-v2ray-domain-list-community 20210308021214-1
+v2ray-domain-list-community 20210310175951-1
 v2ray-geoip 202103080146-1
 v4l-utils 1.20.0-1
 vala 0.50.4-1
