@@ -153,7 +153,7 @@ dav1d 0.8.2-1
 db 5.3.28-5
 dbus 1.12.20-1
 dbus-glib 0.110-2
-dconf 0.38.0-1
+dconf 0.40.0-1
 ddcutil 1.0.1-1
 deepin-udis86 1.72_2-3
 deepin-wine-helper 5.1.13-1
@@ -204,7 +204,7 @@ elisa 20.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.145856-1
+emacs-git 28.0.50.145880-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-1
@@ -310,7 +310,7 @@ gperf 3.1-3
 gperftools 2.9.1-1
 gpgme 1.15.1-1
 gpm 1.20.7.r38.ge82d1a6-3
-gptfdisk 1.0.6-1
+gptfdisk 1.0.7-1
 granatier 20.12.3-1
 grantlee 5.2.0-3
 grantlee-editor 20.12.3-1
@@ -339,7 +339,7 @@ gstreamer 1.18.3-1
 gtk-doc 1.33.2-1
 gtk-update-icon-cache 1:4.0.3-1
 gtk2 2.24.33-1
-gtk3 1:3.24.26-1
+gtk3 1:3.24.27-2
 gtkmm3 3.24.4-1
 gtksourceview4 4.8.0-1
 gtkspell3 3.0.10-2
@@ -641,7 +641,7 @@ ldb 1:2.2.0-3
 ldns 1.7.1-2
 lensfun 0.3.95-4
 less 563-1
-leveldb 1.22-2
+leveldb 1.23-1
 lf 21-1
 lib32-acl 2.2.53-2
 lib32-alsa-lib 1.2.4-2
@@ -674,7 +674,7 @@ lib32-glib2 2.66.7-1
 lib32-glibc 2.33-4
 lib32-glu 9.0.1-1
 lib32-gmp 6.2.1-1
-lib32-gnutls 3.7.0-2
+lib32-gnutls 3.7.1-1
 lib32-gst-plugins-base-libs 1.18.3-1
 lib32-gstreamer 1.18.3-1
 lib32-gtk3 3.24.26-1
@@ -963,7 +963,7 @@ libnftnl 1.1.9-1
 libnghttp2 1.41.0-1
 libnice 0.1.18-1
 libnl 3.5.0-2
-libnm 1.30.0-2
+libnm 1.30.2-1
 libnma 1.8.30-1
 libnotify 0.7.9-1
 libnsl 1.3.0-1
@@ -1256,7 +1256,7 @@ net-tools 2.10-1
 netpbm 10.73.33-1
 nettle 3.7.1-1
 network-manager-applet 1.20.0-2
-networkmanager 1.30.0-2
+networkmanager 1.30.2-1
 networkmanager-qt 5.79.0-1
 nginx 1.18.0-2
 nm-connection-editor 1.20.0-2
@@ -1268,7 +1268,7 @@ noto-fonts-cjk 20201206-1
 noto-fonts-emoji 20200916-1
 noto-fonts-emoji-blob 20190614-2
 noto-fonts-extra 20201226-1
-npm 7.6.2-1
+npm 7.6.3-1
 npth 1.6-3
 nspr 4.29-1
 nss 3.62-1
@@ -1562,7 +1562,7 @@ qt5-svg 5.15.2-1
 qt5-tools 5.15.2-3
 qt5-wayland 5.15.2-1
 qt5-webchannel 5.15.2-1
-qt5-webengine 5.15.3-2
+qt5-webengine 5.15.3-3
 qt5-webkit 5.212.0alpha4-9
 qt5-x11extras 5.15.2-1
 qt5-xmlpatterns 5.15.2-1
@@ -1605,16 +1605,16 @@ rtaudio 5.1.0-3
 rtkit 0.13-1
 rtmpdump 1:2.4.r96.fa8646d-6
 rttr 0.9.6-3
-rubberband 1.9-1
+rubberband 1.9.1-1
 ruby 2.7.2-1
 ruby-diff-lcs 1.4.4-1
-ruby-irb 1.3.0-1
+ruby-irb 1.3.4-1
 ruby-manpages 0.6.1-3
 ruby-optimist 3.0.1-1
 ruby-paint 2.2.1-1
 ruby-rainbow 3.0.0-5
 ruby-rdoc 6.3.0-1
-ruby-reline 0.2.2-1
+ruby-reline 0.2.4-1
 ruby-rspec 3.8.0-3
 ruby-rspec-core 3.8.0-3
 ruby-rspec-expectations 3.8.1-3
@@ -1644,7 +1644,7 @@ sed 4.8-1
 semver 7.3.4-1
 serd 0.30.10-1
 sfml 2.5.1-2
-shaderc 2020.3-2
+shaderc 2020.5-1
 shadow 4.8.1-4
 shared-mime-info 2.0+57+gc1d1c70-1
 signon-kwallet-extension 20.12.3-1
@@ -1655,6 +1655,7 @@ slang 2.3.2-2
 smartmontools 7.2-1
 smbclient 4.13.5-1
 snappy 1.1.8-2
+snes9x-gtk 1.60-8
 socat 1.7.3.4-2
 solid 5.79.0-1
 sonnet 5.79.0-1
@@ -1773,12 +1774,13 @@ usbutils 013-1
 util-linux 2.36.2-1
 util-linux-libs 2.36.2-1
 v2ray 4.35.1-1
-v2ray-domain-list-community 20210310175951-1
+v2ray-domain-list-community 20210312152006-1
 v2ray-geoip 202103110015-1
 v4l-utils 1.20.0-1
 vala 0.50.4-1
 vamp-plugin-sdk 2.10.0-1
 vde2 2.3.2-16
+vdpauinfo 1.4-1
 ventoy-bin 1.0.37-2
 vi 1:070224-4
 vid.stab 1.1-3
@@ -1787,7 +1789,7 @@ vim-runtime 8.2.2489-1
 virglrenderer 0.8.2-1
 virtualbox 6.1.18-2
 virtualbox-host-modules-arch 6.1.18-17
-visual-studio-code-bin 1.54.1-2
+visual-studio-code-bin 1.54.2-1
 vlc 3.0.12-1
 vmaf 1.5.3-1
 volume_key 0.3.12-5
@@ -1806,7 +1808,7 @@ webrtc-audio-processing 0.3.1-2
 wget 1.21.1-1
 which 2.21-5
 wildmidi 0.4.3-3
-wine 6.3-1
+wine 6.4-1
 winetricks 20210206-1
 wmctrl 1.07-6
 woff2 1.0.2-3
