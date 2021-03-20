@@ -14,6 +14,7 @@ adobe-source-han-mono-cn-fonts 1.002-6
 adobe-source-han-sans-cn-fonts 2.002-1
 adobe-source-han-serif-cn-fonts 1.001-3
 adwaita-icon-theme 3.38.0-1
+aegisub 3.2.2-44
 akonadi 20.12.3-1
 akonadi-calendar 20.12.3-1
 akonadi-calendar-tools 20.12.3-1
@@ -33,7 +34,7 @@ alsa-topology-conf 1.2.4-2
 alsa-ucm-conf 1.2.4-2
 alsa-utils 1.2.4-2
 amd-ucode 20210315.3568f96-1
-amdvlk 2021.Q1.5-1
+amdvlk 2021.Q1.6-1
 amtk 5.2.0-2
 analitza 20.12.3-1
 android-tools 30.0.5-3
@@ -57,7 +58,7 @@ artikulate 20.12.3-1
 asciinema 2.0.2-5
 aspell 0.60.8-2
 at-spi2-atk 2.38.0-1
-at-spi2-core 2.38.0-1
+at-spi2-core 2.40.0-1
 atk 2.36.0-1
 atkmm 2.28.1-1
 atop 2.6.0-3
@@ -79,6 +80,7 @@ base 2-2
 bash 5.1.004-1
 bash-language-server 1.17.0-3
 bashtop 0.9.25-1
+bat 0.18.0-2
 bc 1.07.1-4
 bilibili-live-helper-bin 2.2.2-1
 binutils 2.36.1-2
@@ -108,7 +110,7 @@ bubblewrap 0.4.1-1
 bzip2 1.0.8-4
 c-ares 1.17.1-1
 ca-certificates 20181109-4
-ca-certificates-mozilla 3.62-1
+ca-certificates-mozilla 3.63-1
 ca-certificates-utils 20181109-4
 cabextract 1.9.1-2
 cairo 1.17.4-5
@@ -148,7 +150,6 @@ cpio 2.13-2
 cpupower 5.11-1
 cronie 1.5.5-2
 cryptsetup 2.3.5-1
-ctags 1:r20210106+g08b1c490-1
 curl 7.75.0-1
 dav1d 0.8.2-1
 db 5.3.28-5
@@ -206,7 +207,7 @@ elisa 20.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.145968-1
+emacs-git 28.0.50.145978-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-1
@@ -236,6 +237,7 @@ fd 8.2.1-1
 feh 3.6.3-1
 ffmpeg 2:4.3.2-2
 ffmpegthumbs 20.12.3-1
+ffms2 2.40-1
 fftw 3.3.9-1
 file 5.39-1
 filebrowser-bin 2.13.0-3
@@ -291,7 +293,7 @@ git-delta-git 0.6.0.20210315-1
 github-cli 1.7.0-2
 glew 2.2.0-2
 glfw-wayland 3.3.3-1
-glib-networking 2.66.0-1
+glib-networking 1:2.66.0-1
 glib2 2.66.7-1
 glib2-docs 2.66.7-1
 glibc 2.33-4
@@ -326,7 +328,7 @@ graphite 1:1.3.14-1
 graphviz 2.46.1-1
 grep 3.6-1
 groff 1.22.4-4
-grpc 1.36.3-1
+grpc 1.36.4-1
 grub 2:2.04-10
 gsettings-desktop-schemas 3.38.0-1
 gsfonts 20200910-1
@@ -355,7 +357,7 @@ gumbo-parser 0.10.1-2
 gupnp 1.2.4-1
 gupnp-dlna 0.10.5+4+gc947eed-2
 gupnp-igd 1.2.0-1
-gvfs 1.46.2-1
+gvfs 1.48.0-1
 gwenview 20.12.3-1
 gzip 1.10-3
 harfbuzz 2.8.0-1
@@ -653,7 +655,7 @@ lf 21-1
 lib32-acl 2.3.1-1
 lib32-alsa-lib 1.2.4-2
 lib32-alsa-plugins 1.2.2-1
-lib32-amdvlk 2021.Q1.5-1
+lib32-amdvlk 2021.Q1.6-1
 lib32-at-spi2-atk 2.38.0-1
 lib32-at-spi2-core 2.38.0-1
 lib32-atk 2.36.0-2
@@ -771,8 +773,8 @@ lib32-mesa-vdpau 20.3.4-3
 lib32-mpg123 1.26.4-1
 lib32-ncurses 6.2-1
 lib32-nettle 3.7.1-1
-lib32-nspr 4.29-1
-lib32-nss 3.62-1
+lib32-nspr 4.30-1
+lib32-nss 3.63-1
 lib32-ocl-icd 2.2.14-1
 lib32-openal 1.21.1-1
 lib32-opencl-mesa 20.3.4-3
@@ -1168,7 +1170,7 @@ marble-common 20.12.3-2
 mariadb 10.5.9-1
 mariadb-clients 10.5.9-1
 mariadb-libs 10.5.9-1
-marisa 0.2.6-3
+marisa 0.2.6-4
 markdownpart 20.12.3-1
 maven 3.6.3-1
 mbedtls 2.25.0-1
@@ -1282,8 +1284,8 @@ noto-fonts-emoji-blob 20190614-2
 noto-fonts-extra 20201226-1
 npm 7.6.3-1
 npth 1.6-3
-nspr 4.29-1
-nss 3.62-1
+nspr 4.30-1
+nss 3.63-1
 ntfs-3g 2017.3.23-5
 numactl 2.0.14-1
 obs-studio 26.1.2-1
@@ -1292,7 +1294,7 @@ okular 20.12.3-1
 onefetch 2.9.1-1
 openal 1.21.1-1
 openbabel 3.1.1-2
-opencc 1.1.1-5
+opencc 1.1.2-1
 opencl-headers 2:2020.12.18-1
 opencl-mesa 20.3.4-3
 opencollada 1:1.6.68-2
@@ -1355,7 +1357,7 @@ perl-ipc-run3 0.048-8
 perl-libwww 6.53-1
 perl-lwp-mediatypes 6.02-8
 perl-mailtools 2.21-4
-perl-net-http 6.20-1
+perl-net-http 6.21-1
 perl-timedate 2.33-2
 perl-try-tiny 0.30-5
 perl-uri 5.09-1
@@ -1442,7 +1444,7 @@ python-evdev 1.4.0-1
 python-feedparser 5.2.1-9
 python-flask 1.1.2-4
 python-future 0.18.2-5
-python-gobject 3.38.0-3
+python-gobject 3.40.0-1
 python-grip 4.5.2-1
 python-html5lib 1.1-6
 python-hyperlink 21.0.0-1
@@ -1466,7 +1468,7 @@ python-ordered-set 4.0.2-3
 python-packaging 20.9-1
 python-parso 1:0.8.1-1
 python-path-and-address 2.0.1-1
-python-pep517 0.9.1-3
+python-pep517 0.10.0-1
 python-pexpect 4.8.0-3
 python-pickleshare 0.7.5-5
 python-pillow 8.1.0-1
@@ -1494,11 +1496,13 @@ python-qtpy 1.9.0-5
 python-requests 2.25.1-1
 python-resolvelib 0.5.4-1
 python-retrying 1.3.3-9
-python-setuptools 1:54.1.1-1
+python-setuptools 1:54.1.2-1
 python-sexpdata 0.0.3-3
 python-sgmllib 5.2.1-9
 python-sip4 4.19.25-1
 python-six 1.15.0-3
+python-systemd 234-8
+python-sysv_ipc 1.0.1-2
 python-termcolor 1.1.0-10
 python-toml 0.10.2-3
 python-tornado 6.1.0-3
@@ -1513,7 +1517,7 @@ python-xlib 0.29-1
 python-yaml 5.4.1.1-1
 python-zipp 3.4.1-1
 python-zope-interface 5.2.0-3
-python2 2.7.18-2
+python2 2.7.18-3
 python2-appdirs 1.4.4-3
 python2-asn1crypto 1.4.0-3
 python2-backports 1.0-3
@@ -1528,14 +1532,14 @@ python2-distlib 0.3.1-2
 python2-distro 1.5.0-3
 python2-enum34 1.1.9-1
 python2-html5lib 1.1-6
-python2-idna 2.10-3
+python2-idna 2.10-4
 python2-importlib-metadata 2.1.1-1
 python2-ipaddress 1.0.23-2
 python2-msgpack 0.6.2-4
 python2-ordered-set 3.1.1-3
 python2-packaging 20.9-1
 python2-pathlib2 2.3.5-1
-python2-pep517 0.9.1-3
+python2-pep517 0.10.0-1
 python2-pip 20.3.1-1
 python2-ply 3.11-7
 python2-progress 1.5-5
@@ -1580,7 +1584,7 @@ qt5-webkit 5.212.0alpha4-9
 qt5-x11extras 5.15.2-1
 qt5-xmlpatterns 5.15.2-1
 qtermwidget 0.16.1-3
-qv2ray 2.6.3-21
+qv2ray 2.6.3-22
 radeontool 1.6.3-4
 rainbarf-git 20140404-1
 ranger 1.9.3-3
@@ -1704,6 +1708,7 @@ syntax-highlighting 5.80.0-1
 sysfsutils 2.1.1-1
 systemd 247.4-2
 systemd-libs 247.4-2
+systemd-swap 4.4.0-2
 systemd-sysvcompat 247.4-2
 systemsettings 5.21.3-1
 taglib 1.12-1
