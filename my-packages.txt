@@ -84,7 +84,7 @@ bat 0.18.0-2
 bc 1.07.1-4
 bilibili-live-helper-bin 2.2.2-1
 binutils 2.36.1-2
-bison 3.7.3-1
+bison 3.7.6-1
 black-hole-solver 1.10.1-1
 blas 3.9.0-3
 blender 17:2.92.0-1
@@ -134,7 +134,7 @@ clucene 2.3.3.4-11
 clutter 1.26.4-1
 clutter-gst 3.0.27-3
 clutter-gtk 1.8.4-2
-cmake 3.19.7-1
+cmake 3.20.0-1
 cmatrix 2.0-2
 cogl 1.22.8-1
 colord 1.4.5-1
@@ -207,7 +207,7 @@ elisa 20.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.145999-1
+emacs-git 28.0.50.146035-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-1
@@ -280,7 +280,7 @@ gdl 3.34.0-2
 gedit 3.38.1-1
 gegl 0.4.28-2
 geoip 1.6.12-2
-geoip-database 20210223-1
+geoip-database 20210323-1
 gettext 0.21-1
 ghostpcl 9.53.3-3
 ghostscript 9.53.3-3
@@ -289,7 +289,7 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.22-2
 git 2.31.0-1
-git-delta-git 0.6.0.20210322-1
+git-delta-git 0.6.0.20210324-1
 github-cli 1.7.0-2
 glew 2.2.0-2
 glfw-wayland 3.3.3-1
@@ -303,7 +303,7 @@ glu 9.0.1-2
 gmp 6.2.1-1
 gn-m85 0.1792.7d7e8dee-1
 gnome-autoar 0.3.1-1
-gnome-desktop 1:3.38.4-1
+gnome-desktop 1:40.0-1
 gnome-video-effects 0.5.0+4+g9554041-2
 gnugo 3.8-7
 gnupg 2.2.27-1
@@ -330,7 +330,7 @@ grep 3.6-1
 groff 1.22.4-4
 grpc 1.36.4-1
 grub 2:2.04-10
-gsettings-desktop-schemas 3.38.0-1
+gsettings-desktop-schemas 40.0-1
 gsfonts 20200910-1
 gsl 2.6-2
 gsm 1.0.19-1
@@ -642,7 +642,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.0-3
-latte-dock-git 0.9.11.r5162.622cc698-1
+latte-dock-git 0.9.11.r5171.b8229ac1-1
 lazydocker 0.10-3
 lcms2 2.12-1
 ldb 1:2.2.0-3
@@ -891,6 +891,7 @@ libgtop 2.40.0+2+g31db82ef-2
 libgudev 236-1
 libgusb 0.3.6-1
 libgxps 0.3.2-1
+libhandy 1.2.0-1
 libheif 1.11.0-2
 libibus 1.5.24-1
 libical 3.0.9-1
@@ -905,7 +906,7 @@ libime 1.0.5-1
 libimobiledevice 1.3.0-3
 libindicator-gtk3 12.10.1-9
 libinih 53-1
-libinput 1.17.0-1
+libinput 1.17.1-1
 libinput-gestures 2.61-1
 libinput_gestures_qt 0.3.2+7+g0868859-1
 libinstpatch 1.1.6-1
@@ -960,7 +961,7 @@ libmtp 1.1.18-1
 libmusicbrainz5 5.1.0-4
 libmwaw 0.3.17-1
 libmypaint 1.5.1-2
-libnautilus-extension 3.38.2-1
+libnautilus-extension 40.0-1
 libndp 1.7-2
 libnet 1:1.1.6-1
 libnetfilter_conntrack 1.0.8-1
@@ -990,13 +991,14 @@ libpagemaker 0.0.4-2
 libpaper 1.1.28-1
 libpcap 1.10.0-1
 libpciaccess 0.16-2
-libpeas 1.28.0-3
+libpeas 1.30.0-1
 libpgm 5.3.128-1
-libphonenumber 8.12.19-2
+libphonenumber 8.12.20-1
 libpipeline 1.5.3-1
 libplacebo 3.104.0-2
 libplist 2.2.0-3
 libpng 1.6.37-3
+libportal 0.3-2
 libproxy 0.4.17-1
 libpsl 0.21.1-1
 libpulse 14.2-2
@@ -1059,7 +1061,7 @@ libusb-compat 0.1.7-1
 libusbmuxd 2.0.2-1
 libutempter 1.2.1-1
 libuv 1.41.0-1
-libva 2.10.0-1
+libva 2.11.0-1
 libva-mesa-driver 20.3.4-3
 libvdpau 1.4-1
 libvirt 1:7.1.0-3
@@ -1206,7 +1208,7 @@ mtdev 1.1.6-1
 mujs 1.1.0-1
 mypaint-brushes1 1.3.1-1
 nano 5.6.1-1
-nautilus 3.38.2-1
+nautilus 40.0-1
 ncurses 6.2-1
 ndctl 71.1-1
 neofetch 7.1.0-2
@@ -1279,7 +1281,7 @@ noto-fonts-cjk 20201206-1
 noto-fonts-emoji 20200916-1
 noto-fonts-emoji-blob 20190614-2
 noto-fonts-extra 20201226-1
-npm 7.7.0-1
+npm 7.7.3-1
 npth 1.6-3
 nspr 4.30-1
 nss 3.63-1
@@ -1445,7 +1447,7 @@ python-grip 4.5.2-1
 python-html5lib 1.1-6
 python-hyperlink 21.0.0-1
 python-idna 2.10-3
-python-importlib-metadata 3.7.2-1
+python-importlib-metadata 3.7.3-1
 python-incremental 17.5.0-6
 python-ipykernel 5.4.2-1
 python-itsdangerous 1.1.0-6
@@ -1472,7 +1474,7 @@ python-pip 20.3.1-1
 python-pluggy 0.13.1-4
 python-ply 3.11-7
 python-progress 1.5-5
-python-prompt_toolkit 3.0.17-1
+python-prompt_toolkit 3.0.18-1
 python-psutil 5.8.0-1
 python-ptyprocess 0.7.0-1
 python-pycparser 2.20-3
@@ -1807,8 +1809,8 @@ visual-studio-code-bin 1.54.3-3
 vlc 3.0.12-3
 vmaf 1.5.3-1
 volume_key 0.3.12-5
-vte-common 0.62.3-1
-vte3 0.62.3-1
+vte-common 0.64.0-1
+vte3 0.64.0-1
 vtk 8.2.0-17
 vulkan-icd-loader 1.2.172-1
 vulkan-radeon 20.3.4-3
