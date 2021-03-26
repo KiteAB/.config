@@ -5,7 +5,7 @@ accountsservice 0.6.55-3
 acl 2.3.1-1
 acorn 1:8.1.0-1
 acpi 1.7-3
-acpi_call 1.2.1-38
+acpi_call 1.2.1-39
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-1
@@ -13,7 +13,7 @@ adobe-source-code-pro-fonts 2.038ro+1.058it+1.018var-1
 adobe-source-han-mono-cn-fonts 1.002-6
 adobe-source-han-sans-cn-fonts 2.002-1
 adobe-source-han-serif-cn-fonts 1.001-3
-adwaita-icon-theme 3.38.0-1
+adwaita-icon-theme 40rc-1
 aegisub 3.2.2-44
 akonadi 20.12.3-1
 akonadi-calendar 20.12.3-1
@@ -105,7 +105,7 @@ breeze-icons 5.80.0-1
 bridge-utils 1.7.1-1
 brltty 6.3-1
 brotli 1.0.9-4
-btrfs-progs 5.11-1
+btrfs-progs 5.11.1-1
 bubblewrap 0.4.1-1
 bzip2 1.0.8-4
 c-ares 1.17.1-1
@@ -117,7 +117,7 @@ cairo 1.17.4-5
 cairomm 1.12.2-4
 calendarsupport 20.12.3-1
 cantarell-fonts 1:0.301-1
-cantor 20.12.3-3
+cantor 20.12.3-4
 capnproto 0.8.0-1
 cblas 3.9.0-3
 ccls 0.20201219-3
@@ -143,7 +143,7 @@ compiler-rt 11.1.0-1
 confuse 3.3-3
 containerd 1.4.4-1
 convertlit 1.8-10
-coordgen 1.4.2-2
+coordgen 2.0.0-1
 coreutils 8.32-1
 cowsay 3.04-2
 cpio 2.13-2
@@ -207,7 +207,7 @@ elisa 20.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.146035-1
+emacs-git 28.0.50.146050-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-1
@@ -248,7 +248,7 @@ flac 1.3.3-2
 flameshot 0.9.0-1
 flex 2.6.4-3
 fltk 1.3.5-4
-fluidsynth 2.1.7-1
+fluidsynth 2.1.8-1
 fmt 7.1.3-1
 fontconfig 2:2.13.91+48+gfcb0420-2
 frameworkintegration 5.80.0-1
@@ -277,7 +277,7 @@ gdb-common 10.1-4
 gdbm 1.19-2
 gdk-pixbuf2 2.42.4-1
 gdl 3.34.0-2
-gedit 3.38.1-1
+gedit 40.0-1
 gegl 0.4.28-2
 geoip 1.6.12-2
 geoip-database 20210323-1
@@ -344,7 +344,7 @@ gst-plugins-base-libs 1.18.4-1
 gst-plugins-good 1.18.4-1
 gstreamer 1.18.4-1
 gtk-doc 1.33.2-1
-gtk-update-icon-cache 1:4.0.3-2
+gtk-update-icon-cache 1:4.0.3-3
 gtk2 2.24.33-2
 gtk3 1:3.24.27-4
 gtkmm3 3.24.4-1
@@ -643,12 +643,12 @@ ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.0-3
 latte-dock-git 0.9.11.r5171.b8229ac1-1
-lazydocker 0.10-3
+lazydocker 0.12-1
 lcms2 2.12-1
 ldb 1:2.2.0-3
 ldns 1.7.1-2
 lensfun 0.3.95-4
-less 563-1
+less 580-1
 leveldb 1.23-2
 lf 21-1
 lib32-acl 2.3.1-1
@@ -777,7 +777,7 @@ lib32-nss 3.63-1
 lib32-ocl-icd 2.2.14-1
 lib32-openal 1.21.1-1
 lib32-opencl-mesa 20.3.4-3
-lib32-openssl 1:1.1.1.j-1
+lib32-openssl 1:1.1.1.k-1
 lib32-opus 1.3.1-1
 lib32-orc 0.4.32-1
 lib32-p11-kit 0.23.22-1
@@ -810,7 +810,7 @@ libakonadi 20.12.3-1
 libappindicator-gtk3 12.10.0.r296-1
 libarchive 3.5.1-1
 libass 0.15.0-2
-libassuan 2.5.4-2
+libassuan 2.5.5-1
 libasyncns 0.8+3+g68cd5af-3
 libatasmart 0.19-5
 libatomic_ops 7.6.10-2
@@ -873,7 +873,7 @@ libfdk-aac 2.0.1-2
 libffi 3.3-4
 libfontenc 1.1.4-3
 libfreehand 0.1.2-3
-libftdi 1.5-1
+libftdi 1.5-2
 libgaminggear 0.15.1-8
 libgcrypt 1.9.2-1
 libgdiplus 5.6.1-3
@@ -891,7 +891,7 @@ libgtop 2.40.0+2+g31db82ef-2
 libgudev 236-1
 libgusb 0.3.6-1
 libgxps 0.3.2-1
-libhandy 1.2.0-1
+libhandy 1.2.0-2
 libheif 1.11.0-2
 libibus 1.5.24-1
 libical 3.0.9-1
@@ -1001,7 +1001,7 @@ libpng 1.6.37-3
 libportal 0.3-2
 libproxy 0.4.17-1
 libpsl 0.21.1-1
-libpulse 14.2-2
+libpulse 14.2-3
 libqaccessibilityclient 0.4.1-2
 libqalculate 3.17.0-1
 libqmi 1.28.2-1
@@ -1055,7 +1055,7 @@ libudev0-shim 1-4
 libunistring 0.9.10-3
 libunwind 1.5.0-1
 libupnp 1.14.2-1
-liburing 0.7-2
+liburing 2.0-1
 libusb 1.0.24-2
 libusb-compat 0.1.7-1
 libusbmuxd 2.0.2-1
@@ -1069,7 +1069,7 @@ libvisio 0.1.7-4
 libvisual 0.4.0-8
 libvncserver 0.9.13-1
 libvorbis 1.3.7-2
-libvpx 1.9.0-1
+libvpx 1.10.0-1
 libvterm 0.1.3.git1.65dbda-1
 libwacom 1.9-1
 libwebp 1.2.0-1
@@ -1123,7 +1123,7 @@ lightdm 1:1.30.0-4
 lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-5
 lilv 0.24.12-1
-linux 5.11.8.arch1-1
+linux 5.11.9.arch1-1
 linux-api-headers 5.10.13-1
 linux-firmware 20210315.3568f96-1
 linuxqq 1:2.0.0_b2_1084-3
@@ -1281,7 +1281,7 @@ noto-fonts-cjk 20201206-1
 noto-fonts-emoji 20200916-1
 noto-fonts-emoji-blob 20190614-2
 noto-fonts-extra 20201226-1
-npm 7.7.3-1
+npm 7.7.5-1
 npth 1.6-3
 nspr 4.30-1
 nss 3.63-1
@@ -1307,7 +1307,7 @@ openjpeg2 2.4.0-1
 openmpi 4.0.5-3
 openshadinglanguage 1.11.12.0-1
 openssh 8.5p1-1
-openssl 1.1.1.j-1
+openssl 1.1.1.k-1
 openssl-1.0 1.0.2.u-1
 opensubdiv 3.4.3-5
 openvdb 8.0.1-1
@@ -1408,7 +1408,7 @@ psmisc 23.4-1
 psutils 2.04-1
 ptex 2.3.2-2
 pugixml 1.11.4-1
-pulseaudio 14.2-2
+pulseaudio 14.2-3
 pulseaudio-alsa 1:1.2.2-2
 pulseaudio-qt 1.2-2
 purpose 5.80.0-1
@@ -1454,8 +1454,8 @@ python-itsdangerous 1.1.0-6
 python-jedi 0.18.0-1
 python-jinja 2.11.3-2
 python-jsonrpc-server 0.4.0-3
-python-jupyter_client 6.1.7-3
-python-jupyter_core 4.6.3-4
+python-jupyter_client 6.1.12-1
+python-jupyter_core 4.7.1-1
 python-language-server 0.36.2-3
 python-lxml 4.6.2-2
 python-markdown 3.3.4-1
@@ -1555,7 +1555,7 @@ python2-urllib3 1.26.3-1
 python2-webencodings 0.5.1-6
 python2-zipp 1:1.1.1-1
 qca 2.3.2-1
-qemu 5.2.0-3
+qemu 5.2.0-4
 qgpgme 1.15.1-1
 qhull 2020.2-4
 qqc2-desktop-style 5.80.0-1
@@ -1648,7 +1648,7 @@ screenfetch 3.9.1-1
 screenkey 1.4-1
 scrot 1.5-1
 sd 0.7.6-1
-sddm 0.19.0-3
+sddm 0.19.0-4
 sddm-kcm 5.21.3-1
 sddm-sugar-light 1.0-2
 sdl 1.2.15-14
@@ -1668,7 +1668,7 @@ signon-ui 0.17+20171022-2
 signond 8.60-3
 slang 2.3.2-2
 smartmontools 7.2-1
-smbclient 4.14.0-1
+smbclient 4.14.2-1
 snappy 1.1.8-2
 snes9x-gtk 1.60-8
 socat 1.7.3.4-2
@@ -1737,7 +1737,7 @@ telepathy-logger 0.8.2-5
 telepathy-logger-qt 17.09.0-1
 telepathy-mission-control 5.16.6-1
 telepathy-qt 0.9.8-2
-tepl 5.0.1-2
+tepl 6.00.0-1
 tevent 1:0.10.2-3
 texinfo 6.7-3
 thefuck 3.30-2
@@ -1790,8 +1790,8 @@ usbutils 013-1
 util-linux 2.36.2-1
 util-linux-libs 2.36.2-1
 v2ray 4.36.2-1
-v2ray-domain-list-community 20210322150644-1
-v2ray-geoip 202103180738-1
+v2ray-domain-list-community 20210325145744-1
+v2ray-geoip 202103250007-1
 v4l-utils 1.20.0-1
 vala 0.52.0-1
 vamp-plugin-sdk 2.10.0-1
@@ -1800,11 +1800,11 @@ vdpauinfo 1.4-1
 ventoy-bin 1.0.38-1
 vi 1:070224-4
 vid.stab 1.1-3
-vim 8.2.2489-1
-vim-runtime 8.2.2489-1
+vim 8.2.2653-1
+vim-runtime 8.2.2653-1
 virglrenderer 0.8.2-1
 virtualbox 6.1.18-2
-virtualbox-host-modules-arch 6.1.18-20
+virtualbox-host-modules-arch 6.1.18-21
 visual-studio-code-bin 1.54.3-3
 vlc 3.0.12-3
 vmaf 1.5.3-1
@@ -1819,7 +1819,7 @@ wavpack 5.4.0-1
 wayland 1.19.0-1
 wayland-protocols 1.20-1
 webkit2gtk 2.30.6-1
-webp-pixbuf-loader 0.0.2-1
+webp-pixbuf-loader 0.0.3-1
 webrtc-audio-processing 0.3.1-2
 wget 1.21.1-1
 which 2.21-5
