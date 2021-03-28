@@ -173,7 +173,7 @@ diffutils 3.7-3
 discord 0.0.14-1
 discount 2.2.7-1
 discover 5.21.3-1
-distorm 3.5.2-1
+distorm 3.5.2-2
 djvulibre 3.5.28-2
 dkms 2.8.4-1
 dmenu 5.0-1
@@ -207,7 +207,7 @@ elisa 20.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.146054-1
+emacs-git 28.0.50.146070-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-1
@@ -270,7 +270,7 @@ gc 8.0.4-4
 gcc 10.2.0-6
 gcc-libs 10.2.0-6
 gconf 3.2.6+11+g07808097-10
-gcr 3.38.1-1
+gcr 3.40.0-1
 gd 2.3.2-2
 gdb 10.1-4
 gdb-common 10.1-4
@@ -288,7 +288,7 @@ ghostxps 9.53.3-3
 giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.22-2
-git 2.31.0-1
+git 2.31.1-1
 git-delta-git 0.6.0.20210324-1
 github-cli 1.7.0-2
 glew 2.2.0-2
@@ -346,7 +346,7 @@ gstreamer 1.18.4-1
 gtk-doc 1.33.2-1
 gtk-update-icon-cache 1:4.0.3+61+gcb05be0aa5-1
 gtk2 2.24.33-2
-gtk3 1:3.24.27-4
+gtk3 1:3.24.28-1
 gtkmm3 3.24.4-1
 gtksourceview4 4.8.1-1
 gtkspell3 3.0.10-2
@@ -388,7 +388,7 @@ inkscape 1.0.2-4
 iproute2 5.11.0-1
 iptables 1:1.8.7-1
 iputils 20200821-1
-ipython 7.21.0-1
+ipython 7.22.0-1
 iso-codes 4.6.0-1
 itinerary 20.12.3-1
 iw 5.9-1
@@ -503,7 +503,7 @@ kfourinline 20.12.3-1
 kgamma5 5.21.3-1
 kgeography 20.12.3-1
 kget 20.12.3-1
-kglobalaccel 5.80.0-1
+kglobalaccel 5.80.0-2
 kgoldrunner 20.12.3-1
 kgpg 20.12.3-1
 kguiaddons 5.80.0-1
@@ -591,7 +591,7 @@ kpty 5.80.0-1
 kpublictransport 20.12.3-1
 kqtquickcharts 20.12.3-1
 kquickcharts 5.80.0-1
-krb5 1.18.3-1
+krb5 1.19.1-1
 krdc 20.12.3-1
 kreversi 20.12.3-1
 krfb 20.12.3-1
@@ -740,7 +740,7 @@ lib32-libudev0-shim 1-4
 lib32-libunistring 0.9.10-1
 lib32-libunwind 1.5.0-1
 lib32-libusb 1.0.24-1
-lib32-libva-mesa-driver 20.3.4-3
+lib32-libva-mesa-driver 21.0.1-1
 lib32-libvorbis 1.3.7-1
 lib32-libx11 1.7.0-1
 lib32-libxau 1.0.9-1
@@ -767,22 +767,22 @@ lib32-libxxf86vm 1.1.4-2
 lib32-llvm-libs 11.1.0-1
 lib32-lm_sensors 1:3.6.0.r41.g31d1f125-1
 lib32-lz4 1.9.3-1
-lib32-mesa 20.3.4-3
-lib32-mesa-vdpau 20.3.4-3
+lib32-mesa 21.0.1-1
+lib32-mesa-vdpau 21.0.1-1
 lib32-mpg123 1.26.5-1
 lib32-ncurses 6.2-1
-lib32-nettle 3.7.1-1
+lib32-nettle 3.7.2-1
 lib32-nspr 4.30-1
 lib32-nss 3.63-1
 lib32-ocl-icd 2.2.14-1
 lib32-openal 1.21.1-1
-lib32-opencl-mesa 20.3.4-3
+lib32-opencl-mesa 21.0.1-1
 lib32-openssl 1:1.1.1.k-1
 lib32-opus 1.3.1-1
 lib32-orc 0.4.32-1
 lib32-p11-kit 0.23.22-1
 lib32-pam 1.5.1-1
-lib32-pango 1:1.48.3-1
+lib32-pango 1:1.48.4-1
 lib32-pcre 8.44-1
 lib32-pixman 0.40.0-1
 lib32-polkit 0.118-1
@@ -795,9 +795,9 @@ lib32-tdb 1.4.3-1
 lib32-util-linux 2.36.2-1
 lib32-vkd3d 1.2-2
 lib32-vulkan-icd-loader 1.2.172-1
-lib32-vulkan-radeon 20.3.4-3
+lib32-vulkan-radeon 21.0.1-1
 lib32-wayland 1.19.0-1
-lib32-x264 3:0.160.r3011.cde9a93-2
+lib32-x264 3:0.161.r3039.544c61f-1
 lib32-xz 5.2.5-2
 lib32-zlib 1.2.11-3
 lib32-zstd 1.4.9-1
@@ -1063,7 +1063,7 @@ libusbmuxd 2.0.2-1
 libutempter 1.2.1-1
 libuv 1.41.0-1
 libva 2.11.0-1
-libva-mesa-driver 20.3.4-3
+libva-mesa-driver 21.0.1-1
 libvdpau 1.4-1
 libvirt 1:7.1.0-3
 libvisio 0.1.7-4
@@ -1180,9 +1180,9 @@ mbox-importer 20.12.3-1
 md4c 0.4.7-1
 mdadm 4.1-2
 media-player-info 24-2
-mesa 20.3.4-3
+mesa 21.0.1-1
 mesa-demos 8.4.0-4
-mesa-vdpau 20.3.4-3
+mesa-vdpau 21.0.1-1
 messagelib 20.12.3-1
 metis 5.1.0.p10-1
 milou 5.21.3-1
@@ -1296,7 +1296,7 @@ openal 1.21.1-1
 openbabel 3.1.1-2
 opencc 1.1.2-1
 opencl-headers 2:2020.12.18-1
-opencl-mesa 20.3.4-3
+opencl-mesa 21.0.1-1
 opencollada 1:1.6.68-2
 opencolorio1 1.1.1-2
 opencore-amr 0.1.5-5
@@ -1327,7 +1327,7 @@ pacman-mirrorlist 20210302-1
 palapeli 20.12.3-1
 pam 1.5.1-1
 pambase 20200721.1-2
-pango 1:1.48.3-2
+pango 1:1.48.4-1
 pangomm 2.46.0-1
 paper 2.3-2
 parley 20.12.3-1
@@ -1370,7 +1370,7 @@ picom 8.2-1
 pim-data-exporter 20.12.3-1
 pim-sieve-editor 20.12.3-1
 pimcommon 20.12.3-1
-pinentry 1.1.0-5
+pinentry 1.1.1-1
 pipewire 1:0.3.24-1
 pixman 0.40.0-1
 pkgconf 1.7.3-1
@@ -1718,7 +1718,7 @@ tdb 1.4.3-4
 tdlib 0.5.0-4
 teamspeak3 3.5.6-1
 teamspeak3-server 3.13.3-1
-telegram-desktop 2.6.1-1
+telegram-desktop 2.7.1-1
 telepathy-accounts-signon 2.1-2
 telepathy-farstream 0.6.2-7
 telepathy-glib 0.24.2-2
@@ -1752,8 +1752,8 @@ tlp-rdw 1.3.1-2
 tlpui-git 2:1.3.1.2.r0.g053a477-1
 tmux 3.1_c-1
 totem-pl-parser 3.26.5-1
-tracker3 3.0.3-1
-tracker3-miners 3.0.4-1
+tracker3 3.1.0-1
+tracker3-miners 3.1.0-1
 trash-cli 0.17.1.14-6
 tslib 1.22-1
 ttf-dejavu 2.37+18+g9b5d1b2f-2
@@ -1768,7 +1768,7 @@ ttf-monaco 6.1-6
 ttf-ms-fonts 2.0-12
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-3
 ttf-opensans 1.101-2
-ttf-sarasa-gothic 0.18.8-1
+ttf-sarasa-gothic 0.18.9-1
 ttf-symbola 13.00-10
 ttf-twemoji-color 13.0.1-1
 ttf-ubuntu-font-family 0.83-6
@@ -1814,7 +1814,7 @@ vte-common 0.64.0-1
 vte3 0.64.0-1
 vtk 8.2.0-17
 vulkan-icd-loader 1.2.172-1
-vulkan-radeon 20.3.4-3
+vulkan-radeon 21.0.1-1
 w3m 0.5.3.git20200507-2
 wavpack 5.4.0-1
 wayland 1.19.0-1
