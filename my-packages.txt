@@ -5,7 +5,7 @@ accountsservice 0.6.55-3
 acl 2.3.1-1
 acorn 1:8.1.0-1
 acpi 1.7-3
-acpi_call 1.2.1-40
+acpi_call 1.2.1-41
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-1
@@ -73,7 +73,7 @@ automake 1.16.3-1
 avahi 0.8+15+ge8a3dd0-3
 avogadrolibs 1.93.1-1
 awesome-terminal-fonts 1.1.0-4
-babl 0.1.84-1
+babl 0.1.86-1
 baloo 5.80.0-1
 baloo-widgets 20.12.3-1
 base 2-2
@@ -207,7 +207,7 @@ elisa 20.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.146104-1
+emacs-git 28.0.50.146123-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-1
@@ -278,7 +278,7 @@ gdbm 1.19-2
 gdk-pixbuf2 2.42.4-1
 gdl 3.34.0-2
 gedit 40.0-1
-gegl 0.4.28-2
+gegl 0.4.30-1
 geoip 1.6.12-2
 geoip-database 20210323-1
 gettext 0.21-1
@@ -287,9 +287,9 @@ ghostscript 9.53.3-3
 ghostxps 9.53.3-3
 giblib 1.2.4-8
 giflib 5.2.1-2
-gimp 2.10.22-2
+gimp 2.10.24-1
 git 2.31.1-1
-git-delta-git 0.6.0.20210329-2
+git-delta-git 0.7.1.20210330-1
 github-cli 1.7.0-2
 glew 2.2.0-2
 glfw-wayland 3.3.3-1
@@ -310,7 +310,7 @@ gnupg 2.2.27-1
 gnutls 3.7.1-1
 go 2:1.16.2-1
 gobject-introspection-runtime 1.68.0-1
-google-chrome 89.0.4389.90-1
+google-chrome 89.0.4389.114-1
 google-glog 0.4.0-2
 gopls 0.6.4-2
 gperf 3.1-3
@@ -330,7 +330,7 @@ grep 3.6-1
 groff 1.22.4-4
 grpc 1.36.4-1
 grub 2:2.04-10
-gsettings-desktop-schemas 40.0-1
+gsettings-desktop-schemas 40.0-2
 gsfonts 20200910-2
 gsl 2.6-2
 gsm 1.0.19-1
@@ -344,7 +344,7 @@ gst-plugins-base-libs 1.18.4-1
 gst-plugins-good 1.18.4-2
 gstreamer 1.18.4-1
 gtk-doc 1.33.2-1
-gtk-update-icon-cache 1:4.0.3+61+gcb05be0aa5-1
+gtk-update-icon-cache 1:4.2.0-1
 gtk2 2.24.33-2
 gtk3 1:3.24.28-1
 gtkmm3 3.24.4-1
@@ -642,7 +642,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.0-3
-latte-dock-git 0.9.11.r5171.b8229ac1-1
+latte-dock-git 0.9.11.r5174.a71c2cc9-1
 lazydocker 0.12-1
 lcms2 2.12-1
 ldb 1:2.2.0-3
@@ -1124,7 +1124,7 @@ lightdm 1:1.30.0-4
 lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-5
 lilv 0.24.12-1
-linux 5.11.10.arch1-1
+linux 5.11.11.arch1-1
 linux-api-headers 5.10.13-1
 linux-firmware 20210315.3568f96-1
 linuxqq 1:2.0.0_b2_1089-1
@@ -1427,7 +1427,7 @@ python-cachecontrol 0.12.6-3
 python-cairo 1.20.0-3
 python-cffi 1.14.5-1
 python-chardet 4.0.0-1
-python-click 7.1.2-3
+python-click 7.1.2-4
 python-colorama 0.4.4-3
 python-constantly 15.1.0-9
 python-contextlib2 0.6.0.post1-3
@@ -1443,10 +1443,10 @@ python-evdev 1.4.0-1
 python-feedparser 5.2.1-9
 python-flask 1.1.2-4
 python-future 0.18.2-5
-python-gobject 3.40.0-1
+python-gobject 3.40.1-1
 python-grip 4.5.2-1
 python-html5lib 1.1-6
-python-hyperlink 21.0.0-1
+python-hyperlink 21.0.0-2
 python-idna 3.1-1
 python-importlib-metadata 3.7.3-1
 python-incremental 21.3.0-2
@@ -1480,7 +1480,7 @@ python-psutil 5.8.0-1
 python-ptyprocess 0.7.0-1
 python-pycparser 2.20-3
 python-pygments 2.8.1-1
-python-pyhamcrest 1.9.0-7
+python-pyhamcrest 1.10.0-1
 python-pyinotify 0.9.6-9
 python-pyopenssl 20.0.1-1
 python-pyparsing 2.4.7-3
@@ -1741,7 +1741,7 @@ telepathy-qt 0.9.8-2
 tepl 6.00.0-1
 tevent 1:0.10.2-3
 texinfo 6.7-3
-thefuck 3.30-2
+thefuck 3.30-3
 thin-provisioning-tools 0.9.0-1
 threadweaver 5.80.0-1
 tigervnc 1.11.0-6
@@ -1768,7 +1768,7 @@ ttf-monaco 6.1-6
 ttf-ms-fonts 2.0-12
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-4
 ttf-opensans 1.101-2
-ttf-sarasa-gothic 0.20.0-1
+ttf-sarasa-gothic 0.20.1-1
 ttf-symbola 13.00-10
 ttf-twemoji-color 13.0.1-1
 ttf-ubuntu-font-family 0.83-7
@@ -1791,21 +1791,21 @@ usbutils 013-1
 util-linux 2.36.2-1
 util-linux-libs 2.36.2-1
 v2ray 4.36.2-1
-v2ray-domain-list-community 20210329080058-1
+v2ray-domain-list-community 20210330120529-1
 v2ray-geoip 202103250007-1
 v4l-utils 1.20.0-1
 vala 0.52.0-1
 vamp-plugin-sdk 2.10.0-1
 vde2 2.3.2-16
 vdpauinfo 1.4-1
-ventoy-bin 1.0.39-3
+ventoy-bin 1.0.39-4
 vi 1:070224-4
 vid.stab 1.1-3
 vim 8.2.2653-1
 vim-runtime 8.2.2653-1
 virglrenderer 0.8.2-1
 virtualbox 6.1.18-2
-virtualbox-host-modules-arch 6.1.18-22
+virtualbox-host-modules-arch 6.1.18-23
 visual-studio-code-bin 1.54.3-3
 vlc 3.0.12-3
 vmaf 1.5.3-1
@@ -1877,8 +1877,6 @@ xfce4-notifyd 0.6.2-2
 xfce4-power-manager 4.16.0-2
 xfconf 4.16.0-1
 xfsprogs 5.11.0-1
-xine-lib 1.2.11-3
-xine-ui 0.99.12-2
 xkeyboard-config 2.32-1
 xmlsec 1.2.31-1
 xorg-bdftopcf 1.1-2
