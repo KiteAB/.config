@@ -37,7 +37,7 @@ amd-ucode 20210315.3568f96-1
 amdvlk 2021.Q1.6-1
 amtk 5.2.0-2
 analitza 20.12.3-1
-android-tools 30.0.5-3
+android-tools 31.0.0-1
 aom 2.0.2-1
 apache 2.4.46-3
 appstream 0.14.3-1
@@ -207,7 +207,7 @@ elisa 20.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.146123-1
+emacs-git 28.0.50.146134-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-1
@@ -227,7 +227,7 @@ fcitx5 5.0.7-1
 fcitx5-chewing 5.0.5-1
 fcitx5-chinese-addons 5.0.5-1
 fcitx5-configtool 5.0.4-1
-fcitx5-gtk 5.0.6-1
+fcitx5-gtk 5.0.6-2
 fcitx5-material-color 0.0.0.20201212-2
 fcitx5-pinyin-moegirl 20210318-1
 fcitx5-pinyin-zhwiki 20210320-1
@@ -239,7 +239,7 @@ ffmpeg 2:4.3.2-5
 ffmpegthumbs 20.12.3-1
 ffms2 2.40-1
 fftw 3.3.9-1
-file 5.39-1
+file 5.40-1
 filebrowser-bin 2.14.1-1
 filelight 20.12.3-1
 filesystem 2021.01.19-1
@@ -290,7 +290,7 @@ giflib 5.2.1-2
 gimp 2.10.24-1
 git 2.31.1-1
 git-delta-git 0.7.1.20210330-1
-github-cli 1.7.0-2
+github-cli 1.8.0-1
 glew 2.2.0-2
 glfw-wayland 3.3.3-1
 glib-networking 1:2.68.0-1
@@ -325,7 +325,7 @@ grantleetheme 20.12.3-1
 graphene 1.10.4-1
 graphicsmagick 1.3.36-1
 graphite 1:1.3.14-1
-graphviz 2.46.1-1
+graphviz 2.47.0-1
 grep 3.6-1
 groff 1.22.4-4
 grpc 1.36.4-1
@@ -344,7 +344,7 @@ gst-plugins-base-libs 1.18.4-1
 gst-plugins-good 1.18.4-2
 gstreamer 1.18.4-1
 gtk-doc 1.33.2-1
-gtk-update-icon-cache 1:4.2.0-1
+gtk-update-icon-cache 1:4.2.0-2
 gtk2 2.24.33-2
 gtk3 1:3.24.28-1
 gtkmm3 3.24.4-1
@@ -642,10 +642,10 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.0-3
-latte-dock-git 0.9.11.r5174.a71c2cc9-1
+latte-dock-git 0.9.11.r5179.06f90877-1
 lazydocker 0.12-1
 lcms2 2.12-1
-ldb 1:2.2.0-3
+ldb 1:2.3.0-1
 ldns 1.7.1-2
 lensfun 0.3.95-4
 less 1:563-1
@@ -1055,7 +1055,7 @@ libtool 2.4.6+42+gb88cebd5-14
 libudev0-shim 1-4
 libunistring 0.9.10-3
 libunwind 1.5.0-1
-libupnp 1.14.2-1
+libupnp 1.14.4-1
 liburing 2.0-1
 libusb 1.0.24-2
 libusb-compat 0.1.7-1
@@ -1106,7 +1106,7 @@ libxmu 1.1.3-2
 libxpm 3.5.13-2
 libxrandr 1.5.2-3
 libxrender 0.9.10-4
-libxres 1.2.0-2
+libxres 1.2.1-1
 libxshmfence 1.3-2
 libxslt 1.1.34-5
 libxss 1.2.3-3
@@ -1276,7 +1276,7 @@ ninja 1.10.2-1
 nm-connection-editor 1.20.0-2
 nmap 7.91-1
 node-gyp 7.1.2-1
-nodejs 15.12.0-1
+nodejs 15.13.0-1
 noto-fonts 20201226-2
 noto-fonts-cjk 20201206-2
 noto-fonts-emoji 20200916-1
@@ -1506,7 +1506,7 @@ python-termcolor 1.1.0-10
 python-toml 0.10.2-3
 python-tornado 6.1.0-3
 python-traitlets 5.0.5-1
-python-twisted 21.2.0-1
+python-twisted 21.2.0-2
 python-ujson 4.0.2-1
 python-urllib3 1.26.4-1
 python-wcwidth 0.2.5-3
@@ -1592,7 +1592,7 @@ raptor 2.0.15-15
 rar 6.0.0-1
 rasqal 1:0.9.33-4
 rav1e 0.4.0-1
-re2 1:20210202-1
+re2 1:20210401-1
 readline 8.1.0-2
 recode 3.7.8-1
 recordmydesktop 0.4.0-1
@@ -1768,7 +1768,7 @@ ttf-monaco 6.1-6
 ttf-ms-fonts 2.0-12
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-4
 ttf-opensans 1.101-2
-ttf-sarasa-gothic 0.20.1-1
+ttf-sarasa-gothic 0.20.2-1
 ttf-symbola 13.00-10
 ttf-twemoji-color 13.0.1-1
 ttf-ubuntu-font-family 0.83-7
@@ -1791,7 +1791,7 @@ usbutils 013-1
 util-linux 2.36.2-1
 util-linux-libs 2.36.2-1
 v2ray 4.36.2-1
-v2ray-domain-list-community 20210330120529-1
+v2ray-domain-list-community 20210331102817-1
 v2ray-geoip 202103250007-1
 v4l-utils 1.20.0-1
 vala 0.52.0-1
@@ -1806,7 +1806,7 @@ vim-runtime 8.2.2653-1
 virglrenderer 0.8.2-1
 virtualbox 6.1.18-2
 virtualbox-host-modules-arch 6.1.18-23
-visual-studio-code-bin 1.54.3-3
+visual-studio-code-bin 1.55.0-1
 vlc 3.0.12-3
 vmaf 1.5.3-1
 volume_key 0.3.12-5
