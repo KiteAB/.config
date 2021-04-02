@@ -48,7 +48,7 @@ arandr 0.1.10-5
 arc-icon-theme 20161122-3
 archlinux-appstream-data 20210321-1
 archlinux-keyring 20210110-1
-archlinuxcn-keyring 20201201-1
+archlinuxcn-keyring 20210401-1
 arctime 2.4.1-1
 argon2 20190702-3
 aria2 1.35.0-2
@@ -86,7 +86,7 @@ bilibili-live-helper-bin 2.2.2-1
 binutils 2.36.1-2
 bison 3.7.6-1
 black-hole-solver 1.10.1-1
-blas 3.9.0-3
+blas 3.9.1-1
 blender 17:2.92.0-1
 blinken 20.12.3-1
 blosc 1.21.0-1
@@ -119,7 +119,7 @@ calendarsupport 20.12.3-1
 cantarell-fonts 1:0.301-1
 cantor 20.12.3-4
 capnproto 0.8.0-1
-cblas 3.9.0-3
+cblas 3.9.1-1
 ccls 0.20201219-3
 cdparanoia 10.2-8
 cdrtools 3.02a09-4
@@ -143,14 +143,14 @@ compiler-rt 11.1.0-1
 confuse 3.3-3
 containerd 1.4.4-1
 convertlit 1.8-10
-coordgen 2.0.0-1
+coordgen 2.0.2-1
 coreutils 8.32-1
 cowsay 3.04-2
 cpio 2.13-2
 cpupower 5.11-1
-cronie 1.5.6-1
+cronie 1.5.7-2
 cryptsetup 2.3.5-1
-curl 7.75.0-1
+curl 7.76.0-1
 dav1d 0.8.2-1
 db 5.3.28-5
 dbus 1.12.20-1
@@ -198,7 +198,7 @@ eclipse-platform 4.19-1
 editorconfig-core-c 0.12.4-1
 efibootmgr 17-2
 efivar 37-4
-electron 11.3.0-1
+electron 12.0.2-1
 electron-netease-cloud-music 0.9.26-1
 electron9 9.4.3-1
 electronic-wechat 2.3.1-2
@@ -207,7 +207,7 @@ elisa 20.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.146134-1
+emacs-git 28.0.50.146148-2
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-1
@@ -282,9 +282,9 @@ gegl 0.4.30-1
 geoip 1.6.12-2
 geoip-database 20210323-1
 gettext 0.21-1
-ghostpcl 9.53.3-3
-ghostscript 9.53.3-3
-ghostxps 9.53.3-3
+ghostpcl 9.54.0-2
+ghostscript 9.54.0-2
+ghostxps 9.54.0-2
 giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.24-1
@@ -327,7 +327,7 @@ graphicsmagick 1.3.36-1
 graphite 1:1.3.14-1
 graphviz 2.47.0-1
 grep 3.6-1
-groff 1.22.4-4
+groff 1.22.4-5
 grpc 1.36.4-1
 grub 2:2.04-10
 gsettings-desktop-schemas 40.0-2
@@ -641,8 +641,8 @@ kxmlgui 5.80.0-1
 l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
-lapack 3.9.0-3
-latte-dock-git 0.9.11.r5179.06f90877-1
+lapack 3.9.1-1
+latte-dock-git 0.9.11.r5186.89f15b42-1
 lazydocker 0.12-1
 lcms2 2.12-1
 ldb 1:2.3.0-1
@@ -664,7 +664,7 @@ lib32-bzip2 1.0.8-2
 lib32-cairo 1.17.4-5
 lib32-clang 11.1.0-1
 lib32-colord 1.4.5-2
-lib32-curl 7.75.0-1
+lib32-curl 7.76.0-1
 lib32-dbus 1.12.20-1
 lib32-dconf 0.40.0-1
 lib32-e2fsprogs 1.46.2-2
@@ -790,7 +790,7 @@ lib32-readline 8.1.0-2
 lib32-rest 0.8.1-3
 lib32-sdl2 2.0.14-1
 lib32-sqlite 3.34.1-1
-lib32-systemd 247.4-1
+lib32-systemd 248-1
 lib32-tdb 1.4.3-1
 lib32-util-linux 2.36.2-1
 lib32-vkd3d 1.2-2
@@ -1014,7 +1014,7 @@ libqxp 0.0.2-5
 libraqm 0.7.1-1
 libraw 0.20.2-1
 libraw1394 2.1.2-3
-libreoffice-fresh 7.1.1-1
+libreoffice-fresh 7.1.2-1
 librevenge 0.0.4-3
 librime 1:1.7.3-1
 librime-data 0.0.0.20210208-1
@@ -1704,10 +1704,10 @@ sweeper 20.12.3-1
 syndication 5.80.0-1
 syntax-highlighting 5.80.0-1
 sysfsutils 2.1.1-1
-systemd 247.4-2
-systemd-libs 247.4-2
+systemd 248-1
+systemd-libs 248-1
 systemd-swap 4.4.0-2
-systemd-sysvcompat 247.4-2
+systemd-sysvcompat 248-1
 systemsettings 5.21.3-1
 taglib 1.12-1
 talloc 2.3.2-1
@@ -1791,8 +1791,8 @@ usbutils 013-1
 util-linux 2.36.2-1
 util-linux-libs 2.36.2-1
 v2ray 4.36.2-1
-v2ray-domain-list-community 20210331102817-1
-v2ray-geoip 202103250007-1
+v2ray-domain-list-community 20210401091829-1
+v2ray-geoip 202104010913-1
 v4l-utils 1.20.0-1
 vala 0.52.0-1
 vamp-plugin-sdk 2.10.0-1
