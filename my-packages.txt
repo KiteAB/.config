@@ -91,8 +91,8 @@ blender 17:2.92.0-1
 blinken 20.12.3-1
 blosc 1.21.0-1
 bluedevil 1:5.21.3-1
-bluez 5.56-2
-bluez-libs 5.56-2
+bluez 5.57-1
+bluez-libs 5.57-1
 bluez-qt 5.80.0-1
 bolt 0.9.1-1
 bomber 20.12.3-1
@@ -207,7 +207,7 @@ elisa 20.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.146148-2
+emacs-git 28.0.50.146151-2
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-1
@@ -222,7 +222,7 @@ faac 1.30-2
 faad2 2.10.0-1
 fakeroot 1.25.3-2
 farstream 0.2.9-2
-faudio 21.03.05-1
+faudio 21.04-1
 fcitx5 5.0.7-1
 fcitx5-chewing 5.0.5-1
 fcitx5-chinese-addons 5.0.5-1
@@ -642,7 +642,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.1-1
-latte-dock-git 0.9.11.r5186.89f15b42-1
+latte-dock-git 0.9.11.r5190.f242bdf3-1
 lazydocker 0.12-1
 lcms2 2.12-1
 ldb 1:2.3.0-1
@@ -669,7 +669,7 @@ lib32-dbus 1.12.20-1
 lib32-dconf 0.40.0-1
 lib32-e2fsprogs 1.46.2-2
 lib32-expat 2.2.10-1
-lib32-faudio 21.03.05-1
+lib32-faudio 21.04-1
 lib32-flac 1.3.3-1
 lib32-fontconfig 2:2.13.93-4
 lib32-freetype2 2.10.4-1
@@ -902,7 +902,7 @@ libidn2 2.3.0-1
 libiec61883 1.2.0-6
 libieee1284 0.2.11-11
 libimagequant 2.14.1-1
-libime 1.0.5-1
+libime 1.0.6-1
 libimobiledevice 1.3.0-3
 libindicator-gtk3 12.10.1-9
 libinih 53-1
@@ -1282,7 +1282,7 @@ noto-fonts-cjk 20201206-2
 noto-fonts-emoji 20200916-1
 noto-fonts-emoji-blob 20190614-2
 noto-fonts-extra 20201226-2
-npm 7.7.6-1
+npm 7.8.0-1
 npth 1.6-3
 nspr 4.30-1
 nss 3.63-1
@@ -1574,7 +1574,7 @@ qt5-quickcontrols2 5.15.2-1
 qt5-script 5.15.2-1
 qt5-sensors 5.15.2-1
 qt5-speech 5.15.2-1
-qt5-svg 5.15.2-1
+qt5-svg 5.15.2-2
 qt5-tools 5.15.2-3
 qt5-wayland 5.15.2-1
 qt5-webchannel 5.15.2-1
