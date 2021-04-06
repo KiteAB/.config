@@ -87,7 +87,7 @@ binutils 2.36.1-2
 bison 3.7.6-1
 black-hole-solver 1.10.1-1
 blas 3.9.1-1
-blender 17:2.92.0-1
+blender 17:2.92.0-2
 blinken 20.12.3-1
 blosc 1.21.0-1
 bluedevil 1:5.21.3-1
@@ -208,7 +208,7 @@ elisa 20.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.146181-1
+emacs-git 28.0.50.146206-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-1
@@ -231,7 +231,7 @@ fcitx5-configtool 5.0.4-1
 fcitx5-gtk 5.0.6-2
 fcitx5-material-color 0.0.0.20201212-2
 fcitx5-pinyin-moegirl 20210318-1
-fcitx5-pinyin-zhwiki 20210320-1
+fcitx5-pinyin-zhwiki 20210401-1
 fcitx5-qt 5.0.5-1
 fcitx5-rime 5.0.5-1
 fd 8.2.1-1
@@ -1005,7 +1005,7 @@ libproxy 0.4.17-1
 libpsl 0.21.1-1
 libpulse 14.2-3
 libqaccessibilityclient 0.4.1-2
-libqalculate 3.17.0-1
+libqalculate 3.18.0-1
 libqmi 1.28.2-1
 libqrtr-glib 1.0.0-1
 libquicktime 1.2.4-24
@@ -1206,7 +1206,7 @@ movit 1.6.3-1
 mpfr 4.1.0-1
 mpg123 1.26.5-1
 mplayer 38157-4
-mpv 1:0.33.0-4
+mpv 1:0.33.1-1
 msgpack-c 3.3.0-2
 mtdev 1.1.6-1
 mujs 1.1.0-1
@@ -1314,7 +1314,7 @@ openshadinglanguage 1.11.13.0-1
 openssh 8.5p1-1
 openssl 1.1.1.k-1
 openssl-1.0 1.0.2.u-1
-opensubdiv 3.4.3-5
+opensubdiv 3.4.4-1
 openvdb 8.0.1-1
 openxr 1.0.14-1
 opus 1.3.1-2
@@ -1327,7 +1327,7 @@ p7zip 1:17.04-1
 package-query 1.11-1
 pacman 5.2.2-2
 pacman-contrib 1.4.0-1
-pacman-mirrorlist 20210302-1
+pacman-mirrorlist 20210405-1
 pahole 1.20-2
 palapeli 20.12.3-1
 pam 1.5.1-1
@@ -1462,7 +1462,7 @@ python-jinja 2.11.3-2
 python-jsonrpc-server 0.4.0-3
 python-jupyter_client 6.1.12-1
 python-jupyter_core 4.7.1-1
-python-language-server 0.36.2-4
+python-language-server 0.36.2-5
 python-lxml 4.6.3-1
 python-markdown 3.3.4-1
 python-markupsafe 1.1.1-7
@@ -1644,7 +1644,7 @@ ruby-rspec-support 3.8.0-3
 ruby-term-ansicolor 1.7.1-1
 ruby-tins 1.26.0-1
 rubygems 3.2.13-1
-run-parts 4.8.6.1-2
+run-parts 4.11.2-1
 runc 1.0.0rc93-2
 sane 1.0.32-3
 sbc 1.5-2
@@ -1773,7 +1773,7 @@ ttf-monaco 6.1-6
 ttf-ms-fonts 2.0-12
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-4
 ttf-opensans 1.101-2
-ttf-sarasa-gothic 0.20.3-1
+ttf-sarasa-gothic 0.21.0-1
 ttf-symbola 13.00-10
 ttf-twemoji-color 13.0.1-1
 ttf-ubuntu-font-family 0.83-7
@@ -1796,8 +1796,8 @@ usbutils 013-1
 util-linux 2.36.2-1
 util-linux-libs 2.36.2-1
 v2ray 4.36.2-1
-v2ray-domain-list-community 20210403111045-1
-v2ray-geoip 202104010913-1
+v2ray-domain-list-community 20210405021053-1
+v2ray-geoip 202104050210-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.7.2-2
 v4l2loopback-dkms 0.12.5-1
