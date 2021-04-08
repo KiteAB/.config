@@ -34,11 +34,11 @@ alsa-topology-conf 1.2.4-2
 alsa-ucm-conf 1.2.4-2
 alsa-utils 1.2.4-2
 amd-ucode 20210315.3568f96-1
-amdvlk 2021.Q1.6-1
+amdvlk 2021.Q2.1-1
 amtk 5.2.0-2
 analitza 20.12.3-1
 android-tools 31.0.0-1
-aom 2.0.2-1
+aom 3.0.0-1
 apache 2.4.46-3
 appstream 0.14.3-1
 appstream-qt 0.14.3-1
@@ -120,7 +120,7 @@ cantarell-fonts 1:0.301-1
 cantor 20.12.3-4
 capnproto 0.8.0-1
 cblas 3.9.1-1
-ccls 0.20201219-3
+ccls 0.20210330-1
 cdparanoia 10.2-8
 cdrtools 3.02a09-4
 cervisia 20.12.3-1
@@ -172,7 +172,7 @@ dhcpcd 9.4.0-1
 diffutils 3.7-3
 discord 0.0.14-1
 discount 2.2.7-1
-discover 5.21.4-1
+discover 5.21.4-2
 distorm 3.5.2-2
 djvulibre 3.5.28-2
 dkms 2.8.4-1
@@ -208,7 +208,7 @@ elisa 20.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.146214-1
+emacs-git 28.0.50.146225-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-1
@@ -236,7 +236,7 @@ fcitx5-qt 5.0.5-1
 fcitx5-rime 5.0.5-1
 fd 8.2.1-1
 feh 3.6.3-1
-ffmpeg 2:4.3.2-5
+ffmpeg 2:4.3.2-6
 ffmpegthumbs 20.12.3-1
 ffms2 2.40-1
 fftw 3.3.9-1
@@ -263,7 +263,7 @@ frpc 0.36.2-1
 fuse-common 3.10.2-1
 fuse2 2.9.9-4
 fuse3 3.10.2-1
-fzf 0.26.0-1
+fzf 0.27.0-1
 gamemode 1.6.1-1
 gavl 1.4.0-4
 gawk 5.1.0-1
@@ -331,15 +331,15 @@ grep 3.6-1
 groff 1.22.4-5
 grpc 1.36.4-1
 grub 2:2.04-10
-gsettings-desktop-schemas 40.0-2
+gsettings-desktop-schemas 40.0-3
 gsfonts 20200910-2
 gsl 2.6-2
 gsm 1.0.19-1
 gspell 1.8.4-1
 gssdp 1.2.3-1
 gst-libav 1.18.4-1
-gst-plugins-bad 1.18.4-3
-gst-plugins-bad-libs 1.18.4-3
+gst-plugins-bad 1.18.4-4
+gst-plugins-bad-libs 1.18.4-4
 gst-plugins-base 1.18.4-1
 gst-plugins-base-libs 1.18.4-1
 gst-plugins-good 1.18.4-2
@@ -655,7 +655,7 @@ lf 21-1
 lib32-acl 2.3.1-1
 lib32-alsa-lib 1.2.4-2
 lib32-alsa-plugins 1.2.2-1
-lib32-amdvlk 2021.Q1.6-1
+lib32-amdvlk 2021.Q2.1-1
 lib32-at-spi2-atk 2.38.0-1
 lib32-at-spi2-core 2.40.0-1
 lib32-atk 2.36.0-2
@@ -816,7 +816,7 @@ libasyncns 0.8+3+g68cd5af-3
 libatasmart 0.19-5
 libatomic_ops 7.6.10-2
 libavc1394 0.5.4-4
-libavif 0.9.0-1
+libavif 0.9.0-2
 libavtp 0.1.0-2
 libblockdev 2.25-2
 libbluray 1.3.0-1
@@ -893,7 +893,7 @@ libgudev 236-1
 libgusb 0.3.6-1
 libgxps 0.3.2-1
 libhandy 1.2.0-2
-libheif 1.11.0-2
+libheif 1.11.0-3
 libibus 1.5.24-1
 libical 3.0.9-1
 libice 1.0.10-3
@@ -908,7 +908,7 @@ libimobiledevice 1.3.0-3
 libindicator-gtk3 12.10.1-9
 libinih 53-1
 libinput 1.17.1-1
-libinput-gestures 2.61-1
+libinput-gestures 2.62-1
 libinput_gestures_qt 0.3.2+7+g0868859-1
 libinstpatch 1.1.6-1
 libiptcdata 1.0.4-5
@@ -1099,8 +1099,8 @@ libxfont2 2.0.4-3
 libxft 2.3.3-2
 libxi 1.7.10-3
 libxinerama 1.1.4-3
-libxkbcommon 1.2.0-1
-libxkbcommon-x11 1.2.0-1
+libxkbcommon 1.2.0-2
+libxkbcommon-x11 1.2.0-2
 libxkbfile 1.1.0-2
 libxklavier 5.4-3
 libxml2 2.9.10-8
@@ -1567,8 +1567,8 @@ qhull 2020.2-4
 qqc2-desktop-style 5.80.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
-qt5-base 5.15.2-5
-qt5-declarative 5.15.2-1
+qt5-base 5.15.2+kde+r171-1
+qt5-declarative 5.15.2+kde+r24-1
 qt5-graphicaleffects 5.15.2-1
 qt5-imageformats 5.15.2-1
 qt5-location 5.15.2-2
@@ -1579,9 +1579,9 @@ qt5-quickcontrols2 5.15.2-1
 qt5-script 5.15.2-1
 qt5-sensors 5.15.2-1
 qt5-speech 5.15.2-1
-qt5-svg 5.15.2-2
+qt5-svg 5.15.2+kde+r5-1
 qt5-tools 5.15.2-3
-qt5-wayland 5.15.2-1
+qt5-wayland 5.15.2+kde+r11-1
 qt5-webchannel 5.15.2-1
 qt5-webengine 5.15.3-3
 qt5-webkit 5.212.0alpha4-9
@@ -1603,7 +1603,7 @@ recode 3.7.8-1
 recordmydesktop 0.4.0-1
 redland 1:1.0.17-8
 reflector 2021-1
-remmina 1:1.4.12-1
+remmina 1:1.4.13-1
 rest 0.8.1-3
 rhash 1.4.1-1
 rime-bopomofo 0.0.0.20210131-1
@@ -1768,7 +1768,7 @@ ttf-inconsolata 1:3.000-3
 ttf-jetbrains-mono 2.225-1
 ttf-joypixels 6.5.0-1
 ttf-liberation 2.1.3-1
-ttf-linux-libertine 5.3.0-6
+ttf-linux-libertine 5.3.0-7
 ttf-monaco 6.1-6
 ttf-ms-fonts 2.0-12
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-4
@@ -1796,7 +1796,7 @@ usbutils 013-1
 util-linux 2.36.2-1
 util-linux-libs 2.36.2-1
 v2ray 4.36.2-1
-v2ray-domain-list-community 20210406072932-1
+v2ray-domain-list-community 20210407065022-1
 v2ray-geoip 202104060240-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.7.2-2
@@ -1814,7 +1814,7 @@ virglrenderer 0.8.2-1
 virtualbox 6.1.18-2
 virtualbox-host-modules-arch 6.1.18-23
 visual-studio-code-bin 1.55.0-2
-vlc 3.0.12-3
+vlc 3.0.12-4
 vmaf 1.5.3-1
 volume_key 0.3.12-5
 vte-common 0.64.0-1
@@ -1837,7 +1837,7 @@ winetricks 20210206-1
 wmctrl 1.07-6
 woff2 1.0.2-3
 wpa_supplicant 2:2.9-8
-wpebackend-fdo 1.8.2-1
+wpebackend-fdo 1.8.3-1
 wps-office 11.1.0.9719-1
 wqy-bitmapfont 1.0.0RC1-5
 wqy-microhei 0.2.0_beta-11
