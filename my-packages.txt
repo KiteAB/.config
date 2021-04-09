@@ -5,7 +5,7 @@ accountsservice 0.6.55-3
 acl 2.3.1-1
 acorn 1:8.1.0-1
 acpi 1.7-3
-acpi_call 1.2.1-41
+acpi_call 1.2.1-42
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-1
@@ -134,7 +134,7 @@ clucene 2.3.3.4-11
 clutter 1.26.4-1
 clutter-gst 3.0.27-3
 clutter-gtk 1.8.4-2
-cmake 3.20.0-1
+cmake 3.20.1-1
 cmatrix 2.0-2
 cogl 1.22.8-1
 colord 1.4.5-1
@@ -208,7 +208,7 @@ elisa 20.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.146225-1
+emacs-git 28.0.50.146237-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-1
@@ -295,8 +295,8 @@ github-cli 1.8.1-1
 glew 2.2.0-2
 glfw-wayland 3.3.3-1
 glib-networking 1:2.68.0-1
-glib2 2.68.0-5
-glib2-docs 2.68.0-5
+glib2 2.68.1-1
+glib2-docs 2.68.1-1
 glibc 2.33-4
 glibmm 2.66.0-1
 glslang 11.2.0-3
@@ -643,7 +643,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.1-1
-latte-dock-git 0.9.11.r5198.5577a0c3-1
+latte-dock-git 0.9.11.r5207.ac7e7b1c-1
 lazydocker 0.12-1
 lcms2 2.12-1
 ldb 1:2.3.0-1
@@ -679,7 +679,7 @@ lib32-gcc-libs 10.2.0-6
 lib32-gdk-pixbuf2 2.42.4-1
 lib32-gettext 0.21-1
 lib32-glib-networking 2.68.0-1
-lib32-glib2 2.68.0-5
+lib32-glib2 2.68.1-1
 lib32-glibc 2.33-4
 lib32-glu 9.0.1-1
 lib32-gmp 6.2.1-1
@@ -756,7 +756,7 @@ lib32-libxfixes 5.0.3-2
 lib32-libxft 2.3.3-1
 lib32-libxi 1.7.10-2
 lib32-libxinerama 1.1.4-1
-lib32-libxkbcommon 1.1.0-1
+lib32-libxkbcommon 1.2.1-1
 lib32-libxml2 2.9.10-3
 lib32-libxrandr 1.5.2-1
 lib32-libxrender 0.9.10-2
@@ -961,7 +961,7 @@ libmspub 0.1.4-9
 libmsym 0.2.3-5
 libmtp 1.1.18-1
 libmusicbrainz5 5.1.0-4
-libmwaw 0.3.17-1
+libmwaw 0.3.18-1
 libmypaint 1.5.1-2
 libnautilus-extension 40.0-1
 libndp 1.7-2
@@ -1126,10 +1126,10 @@ lightdm 1:1.30.0-4
 lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-5
 lilv 0.24.12-1
-linux 5.11.11.arch1-1
+linux 5.11.12.arch1-1
 linux-api-headers 5.10.13-1
 linux-firmware 20210315.3568f96-1
-linux-headers 5.11.11.arch1-1
+linux-headers 5.11.12.arch1-1
 linuxqq 1:2.0.0_b2_1089-1
 lirc 1:0.10.1-8
 lld 11.1.0-1
@@ -1567,7 +1567,7 @@ qhull 2020.2-4
 qqc2-desktop-style 5.80.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
-qt5-base 5.15.2+kde+r171-1
+qt5-base 5.15.2+kde+r171-2
 qt5-declarative 5.15.2+kde+r24-1
 qt5-graphicaleffects 5.15.2-1
 qt5-imageformats 5.15.2-1
@@ -1709,10 +1709,10 @@ sweeper 20.12.3-1
 syndication 5.80.0-1
 syntax-highlighting 5.80.0-1
 sysfsutils 2.1.1-1
-systemd 248-3
-systemd-libs 248-3
+systemd 248-4
+systemd-libs 248-4
 systemd-swap 4.4.0-2
-systemd-sysvcompat 248-3
+systemd-sysvcompat 248-4
 systemsettings 5.21.4-1
 taglib 1.12-1
 talloc 2.3.2-1
@@ -1797,11 +1797,11 @@ util-linux 2.36.2-1
 util-linux-libs 2.36.2-1
 v2ray 4.36.2-1
 v2ray-domain-list-community 20210407065022-1
-v2ray-geoip 202104060240-1
+v2ray-geoip 202104080008-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.7.2-2
 v4l2loopback-dkms 0.12.5-1
-vala 0.52.0-1
+vala 0.52.1-1
 vamp-plugin-sdk 2.10.0-1
 vde2 2.3.2-16
 vdpauinfo 1.4-1
@@ -1812,7 +1812,7 @@ vim 8.2.2653-1
 vim-runtime 8.2.2653-1
 virglrenderer 0.8.2-1
 virtualbox 6.1.18-2
-virtualbox-host-modules-arch 6.1.18-23
+virtualbox-host-modules-arch 6.1.18-24
 visual-studio-code-bin 1.55.0-2
 vlc 3.0.12-4
 vmaf 1.5.3-1
