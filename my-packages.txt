@@ -5,7 +5,7 @@ accountsservice 0.6.55-3
 acl 2.3.1-1
 acorn 1:8.1.1-1
 acpi 1.7-3
-acpi_call 1.2.1-43
+acpi_call 1.2.1-46
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-1
@@ -38,7 +38,7 @@ amdvlk 2021.Q2.1-1
 amtk 5.3.1-1
 analitza 20.12.3-1
 android-tools 31.0.0-2
-aom 3.0.0-1
+aom 3.0.0-2
 apache 2.4.46-3
 appstream 0.14.3-1
 appstream-qt 0.14.3-1
@@ -160,7 +160,7 @@ dbus 1.12.20-1
 dbus-glib 0.110-2
 dbus-python 1.2.16-4
 dconf 0.40.0-1
-ddcutil 1.0.1-1
+ddcutil 1.1.0-1
 deepin-udis86 1.72_2-3
 deepin-wine-helper 5.1.13-1
 deepin-wine-plugin 5.1.13-1
@@ -213,7 +213,7 @@ elisa 20.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.146350-2
+emacs-git 28.0.50.146358-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-1
@@ -295,7 +295,7 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.24-1
 git 2.31.1-1
-git-delta-git 0.7.1.20210330-1
+git-delta-git 0.7.1.20210415-1
 github-cli 1.8.1-1
 glew 2.2.0-2
 glfw-wayland 3.3.4-1
@@ -318,7 +318,7 @@ gnupg 2.2.27-1
 gnutls 3.7.1-1
 go 2:1.16.3-1
 gobject-introspection-runtime 1.68.0-1
-google-chrome 90.0.4430.72-1
+google-chrome 90.0.4430.72-2
 google-glog 0.4.0-2
 gopls 0.6.4-2
 gperf 3.1-3
@@ -807,7 +807,7 @@ lib32-tdb 1.4.3-1
 lib32-util-linux 2.36.2-1
 lib32-v4l-utils 1.20.0-1
 lib32-vkd3d 1.2-2
-lib32-vulkan-icd-loader 1.2.172-1
+lib32-vulkan-icd-loader 1.2.174-1
 lib32-vulkan-radeon 21.0.2-1
 lib32-wayland 1.19.0-1
 lib32-x264 3:0.161.r3039.544c61f-2
@@ -1140,10 +1140,10 @@ lightdm 1:1.30.0-4
 lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-5
 lilv 0.24.12-1
-linux 5.11.13.arch1-1
+linux 5.11.14.arch1-1
 linux-api-headers 5.10.13-1
 linux-firmware 20210315.3568f96-1
-linux-headers 5.11.13.arch1-1
+linux-headers 5.11.14.arch1-1
 linuxqq 1:2.0.0_b2_1089-1
 lirc 1:0.10.1-8
 lld 11.1.0-1
@@ -1299,7 +1299,7 @@ noto-fonts-cjk 20201206-2
 noto-fonts-emoji 20200916-1
 noto-fonts-emoji-blob 20190614-2
 noto-fonts-extra 20201226-2
-npm 7.9.0-1
+npm 7.10.0-1
 npth 1.6-3
 nspr 4.30-1
 nss 3.63-1
@@ -1331,7 +1331,7 @@ openssl 1.1.1.k-1
 openssl-1.0 1.0.2.u-1
 opensubdiv 3.4.4-1
 openvdb 8.0.1-1
-openxr 1.0.14-1
+openxr 1.0.15-1
 opus 1.3.1-2
 orc 0.4.32-1
 os-prober 1.78-1
@@ -1818,8 +1818,8 @@ usbutils 013-1
 util-linux 2.36.2-1
 util-linux-libs 2.36.2-1
 v2ray 4.37.3-1
-v2ray-domain-list-community 20210414152453-1
-v2ray-geoip 202104130230-1
+v2ray-domain-list-community 20210415054336-1
+v2ray-geoip 202104150006-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.7.2-2
 v4l2loopback-dkms 0.12.5-1
@@ -1834,7 +1834,7 @@ vim 8.2.2653-1
 vim-runtime 8.2.2653-1
 virglrenderer 0.8.2-1
 virtualbox 6.1.18-2
-virtualbox-host-modules-arch 6.1.18-25
+virtualbox-host-modules-arch 6.1.18-28
 visual-studio-code-bin 1.55.2-1
 vkd3d 1.2-1
 vlc 3.0.12-4
@@ -1843,7 +1843,7 @@ volume_key 0.3.12-5
 vte-common 0.64.0-1
 vte3 0.64.0-1
 vtk 8.2.0-17
-vulkan-icd-loader 1.2.172-1
+vulkan-icd-loader 1.2.174-1
 vulkan-radeon 21.0.2-1
 w3m 0.5.3.git20200507-2
 wavpack 5.4.0-1
@@ -1888,7 +1888,7 @@ xdg-utils 1.1.3+19+g9816ebb-1
 xdotool 3.20160805.1-3
 xerces-c 3.2.3-2
 xf86-input-evdev 2.10.6-2
-xf86-input-libinput 1.0.0-1
+xf86-input-libinput 1.0.1-1
 xf86-input-synaptics 1.9.1-2
 xf86-input-vmmouse 13.1.0-5
 xf86-input-void 1.4.1-5
