@@ -87,7 +87,7 @@ binutils 2.36.1-2
 bison 3.7.6-1
 black-hole-solver 1.10.1-1
 blas 3.9.1-1
-blender 17:2.92.0-2
+blender 17:2.92.0-3
 blinken 20.12.3-1
 blosc 1.21.0-1
 bluedevil 1:5.21.4-1
@@ -213,7 +213,7 @@ elisa 20.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.146358-1
+emacs-git 28.0.50.146367-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-1
@@ -1731,10 +1731,10 @@ sweeper 20.12.3-1
 syndication 5.81.0-1
 syntax-highlighting 5.81.0-1
 sysfsutils 2.1.1-1
-systemd 248-4
-systemd-libs 248-4
+systemd 248-5
+systemd-libs 248-5
 systemd-swap 4.4.0-2
-systemd-sysvcompat 248-4
+systemd-sysvcompat 248-5
 systemsettings 5.21.4-1
 taglib 1.12-1
 talloc 2.3.2-1
@@ -1843,7 +1843,7 @@ volume_key 0.3.12-5
 vte-common 0.64.0-1
 vte3 0.64.0-1
 vtk 8.2.0-17
-vulkan-icd-loader 1.2.174-1
+vulkan-icd-loader 1.2.174-2
 vulkan-radeon 21.0.2-1
 w3m 0.5.3.git20200507-2
 wavpack 5.4.0-1
