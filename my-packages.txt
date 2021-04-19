@@ -151,7 +151,7 @@ cpio 2.13-2
 cpupower 5.11-1
 cronie 1.5.7-2
 cryptsetup 2.3.5-4
-cups 1:2.3.3op2-2
+cups 1:2.3.3op2-3
 cups-filters 1.28.8-1
 curl 7.76.1-1
 dav1d 0.8.2-1
@@ -213,7 +213,7 @@ elisa 20.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.146374-1
+emacs-git 28.0.50.146384-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-2
@@ -651,7 +651,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.1-1
-latte-dock-git 0.9.11.r5265.49faec25-1
+latte-dock-git 0.9.11.r5269.1afe12ad-1
 lazydocker 0.12-1
 lcms2 2.12-1
 ldb 1:2.3.0-1
@@ -718,7 +718,7 @@ lib32-libepoxy 1.5.5-1
 lib32-libffi 3.3-2
 lib32-libgcrypt 1.9.2-1
 lib32-libglvnd 1.3.2-1
-lib32-libgpg-error 1.41-1
+lib32-libgpg-error 1.42-1
 lib32-libgudev 236-1
 lib32-libgusb 0.3.6-1
 lib32-libice 1.0.10-1
@@ -853,7 +853,7 @@ libcmis 0.5.2-7
 libconfig 1.7.2-3
 libcroco 0.6.13-2
 libcue 2.2.1-2
-libcups 1:2.3.3op2-2
+libcups 1:2.3.3op2-3
 libdaemon 0.14-5
 libdatrie 0.2.13-1
 libdbusmenu-glib 16.04.0-4
@@ -893,7 +893,7 @@ libgdiplus 5.6.1-3
 libgee 0.20.4-1
 libgexiv2 0.12.2-1
 libgit2 1:1.1.0-1
-libglvnd 1.3.2-1
+libglvnd 1.3.2-2
 libgme 0.6.3-1
 libgpg-error 1.42-1
 libgphoto2 2.5.27-1
@@ -908,7 +908,7 @@ libgxps 0.3.2-1
 libhandy 1.2.1-1
 libheif 1.11.0-3
 libibus 1.5.24-1
-libical 3.0.9-2
+libical 3.0.10-1
 libice 1.0.10-3
 libid3tag 0.15.1b-11
 libidn 1.36-1
@@ -1454,7 +1454,7 @@ python-colorama 0.4.4-3
 python-constantly 15.1.0-9
 python-contextlib2 0.6.0.post1-3
 python-cryptography 3.4.7-1
-python-dateutil 2.8.1-5
+python-dateutil 2.8.1-6
 python-decorator 4.4.2-3
 python-distlib 0.3.1-2
 python-distro 1.5.0-3
