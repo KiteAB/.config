@@ -213,7 +213,7 @@ elisa 20.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.146384-1
+emacs-git 28.0.50.146395-2
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-2
@@ -418,7 +418,7 @@ jre11-openjdk 11.0.10.u9-1
 jre11-openjdk-headless 11.0.10.u9-1
 jre8-openjdk 8.u282-1
 jre8-openjdk-headless 8.u282-1
-js78 78.9.0-1
+js78 78.10.0-1
 json-c 0.15-1
 json-glib 1.6.2-1
 jsoncpp 1.9.4-1
@@ -988,7 +988,7 @@ libnftnl 1.1.9-1
 libnghttp2 1.43.0-1
 libnice 0.1.18-1
 libnl 3.5.0-2
-libnm 1.30.2-1
+libnm 1.30.4-1
 libnma 1.8.30-1
 libnotify 0.7.9-1
 libnsl 1.3.0-2
@@ -1286,7 +1286,7 @@ net-tools 2.10-1
 netpbm 10.73.33-1
 nettle 3.7.2-1
 network-manager-applet 1.20.0-2
-networkmanager 1.30.2-1
+networkmanager 1.30.4-1
 networkmanager-qt 5.81.0-1
 nginx 1.18.0-2
 ninja 1.10.2-1
@@ -1425,7 +1425,7 @@ ppp 2.4.8-1
 print-manager 20.12.3-1
 prison 5.81.0-1
 procps-ng 3.3.17-1
-protobuf 3.15.7-1
+protobuf 3.15.8-1
 proton 5.13.4-2
 psmisc 23.4-1
 psutils 2.05-1
@@ -1585,7 +1585,7 @@ qpdf 10.3.1-1
 qqc2-desktop-style 5.81.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
-qt5-base 5.15.2+kde+r172-2
+qt5-base 5.15.2+kde+r175-1
 qt5-declarative 5.15.2+kde+r24-1
 qt5-graphicaleffects 5.15.2-1
 qt5-imageformats 5.15.2-1
@@ -1606,13 +1606,13 @@ qt5-webkit 5.212.0alpha4-10
 qt5-x11extras 5.15.2-1
 qt5-xmlpatterns 5.15.2-1
 qtermwidget 0.16.1-3
-qv2ray 2.6.3-23
+qv2ray 2.6.3-24
 radeontool 1.6.3-4
 rainbarf-git 20140404-1
 ranger 1.9.3-3
 rapidjson 1.1.0-5
 raptor 2.0.15-16
-rar 6.0.0-1
+rar 6.0.1-1
 rasqal 1:0.9.33-4
 rav1e 0.4.1-1
 re2 1:20210401-1
@@ -1795,7 +1795,7 @@ ttf-monaco 6.1-6
 ttf-ms-fonts 2.0-12
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-4
 ttf-opensans 1.101-2
-ttf-sarasa-gothic 0.30.1-1
+ttf-sarasa-gothic 0.30.2-1
 ttf-symbola 13.00-10
 ttf-twemoji-color 13.0.1-1
 ttf-ubuntu-font-family 0.83-7
