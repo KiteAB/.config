@@ -27,5 +27,5 @@ export ZSH_AUTOSUGGEST_MANUAL_REBIND=1
 export FLUTTER_STORAGE_BASE_URL="https://mirrors.bfsu.edu.cn/flutter"
 export PUB_HOSTED_URL="https://mirrors.bfsu.edu.cn/dart-pub"
 
-# export HTTP_PROXY=127.0.0.1:8889
-# export HTTPS_PROXY=127.0.0.1:8889
+export HTTP_PROXY=127.0.0.1:8889
+export HTTPS_PROXY=127.0.0.1:8889
