@@ -129,7 +129,7 @@ cfitsio 1:3.49-1
 cheese 3.38.0-1
 chromaprint 1.5.0-3
 chrpath 0.16-3
-cifs-utils 6.13-1
+cifs-utils 6.13-2
 clang 11.1.0-1
 clucene 2.3.3.4-11
 clutter 1.26.4-1
@@ -213,7 +213,7 @@ elisa 20.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.146395-2
+emacs-git 28.0.50.146406-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-2
@@ -295,7 +295,7 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.24-1
 git 2.31.1-1
-git-delta-git 0.7.1.20210415-1
+git-delta-git 0.7.1.20210420-1
 github-cli 1.9.1-1
 glew 2.2.0-2
 glfw-wayland 3.3.4-1
@@ -318,7 +318,7 @@ gnupg 2.2.27-1
 gnutls 3.7.1-1
 go 2:1.16.3-1
 gobject-introspection-runtime 1.68.0-1
-google-chrome 90.0.4430.72-2
+google-chrome 90.0.4430.85-1
 google-glog 0.4.0-2
 gopls 0.6.4-2
 gperf 3.1-3
@@ -651,7 +651,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.1-1
-latte-dock-git 0.9.11.r5269.1afe12ad-1
+latte-dock-git 0.9.11.r5272.def1e8b8-1
 lazydocker 0.12-1
 lcms2 2.12-1
 ldb 1:2.3.0-1
@@ -953,7 +953,7 @@ libldap 2.4.58-1
 liblouis 3.17.0-1
 liblqr 0.4.2-3
 liblrdf 0.6.1-4
-libluv 1.36.0-1
+libluv 1.41.0-1
 libmad 0.15.1b-9
 libmagick6 6.9.11.58-1
 libmanette 0.2.6-1
@@ -1288,7 +1288,7 @@ nettle 3.7.2-1
 network-manager-applet 1.20.0-2
 networkmanager 1.30.4-1
 networkmanager-qt 5.81.0-1
-nginx 1.18.0-2
+nginx 1.20.0-1
 ninja 1.10.2-1
 nm-connection-editor 1.20.0-2
 nmap 7.91-1
@@ -1325,8 +1325,8 @@ openimagedenoise 1.3.0-1
 openimageio 2.2.13.0-1
 openjpeg2 2.4.0-1
 openmpi 4.0.5-3
-openshadinglanguage 1.11.13.0-1
-openssh 8.5p1-1
+openshadinglanguage 1.11.13.0-2
+openssh 8.6p1-1
 openssl 1.1.1.k-1
 openssl-1.0 1.0.2.u-1
 opensubdiv 3.4.4-1
@@ -1585,7 +1585,7 @@ qpdf 10.3.1-1
 qqc2-desktop-style 5.81.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
-qt5-base 5.15.2+kde+r175-1
+qt5-base 5.15.2+kde+r177-1
 qt5-declarative 5.15.2+kde+r24-1
 qt5-graphicaleffects 5.15.2-1
 qt5-imageformats 5.15.2-1
@@ -1664,7 +1664,7 @@ ruby-tins 1.26.0-2
 rubygems 3.2.15-1
 run-parts 4.11.2-1
 runc 1.0.0rc93-2
-samba 4.14.2-2
+samba 4.14.3-1
 sane 1.0.32-3
 sbc 1.5-2
 scrcpy 1.17-1
@@ -1695,7 +1695,7 @@ signon-ui 0.17+20171022-2
 signond 8.60-3
 slang 2.3.2-2
 smartmontools 7.2-1
-smbclient 4.14.2-2
+smbclient 4.14.3-1
 smpeg 0.4.5-5
 snappy 1.1.8-2
 snes9x-gtk 1.60-8
@@ -1818,7 +1818,7 @@ usbutils 013-1
 util-linux 2.36.2-1
 util-linux-libs 2.36.2-1
 v2ray 4.37.3-1
-v2ray-domain-list-community 20210417105326-1
+v2ray-domain-list-community 20210419153906-1
 v2ray-geoip 202104150006-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.7.2-2
@@ -1833,8 +1833,8 @@ vid.stab 1.1-3
 vim 8.2.2653-1
 vim-runtime 8.2.2653-1
 virglrenderer 0.8.2-1
-virtualbox 6.1.18-2
-virtualbox-host-modules-arch 6.1.18-30
+virtualbox 6.1.20-1
+virtualbox-host-modules-arch 6.1.20-1
 visual-studio-code-bin 1.55.2-1
 vkd3d 1.2-1
 vlc 3.0.12-4
