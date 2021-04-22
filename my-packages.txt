@@ -70,7 +70,7 @@ audiofile 0.3.6-6
 audit 3.0.1-1
 autoconf 2.71-1
 automake 1.16.3-1
-avahi 0.8+15+ge8a3dd0-3
+avahi 0.8+20+gd1e71b3-1
 avogadrolibs 1.93.1-1
 awesome-terminal-fonts 1.1.0-4
 babl 0.1.86-1
@@ -157,7 +157,7 @@ curl 7.76.1-1
 dav1d 0.8.2-1
 db 5.3.28-5
 dbus 1.12.20-1
-dbus-glib 0.110-2
+dbus-glib 0.112-1
 dbus-python 1.2.16-4
 dconf 0.40.0-1
 ddcutil 1.1.0-1
@@ -203,7 +203,7 @@ eclipse-platform 4.19-1
 editorconfig-core-c 0.12.4-1
 efibootmgr 17-2
 efivar 37-4
-electron 12.0.4-2
+electron 12.0.5-1
 electron-netease-cloud-music 0.9.26-1
 electron9 9.4.4-1
 electronic-wechat 2.3.1-2
@@ -213,7 +213,7 @@ elisa 20.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.146406-1
+emacs-git 28.0.50.146419-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-2
@@ -236,7 +236,7 @@ fcitx5-configtool 5.0.4-1
 fcitx5-gtk 5.0.6-2
 fcitx5-material-color 0.0.0.20201212-2
 fcitx5-pinyin-moegirl 20210415-1
-fcitx5-pinyin-zhwiki 20210401-1
+fcitx5-pinyin-zhwiki 20210420-1
 fcitx5-qt 5.0.5-1
 fcitx5-rime 5.0.5-1
 fd 8.2.1-1
@@ -295,8 +295,8 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.24-1
 git 2.31.1-1
-git-delta-git 0.7.1.20210420-1
-github-cli 1.9.1-1
+git-delta-git 0.7.1.20210421-1
+github-cli 1.9.2-1
 glew 2.2.0-2
 glfw-wayland 3.3.4-1
 glib-networking 1:2.68.0-1
@@ -331,7 +331,7 @@ grantlee 5.2.0-3
 grantlee-editor 20.12.3-1
 grantleetheme 20.12.3-1
 graphene 1.10.6-1
-graphicsmagick 1.3.36-1
+graphicsmagick 1.3.36-2
 graphite 1:1.3.14-1
 graphviz 2.47.0-1
 grep 3.6-1
@@ -651,13 +651,13 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.1-1
-latte-dock-git 0.9.11.r5272.def1e8b8-1
+latte-dock-git 0.9.11.r5276.e65c1f63-1
 lazydocker 0.12-1
 lcms2 2.12-1
 ldb 1:2.3.0-1
 ldns 1.7.1-2
 lensfun 0.3.95-4
-less 1:563-1
+less 1:581-1
 leveldb 1.23-2
 lf 22-1
 lib32-acl 2.3.1-1
@@ -888,7 +888,7 @@ libfontenc 1.1.4-3
 libfreehand 0.1.2-3
 libftdi 1.5-2
 libgaminggear 0.15.1-8
-libgcrypt 1.9.2-1
+libgcrypt 1.9.3-1
 libgdiplus 5.6.1-3
 libgee 0.20.4-1
 libgexiv2 0.12.2-1
@@ -963,7 +963,7 @@ libmfx 20.5.1-1
 libmicrodns 0.2.0-1
 libmicrohttpd 0.9.72-1
 libmikmod 3.3.11.1-4
-libmm-glib 1.16.2-1
+libmm-glib 1.16.4-1
 libmms 0.6.4-3
 libmng 2.0.3-3
 libmnl 1.0.4-3
@@ -1059,7 +1059,7 @@ libstdc++5 3.3.6-7
 libstemmer 0+713-2
 libtar 1.2.20-5
 libtasn1 4.16.0-1
-libteam 1.31-2
+libteam 1.31-3
 libtermkey 0.22-2
 libthai 0.1.28-2
 libtheora 1.1.1-5
@@ -1210,7 +1210,7 @@ mkinitcpio 30-1
 mkinitcpio-busybox 1.32.1-3
 mlt 6.26.1-1
 mobile-broadband-provider-info 20201225-1
-modemmanager 1.16.2-1
+modemmanager 1.16.4-1
 modemmanager-qt 5.81.0-1
 molequeue 0.9.0-2
 mono 6.12.0.107-1
@@ -1340,7 +1340,7 @@ oxygen 5.21.4-1
 p11-kit 0.23.22-1
 p7zip 1:17.04-1
 package-query 1.11-1
-pacman 5.2.2-2
+pacman 5.2.2-3
 pacman-contrib 1.4.0-1
 pacman-mirrorlist 20210405-1
 pahole 1.21-1
@@ -1673,7 +1673,7 @@ screenfetch 3.9.1-1
 screenkey 1.4-1
 scrot 1.5-1
 sd 0.7.6-1
-sddm 0.19.0-4
+sddm 0.19.0-5
 sddm-kcm 5.21.4-1
 sddm-sugar-light 1.0-2
 sdl 1.2.15-14
@@ -1715,7 +1715,7 @@ speexdsp 1.2.0-2
 spglib 1.16.1-1
 spice 0.14.3-3
 spirv-tools 2020.7-1
-sqlite 3.35.4-1
+sqlite 3.35.5-1
 sratom 0.6.8-1
 srt 1.4.2-1
 startup-notification 0.12-7
@@ -1827,7 +1827,7 @@ vala 0.52.2-1
 vamp-plugin-sdk 2.10.0-1
 vde2 2.3.2-16
 vdpauinfo 1.4-1
-ventoy-bin 1.0.40-1
+ventoy-bin 1.0.41-1
 vi 1:070224-4
 vid.stab 1.1-3
 vim 8.2.2653-1
