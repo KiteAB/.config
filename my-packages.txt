@@ -33,7 +33,7 @@ alsa-plugins 1:1.2.2-2
 alsa-topology-conf 1.2.4-2
 alsa-ucm-conf 1.2.4-2
 alsa-utils 1.2.4-2
-amd-ucode 20210315.3568f96-1
+amd-ucode 20210315.3568f96-2
 amdvlk 2021.Q2.1-1
 amtk 5.3.1-1
 analitza 21.04.0-1
@@ -148,7 +148,7 @@ coordgen 2.0.3-1
 coreutils 8.32-1
 cowsay 3.04-2
 cpio 2.13-2
-cpupower 5.11-1
+cpupower 5.12-1
 cronie 1.5.7-2
 cryptsetup 2.3.5-4
 cups 1:2.3.3op2-3
@@ -213,7 +213,7 @@ elisa 21.04.0-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148045-1
+emacs-git 28.0.50.148072-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-2
@@ -293,7 +293,7 @@ ghostscript 9.54.0-2
 ghostxps 9.54.0-2
 giblib 1.2.4-8
 giflib 5.2.1-2
-gimp 2.10.24-1
+gimp 2.10.24-2
 git 2.31.1-1
 git-delta-git 0.7.1.20210425-1
 github-cli 1.9.2-1
@@ -318,7 +318,7 @@ gnupg 2.2.27-1
 gnutls 3.7.1-1
 go 2:1.16.3-1
 gobject-introspection-runtime 1.68.0-1
-google-chrome 90.0.4430.85-1
+google-chrome 90.0.4430.93-1
 google-glog 0.4.0-2
 gopls 0.6.4-2
 gperf 3.1-3
@@ -652,7 +652,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.1-1
-latte-dock-git 0.9.11.r5288.8021602a-1
+latte-dock-git 0.9.11.r5289.5e175833-1
 lazydocker 0.12-1
 lcms2 2.12-1
 ldb 1:2.3.0-1
@@ -752,7 +752,7 @@ lib32-libunistring 0.9.10-1
 lib32-libunwind 1.5.0-1
 lib32-libusb 1.0.24-1
 lib32-libva 2.11.0-1
-lib32-libva-mesa-driver 21.0.3-1
+lib32-libva-mesa-driver 21.0.3-2
 lib32-libvorbis 1.3.7-1
 lib32-libx11 1.7.0-1
 lib32-libxau 1.0.9-1
@@ -780,8 +780,8 @@ lib32-libxxf86vm 1.1.4-2
 lib32-llvm-libs 11.1.0-1
 lib32-lm_sensors 1:3.6.0.r41.g31d1f125-1
 lib32-lz4 1.9.3-1
-lib32-mesa 21.0.3-1
-lib32-mesa-vdpau 21.0.3-1
+lib32-mesa 21.0.3-2
+lib32-mesa-vdpau 21.0.3-2
 lib32-mpg123 1.26.5-1
 lib32-ncurses 6.2-1
 lib32-nettle 3.7.2-1
@@ -789,7 +789,7 @@ lib32-nspr 4.30-1
 lib32-nss 3.64-1
 lib32-ocl-icd 2.2.14-1
 lib32-openal 1.21.1-1
-lib32-opencl-mesa 21.0.3-1
+lib32-opencl-mesa 21.0.3-2
 lib32-openssl 1:1.1.1.k-1
 lib32-opus 1.3.1-1
 lib32-orc 0.4.32-1
@@ -809,7 +809,7 @@ lib32-util-linux 2.36.2-1
 lib32-v4l-utils 1.20.0-1
 lib32-vkd3d 1.2-2
 lib32-vulkan-icd-loader 1.2.174-1
-lib32-vulkan-radeon 21.0.3-1
+lib32-vulkan-radeon 21.0.3-2
 lib32-wayland 1.19.0-1
 lib32-x264 3:0.161.r3039.544c61f-2
 lib32-xz 5.2.5-2
@@ -872,7 +872,7 @@ libdvdread 6.1.2-1
 libe-book 0.1.3-9
 libebml 1.4.2-1
 libebur128 1.2.6-1
-libedit 20210216_3.1-1
+libedit 20210419_3.1-1
 libelf 0.183-3
 libepoxy 1.5.5-1
 libepubgen 0.1.1-2
@@ -977,7 +977,7 @@ libmsym 0.2.3-5
 libmtp 1.1.18-1
 libmusicbrainz5 5.1.0-4
 libmwaw 0.3.18-1
-libmypaint 1.5.1-2
+libmypaint 1.6.1-1
 libnautilus-extension 40.0-1
 libndp 1.7-2
 libnet 1:1.1.6-1
@@ -1143,7 +1143,7 @@ lightdm-gtk-greeter-settings 1.2.2-5
 lilv 0.24.12-1
 linux 5.11.16.arch1-1
 linux-api-headers 5.10.13-1
-linux-firmware 20210315.3568f96-1
+linux-firmware 20210315.3568f96-2
 linux-headers 5.11.16.arch1-1
 linuxqq 1:2.0.0_b2_1089-1
 lirc 1:0.10.1-8
@@ -1192,7 +1192,7 @@ mariadb-clients 10.5.9-1
 mariadb-libs 10.5.9-1
 marisa 0.2.6-5
 markdownpart 21.04.0-1
-maven 3.6.3-1
+maven 3.8.1-1
 mbedtls 2.25.0-1
 mbox-importer 21.04.0-1
 md4c 0.4.7-1
@@ -1360,7 +1360,7 @@ pciutils 3.7.0-1
 pcre 8.44-1
 pcre2 10.36-1
 pcsclite 1.9.1-1
-perf 5.11-1
+perf 5.12-1
 perl 5.32.1-1
 perl-clone 0.45-2
 perl-encode-locale 1.05-7
@@ -1473,7 +1473,7 @@ python-hyperlink 21.0.0-2
 python-idna 3.1-1
 python-importlib-metadata 4.0.1-1
 python-incremental 21.3.0-2
-python-ipykernel 5.5.0-1
+python-ipykernel 5.5.3-1
 python-itsdangerous 1.1.0-6
 python-jedi 0.18.0-1
 python-jinja 2.11.3-2
@@ -1493,7 +1493,7 @@ python-path-and-address 2.0.1-1
 python-pep517 0.10.0-1
 python-pexpect 4.8.0-3
 python-pickleshare 0.7.5-6
-python-pillow 8.2.0-1
+python-pillow 8.2.0-2
 python-pip 20.3.1-1
 python-pluggy 0.13.1-4
 python-ply 3.11-7
@@ -1711,7 +1711,7 @@ source-highlight 3.1.9-4
 sox 14.4.2-7
 spandsp 0.0.6-3
 spectacle 21.04.0-1
-speedtest-cli 2.1.2-3
+speedtest-cli 2.1.3-1
 speex 1.2.0-3
 speexdsp 1.2.0-2
 spglib 1.16.1-1
@@ -1747,7 +1747,7 @@ tdb 1.4.3-4
 tdlib 0.5.0-4
 teamspeak3 3.5.6-1
 teamspeak3-server 3.13.3-1
-telegram-desktop 2.7.1-1
+telegram-desktop 2.7.2-1
 telepathy-accounts-signon 2.1-2
 telepathy-farstream 0.6.2-7
 telepathy-glib 0.24.2-2
@@ -1797,7 +1797,7 @@ ttf-monaco 6.1-6
 ttf-ms-fonts 2.0-12
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-4
 ttf-opensans 1.101-2
-ttf-sarasa-gothic 0.30.2-1
+ttf-sarasa-gothic 0.31.0-1
 ttf-symbola 13.00-10
 ttf-twemoji-color 13.0.1-1
 ttf-ubuntu-font-family 0.83-7
@@ -1832,8 +1832,8 @@ vdpauinfo 1.4-1
 ventoy-bin 1.0.41-1
 vi 1:070224-4
 vid.stab 1.1-3
-vim 8.2.2803-1
-vim-runtime 8.2.2803-1
+vim 8.2.2814-1
+vim-runtime 8.2.2814-1
 virglrenderer 0.8.2-1
 virtualbox 6.1.20-1
 virtualbox-host-modules-arch 6.1.20-2
@@ -1872,7 +1872,7 @@ wxgtk-common 3.0.5.1-2
 wxgtk3 3.0.5.1-2
 x264 3:0.161.r3039.544c61f-1
 x265 3.5-1
-x86_energy_perf_policy 5.11-1
+x86_energy_perf_policy 5.12-1
 xapian-core 1:1.4.18-1
 xcb-imdkit 1.0.3-1
 xcb-proto 1.14.1-3
