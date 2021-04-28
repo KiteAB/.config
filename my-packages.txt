@@ -213,7 +213,7 @@ elisa 21.04.0-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148072-1
+emacs-git 28.0.50.148085-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-2
@@ -241,7 +241,7 @@ fcitx5-qt 5.0.5-1
 fcitx5-rime 5.0.5-1
 fd 8.2.1-1
 feh 3.6.3-1
-ffmpeg 2:4.3.2-6
+ffmpeg 2:4.4-1
 ffmpegthumbs 21.04.0-1
 ffms2 2.40-1
 fftw 3.3.9-1
@@ -580,7 +580,7 @@ kolourpaint 21.04.0-1
 kompare 21.04.0-1
 konqueror 21.04.0-1
 konquest 21.04.0-1
-konsole 21.04.0-1
+konsole 21.04.0-2
 kontact 21.04.0-1
 kontactinterface 21.04.0-1
 konversation 21.04.0-1
@@ -652,7 +652,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.1-1
-latte-dock-git 0.9.11.r5289.5e175833-1
+latte-dock-git 0.9.11.r5309.0aad703b-1
 lazydocker 0.12-1
 lcms2 2.12-1
 ldb 1:2.3.0-1
@@ -906,7 +906,7 @@ libgtop 2.40.0+2+g31db82ef-2
 libgudev 236-1
 libgusb 0.3.6-1
 libgxps 0.3.2-1
-libhandy 1.2.1-1
+libhandy 1.2.2-1
 libheif 1.11.0-3
 libibus 1.5.24-1
 libical 3.0.10-1
@@ -1012,7 +1012,7 @@ libpeas 1.30.0-1
 libpgm 5.3.128-1
 libphonenumber 8.12.21-1
 libpipeline 1.5.3-1
-libplacebo 3.104.0-2
+libplacebo 3.120.2-1
 libplist 2.2.0-3
 libpng 1.6.37-3
 libportal 0.3-2
@@ -1221,7 +1221,7 @@ movit 1.6.3-1
 mpfr 4.1.0-1
 mpg123 1.26.5-1
 mplayer 38157-4
-mpv 1:0.33.1-1
+mpv 1:0.33.1-2
 msgpack-c 3.3.0-2
 mtdev 1.1.6-1
 mujs 1.1.1-1
@@ -1747,7 +1747,7 @@ tdb 1.4.3-4
 tdlib 0.5.0-4
 teamspeak3 3.5.6-1
 teamspeak3-server 3.13.3-1
-telegram-desktop 2.7.2-1
+telegram-desktop 2.7.3-1
 telepathy-accounts-signon 2.1-2
 telepathy-farstream 0.6.2-7
 telepathy-glib 0.24.2-2
@@ -1820,8 +1820,8 @@ usbutils 013-1
 util-linux 2.36.2-1
 util-linux-libs 2.36.2-1
 v2ray 4.37.3-1
-v2ray-domain-list-community 20210424190407-1
-v2ray-geoip 202104251437-1
+v2ray-domain-list-community 20210427111318-1
+v2ray-geoip 202104270716-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.7.2-2
 v4l2loopback-dkms 0.12.5-1
@@ -1829,17 +1829,17 @@ vala 0.52.2-1
 vamp-plugin-sdk 2.10.0-1
 vde2 2.3.2-16
 vdpauinfo 1.4-1
-ventoy-bin 1.0.41-1
+ventoy-bin 1.0.42-1
 vi 1:070224-4
 vid.stab 1.1-3
-vim 8.2.2814-1
-vim-runtime 8.2.2814-1
+vim 8.2.2815-1
+vim-runtime 8.2.2815-1
 virglrenderer 0.8.2-1
 virtualbox 6.1.20-1
 virtualbox-host-modules-arch 6.1.20-2
 visual-studio-code-bin 1.55.2-1
 vkd3d 1.2-1
-vlc 3.0.12-4
+vlc 3.0.12-5
 vmaf 1.5.3-1
 volume_key 0.3.12-5
 vte-common 0.64.0-2
@@ -1857,7 +1857,7 @@ webrtc-audio-processing 0.3.1-2
 wget 1.21.1-1
 which 2.21-5
 wildmidi 0.4.4-1
-wine-valve 6.3.20210423-1
+wine-valve 6.3.20210427-1
 winetricks 20210206-1
 wmctrl 1.07-6
 woff2 1.0.2-3
