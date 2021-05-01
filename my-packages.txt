@@ -203,8 +203,8 @@ eclipse-platform 4.19-1
 editorconfig-core-c 0.12.4-1
 efibootmgr 17-2
 efivar 37-4
-electron 12.0.5-1
-electron-netease-cloud-music 0.9.26-1
+electron 12.0.6-1
+electron-netease-cloud-music 0.9.27-1
 electron9 9.4.4-1
 electronic-wechat 2.3.1-2
 elementary-icon-theme 5.3.1-1
@@ -213,7 +213,7 @@ elisa 21.04.0-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148100-1
+emacs-git 28.0.50.148105-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-2
@@ -295,7 +295,7 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.24-3
 git 2.31.1-1
-git-delta-git 0.7.1.20210429-1
+git-delta-git 0.7.1.20210430-1
 github-cli 1.9.2-1
 glew 2.2.0-2
 glfw-wayland 3.3.4-1
@@ -308,7 +308,7 @@ glslang 11.4.0-1
 glu 9.0.1-2
 gmp 6.2.1-1
 gn-m85 0.1792.7d7e8dee-1
-gnome-autoar 0.3.1-1
+gnome-autoar 0.3.2-1
 gnome-desktop 1:40.0-1
 gnome-icon-theme 3.12.0-6
 gnome-icon-theme-symbolic 3.12.0-6
@@ -366,7 +366,7 @@ gumbo-parser 0.10.1-2
 gupnp 1.2.4-1
 gupnp-dlna 0.10.5+4+gc947eed-2
 gupnp-igd 1.2.0-1
-gvfs 1.48.0-2
+gvfs 1.48.1-1
 gwenview 21.04.0-1
 gzip 1.10-3
 harfbuzz 2.8.0-3
@@ -718,7 +718,7 @@ lib32-libdbusmenu-glib 16.04.0-4
 lib32-libdbusmenu-gtk3 16.04.0-4
 lib32-libdrm 2.4.105-1
 lib32-libelf 0.183-3
-lib32-libepoxy 1.5.5-1
+lib32-libepoxy 1.5.7-1
 lib32-libffi 3.3-2
 lib32-libgcrypt 1.9.3-1
 lib32-libglvnd 1.3.2-1
@@ -741,7 +741,7 @@ lib32-libpng 1.6.37-3
 lib32-libproxy 0.4.17-1
 lib32-libpsl 0.21.1-1
 lib32-libpulse 14.2-2
-lib32-librsvg 2.50.4-1
+lib32-librsvg 2.50.5-1
 lib32-libsm 1.2.3-1
 lib32-libsndfile 1.0.31-1
 lib32-libsoup 2.72.0-1
@@ -878,7 +878,7 @@ libebml 1.4.2-1
 libebur128 1.2.6-1
 libedit 20210419_3.1-1
 libelf 0.183-3
-libepoxy 1.5.5-1
+libepoxy 1.5.7-1
 libepubgen 0.1.1-2
 libetonyek 0.1.9-2
 libev 4.33-1
@@ -925,7 +925,7 @@ libime 1.0.6-1
 libimobiledevice 1.3.0-3
 libindicator-gtk3 12.10.1-9
 libinih 53-1
-libinput 1.17.2-1
+libinput 1.17.2-2
 libinput-gestures 2.62-1
 libinput_gestures_qt 0.3.2+7+g0868859-1
 libinstpatch 1.1.6-1
@@ -982,7 +982,7 @@ libmtp 1.1.18-1
 libmusicbrainz5 5.1.0-4
 libmwaw 0.3.18-1
 libmypaint 1.6.1-1
-libnautilus-extension 40.0-1
+libnautilus-extension 40.1-1
 libndp 1.7-2
 libnet 1:1.1.6-1
 libnetfilter_conntrack 1.0.8-1
@@ -1038,7 +1038,7 @@ libreoffice-fresh 7.1.2-3
 librevenge 0.0.4-3
 librime 1:1.7.3-1
 librime-data 0.0.0.20210208-1
-librsvg 2:2.50.4-1
+librsvg 2:2.50.5-1
 libsamplerate 0.2.1-1
 libsasl 2.1.27-3
 libseccomp 2.5.1-2
@@ -1231,7 +1231,7 @@ mtdev 1.1.6-1
 mujs 1.1.2-1
 mypaint-brushes1 1.3.1-1
 nano 5.6.1-1
-nautilus 40.0-1
+nautilus 40.1-1
 ncurses 6.2-1
 ndctl 71.1-1
 neofetch 7.1.0-2
@@ -1846,8 +1846,8 @@ vkd3d 1.2-1
 vlc 3.0.12-5
 vmaf 1.5.3-1
 volume_key 0.3.12-5
-vte-common 0.64.0-2
-vte3 0.64.0-2
+vte-common 0.64.1-1
+vte3 0.64.1-1
 vtk 8.2.0-18
 vulkan-headers 1:1.2.177-1
 vulkan-icd-loader 1.2.176-1
