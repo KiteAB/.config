@@ -13,7 +13,7 @@ adobe-source-code-pro-fonts 2.038ro+1.058it+1.018var-1
 adobe-source-han-mono-cn-fonts 1.002-6
 adobe-source-han-sans-cn-fonts 2.003-1
 adobe-source-han-serif-cn-fonts 1.001-4
-adwaita-icon-theme 40.0-1
+adwaita-icon-theme 40.1-1
 aegisub 3.2.2-45
 akonadi 21.04.0-1
 akonadi-calendar 21.04.0-1
@@ -34,7 +34,7 @@ alsa-topology-conf 1.2.4-2
 alsa-ucm-conf 1.2.4-2
 alsa-utils 1.2.4-2
 amd-ucode 20210315.3568f96-2
-amdvlk 2021.Q2.1-1
+amdvlk 2021.Q2.2-1
 amtk 5.3.1-1
 analitza 21.04.0-1
 android-tools 31.0.0-2
@@ -142,7 +142,7 @@ colord 1.4.5-1
 com.qq.im.deepin 9.3.2-14
 compiler-rt 11.1.0-1
 confuse 3.3-3
-containerd 1.4.4-1
+containerd 1.5.0-1
 convertlit 1.8-10
 coordgen 2.0.3-1
 coreutils 8.32-1
@@ -161,6 +161,7 @@ dbus-glib 0.112-1
 dbus-python 1.2.16-4
 dconf 0.40.0-1
 ddcutil 1.1.0-1
+debtap 3.4.2-1
 deepin-udis86 1.72_2-3
 deepin-wine-helper 5.1.13-1
 deepin-wine-plugin 5.1.13-1
@@ -213,7 +214,7 @@ elisa 21.04.0-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148106-1
+emacs-git 28.0.50.148139-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-2
@@ -241,7 +242,7 @@ fcitx5-qt 5.0.5-1
 fcitx5-rime 5.0.5-1
 fd 8.2.1-1
 feh 3.6.3-1
-ffmpeg 2:4.4-1
+ffmpeg 2:4.4-2
 ffmpegthumbs 21.04.0-1
 ffms2 2.40-1
 fftw 3.3.9-1
@@ -286,7 +287,7 @@ gdl 3.34.0-2
 gedit 40.1-1
 gegl 0.4.30-2
 geoip 1.6.12-2
-geoip-database 20210323-1
+geoip-database 20210427-1
 gettext 0.21-1
 ghostpcl 9.54.0-2
 ghostscript 9.54.0-2
@@ -295,7 +296,7 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.24-3
 git 2.31.1-1
-git-delta-git 0.7.1.20210430-1
+git-delta-git 0.7.1.20210503-1
 github-cli 1.9.2-1
 glew 2.2.0-2
 glfw-wayland 3.3.4-1
@@ -309,7 +310,7 @@ glu 9.0.1-2
 gmp 6.2.1-1
 gn-m85 0.1792.7d7e8dee-1
 gnome-autoar 0.3.2-1
-gnome-desktop 1:40.0-1
+gnome-desktop 1:40.1-1
 gnome-icon-theme 3.12.0-6
 gnome-icon-theme-symbolic 3.12.0-6
 gnome-video-effects 0.5.0+4+g9554041-2
@@ -345,8 +346,8 @@ gsm 1.0.19-1
 gspell 1.8.4-1
 gssdp 1.2.3-1
 gst-libav 1.18.4-1
-gst-plugins-bad 1.18.4-5
-gst-plugins-bad-libs 1.18.4-5
+gst-plugins-bad 1.18.4-6
+gst-plugins-bad-libs 1.18.4-6
 gst-plugins-base 1.18.4-1
 gst-plugins-base-libs 1.18.4-1
 gst-plugins-good 1.18.4-2
@@ -378,7 +379,7 @@ hidapi 0.10.1-1
 hmcl 3.3.172-1
 htop 3.0.5-1
 http-parser 2.9.4-1
-hugo 0.82.0-1
+hugo 0.83.1-1
 hunspell 1.7.0-3
 hwids 20201207-1
 hwloc 2.4.1-1
@@ -395,11 +396,11 @@ imath 3.0.1-1
 imlib2 1.7.1-1
 incidenceeditor 21.04.0-1
 iniparser 4.1-3
-inkscape 1.0.2-5
+inkscape 1.0.2-6
 iproute2 5.12.0-1
 iptables 1:1.8.7-1
 iputils 20210202-1
-ipython 7.22.0-1
+ipython 7.23.0-1
 iso-codes 4.6.0-1
 itinerary 21.04.0-1
 iw 5.9-1
@@ -487,7 +488,7 @@ kdegraphics-mobipocket 21.04.0-1
 kdegraphics-thumbnailers 21.04.0-1
 kdelibs4support 5.81.0-1
 kdenetwork-filesharing 21.04.0-1
-kdenlive 21.04.0-1
+kdenlive 21.04.0-2
 kdepim-addons 21.04.0-1
 kdepim-runtime 21.04.0-1
 kdeplasma-addons 5.21.4-1
@@ -546,7 +547,7 @@ kiriki 21.04.0-1
 kitemmodels 5.81.0-1
 kitemviews 5.81.0-1
 kiten 21.04.0-1
-kitinerary 21.04.0-1
+kitinerary 21.04.0-2
 kjobwidgets 5.81.0-1
 kjs 5.81.0-1
 kjumpingcube 21.04.0-1
@@ -654,7 +655,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.1-1
-latte-dock-git 0.9.11.r5349.73382d4d-1
+latte-dock-git 0.9.11.r5391.d84c5152-1
 lazydocker 0.12-1
 lcms2 2.12-1
 ldb 1:2.3.0-1
@@ -666,7 +667,7 @@ lf 22-1
 lib32-acl 2.3.1-1
 lib32-alsa-lib 1.2.4-2
 lib32-alsa-plugins 1.2.2-1
-lib32-amdvlk 2021.Q2.1-1
+lib32-amdvlk 2021.Q2.2-1
 lib32-at-spi2-atk 2.38.0-1
 lib32-at-spi2-core 2.40.0-1
 lib32-atk 2.36.0-2
@@ -755,7 +756,7 @@ lib32-libunistring 0.9.10-1
 lib32-libunwind 1.5.0-1
 lib32-libusb 1.0.24-1
 lib32-libva 2.11.0-1
-lib32-libva-mesa-driver 21.0.3-2
+lib32-libva-mesa-driver 21.0.3-3
 lib32-libvorbis 1.3.7-1
 lib32-libx11 1.7.0-1
 lib32-libxau 1.0.9-1
@@ -784,8 +785,8 @@ lib32-llvm 11.1.0-1
 lib32-llvm-libs 11.1.0-1
 lib32-lm_sensors 1:3.6.0.r41.g31d1f125-1
 lib32-lz4 1.9.3-1
-lib32-mesa 21.0.3-2
-lib32-mesa-vdpau 21.0.3-2
+lib32-mesa 21.0.3-3
+lib32-mesa-vdpau 21.0.3-3
 lib32-mpg123 1.26.5-1
 lib32-ncurses 6.2-1
 lib32-nettle 3.7.2-1
@@ -793,7 +794,7 @@ lib32-nspr 4.30-1
 lib32-nss 3.64-1
 lib32-ocl-icd 2.2.14-1
 lib32-openal 1.21.1-1
-lib32-opencl-mesa 21.0.3-2
+lib32-opencl-mesa 21.0.3-3
 lib32-openssl 1:1.1.1.k-1
 lib32-opus 1.3.1-1
 lib32-orc 0.4.32-1
@@ -813,7 +814,7 @@ lib32-util-linux 2.36.2-1
 lib32-v4l-utils 1.20.0-1
 lib32-vkd3d 1.2-2
 lib32-vulkan-icd-loader 1.2.176-1
-lib32-vulkan-radeon 21.0.3-2
+lib32-vulkan-radeon 21.0.3-3
 lib32-wayland 1.19.0-1
 lib32-x264 3:0.161.r3039.544c61f-2
 lib32-xz 5.2.5-2
@@ -887,7 +888,7 @@ libevent 2.1.12-1
 libexif 0.6.22-1
 libexttextcat 3.4.5-2
 libfakekey 0.3-2
-libfdk-aac 2.0.1-2
+libfdk-aac 2.0.2-1
 libffi 3.3-4
 libfontenc 1.1.4-3
 libfreehand 0.1.2-3
@@ -954,7 +955,7 @@ libksysguard 5.21.4-1
 libktorrent 21.04.0-1
 liblangtag 0.6.3-2
 libldac 2.0.2.3-1
-libldap 2.4.58-1
+libldap 2.4.58-2
 liblouis 3.17.0-1
 liblqr 0.4.2-3
 liblrdf 0.6.1-4
@@ -1034,7 +1035,7 @@ libqxp 0.0.2-6
 libraqm 0.7.1-1
 libraw 0.20.2-1
 libraw1394 2.1.2-3
-libreoffice-fresh 7.1.2-3
+libreoffice-fresh 7.1.2-4
 librevenge 0.0.4-3
 librime 1:1.7.3-1
 librime-data 0.0.0.20210208-1
@@ -1084,7 +1085,7 @@ libusbmuxd 2.0.2-1
 libutempter 1.2.1-1
 libuv 1.41.0-1
 libva 2.11.0-1
-libva-mesa-driver 21.0.3-2
+libva-mesa-driver 21.0.3-3
 libvdpau 1.4-1
 libvirt 1:7.1.0-3
 libvisio 0.1.7-5
@@ -1118,8 +1119,8 @@ libxfont2 2.0.4-3
 libxft 2.3.3-2
 libxi 1.7.10-3
 libxinerama 1.1.4-3
-libxkbcommon 1.2.1-1
-libxkbcommon-x11 1.2.1-1
+libxkbcommon 1.3.0-1
+libxkbcommon-x11 1.3.0-1
 libxkbfile 1.1.0-2
 libxklavier 5.4-3
 libxml2 2.9.10-9
@@ -1202,9 +1203,9 @@ mbox-importer 21.04.0-1
 md4c 0.4.7-1
 mdadm 4.1-2
 media-player-info 24-2
-mesa 21.0.3-2
+mesa 21.0.3-3
 mesa-demos 8.4.0-4
-mesa-vdpau 21.0.3-2
+mesa-vdpau 21.0.3-3
 messagelib 21.04.0-2
 metis 5.1.0.p10-2
 milou 5.21.4-1
@@ -1213,7 +1214,8 @@ minuet 21.04.0-1
 mjpegtools 2.2.0beta-1
 mkinitcpio 30-1
 mkinitcpio-busybox 1.32.1-3
-mlt 6.26.1-1
+mlt 7.0.0-2
+mlt6 6.26.1-1
 mobile-broadband-provider-info 20201225-1
 modemmanager 1.16.4-1
 modemmanager-qt 5.81.0-1
@@ -1230,9 +1232,9 @@ msgpack-c 3.3.0-2
 mtdev 1.1.6-1
 mujs 1.1.2-1
 mypaint-brushes1 1.3.1-1
-nano 5.6.1-1
+nano 5.7-1
 nautilus 40.1-1
-ncurses 6.2-1
+ncurses 6.2-2
 ndctl 71.1-1
 neofetch 7.1.0-2
 neon 0.31.2-1
@@ -1320,7 +1322,7 @@ openal 1.21.1-1
 openbabel 3.1.1-2
 opencc 1.1.2-1
 opencl-headers 2:2020.12.18-1
-opencl-mesa 21.0.3-2
+opencl-mesa 21.0.3-3
 opencollada 1:1.6.68-2
 opencolorio1 1.1.1-2
 opencore-amr 0.1.5-5
@@ -1416,10 +1418,10 @@ plasma-workspace-wallpapers 5.21.4-1
 polkit 0.118-1
 polkit-kde-agent 5.21.4-1
 polkit-qt5 0.113.0-2
-poppler 21.04.0-2
+poppler 21.05.0-1
 poppler-data 0.4.10-1
-poppler-glib 21.04.0-2
-poppler-qt5 21.04.0-2
+poppler-glib 21.05.0-1
+poppler-qt5 21.05.0-1
 popt 1.18-1
 portaudio 1:19.7.0-1
 portsmf 234-2
@@ -1431,7 +1433,7 @@ print-manager 21.04.0-1
 prison 5.81.0-1
 procps-ng 3.3.17-1
 protobuf 3.15.8-1
-proton 5.13.4-2
+proton 6.3.2-2
 psmisc 23.4-1
 psutils 2.05-1
 ptex 2.3.2-2
@@ -1488,6 +1490,7 @@ python-language-server 0.36.2-5
 python-lxml 4.6.3-1
 python-markdown 3.3.4-1
 python-markupsafe 1.1.1-7
+python-matplotlib-inline 0.1.2-1
 python-msgpack 1.0.2-2
 python-numpy 1.20.2-1
 python-ordered-set 4.0.2-3
@@ -1506,7 +1509,7 @@ python-prompt_toolkit 3.0.18-1
 python-psutil 5.8.0-1
 python-ptyprocess 0.7.0-1
 python-pycparser 2.20-3
-python-pygments 2.8.1-1
+python-pygments 2.9.0-1
 python-pyhamcrest 1.10.0-1
 python-pyinotify 0.9.6-9
 python-pyopenssl 20.0.1-1
@@ -1590,7 +1593,7 @@ qpdf 10.3.1-1
 qqc2-desktop-style 5.81.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
-qt5-base 5.15.2+kde+r188-1
+qt5-base 5.15.2+kde+r192-1
 qt5-declarative 5.15.2+kde+r24-1
 qt5-graphicaleffects 5.15.2-1
 qt5-imageformats 5.15.2-1
@@ -1614,6 +1617,7 @@ qtermwidget 0.17.0-1
 qtkeychain-qt5 0.12.0-1
 qv2ray 2.6.3-24
 qv2ray-plugin-trojan 2.0.0-7
+qv2ray-plugin-trojan-go-git 20201115.r28.7a0c3c9-1
 radeontool 1.6.3-4
 rainbarf-git 20140404-1
 ranger 1.9.3-3
@@ -1724,7 +1728,7 @@ spice 0.14.3-3
 spirv-tools 2020.7-1
 sqlite 3.35.5-1
 sratom 0.6.8-1
-srt 1.4.2-1
+srt 1.4.3-1
 startup-notification 0.12-7
 steam 1.0.0.70-1
 step 21.04.0-1
@@ -1780,7 +1784,7 @@ thin-provisioning-tools 0.9.0-1
 threadweaver 5.81.0-1
 tigervnc 1.11.0-6
 tinyxml 2.6.2-7
-tldr 1.2.0-1
+tldr 1.2.1-1
 tlp 1.3.1-2
 tlp-rdw 1.3.1-2
 tlpui-git 2:1.3.1.2.r0.g053a477-1
@@ -1789,6 +1793,8 @@ totem-pl-parser 3.26.5-1
 tracker3 3.1.1-2
 tracker3-miners 3.1.1-2
 trash-cli 0.17.1.14-6
+trojan 1.16.0-3
+trojan-go-git 0.9.1.r0.g2c58592-2
 tslib 1.22-1
 ttf-dejavu 2.37+18+g9b5d1b2f-3
 ttf-droid 20121017-10
@@ -1802,7 +1808,7 @@ ttf-monaco 6.1-6
 ttf-ms-fonts 2.0-12
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-4
 ttf-opensans 1.101-2
-ttf-sarasa-gothic 0.31.0-1
+ttf-sarasa-gothic 0.31.1-1
 ttf-symbola 13.00-10
 ttf-twemoji-color 13.0.1-1
 ttf-ubuntu-font-family 0.83-7
@@ -1824,9 +1830,10 @@ usbredir 0.9.0-1
 usbutils 013-1
 util-linux 2.36.2-1
 util-linux-libs 2.36.2-1
+utools 1.3.5-1
 v2ray 4.38.3-1
-v2ray-domain-list-community 20210430100800-1
-v2ray-geoip 202104300531-1
+v2ray-domain-list-community 20210503063650-1
+v2ray-geoip 202105030225-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.7.2-2
 v4l2loopback-dkms 0.12.5-1
@@ -1834,7 +1841,7 @@ vala 0.52.3-1
 vamp-plugin-sdk 2.10.0-1
 vde2 2.3.2-16
 vdpauinfo 1.4-1
-ventoy-bin 1.0.42-1
+ventoy-bin 1.0.42-2
 vi 1:070224-4
 vid.stab 1.1-3
 vim 8.2.2815-1
@@ -1844,7 +1851,7 @@ virtualbox 6.1.22-1
 virtualbox-host-modules-arch 6.1.22-1
 visual-studio-code-bin 1.55.2-1
 vkd3d 1.2-1
-vlc 3.0.12-5
+vlc 3.0.12-6
 vmaf 1.5.3-1
 volume_key 0.3.12-5
 vte-common 0.64.1-1
@@ -1852,12 +1859,12 @@ vte3 0.64.1-1
 vtk 8.2.0-18
 vulkan-headers 1:1.2.177-1
 vulkan-icd-loader 1.2.176-1
-vulkan-radeon 21.0.3-2
+vulkan-radeon 21.0.3-3
 vulkan-tools 1.2.172-1
 w3m 0.5.3.git20200507-2
 wavpack 5.4.0-1
 wayland 1.19.0-1
-wayland-protocols 1.20-1
+wayland-protocols 1.21-1
 webkit2gtk 2.32.0-2
 webp-pixbuf-loader 0.0.3-1
 webrtc-audio-processing 0.3.1-2
