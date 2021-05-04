@@ -4,6 +4,7 @@
 !/i3/
 !/polybar/
 !/ranger/
+ranger/__pycache__/
 ranger/plugins/__pycache__/*
 ranger/colorschemes/__pycache__/*
 ranger/folders.conf
