@@ -38,7 +38,7 @@ amdvlk 2021.Q2.2-1
 amtk 5.3.1-1
 analitza 21.04.0-1
 android-tools 31.0.0-2
-aom 3.0.0-2
+aom 3.1.0-1
 apache 2.4.46-3
 appstream 0.14.3-1
 appstream-qt 0.14.3-1
@@ -353,10 +353,10 @@ gst-plugins-base-libs 1.18.4-1
 gst-plugins-good 1.18.4-2
 gstreamer 1.18.4-1
 gtk-doc 1.33.2-1
-gtk-update-icon-cache 1:4.2.0-5
+gtk-update-icon-cache 1:4.2.1-1
 gtk2 2.24.33-2
 gtk3 1:3.24.29-1
-gtk4 1:4.2.0-5
+gtk4 1:4.2.1-1
 gtkmm3 3.24.4-1
 gtksourceview4 4.8.1-1
 gtkspell3 3.0.10-2
@@ -370,8 +370,8 @@ gupnp-igd 1.2.0-1
 gvfs 1.48.1-1
 gwenview 21.04.0-1
 gzip 1.10-3
-harfbuzz 2.8.0-3
-harfbuzz-icu 2.8.0-3
+harfbuzz 2.8.1-1
+harfbuzz-icu 2.8.1-1
 hdf5 1.12.0-2
 hdparm 9.60-1
 hicolor-icon-theme 0.17-2
@@ -655,7 +655,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.1-1
-latte-dock-git 0.9.11.r5391.d84c5152-1
+latte-dock-git 0.9.11.r5392.4d345a54-1
 lazydocker 0.12-1
 lcms2 2.12-1
 ldb 1:2.3.0-1
@@ -701,7 +701,7 @@ lib32-gst-plugins-base-libs 1.18.4-1
 lib32-gstreamer 1.18.4-1
 lib32-gtk2 2.24.33-1
 lib32-gtk3 3.24.27-2
-lib32-harfbuzz 2.8.0-3
+lib32-harfbuzz 2.8.1-1
 lib32-icu 69.1-1
 lib32-json-glib 1.6.2-1
 lib32-keyutils 1.6.3-1
@@ -1299,7 +1299,7 @@ nginx 1.20.0-1
 ninja 1.10.2-1
 nm-connection-editor 1.20.0-2
 nmap 7.91-1
-node-gyp 7.1.2-1
+node-gyp 8.0.0-1
 nodejs 16.0.0-1
 noto-fonts 20201226-2
 noto-fonts-cjk 20201206-2
@@ -1802,7 +1802,7 @@ ttf-hack 3.003-3
 ttf-inconsolata 1:3.000-3
 ttf-jetbrains-mono 2.225-1
 ttf-joypixels 6.5.0-1
-ttf-liberation 2.1.3-1
+ttf-liberation 2.1.4-1
 ttf-linux-libertine 5.3.0-7
 ttf-monaco 6.1-6
 ttf-ms-fonts 2.0-12
@@ -1832,7 +1832,7 @@ util-linux 2.36.2-1
 util-linux-libs 2.36.2-1
 utools 1.3.5-1
 v2ray 4.38.3-1
-v2ray-domain-list-community 20210503063650-1
+v2ray-domain-list-community 20210503160945-1
 v2ray-geoip 202105030225-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.7.2-2
