@@ -81,7 +81,7 @@ base 2-2
 bash 5.1.008-1
 bash-language-server 1.17.0-4
 bashtop 0.9.25-1
-bat 0.18.0-2
+bat 0.18.1-1
 bc 1.07.1-4
 bilibili-live-helper-bin 2.2.2-1
 binutils 2.36.1-2
@@ -106,7 +106,7 @@ breeze-icons 5.82.0-1
 bridge-utils 1.7.1-1
 brltty 6.3-2
 brotli 1.0.9-4
-btrfs-progs 5.12-2
+btrfs-progs 5.12.1-1
 bubblewrap 0.4.1-2
 bzip2 1.0.8-4
 c-ares 1.17.1-1
@@ -211,12 +211,12 @@ electron-netease-cloud-music 0.9.27-1
 electron9 9.4.4-1
 electronic-wechat 2.3.1-2
 elementary-icon-theme 5.3.1-1
-elfutils 0.183-3
+elfutils 0.184-1
 elisa 21.04.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148312-1
+emacs-git 28.0.50.148314-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-2
@@ -226,7 +226,7 @@ exempi 2.5.2-1
 exfat-utils 1.3.0-2
 exiv2 0.27.3-1
 expat 2.3.0-1
-extra-cmake-modules 5.82.0-1
+extra-cmake-modules 5.82.0-2
 faac 1.30-2
 faad2 2.10.0-1
 fakeroot 1.25.3-2
@@ -658,7 +658,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.1-1
-latte-dock-git 0.9.11.r5431.76549a9f-1
+latte-dock-git 0.9.11.r5433.53aad2f9-1
 lazydocker 0.12-1
 lcms2 2.12-1
 ldb 1:2.3.0-1
@@ -721,7 +721,7 @@ lib32-libdatrie 0.2.13-1
 lib32-libdbusmenu-glib 16.04.0-4
 lib32-libdbusmenu-gtk3 16.04.0-4
 lib32-libdrm 2.4.105-1
-lib32-libelf 0.183-3
+lib32-libelf 0.184-1
 lib32-libepoxy 1.5.7-1
 lib32-libffi 3.3-2
 lib32-libgcrypt 1.9.3-1
@@ -881,7 +881,7 @@ libe-book 0.1.3-9
 libebml 1.4.2-1
 libebur128 1.2.6-1
 libedit 20210419_3.1-1
-libelf 0.183-3
+libelf 0.184-1
 libepoxy 1.5.7-1
 libepubgen 0.1.1-2
 libetonyek 0.1.9-2
@@ -1218,7 +1218,7 @@ mjpegtools 2.2.0-1
 mkinitcpio 30-1
 mkinitcpio-busybox 1.32.1-3
 mlt 7.0.0-4
-mlt6 6.26.1-3
+mlt6 6.26.1-4
 mobile-broadband-provider-info 20201225-1
 modemmanager 1.16.4-1
 modemmanager-qt 5.82.0-1
@@ -1309,7 +1309,7 @@ noto-fonts-cjk 20201206-2
 noto-fonts-emoji 20200916-1
 noto-fonts-emoji-blob 20190614-2
 noto-fonts-extra 20201226-2
-npm 7.12.1-1
+npm 7.13.0-1
 npth 1.6-3
 nspr 4.30-1
 nss 3.64-1
@@ -1380,7 +1380,7 @@ perl-html-tagset 3.20-10
 perl-http-cookies 6.10-1
 perl-http-daemon 6.06-2
 perl-http-date 6.05-3
-perl-http-message 6.29-1
+perl-http-message 6.30-1
 perl-http-negotiate 6.01-8
 perl-io-html 1.004-1
 perl-ipc-run3 0.048-8
@@ -1436,7 +1436,7 @@ print-manager 21.04.1-1
 prison 5.82.0-1
 procps-ng 3.3.17-1
 protobuf 3.16.0-1
-proton 6.3.3-1
+proton 6.3.4-1
 psmisc 23.4-1
 psutils 2.05-1
 ptex 2.3.2-2
@@ -1635,7 +1635,7 @@ recode 3.7.8-1
 recordmydesktop 0.4.0-1
 redland 1:1.0.17-8
 reflector 2021.4-1
-remmina 1:1.4.14-1
+remmina 1:1.4.16-1
 rest 0.8.1-3
 rhash 1.4.1-1
 rime-bopomofo 0.0.0.20210131-1
@@ -1735,11 +1735,11 @@ srt 1.4.3-1
 startup-notification 0.12-7
 steam 1.0.0.70-1
 step 21.04.1-1
-sudo 1.9.6.p1-1
+sudo 1.9.7-1
 suil 0.10.10-1
 suitesparse 5.9.0-1
 svgpart 21.04.1-1
-svt-av1 0.8.6-3
+svt-av1 0.8.7-1
 svt-hevc 1.5.0-1
 sweeper 21.04.1-1
 syndication 5.82.0-1
@@ -1852,7 +1852,7 @@ vim-runtime 8.2.2845-1
 virglrenderer 0.9.1-1
 virtualbox 6.1.22-2
 virtualbox-host-modules-arch 6.1.22-5
-visual-studio-code-bin 1.56.1-1
+visual-studio-code-bin 1.56.2-1
 vkd3d 1.2-1
 vlc 3.0.14-1
 vmaf 1.5.3-1
@@ -1874,7 +1874,7 @@ webrtc-audio-processing 0.3.1-2
 wget 1.21.1-1
 which 2.21-5
 wildmidi 0.4.4-1
-wine-valve 6.3.20210512-1
+wine-valve 6.3.20210514-1
 winetricks 20210206-1
 wmctrl 1.07-6
 woff2 1.0.2-3
