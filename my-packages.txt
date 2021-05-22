@@ -61,7 +61,7 @@ aspell 0.60.8-2
 at-spi2-atk 2.38.0-1
 at-spi2-core 2.40.1-1
 atk 2.36.0-1
-atkmm 2.28.1-1
+atkmm 2.28.2-1
 atop 2.6.0-3
 attica 5.82.0-1
 attr 2.5.1-1
@@ -115,7 +115,7 @@ ca-certificates-mozilla 3.65-1
 ca-certificates-utils 20181109-4
 cabextract 1.9.1-2
 cairo 1.17.4-5
-cairomm 1.12.2-4
+cairomm 1.14.3-1
 calendarsupport 21.04.1-1
 cantarell-fonts 1:0.301-1
 cantor 21.04.1-1
@@ -216,7 +216,7 @@ elisa 21.04.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148416-2
+emacs-git 28.0.50.148425-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-2
@@ -360,7 +360,7 @@ gtk-update-icon-cache 1:4.2.1-1
 gtk2 2.24.33-2
 gtk3 1:3.24.29-1
 gtk4 1:4.2.1-1
-gtkmm3 3.24.4-1
+gtkmm3 3.24.5-1
 gtksourceview4 4.8.1-1
 gtkspell3 3.0.10-2
 gtop 1.1.0-1
@@ -569,7 +569,7 @@ kmenuedit 5.21.5-1
 kmime 21.04.1-1
 kmines 21.04.1-1
 kmix 21.04.1-1
-kmod 28-1
+kmod 29-1
 kmousetool 21.04.1-1
 kmouth 21.04.1-1
 kmplot 21.04.1-1
@@ -658,7 +658,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.1-1
-latte-dock-git 0.9.12.r5456.6634b8ff-1
+latte-dock-git 0.9.12.r5466.e8cc5603-1
 lazydocker 0.12-1
 lcms2 2.12-1
 ldb 1:2.3.0-1
@@ -722,7 +722,7 @@ lib32-libdbusmenu-glib 16.04.0-4
 lib32-libdbusmenu-gtk3 16.04.0-4
 lib32-libdrm 2.4.105-1
 lib32-libelf 0.184-1
-lib32-libepoxy 1.5.7-1
+lib32-libepoxy 1.5.8-1
 lib32-libffi 3.3-2
 lib32-libgcrypt 1.9.3-1
 lib32-libglvnd 1.3.3-1
@@ -882,7 +882,7 @@ libebml 1.4.2-1
 libebur128 1.2.6-1
 libedit 20210419_3.1-1
 libelf 0.184-1
-libepoxy 1.5.7-1
+libepoxy 1.5.8-1
 libepubgen 0.1.1-2
 libetonyek 0.1.9-2
 libev 4.33-1
@@ -1358,7 +1358,7 @@ palapeli 21.04.1-1
 pam 1.5.1-1
 pambase 20200721.1-2
 pango 1:1.48.5-1
-pangomm 2.46.0-1
+pangomm 2.46.1-1
 paper 2.3-2
 parley 21.04.1-1
 parted 3.4-2
@@ -1459,7 +1459,7 @@ python-cachecontrol 0.12.6-3
 python-cairo 1.20.0-3
 python-cffi 1.14.5-1
 python-chardet 4.0.0-2
-python-click 8.0.0-2
+python-click 8.0.1-1
 python-colorama 0.4.4-3
 python-constantly 15.1.0-9
 python-contextlib2 0.6.0.post1-3
@@ -1596,7 +1596,7 @@ qpdf 10.3.2-1
 qqc2-desktop-style 5.82.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
-qt5-base 5.15.2+kde+r193-1
+qt5-base 5.15.2+kde+r194-1
 qt5-declarative 5.15.2+kde+r24-1
 qt5-graphicaleffects 5.15.2-1
 qt5-imageformats 5.15.2-1
@@ -1610,7 +1610,7 @@ qt5-sensors 5.15.2-1
 qt5-speech 5.15.2-1
 qt5-svg 5.15.2+kde+r7-1
 qt5-tools 5.15.2+kde+r17-1
-qt5-wayland 5.15.2+kde+r22-1
+qt5-wayland 5.15.2+kde+r23-1
 qt5-webchannel 5.15.2-1
 qt5-webengine 5.15.3-5
 qt5-webkit 5.212.0alpha4-10
@@ -1835,7 +1835,7 @@ util-linux 2.36.2-1
 util-linux-libs 2.36.2-1
 utools 1.3.5-1
 v2ray 4.38.3-1
-v2ray-domain-list-community 20210519075125-1
+v2ray-domain-list-community 20210521164504-1
 v2ray-geoip 202105200028-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.7.2-2
@@ -1874,7 +1874,7 @@ webrtc-audio-processing 0.3.1-2
 wget 1.21.1-1
 which 2.21-5
 wildmidi 0.4.4-1
-wine-valve 6.3.20210517-1
+wine-valve 6.3.20210521b-1
 winetricks 20210206-1
 wmctrl 1.07-6
 woff2 1.0.2-3
@@ -2003,6 +2003,6 @@ zita-alsa-pcmi 0.3.2-3
 zita-resampler 1.8.0-1
 zlib 1:1.2.11-4
 zsh 5.8-1
-zstd 1.4.9-1
+zstd 1.5.0-1
 zvbi 0.2.35-4
 zxing-cpp 1.1.1-1
