@@ -5,7 +5,7 @@ accountsservice 0.6.55-3
 acl 2.3.1-1
 acorn 1:8.2.4-1
 acpi 1.7-3
-acpi_call 1.2.1-59
+acpi_call 1.2.1-60
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-1
@@ -216,7 +216,7 @@ elisa 21.04.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148438-2
+emacs-git 28.0.50.148441-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-2
@@ -660,7 +660,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.1-1
-latte-dock-git 0.9.12.r5471.4a7174e7-1
+latte-dock-git 0.9.12.r5474.a03dca9d-1
 lazydocker 0.12-1
 lcms2 2.12-1
 ldb 1:2.3.0-1
@@ -761,7 +761,7 @@ lib32-libunistring 0.9.10-1
 lib32-libunwind 1.5.0-1
 lib32-libusb 1.0.24-1
 lib32-libva 2.11.0-1
-lib32-libva-mesa-driver 21.1.0-1
+lib32-libva-mesa-driver 21.1.1-1
 lib32-libvorbis 1.3.7-1
 lib32-libx11 1.7.1-1
 lib32-libxau 1.0.9-1
@@ -790,8 +790,8 @@ lib32-llvm 11.1.0-1
 lib32-llvm-libs 11.1.0-1
 lib32-lm_sensors 1:3.6.0.r41.g31d1f125-1
 lib32-lz4 1.9.3-1
-lib32-mesa 21.1.0-1
-lib32-mesa-vdpau 21.1.0-1
+lib32-mesa 21.1.1-1
+lib32-mesa-vdpau 21.1.1-1
 lib32-mpg123 1.27.2-1
 lib32-ncurses 6.2-1
 lib32-nettle 3.7.2-1
@@ -799,7 +799,7 @@ lib32-nspr 4.30-1
 lib32-nss 3.65-1
 lib32-ocl-icd 2.2.14-1
 lib32-openal 1.21.1-1
-lib32-opencl-mesa 21.1.0-1
+lib32-opencl-mesa 21.1.1-1
 lib32-openssl 1:1.1.1.k-1
 lib32-opus 1.3.1-1
 lib32-orc 0.4.32-1
@@ -819,7 +819,7 @@ lib32-util-linux 2.36.2-1
 lib32-v4l-utils 1.20.0-1
 lib32-vkd3d 1.2-2
 lib32-vulkan-icd-loader 1.2.176-1
-lib32-vulkan-radeon 21.1.0-1
+lib32-vulkan-radeon 21.1.1-1
 lib32-wayland 1.19.0-1
 lib32-x264 3:0.161.r3039.544c61f-2
 lib32-xz 5.2.5-2
@@ -847,7 +847,7 @@ libbs2b 3.1.0-7
 libbsd 0.10.0-2
 libburn 1.5.4-1
 libbytesize 2.5-1
-libcaca 0.99.beta19-4
+libcaca 0.99.beta19-5
 libcacard 2.7.0-2
 libcanberra 0.30+2+gc0620e4-3
 libcanberra-pulse 0.30+2+gc0620e4-3
@@ -886,7 +886,7 @@ libedit 20210419_3.1-1
 libelf 0.184-1
 libepoxy 1.5.8-1
 libepubgen 0.1.1-2
-libetonyek 0.1.9-2
+libetonyek 0.1.10-1
 libev 4.33-1
 libevdev 1.11.0-1
 libevent 2.1.12-1
@@ -934,7 +934,7 @@ libimobiledevice 1.3.0-3
 libindicator-gtk3 12.10.1-9
 libinih 53-1
 libinput 1.17.2-2
-libinput-gestures 2.64-1
+libinput-gestures 2.66-1
 libinput_gestures_qt 0.3.2+7+g0868859-1
 libinstpatch 1.1.6-1
 libiptcdata 1.0.4-5
@@ -1092,7 +1092,7 @@ libusbmuxd 2.0.2-1
 libutempter 1.2.1-1
 libuv 1.41.0-1
 libva 2.11.0-1
-libva-mesa-driver 21.1.0-1
+libva-mesa-driver 21.1.1-1
 libvdpau 1.4-1
 libvirt 1:7.3.0-1
 libvisio 0.1.7-5
@@ -1153,10 +1153,10 @@ lightdm 1:1.30.0-4
 lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-5
 lilv 0.24.12-1
-linux 5.12.5.arch1-1
+linux 5.12.6.arch1-1
 linux-api-headers 5.12.3-1
 linux-firmware 20210511.7685cf4-1
-linux-headers 5.12.5.arch1-1
+linux-headers 5.12.6.arch1-1
 linuxqq 1:2.0.0_b2_1089-1
 lirc 1:0.10.1-8
 lld 11.1.0-1
@@ -1210,9 +1210,9 @@ mbox-importer 21.04.1-1
 md4c 0.4.8-1
 mdadm 4.1-2
 media-player-info 24-2
-mesa 21.1.0-1
+mesa 21.1.1-1
 mesa-demos 8.4.0-4
-mesa-vdpau 21.1.0-1
+mesa-vdpau 21.1.1-1
 meson 0.58.0-2
 messagelib 21.04.1-1
 metis 5.1.0.p10-2
@@ -1330,7 +1330,7 @@ openal 1.21.1-1
 openbabel 3.1.1-2
 opencc 1.1.2-1
 opencl-headers 2:2021.04.29-1
-opencl-mesa 21.1.0-1
+opencl-mesa 21.1.1-1
 opencollada 1:1.6.68-2
 opencolorio1 1.1.1-2
 opencore-amr 0.1.5-5
@@ -1602,7 +1602,7 @@ qqc2-desktop-style 5.82.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
 qt5-base 5.15.2+kde+r195-1
-qt5-declarative 5.15.2+kde+r24-1
+qt5-declarative 5.15.2+kde+r26-1
 qt5-graphicaleffects 5.15.2-1
 qt5-imageformats 5.15.2-1
 qt5-location 5.15.2-3
@@ -1840,7 +1840,7 @@ util-linux 2.36.2-1
 util-linux-libs 2.36.2-1
 utools 1.3.5-1
 v2ray 4.38.3-1
-v2ray-domain-list-community 20210523034918-1
+v2ray-domain-list-community 20210523144111-1
 v2ray-geoip 202105200028-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.7.2-2
@@ -1856,7 +1856,7 @@ vim 8.2.2859-1
 vim-runtime 8.2.2859-1
 virglrenderer 0.9.1-1
 virtualbox 6.1.22-2
-virtualbox-host-modules-arch 6.1.22-11
+virtualbox-host-modules-arch 6.1.22-12
 visual-studio-code-bin 1.56.2-1
 vkd3d 1.2-1
 vlc 3.0.14-1
@@ -1867,7 +1867,7 @@ vte3 0.64.1-1
 vtk 8.2.0-18
 vulkan-headers 1:1.2.178-1
 vulkan-icd-loader 1.2.176-1
-vulkan-radeon 21.1.0-1
+vulkan-radeon 21.1.1-1
 vulkan-tools 1.2.172-1
 w3m 0.5.3.git20210102_6-1
 wavpack 5.4.0-1
