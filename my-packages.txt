@@ -5,7 +5,7 @@ accountsservice 0.6.55-3
 acl 2.3.1-1
 acorn 1:8.2.4-1
 acpi 1.7-3
-acpi_call 1.2.1-60
+acpi_call 1.2.1-61
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-1
@@ -61,7 +61,7 @@ aspell 0.60.8-2
 at-spi2-atk 2.38.0-1
 at-spi2-core 2.40.1-1
 atk 2.36.0-1
-atkmm 2.28.2-1
+atkmm 2.28.2-2
 atop 2.6.0-3
 attica 5.82.0-1
 attr 2.5.1-1
@@ -115,7 +115,7 @@ ca-certificates-mozilla 3.65-1
 ca-certificates-utils 20181109-4
 cabextract 1.9.1-2
 cairo 1.17.4-5
-cairomm 1.14.3-1
+cairomm 1.14.3-2
 calendarsupport 21.04.1-1
 cantarell-fonts 1:0.301-1
 cantor 21.04.1-1
@@ -136,7 +136,7 @@ clucene 2.3.3.4-11
 clutter 1.26.4-1
 clutter-gst 3.0.27-3
 clutter-gtk 1.8.4-2
-cmake 3.20.2-1
+cmake 3.20.3-1
 cmatrix 2.0-2
 cogl 1.22.8-1
 colord 1.4.5-1
@@ -155,7 +155,7 @@ cryptsetup 2.3.5-4
 ctags 1:r20210106+g08b1c490-1
 cups 1:2.3.3op2-3
 cups-filters 1.28.8-1
-curl 7.76.1-1
+curl 7.77.0-1
 dav1d 0.9.0-1
 db 5.3.28-5
 dbus 1.12.20-1
@@ -216,7 +216,7 @@ elisa 21.04.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148466-2
+emacs-git 28.0.50.148495-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-2
@@ -225,7 +225,7 @@ eventviews 21.04.1-1
 exempi 2.5.2-1
 exfat-utils 1.3.0-2
 exiv2 0.27.3-1
-expat 2.4.0-1
+expat 2.4.1-1
 extra-cmake-modules 5.82.0-2
 faac 1.30-2
 faad2 2.10.0-1
@@ -301,7 +301,7 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.24-4
 git 2.31.1-1
-git-delta-git 0.7.1.20210526-1
+git-delta-git 0.7.1.20210527-1
 github-cli 1.10.3-1
 glew 2.2.0-2
 glfw-wayland 3.3.4-1
@@ -309,7 +309,7 @@ glib-networking 1:2.68.1-1
 glib2 2.68.2-1
 glib2-docs 2.68.2-1
 glibc 2.33-5
-glibmm 2.66.1-1
+glibmm 2.66.1-2
 glslang 11.4.0-1
 glu 9.0.1-2
 gmp 6.2.1-1
@@ -362,7 +362,7 @@ gtk-update-icon-cache 1:4.2.1-1
 gtk2 2.24.33-2
 gtk3 1:3.24.29-1
 gtk4 1:4.2.1-1
-gtkmm3 3.24.5-1
+gtkmm3 3.24.5-2
 gtksourceview4 4.8.1-1
 gtkspell3 3.0.10-2
 gtop 1.1.0-1
@@ -660,7 +660,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.1-1
-latte-dock-git 0.9.12.r5476.af32f8eb-1
+latte-dock-git 0.9.12.r5481.5d8afda2-1
 lazydocker 0.12-1
 lcms2 2.12-1
 ldb 1:2.3.0-1
@@ -682,11 +682,11 @@ lib32-bzip2 1.0.8-2
 lib32-cairo 1.17.4-5
 lib32-clang 11.1.0-1
 lib32-colord 1.4.5-2
-lib32-curl 7.76.1-1
+lib32-curl 7.77.0-1
 lib32-dbus 1.12.20-1
 lib32-dconf 0.40.0-1
 lib32-e2fsprogs 1.46.2-2
-lib32-expat 2.4.0-1
+lib32-expat 2.4.1-1
 lib32-faudio 21.05-1
 lib32-flac 1.3.3-1
 lib32-fontconfig 2:2.13.93-4
@@ -933,7 +933,7 @@ libime 1.0.7-1
 libimobiledevice 1.3.0-3
 libindicator-gtk3 12.10.1-9
 libinih 53-1
-libinput 1.17.2-2
+libinput 1.17.3-1
 libinput-gestures 2.67-1
 libinput_gestures_qt 0.3.2+7+g0868859-1
 libinstpatch 1.1.6-1
@@ -1052,7 +1052,7 @@ libsasl 2.1.27-3
 libseccomp 2.5.1-2
 libsecret 0.20.4-1
 libshout 1:2.4.5-1
-libsigc++ 2.10.7-1
+libsigc++ 2.10.7-2
 libsignon-glib 2.1-4
 libslirp 4.5.0-1
 libsm 1.2.3-2
@@ -1153,10 +1153,10 @@ lightdm 1:1.30.0-4
 lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-5
 lilv 0.24.12-1
-linux 5.12.6.arch1-1
+linux 5.12.7.arch1-1
 linux-api-headers 5.12.3-1
 linux-firmware 20210511.7685cf4-1
-linux-headers 5.12.6.arch1-1
+linux-headers 5.12.7.arch1-1
 linuxqq 1:2.0.0_b2_1089-1
 lirc 1:0.10.1-8
 lld 11.1.0-1
@@ -1314,7 +1314,7 @@ noto-fonts-cjk 20201206-2
 noto-fonts-emoji 20200916-1
 noto-fonts-emoji-blob 20190614-2
 noto-fonts-extra 20201226-2
-npm 7.14.0-1
+npm 7.15.0-1
 npth 1.6-3
 nspr 4.30-1
 nss 3.65-1
@@ -1363,7 +1363,7 @@ palapeli 21.04.1-1
 pam 1.5.1-1
 pambase 20200721.1-2
 pango 1:1.48.5-1
-pangomm 2.46.1-1
+pangomm 2.46.1-2
 paper 2.3-2
 parley 21.04.1-1
 parted 3.4-2
@@ -1448,7 +1448,7 @@ ptex 2.3.2-2
 pugixml 1.11.4-1
 pulseaudio 14.2-3
 pulseaudio-alsa 1:1.2.2-2
-pulseaudio-qt 1.2-2
+pulseaudio-qt 1.3-1
 purpose 5.82.0-1
 pybind11 2.6.2-2
 pyrit 0.5.0-5
@@ -1457,7 +1457,7 @@ python-anytree 2.8.0-3
 python-appdirs 1.4.4-3
 python-argcomplete 1.12.1-1
 python-asn1crypto 1.4.0-3
-python-attrs 20.3.0-3
+python-attrs 21.2.0-1
 python-automat 20.2.0-6
 python-backcall 0.2.0-3
 python-cachecontrol 0.12.6-3
@@ -1500,7 +1500,7 @@ python-markdown 3.3.4-1
 python-markupsafe 2.0.1-1
 python-matplotlib-inline 0.1.2-1
 python-msgpack 1.0.2-2
-python-numpy 1.20.2-1
+python-numpy 1.20.3-1
 python-ordered-set 4.0.2-3
 python-packaging 20.9-1
 python-parso 1:0.8.2-1
@@ -1533,7 +1533,7 @@ python-qtpy 1.9.0-5
 python-requests 2.25.1-1
 python-resolvelib 0.5.4-1
 python-retrying 1.3.3-9
-python-setuptools 1:56.1.0-1
+python-setuptools 1:56.2.0-1
 python-sexpdata 0.0.3-3
 python-sgmllib 5.2.1-9
 python-sip4 4.19.25-1
@@ -1802,7 +1802,7 @@ tracker3 3.1.1-2
 tracker3-miners 3.1.1-2
 trash-cli 0.17.1.14-6
 trojan 1.16.0-3
-trojan-go-git 0.10.2.r0.g08b303e-1
+trojan-go-git 0.10.2.r0.g08b303e-2
 tslib 1.22-1
 ttf-dejavu 2.37+18+g9b5d1b2f-3
 ttf-droid 20121017-10
@@ -1839,9 +1839,9 @@ usbutils 013-1
 util-linux 2.36.2-1
 util-linux-libs 2.36.2-1
 utools 1.3.5-1
-v2ray 4.38.3-1
-v2ray-domain-list-community 20210523144111-1
-v2ray-geoip 202105200028-1
+v2ray 4.39.2-1
+v2ray-domain-list-community 20210527065138-1
+v2ray-geoip 202105270041-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.7.2-2
 v4l2loopback-dkms 0.12.5-1
@@ -1856,7 +1856,7 @@ vim 8.2.2859-1
 vim-runtime 8.2.2859-1
 virglrenderer 0.9.1-1
 virtualbox 6.1.22-2
-virtualbox-host-modules-arch 6.1.22-12
+virtualbox-host-modules-arch 6.1.22-13
 visual-studio-code-bin 1.56.2-1
 vkd3d 1.2-1
 vlc 3.0.14-1
