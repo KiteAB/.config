@@ -5,7 +5,7 @@ accountsservice 0.6.55-3
 acl 2.3.1-1
 acorn 1:8.2.4-1
 acpi 1.7-3
-acpi_call 1.2.1-61
+acpi_call 1.2.1-62
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-1
@@ -112,7 +112,7 @@ bubblewrap 0.4.1-2
 bzip2 1.0.8-4
 c-ares 1.17.1-1
 ca-certificates 20181109-4
-ca-certificates-mozilla 3.65-1
+ca-certificates-mozilla 3.66-1
 ca-certificates-utils 20181109-4
 cabextract 1.9.1-2
 cairo 1.17.4-5
@@ -152,7 +152,7 @@ cowsay 3.04-2
 cpio 2.13-2
 cpupower 5.12-1
 cronie 1.5.7-2
-cryptsetup 2.3.5-4
+cryptsetup 2.3.6-1
 ctags 1:r20210106+g08b1c490-1
 cups 1:2.3.3op2-3
 cups-filters 1.28.8-1
@@ -174,7 +174,7 @@ deepin-wine5-i386 5.0.16-1
 deepin.com.qq.im.light 7.9.14308deepin8-4
 desktop-file-utils 0.26-1
 device-mapper 2.03.12-1
-dhcp 4.4.2-2
+dhcp 4.4.2.P1-1
 dhcpcd 9.4.0-1
 diffutils 3.7-3
 discord 0.0.15-1
@@ -217,7 +217,7 @@ elisa 21.04.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148500-1
+emacs-git 28.0.50.148520-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-2
@@ -238,7 +238,7 @@ fcitx5-chewing 5.0.5-1
 fcitx5-chinese-addons 5.0.6-1
 fcitx5-configtool 5.0.5-1
 fcitx5-gtk 5.0.7-1
-fcitx5-material-color 0.0.0.20201212-2
+fcitx5-material-color 0.2.1-1
 fcitx5-pinyin-moegirl 20210415-1
 fcitx5-pinyin-zhwiki 20210520-1
 fcitx5-qt 5.0.6-1
@@ -663,7 +663,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.1-1
-latte-dock-git 0.9.12.r5481.5d8afda2-1
+latte-dock-git 0.9.12.r5482.117e8e2d-1
 lazydocker 0.12-1
 lcms2 2.12-1
 ldb 1:2.3.0-1
@@ -726,7 +726,7 @@ lib32-libcups 2.3.3-1
 lib32-libdatrie 0.2.13-1
 lib32-libdbusmenu-glib 16.04.0-4
 lib32-libdbusmenu-gtk3 16.04.0-4
-lib32-libdrm 2.4.105-1
+lib32-libdrm 2.4.106-1
 lib32-libelf 0.184-1
 lib32-libepoxy 1.5.8-1
 lib32-libffi 3.3-2
@@ -799,8 +799,8 @@ lib32-mesa-vdpau 21.1.1-1
 lib32-mpg123 1.27.2-1
 lib32-ncurses 6.2-1
 lib32-nettle 3.7.2-1
-lib32-nspr 4.30-1
-lib32-nss 3.65-1
+lib32-nspr 4.31-1
+lib32-nss 3.66-1
 lib32-ocl-icd 2.2.14-1
 lib32-openal 1.21.1-1
 lib32-opencl-mesa 21.1.1-1
@@ -1004,7 +1004,7 @@ libnfs 4.0.0-4
 libnftnl 1.1.9-1
 libnghttp2 1.43.0-1
 libnice 0.1.18-1
-libnl 3.5.0-2
+libnl 3.5.0-3
 libnm 1.30.4-3
 libnma 1.8.30-1
 libnotify 0.7.9-1
@@ -1157,10 +1157,10 @@ lightdm 1:1.30.0-4
 lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-5
 lilv 0.24.12-1
-linux 5.12.7.arch1-1
+linux 5.12.8.arch1-1
 linux-api-headers 5.12.3-1
 linux-firmware 20210511.7685cf4-1
-linux-headers 5.12.7.arch1-1
+linux-headers 5.12.8.arch1-1
 linuxqq 1:2.0.0_b2_1089-1
 lirc 1:0.10.1-8
 lld 11.1.0-1
@@ -1320,8 +1320,8 @@ noto-fonts-emoji-blob 20190614-2
 noto-fonts-extra 20201226-2
 npm 7.15.0-1
 npth 1.6-3
-nspr 4.30-1
-nss 3.65-1
+nspr 4.31-1
+nss 3.66-1
 ntfs-3g 2017.3.23-5
 numactl 2.0.14-1
 oath-toolkit 2.6.7-1
@@ -1857,14 +1857,14 @@ vala 0.52.3-1
 vamp-plugin-sdk 2.10.0-1
 vde2 2.3.2-16
 vdpauinfo 1.4-1
-ventoy-bin 1.0.44-1
+ventoy-bin 1.0.45-1
 vi 1:070224-5
 vid.stab 1.1-3
 vim 8.2.2891-1
 vim-runtime 8.2.2891-1
 virglrenderer 0.9.1-1
 virtualbox 6.1.22-2
-virtualbox-host-modules-arch 6.1.22-13
+virtualbox-host-modules-arch 6.1.22-14
 visual-studio-code-bin 1.56.2-1
 vkd3d 1.2-1
 vlc 3.0.14-1
