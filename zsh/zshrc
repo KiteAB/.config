@@ -122,7 +122,6 @@ bindkey -M vicmd 'k' history-substring-search-up
 bindkey -M vicmd 'j' history-substring-search-down
 # }}} End configuration added by Zim install
 
-
 # Source files
 source ~/.config/zsh/aliases.zsh
 source ~/.config/zsh/plugins.zsh
@@ -135,7 +134,3 @@ source ~/.config/zsh/mappings.zsh
 source ~/.zim/modules/fzf-tab/fzf-tab.plugin.zsh
 
 eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
-
-if command -v tmux &> /dev/null && [ -n "$PS1" ] && [[ ! "$TERM" =~ screen ]] && [[ ! "$TERM" =~ tmux ]] && [ -z "$TMUX" ]; then
-  exec tmux
-fi
