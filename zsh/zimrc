@@ -1,18 +1,23 @@
+# Basics
 zmodule environment
 zmodule git
+zmodule git-info
 zmodule input
 zmodule termtitle
 zmodule utility
 zmodule completion
-zmodule git-info
-zmodule magicmace
+
+# Tools
 zmodule archive
-#zmodule zsh-users/zsh-syntax-highlighting
-zmodule zdharma/fast-syntax-highlighting
-zmodule zsh-users/zsh-autosuggestions
-zmodule zsh-users/zsh-completions
+zmodule pabloariasal/zfm
+zmodule Aloxaf/fzf-tab
 zmodule zsh-users/zsh-history-substring-search
 zmodule supercrabtree/k
 zmodule hlissner/zsh-autopair
-zmodule pabloariasal/zfm
-zmodule Aloxaf/fzf-tab
+zmodule zsh-users/zsh-autosuggestions
+zmodule zsh-users/zsh-completions
+
+# Themes
+#zmodule magicmace
+zmodule gitster
+zmodule zdharma/fast-syntax-highlighting
