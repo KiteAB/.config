@@ -23,7 +23,7 @@ fzf-redraw-prompt() {
 zle -N fzf-redraw-prompt
 
 zle -N fzf-find-widget
-bindkey '^p' fzf-find-widget
+bindkey '^b' fzf-find-widget
 
 fzf-cd-widget() {
 	local tokens=(${(z)LBUFFER})
