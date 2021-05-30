@@ -13,12 +13,3 @@ zle -N openlazygit; bindkey "^G" openlazygit
 function openlazynpm {
     zle_eval lazynpm
 }
-
-zle -N openlazynpm; bindkey "^N" openlazynpm
-
-function openlazydocker {
-    zle_eval sudo lazydocker
-}
-
-zle -N openlazydocker; bindkey "^A" openlazydocker
-
