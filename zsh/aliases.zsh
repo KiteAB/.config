@@ -38,5 +38,7 @@ alias gy='git-yolo'
 alias nb='newsboat -r'
 alias nt="sh -c 'cd $(pwd); st' > /dev/null 2>&1 &"
 alias ta='tmux a'
-alias t='tmux'
+alias t='if command -v tmux &> /dev/null && [ -n "$PS1" ] && [[ ! "$TERM" =~ screen ]] && [[ ! "$TERM" =~ tmux ]] && [ -z "$TMUX" ]; then
+  exec tmux
+fi'
 alias lo='lsof -p $(fps) +w'
