@@ -1,5 +1,5 @@
 bindkey '^v' edit-command-line
-bindkey -v
+bindkey -e
 bindkey -M vicmd "k" vi-insert
 bindkey -M vicmd "K" vi-insert-bol
 bindkey -M vicmd "n" vi-backward-char
