@@ -3,7 +3,7 @@ aalib 1.4rc5-14
 accounts-qml-module 0.7-3
 accountsservice 0.6.55-3
 acl 2.3.1-1
-acorn 1:8.2.4-1
+acorn 1:8.3.0-1
 acpi 1.7-3
 acpi_call 1.2.1-62
 acpilight 1.2-2
@@ -41,7 +41,7 @@ android-tools 31.0.0-3
 android-udev 20210501-1
 anydesk-bin 6.1.1-3
 aom 3.1.0-1
-apache 2.4.47-1
+apache 2.4.48-1
 appstream 0.14.3-1
 appstream-qt 0.14.3-1
 apr 1.7.0-3
@@ -207,7 +207,7 @@ e2fsprogs 1.46.2-1
 ebook-tools 0.2.2-7
 eclipse-platform 4.19-1
 editorconfig-core-c 0.12.4-1
-edk2-ovmf 202102-1
+edk2-ovmf 202105-1
 efibootmgr 17-2
 efivar 37-4
 electron 12.0.9-1
@@ -220,7 +220,7 @@ elisa 21.04.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148543-1
+emacs-git 28.0.50.148552-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-2
@@ -545,7 +545,7 @@ kidletime 5.82.0-1
 kig 21.04.1-1
 kigo 21.04.1-1
 killbots 21.04.1-1
-kimageannotator 0.5.0-2
+kimageannotator 0.5.1-1
 kimagemapeditor 21.04.1-1
 kimap 21.04.1-1
 kindd 2.1.0-1
@@ -669,7 +669,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.1-1
-latte-dock-git 0.9.12.r5484.9790b0cd-1
+latte-dock-git 0.9.12.r5488.0a93f615-1
 lazydocker 0.12-1
 lcms2 2.12-1
 ldb 1:2.3.0-1
@@ -1330,7 +1330,7 @@ noto-fonts-cjk 20201206-2
 noto-fonts-emoji 20200916-1
 noto-fonts-emoji-blob 20190614-2
 noto-fonts-extra 20201226-2
-npm 7.15.0-1
+npm 7.15.1-1
 npth 1.6-3
 nspr 4.31-1
 nss 3.66-1
@@ -1372,8 +1372,8 @@ oxygen 5.21.5-1
 p11-kit 0.23.22-1
 p7zip 1:17.04-1
 package-query 1.11-1
-pacman 5.2.2-4
-pacman-contrib 1.4.0-1
+pacman 6.0.0-2
+pacman-contrib 1.4.0-2
 pacman-mirrorlist 20210509-1
 pahole 1.21-1
 palapeli 21.04.1-1
@@ -1519,6 +1519,7 @@ python-lxml 4.6.3-1
 python-markdown 3.3.4-1
 python-markupsafe 2.0.1-1
 python-matplotlib-inline 0.1.2-1
+python-more-itertools 8.7.0-1
 python-msgpack 1.0.2-2
 python-numpy 1.20.3-1
 python-ordered-set 4.0.2-3
@@ -1553,7 +1554,7 @@ python-qtpy 1.9.0-5
 python-requests 2.25.1-1
 python-resolvelib 0.5.4-1
 python-retrying 1.3.3-9
-python-setuptools 1:56.2.0-1
+python-setuptools 1:57.0.0-2
 python-sexpdata 0.0.3-3
 python-sgmllib 5.2.1-9
 python-shiboken2 5.15.2-6
@@ -1702,7 +1703,7 @@ ruby-rspec-mocks 3.10.2-1
 ruby-rspec-support 3.10.2-1
 ruby-term-ansicolor 1.7.1-2
 ruby-tins 1.26.0-2
-rubygems 3.2.15-1
+rubygems 3.2.18-1
 run-parts 4.11.2-1
 runc 1.0.0rc95-1
 samba 4.14.4-1
@@ -1826,7 +1827,7 @@ tracker3 3.1.1-2
 tracker3-miners 3.1.1-2
 trash-cli 0.17.1.14-6
 trojan 1.16.0-3
-trojan-go-git 0.10.2.r1.g6cafb1c-1
+trojan-go-git 0.10.3.r0.g15817b5-1
 tslib 1.22-1
 ttf-dejavu 2.37+18+g9b5d1b2f-3
 ttf-droid 20121017-10
@@ -1840,7 +1841,7 @@ ttf-monaco 6.1-6
 ttf-ms-fonts 2.0-12
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-4
 ttf-opensans 1.101-2
-ttf-sarasa-gothic 0.32.0-1
+ttf-sarasa-gothic 0.32.2-1
 ttf-symbola 13.00-10
 ttf-twemoji-color 13.0.1-1
 ttf-ubuntu-font-family 0.83-7
@@ -1865,7 +1866,7 @@ util-linux 2.36.2-1
 util-linux-libs 2.36.2-1
 utools 1.3.5-1
 v2ray 4.39.2-1
-v2ray-domain-list-community 20210530121300-1
+v2ray-domain-list-community 20210530205623-1
 v2ray-geoip 202105270041-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.7.2-2
