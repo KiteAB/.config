@@ -1,5 +1,6 @@
 a52dec 0.7.4-11
 aalib 1.4rc5-14
+abseil-cpp 20210324.1-2
 accounts-qml-module 0.7-3
 accountsservice 0.6.55-3
 acl 2.3.1-1
@@ -89,7 +90,7 @@ binutils 2.36.1-3
 bison 3.7.6-1
 black-hole-solver 1.10.1-1
 blas 3.9.1-1
-blender 17:2.92.0-7
+blender 17:2.93.0-1
 blinken 21.04.1-1
 blosc 1.21.0-1
 bluedevil 1:5.21.5-1
@@ -101,7 +102,7 @@ bomber 21.04.1-1
 boost-libs 1.75.0-3
 bovo 21.04.1-1
 box2d 2.4.1-1
-breeze 5.21.5-1
+breeze 5.21.5-2
 breeze-gtk 5.21.5-1
 breeze-icons 5.82.0-1
 bridge-utils 1.7.1-1
@@ -111,9 +112,9 @@ btrfs-progs 5.12.1-1
 bubblewrap 0.4.1-2
 bzip2 1.0.8-4
 c-ares 1.17.1-1
-ca-certificates 20181109-4
+ca-certificates 20210529-1
 ca-certificates-mozilla 3.66-1
-ca-certificates-utils 20181109-4
+ca-certificates-utils 20210529-1
 cabextract 1.9.1-2
 cairo 1.17.4-5
 cairomm 1.14.3-2
@@ -201,7 +202,7 @@ dragon 21.04.1-1
 drkonqi 5.21.5-1
 droidcam 1:1.7.2-2
 dtc 1.6.0-3
-dvdauthor 0.7.2-10
+dvdauthor 0.7.2-11
 dvgrab 3.5-9
 e2fsprogs 1.46.2-1
 ebook-tools 0.2.2-7
@@ -220,7 +221,7 @@ elisa 21.04.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148552-1
+emacs-git 28.0.50.148576-2
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-2
@@ -235,7 +236,7 @@ faac 1.30-2
 faad2 2.10.0-1
 fakeroot 1.25.3-2
 farstream 0.2.9-2
-faudio 21.05-1
+faudio 21.06-1
 fcitx5 5.0.8-1
 fcitx5-chewing 5.0.5-1
 fcitx5-chinese-addons 5.0.6-1
@@ -255,7 +256,7 @@ fftw 3.3.9-1
 file 5.40-5
 filebrowser-bin 2.15.0-1
 filelight 21.04.1-1
-filesystem 2021.01.19-1
+filesystem 2021.05.31-1
 findutils 4.8.0-1
 fingerprint-gui 1.09-7
 flac 1.3.3-3
@@ -273,7 +274,7 @@ freerdp 2:2.3.2-1
 freetype2 2.10.4-1
 frei0r-plugins 1.7.0-1
 fribidi 1.0.10-1
-frpc 0.36.2-1
+frpc 0.37.0-1
 fstrm 0.6.1-1
 fuse-common 3.10.3-1
 fuse2 2.9.9-4
@@ -306,7 +307,7 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.24-4
 git 2.31.1-1
-git-delta-git 0.8.1.20210531-1
+git-delta-git 0.8.1.20210602-1
 github-cli 1.10.3-1
 glew 2.2.0-2
 glfw-wayland 3.3.4-1
@@ -326,7 +327,7 @@ gnome-icon-theme-symbolic 3.12.0-6
 gnome-video-effects 0.5.0+4+g9554041-2
 gnugo 3.8-7
 gnupg 2.2.27-1
-gnutls 3.7.1-1
+gnutls 3.7.2-1
 go 2:1.16.4-1
 gobject-introspection-runtime 1.68.0-1
 google-chrome 91.0.4472.77-1
@@ -347,11 +348,11 @@ graphite 1:1.3.14-1
 graphviz 2.47.2-1
 grep 3.6-1
 groff 1.22.4-5
-grpc 1.36.4-2
+grpc 1.38.0-3
 grub 2:2.04-10
 gsettings-desktop-schemas 40.0-3
 gsfonts 20200910-2
-gsl 2.6-2
+gsl 2.7-1
 gsm 1.0.19-1
 gspell 1.8.4-1
 gssdp 1.2.3-1
@@ -390,7 +391,7 @@ hdparm 9.61-1
 hicolor-icon-theme 0.17-2
 hidapi 0.10.1-1
 hiredis 1.0.0-1
-hmcl 3.3.172-1
+hmcl 3.3.188-1
 htop 3.0.5-1
 http-parser 2.9.4-1
 hugo 0.83.1-1
@@ -405,16 +406,16 @@ icoutils 0.32.3-3
 icu 69.1-1
 id3lib 3.8.3-18
 ijs 0.35-3
-imagemagick 7.0.11.13-3
-imath 3.0.3-1
+imagemagick 7.0.11.14-1
+imath 3.0.4-1
 imlib2 1.7.1-1
 incidenceeditor 21.04.1-1
 iniparser 4.1-3
-inkscape 1.1-1
+inkscape 1.1-3
 iproute2 5.12.0-1
 iptables-nft 1:1.8.7-1
 iputils 20210202-1
-ipython 7.24.0-1
+ipython 7.24.1-1
 iso-codes 4.6.0-1
 itinerary 21.04.1-1
 iw 5.9-1
@@ -435,7 +436,7 @@ jre11-openjdk 11.0.11.u9-1
 jre11-openjdk-headless 11.0.11.u9-1
 jre8-openjdk 8.u292-1
 jre8-openjdk-headless 8.u292-1
-js78 78.10.1-1
+js78 78.11.0-1
 json-c 0.15-1
 json-glib 1.6.2-1
 jsoncpp 1.9.4-1
@@ -561,7 +562,7 @@ kiriki 21.04.1-1
 kitemmodels 5.82.0-1
 kitemviews 5.82.0-1
 kiten 21.04.1-1
-kitinerary 21.04.1-1
+kitinerary 21.04.1-2
 kjobwidgets 5.82.0-1
 kjs 5.82.0-1
 kjumpingcube 21.04.1-1
@@ -669,7 +670,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.1-1
-latte-dock-git 0.9.12.r5488.0a93f615-1
+latte-dock-git 0.9.12.r5491.7392f362-1
 lazydocker 0.12-1
 lcms2 2.12-1
 ldb 1:2.3.0-1
@@ -697,7 +698,7 @@ lib32-dbus 1.12.20-1
 lib32-dconf 0.40.0-1
 lib32-e2fsprogs 1.46.2-2
 lib32-expat 2.4.1-1
-lib32-faudio 21.05-1
+lib32-faudio 21.06-1
 lib32-flac 1.3.3-1
 lib32-fontconfig 2:2.13.93-4
 lib32-freetype2 2.10.4-1
@@ -711,7 +712,7 @@ lib32-glib2 2.68.2-1
 lib32-glibc 2.33-5
 lib32-glu 9.0.1-1
 lib32-gmp 6.2.1-1
-lib32-gnutls 3.7.1-1
+lib32-gnutls 3.7.2-1
 lib32-gst-plugins-base-libs 1.18.4-1
 lib32-gstreamer 1.18.4-1
 lib32-gtk2 2.24.33-1
@@ -981,7 +982,7 @@ libmad 0.15.1b-9
 libmagick6 6.9.11.58-1
 libmanette 0.2.6-2
 libmatroska 1.6.3-1
-libmbim 1.24.6-1
+libmbim 1.24.8-1
 libmfx 21.1.3-2
 libmicrodns 0.2.0-1
 libmicrohttpd 0.9.73-1
@@ -1007,7 +1008,7 @@ libnetfilter_conntrack 1.0.8-1
 libnewt 0.52.21-5
 libnfnetlink 1.0.1-4
 libnfs 4.0.0-4
-libnftnl 1.1.9-1
+libnftnl 1.2.0-1
 libnghttp2 1.43.0-1
 libnice 0.1.18-1
 libnl 3.5.0-3
@@ -1052,7 +1053,7 @@ libqxp 0.0.2-6
 libraqm 0.7.1-1
 libraw 0.20.2-1
 libraw1394 2.1.2-3
-libreoffice-fresh 7.1.3-1
+libreoffice-fresh 7.1.3-2
 librevenge 0.0.4-3
 librime 1:1.7.3-1
 librime-data 0.0.0.20210208-1
@@ -1318,7 +1319,7 @@ nettle 3.7.2-1
 network-manager-applet 1.22.0-1
 networkmanager 1.30.4-3
 networkmanager-qt 5.82.0-1
-nftables 1:0.9.8-1
+nftables 1:0.9.9-1
 nginx 1.20.0-1
 ninja 1.10.2-1
 nm-connection-editor 1.22.0-1
@@ -1373,7 +1374,7 @@ p11-kit 0.23.22-1
 p7zip 1:17.04-1
 package-query 1.11-1
 pacman 6.0.0-2
-pacman-contrib 1.4.0-2
+pacman-contrib 1.4.0-3
 pacman-mirrorlist 20210509-1
 pahole 1.21-1
 palapeli 21.04.1-1
@@ -1445,10 +1446,10 @@ plasma-workspace-wallpapers 5.21.5-1
 polkit 0.118-1
 polkit-kde-agent 5.21.5-1
 polkit-qt5 0.113.0-2
-poppler 21.05.0-1
+poppler 21.06.0-1
 poppler-data 0.4.10-1
-poppler-glib 21.05.0-1
-poppler-qt5 21.05.0-1
+poppler-glib 21.06.0-1
+poppler-qt5 21.06.0-1
 popt 1.18-1
 portaudio 1:19.7.0-1
 portsmf 234-2
@@ -1491,7 +1492,7 @@ python-contextlib2 0.6.0.post1-3
 python-cryptography 3.4.7-1
 python-dateutil 2.8.1-6
 python-decorator 5.0.9-1
-python-distlib 0.3.1-2
+python-distlib 0.3.2-1
 python-distro 1.5.0-3
 python-dnspython 1:1.16.0-3
 python-docopt 0.6.2-9
@@ -1587,7 +1588,7 @@ python2-colorama 0.4.4-3
 python2-configparser 4.0.2-2
 python2-contextlib2 0.6.0.post1-3
 python2-cryptography 3.3.2-1
-python2-distlib 0.3.1-2
+python2-distlib 0.3.2-1
 python2-distro 1.5.0-3
 python2-enum34 1.1.9-1
 python2-html5lib 1.1-6
@@ -1615,7 +1616,7 @@ python2-toml 0.10.2-3
 python2-urllib3 1.26.5-1
 python2-webencodings 0.5.1-6
 python2-zipp 1:1.1.1-1
-qca 2.3.2-2
+qca-qt5 2.3.3-1
 qemu 6.0.0-3
 qgpgme 1.15.1-1
 qhull 2020.2-4
@@ -1639,7 +1640,7 @@ qt5-svg 5.15.2+kde+r7-1
 qt5-tools 5.15.2+kde+r17-1
 qt5-wayland 5.15.2+kde+r23-1
 qt5-webchannel 5.15.2-1
-qt5-webengine 5.15.3-5
+qt5-webengine 5.15.4-3
 qt5-webkit 5.212.0alpha4-10
 qt5-x11extras 5.15.2-1
 qt5-xmlpatterns 5.15.2-1
@@ -1657,7 +1658,7 @@ raptor 2.0.15-16
 rar 6.0.1-1
 rasqal 1:0.9.33-4
 rav1e 0.4.1-1
-re2 1:20210401-1
+re2 1:20210601-1
 readline 8.1.001-1
 recode 3.7.8-1
 recordmydesktop 0.4.0-1
@@ -1827,7 +1828,7 @@ tracker3 3.1.1-2
 tracker3-miners 3.1.1-2
 trash-cli 0.17.1.14-6
 trojan 1.16.0-3
-trojan-go-git 0.10.3.r0.g15817b5-1
+trojan-go-git 0.10.4.r0.g068d233-1
 tslib 1.22-1
 ttf-dejavu 2.37+18+g9b5d1b2f-3
 ttf-droid 20121017-10
@@ -1841,7 +1842,7 @@ ttf-monaco 6.1-6
 ttf-ms-fonts 2.0-12
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-4
 ttf-opensans 1.101-2
-ttf-sarasa-gothic 0.32.2-1
+ttf-sarasa-gothic 0.32.3-1
 ttf-symbola 13.00-10
 ttf-twemoji-color 13.0.1-1
 ttf-ubuntu-font-family 0.83-7
@@ -1866,7 +1867,7 @@ util-linux 2.36.2-1
 util-linux-libs 2.36.2-1
 utools 1.3.5-1
 v2ray 4.39.2-1
-v2ray-domain-list-community 20210530205623-1
+v2ray-domain-list-community 20210531212831-1
 v2ray-geoip 202105270041-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.7.2-2
@@ -1908,7 +1909,7 @@ webrtc-audio-processing 0.3.1-2
 wget 1.21.1-1
 which 2.21-5
 wildmidi 0.4.4-1
-wine-valve 6.3.20210521b-1
+wine-valve 6.3.20210602-1
 winetricks 20210206-1
 wireguard-dkms 1.0.20210424-2
 wireguard-tools 1.0.20210424-1
@@ -1959,8 +1960,8 @@ xf86-video-vesa 2.5.0-1
 xf86-video-vmware 13.3.0-2
 xf86-video-voodoo 1.2.5-11
 xfce4-notifyd 0.6.2-2
-xfce4-power-manager 4.16.0-2
-xfconf 4.16.0-1
+xfce4-power-manager 4.16.0-3
+xfconf 4.16.0-2
 xfsprogs 5.11.0-2
 xkeyboard-config 2.32-1
 xmlsec 1.2.32-1
@@ -2027,9 +2028,9 @@ yaml-cpp 0.6.3-2
 yaourt 1.9-1
 yarn 1.22.10-1
 yasm 1.3.0-4
-yay 10.2.2-2
-you-get 0.4.1525-1
-zbar 0.23.1-6
+yay 10.2.2-4
+you-get 0.4.1527-1
+zbar 0.23.1-7
 zenity 3.32.0+55+gd7bedff-1
 zeroconf-ioslave 21.04.1-1
 zeromq 4.3.4-1
