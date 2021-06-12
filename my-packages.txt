@@ -4,9 +4,9 @@ abseil-cpp 20210324.1-2
 accounts-qml-module 0.7-4
 accountsservice 0.6.55-3
 acl 2.3.1-1
-acorn 1:8.3.0-1
+acorn 1:8.4.0-1
 acpi 1.7-3
-acpi_call 1.2.1-63
+acpi_call 1.2.1-64
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-1
@@ -223,7 +223,7 @@ elisa 21.04.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148651-1
+emacs-git 28.0.50.148656-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-3
@@ -674,7 +674,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.9.1-1
-latte-dock-git 0.9.12.r5549.82c0fb5a-1
+latte-dock-git 0.9.12.r5550.c01ea7e2-1
 layer-shell-qt 5.22.0-1
 lazydocker 0.12-1
 lcms2 2.12-1
@@ -756,7 +756,7 @@ lib32-libltdl 2.4.6+42+gb88cebd5-1
 lib32-libnl 3.5.0-1
 lib32-libnsl 1.3.0-2
 lib32-libogg 1.3.5-1
-lib32-libpcap 1.10.0-1
+lib32-libpcap 1.10.1-1
 lib32-libpciaccess 0.16-1
 lib32-libpng 1.6.37-3
 lib32-libproxy 0.4.17-1
@@ -1033,7 +1033,7 @@ libotr 4.1.1-3
 libp11-kit 0.24.0-1
 libpagemaker 0.0.4-2
 libpaper 1.1.28-1
-libpcap 1.10.0-1
+libpcap 1.10.1-1
 libpciaccess 0.16-2
 libpeas 1.30.0-1
 libpgm 5.3.128-1
@@ -1170,10 +1170,10 @@ lightdm 1:1.30.0-4
 lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-5
 lilv 0.24.12-1
-linux 5.12.9.arch1-1
+linux 5.12.10.arch1-1
 linux-api-headers 5.12.3-1
 linux-firmware 20210511.7685cf4-1
-linux-headers 5.12.9.arch1-1
+linux-headers 5.12.10.arch1-1
 linuxqq 1:2.0.0_b2_1089-1
 lirc 1:0.10.1-8
 lld 12.0.0-1
@@ -1363,7 +1363,7 @@ openexr 3.0.4-1
 openimagedenoise 1.4.0-1
 openimageio 2.2.15.1-3
 openjpeg2 2.4.0-1
-openmpi 4.1.1-1
+openmpi 4.1.1-2
 openresolv 3.12.0-1
 openshadinglanguage 1.11.14.0-3
 openssh 8.6p1-1
@@ -1539,7 +1539,7 @@ python-pep517 0.10.0-2
 python-pexpect 4.8.0-3
 python-pickleshare 0.7.5-6
 python-pillow 8.2.0-2
-python-pip 20.3.1-1
+python-pip 20.3.1-2
 python-pluggy 0.13.1-4
 python-ply 3.11-7
 python-progress 1.5-5
@@ -1561,7 +1561,7 @@ python-qrcode 6.1-6
 python-qtconsole 5.0.3-1
 python-qtpy 1.9.0-5
 python-requests 2.25.1-1
-python-resolvelib 0.5.4-1
+python-resolvelib 0.5.5-1
 python-retrying 1.3.3-9
 python-setuptools 1:57.0.0-2
 python-sexpdata 0.0.3-3
@@ -1608,14 +1608,14 @@ python2-ordered-set 3.1.1-3
 python2-packaging 20.9-1
 python2-pathlib2 2.3.5-1
 python2-pep517 0.10.0-2
-python2-pip 20.3.1-1
+python2-pip 20.3.1-2
 python2-ply 3.11-7
 python2-progress 1.5-5
 python2-pycparser 2.20-3
 python2-pyopenssl 20.0.1-1
 python2-pyparsing 2.4.7-3
 python2-requests 2.25.1-1
-python2-resolvelib 0.5.4-1
+python2-resolvelib 0.5.5-1
 python2-retrying 1.3.3-9
 python2-scandir 1.10.0-3
 python2-setuptools 2:44.1.1-1
@@ -1832,8 +1832,8 @@ tlpui-git 2:1.4.0.alpha.r1.gcfe3b14-1
 tmux 3.2_a-1
 totem-pl-parser 3.26.5-1
 traceroute 2.1.0-5
-tracker3 3.1.1-2
-tracker3-miners 3.1.1-2
+tracker3 3.1.2-1
+tracker3-miners 3.1.2-1
 trash-cli 0.21.5.25-1
 trojan 1.16.0-4
 trojan-go-git 0.10.4.r1.g07fec5e-1
@@ -1875,8 +1875,9 @@ util-linux 2.37-3
 util-linux-libs 2.37-3
 utools 1.3.5-1
 v2ray 4.39.2-1
-v2ray-domain-list-community 20210610173855-1
+v2ray-domain-list-community 20210611153908-1
 v2ray-geoip 202106100026-1
+v2raya 1.3.3-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.7.3-1
 v4l2loopback-dkms 0.12.5-1
@@ -1894,7 +1895,7 @@ virt-install 3.2.0-1
 virt-manager 3.2.0-1
 virtio-win 0.1.190.1-2
 virtualbox 6.1.22-2
-virtualbox-host-modules-arch 6.1.22-15
+virtualbox-host-modules-arch 6.1.22-16
 visual-studio-code-bin 1.57.0-1
 vkd3d 1.2-1
 vlc 3.0.15-2
@@ -2028,6 +2029,9 @@ xorg-xwininfo 1.1.5-2
 xorg-xwud 1.0.5-2
 xorgproto 2021.4-1
 xplane-sdk-devel 3.0.3-1
+xray 1.4.2-1
+xray-domain-list-community 20210611153908-1
+xray-geoip 202106100026-1
 xvidcore 1.3.7-2
 xxhash 0.8.0-1
 xz 5.2.5-1
