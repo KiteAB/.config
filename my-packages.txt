@@ -6,7 +6,7 @@ accountsservice 0.6.55-3
 acl 2.3.1-1
 acorn 1:8.4.0-1
 acpi 1.7-3
-acpi_call 1.2.1-65
+acpi_call 1.2.1-66
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-1
@@ -91,7 +91,7 @@ binutils 2.36.1-3
 bison 3.7.6-1
 black-hole-solver 1.10.1-1
 blas 3.9.1-1
-blender 17:2.93.0-4
+blender 17:2.93.0-7
 blinken 21.04.2-1
 blosc 1.21.0-1
 bluedevil 1:5.22.1-1
@@ -222,7 +222,7 @@ elisa 21.04.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148708-1
+emacs-git 28.0.50.148733-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-4
@@ -309,6 +309,7 @@ giflib 5.2.1-2
 gimp 2.10.24-4
 git 2.32.0-1
 git-delta-git 0.8.1.20210612-1
+git-lfs 2.13.3-2
 github-cli 1.11.0-1
 glew 2.2.0-2
 glfw-wayland 3.3.4-1
@@ -346,7 +347,7 @@ grantleetheme 21.04.2-1
 graphene 1.10.6-1
 graphicsmagick 1.3.36-3
 graphite 1:1.3.14-1
-graphviz 2.47.2-1
+graphviz 2.47.3-1
 grep 3.6-1
 groff 1.22.4-5
 grpc 1.38.0-3
@@ -375,7 +376,7 @@ gtkglext 1.2.0-13
 gtkmm3 3.24.5-2
 gtksourceview4 4.8.1-1
 gtkspell3 3.0.10-2
-gtop 1.1.0-1
+gtop 1.1.1-1
 gts 0.7.6.121130-2
 guile 2.2.7-1
 gumbo-parser 0.10.1-2
@@ -395,7 +396,7 @@ hiredis 1.0.0-1
 hmcl 3.3.188-1
 htop 3.0.5-1
 http-parser 2.9.4-1
-hugo 0.83.1-1
+hugo 0.84.0-1
 hunspell 1.7.0-3
 hwids 20210613-1
 hwloc 2.4.1-1
@@ -682,7 +683,7 @@ ldns 1.7.1-2
 lensfun 0.3.95-4
 less 1:581.2-1
 leveldb 1.23-3
-lf 23-1
+lf 24-1
 lib2geom 1.1-1
 lib32-acl 2.3.1-1
 lib32-alsa-lib 1.2.5.1-1
@@ -875,7 +876,7 @@ libclc 12.0.0-1
 libcloudproviders 0.3.1-2
 libcmis 0.5.2-8
 libcolord 1.4.5-4
-libconfig 1.7.2-3
+libconfig 1.7.3-1
 libcroco 0.6.13-2
 libcue 2.2.1-2
 libcups 1:2.3.3op2-3
@@ -982,7 +983,6 @@ liblqr 0.4.2-3
 liblrdf 0.6.1-4
 libluv 1.41.0-1
 libmad 0.15.1b-9
-libmagick6 6.9.12.14-1
 libmanette 0.2.6-2
 libmatroska 1.6.3-1
 libmbim 1.24.8-1
@@ -1105,7 +1105,7 @@ libusb-compat 0.1.7-1
 libusbmuxd 2.0.2-1
 libutempter 1.2.1-1
 libuv 1.41.0-1
-libva 2.11.0-1
+libva 2.12.0-1
 libva-mesa-driver 21.1.2-1
 libvdpau 1.4-1
 libvirt 1:7.3.0-1
@@ -1169,10 +1169,10 @@ lightdm 1:1.30.0-4
 lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-5
 lilv 0.24.12-1
-linux 5.12.11.arch1-1
+linux 5.12.12.arch1-1
 linux-api-headers 5.12.3-1
 linux-firmware 20210511.7685cf4-1
-linux-headers 5.12.11.arch1-1
+linux-headers 5.12.12.arch1-1
 linuxqq 1:2.0.0_b2_1089-1
 lirc 1:0.10.1-8
 lld 12.0.0-1
@@ -1198,7 +1198,7 @@ lua52-luajson 1.3.4-3
 lua52-socket 20200329-1
 lua53 5.3.6-1
 luajit 2.0.5-3
-lunar-client 2.7.0-1
+lunar-client 2.7.3-1
 lutris 0.5.8.3-2
 lvm2 2.03.12-1
 lxappearance 0.6.3-4
@@ -1246,7 +1246,7 @@ modemmanager-qt 5.83.0-1
 molequeue 0.9.0-2
 monero 0.17.2.0-4
 monero-gui 0.17.2.2-2
-mono 6.12.0.107-1
+mono 6.12.0.122-1
 mono-msbuild 16.10.1.xamarinxplat.2021.05.26.14.00-1
 motrix-git 1.5.15.r68.g0cd1ed1-1
 movit 1.6.3-2
@@ -1369,7 +1369,7 @@ openssh 8.6p1-1
 openssl 1.1.1.k-1
 openssl-1.0 1.0.2.u-1
 opensubdiv 3.4.4-1
-openvdb 8.0.1-5
+openvdb 8.1.0-1
 openxr 1.0.17-1
 opus 1.3.1-2
 orc 0.4.32-1
@@ -1414,7 +1414,7 @@ perl-http-message 6.32-2
 perl-http-negotiate 6.01-9
 perl-io-html 1.004-2
 perl-ipc-run3 0.048-9
-perl-libwww 6.54-2
+perl-libwww 6.55-1
 perl-lwp-mediatypes 6.02-9
 perl-mailtools 2.21-5
 perl-net-http 6.21-2
@@ -1451,7 +1451,7 @@ plasma-workspace 5.22.1-1
 plasma-workspace-wallpapers 5.22.1-1
 polkit 0.119-1
 polkit-kde-agent 5.22.1-1
-polkit-qt5 0.113.0-2
+polkit-qt5 0.114.0-1
 poppler 21.06.1-1
 poppler-data 0.4.10-1
 poppler-glib 21.06.1-1
@@ -1487,7 +1487,7 @@ python-argcomplete 1.12.1-1
 python-asn1crypto 1.4.0-3
 python-attrs 21.2.0-1
 python-automat 20.2.0-6
-python-backcall 0.2.0-3
+python-backcall 0.2.0-4
 python-cachecontrol 0.12.6-3
 python-cairo 1.20.0-3
 python-cffi 1.14.5-1
@@ -1631,7 +1631,7 @@ qpdf 10.3.2-1
 qqc2-desktop-style 5.83.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
-qt5-base 5.15.2+kde+r196-1
+qt5-base 5.15.2+kde+r199-1
 qt5-declarative 5.15.2+kde+r28-1
 qt5-graphicaleffects 5.15.2-1
 qt5-imageformats 5.15.2-1
@@ -1647,7 +1647,7 @@ qt5-svg 5.15.2+kde+r7-1
 qt5-tools 5.15.2+kde+r17-2
 qt5-wayland 5.15.2+kde+r28-1
 qt5-webchannel 5.15.2-1
-qt5-webengine 5.15.4-3
+qt5-webengine 5.15.5-1
 qt5-webkit 5.212.0alpha4-10
 qt5-x11extras 5.15.2-1
 qt5-xmlpatterns 5.15.2-1
@@ -1662,7 +1662,7 @@ rainbarf-git 20140404-1
 ranger 1.9.3-3
 rapidjson 1.1.0-5
 raptor 2.0.15-16
-rar 6.0.1-1
+rar 6.0.2-1
 rasqal 1:0.9.33-4
 rav1e 0.4.1-1
 re2 1:20210601-1
@@ -1714,6 +1714,7 @@ ruby-tins 1.26.0-2
 rubygems 3.2.19-1
 run-parts 4.11.2-1
 runc 1.0.0rc95-1
+rustup 1.24.3-1
 samba 4.14.5-1
 sane 1.0.32-3
 sbc 1.5-2
@@ -1849,7 +1850,7 @@ ttf-monaco 6.1-6
 ttf-ms-fonts 2.0-12
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-4
 ttf-opensans 1.101-2
-ttf-sarasa-gothic 0.32.4-1
+ttf-sarasa-gothic 0.32.6-1
 ttf-symbola 13.00-10
 ttf-twemoji-color 13.0.1-1
 ttf-ubuntu-font-family 0.83-7
@@ -1866,7 +1867,7 @@ unicode-cldr 38.0-2
 unicode-cldr-annotations 38.0-2
 unicode-emoji 13.1-1
 unzip 6.0-14
-upower 0.99.11-3
+upower 0.99.12-2
 usbmuxd 1.1.1-1
 usbredir 0.9.0-1
 usbutils 013-1
@@ -1894,10 +1895,10 @@ virt-install 3.2.0-1
 virt-manager 3.2.0-1
 virtio-win 0.1.190.1-2
 virtualbox 6.1.22-2
-virtualbox-host-modules-arch 6.1.22-17
+virtualbox-host-modules-arch 6.1.22-18
 visual-studio-code-bin 1.57.1-1
 vkd3d 1.2-1
-vlc 3.0.15-2
+vlc 3.0.16-1
 vmaf 1.5.3-1
 volume_key 0.3.12-5
 vte-common 0.64.2-2
@@ -1919,8 +1920,6 @@ which 2.21-5
 wildmidi 0.4.4-1
 wine-valve 6.3.20210616-1
 winetricks 20210206-1
-wireguard-dkms 1.0.20210424-2
-wireguard-tools 1.0.20210424-1
 wmctrl 1.07-6
 woff2 1.0.2-3
 wpa_supplicant 2:2.9-8
