@@ -4,7 +4,7 @@ abseil-cpp 20210324.1-2
 accounts-qml-module 0.7-4
 accountsservice 0.6.55-3
 acl 2.3.1-1
-acorn 1:8.4.0-1
+acorn 1:8.4.1-1
 acpi 1.7-3
 acpi_call 1.2.1-66
 acpilight 1.2-2
@@ -225,7 +225,7 @@ elisa 21.04.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148755-2
+emacs-git 28.0.50.148766-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-4
@@ -248,7 +248,7 @@ fcitx5-configtool 5.0.5-1
 fcitx5-gtk 5.0.7-1
 fcitx5-material-color 0.2.1-1
 fcitx5-pinyin-moegirl 20210614-1
-fcitx5-pinyin-zhwiki 1:0.2.3.20210605-1
+fcitx5-pinyin-zhwiki 1:0.2.3.20210625-1
 fcitx5-qt 5.0.6-1
 fcitx5-rime 5.0.6-1
 fd 8.2.1-1
@@ -311,7 +311,7 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.24-4
 git 2.32.0-1
-git-delta-git 0.8.1.20210623-2
+git-delta-git 0.8.1.20210624-1
 git-lfs 2.13.3-2
 github-cli 1.11.0-1
 glew 2.2.0-2
@@ -1889,7 +1889,7 @@ util-linux-libs 2.37-3
 utools 1.3.5-1
 v2ray 4.40.1-1
 v2ray-domain-list-community 20210621183458-1
-v2ray-geoip 202106170022-1
+v2ray-geoip 202106240309-1
 v2raya 1.3.3-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.7.3-1
