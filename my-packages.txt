@@ -6,7 +6,7 @@ accountsservice 0.6.55-3
 acl 2.3.1-1
 acorn 1:8.4.1-1
 acpi 1.7-3
-acpi_call 1.2.1-66
+acpi_call 1.2.1-67
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-1
@@ -225,7 +225,7 @@ elisa 21.04.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148766-1
+emacs-git 28.0.50.148769-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-4
@@ -311,7 +311,7 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.24-4
 git 2.32.0-1
-git-delta-git 0.8.1.20210624-1
+git-delta-git 0.8.2.20210625-1
 git-lfs 2.13.3-2
 github-cli 1.11.0-1
 glew 2.2.0-2
@@ -411,7 +411,7 @@ icoutils 0.32.3-3
 icu 69.1-1
 id3lib 3.8.3-18
 ijs 0.35-3
-imagemagick 7.1.0.1-1
+imagemagick 7.1.0.2-1
 imath 3.0.4-2
 imlib2 1.7.1-1
 incidenceeditor 21.04.2-1
@@ -420,7 +420,7 @@ inkscape 1.1-4
 iproute2 5.12.0-1
 iptables-nft 1:1.8.7-1
 iputils 20210202-1
-ipython 7.24.1-1
+ipython 7.25.0-1
 iso-codes 4.6.0-1
 itinerary 21.04.2-1
 iw 5.9-1
@@ -1172,10 +1172,10 @@ lightdm 1:1.30.0-4
 lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-5
 lilv 0.24.12-1
-linux 5.12.12.arch1-1
+linux 5.12.13.arch1-1
 linux-api-headers 5.12.3-1
 linux-firmware 20210511.7685cf4-1
-linux-headers 5.12.12.arch1-1
+linux-headers 5.12.13.arch1-1
 linuxqq 1:2.0.0_b2_1089-1
 lirc 1:0.10.1-8
 lld 12.0.0-1
@@ -1643,7 +1643,7 @@ qpdf 10.3.2-1
 qqc2-desktop-style 5.83.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
-qt5-base 5.15.2+kde+r200-1
+qt5-base 5.15.2+kde+r203-1
 qt5-declarative 5.15.2+kde+r29-1
 qt5-graphicaleffects 5.15.2-1
 qt5-imageformats 5.15.2-1
@@ -1843,7 +1843,7 @@ tlp 1.3.1-2
 tlp-rdw 1.3.1-2
 tlpui-git 2:1.4.0.alpha.r1.gcfe3b14-1
 tmux 3.2_a-1
-totem-pl-parser 3.26.5-1
+totem-pl-parser 3.26.6-1
 traceroute 2.1.0-5
 tracker3 3.1.2-1
 tracker3-miners 3.1.2-1
@@ -1888,7 +1888,7 @@ util-linux 2.37-3
 util-linux-libs 2.37-3
 utools 1.3.5-1
 v2ray 4.40.1-1
-v2ray-domain-list-community 20210621183458-1
+v2ray-domain-list-community 20210625061329-1
 v2ray-geoip 202106240309-1
 v2raya 1.3.3-1
 v4l-utils 1.20.0-1
@@ -1908,7 +1908,7 @@ virt-install 3.2.0-1
 virt-manager 3.2.0-1
 virtio-win 0.1.190.1-2
 virtualbox 6.1.22-3
-virtualbox-host-modules-arch 6.1.22-18
+virtualbox-host-modules-arch 6.1.22-19
 visual-studio-code-bin 1.57.1-1
 vkd3d 1.2-1
 vlc 3.0.16-2
@@ -2041,7 +2041,7 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.4-1
 xplane-sdk-devel 3.0.3-1
 xray 1.4.2-1
-xray-domain-list-community 20210621183458-1
+xray-domain-list-community 20210625061329-1
 xray-geoip 202106240309-1
 xvidcore 1.3.7-2
 xxhash 0.8.0-1
