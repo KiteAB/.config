@@ -58,6 +58,7 @@ archlinuxcn-keyring 20210401-1
 arctime 2.4.1-1
 argon2 20190702-3
 aria2 1.35.0-2
+aribb24 1.0.3-3
 ark 21.04.2-1
 artikulate 21.04.2-1
 asciinema 2.0.2-5
@@ -69,6 +70,7 @@ atkmm 2.28.2-2
 atop 2.6.0-3
 attica 5.83.0-1
 attr 2.5.1-1
+aubio 0.4.9-9
 audacity 1:2.4.1-4
 audiocd-kio 21.04.2-1
 audiofile 0.3.6-6
@@ -93,8 +95,8 @@ bilibili-live-helper-bin 2.2.2-1
 binutils 2.36.1-3
 bison 3.7.6-1
 black-hole-solver 1.10.1-1
-blas 3.9.1-1
-blender 17:2.93.0-7
+blas 3.9.1-2
+blender 17:2.93.1-1
 blinken 21.04.2-1
 blosc 1.21.0-1
 bluedevil 1:5.22.2.1-1
@@ -126,7 +128,7 @@ calendarsupport 21.04.2-1
 cantarell-fonts 1:0.301-1
 cantor 21.04.2-1
 capnproto 0.8.0-1
-cblas 3.9.1-1
+cblas 3.9.1-2
 ccls 0.20210330-2
 cdparanoia 10.2-8
 cdrtools 3.02a09-4
@@ -225,7 +227,7 @@ elisa 21.04.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148785-1
+emacs-git 28.0.50.148788-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-4
@@ -295,7 +297,7 @@ gcr 3.40.0-1
 gd 2.3.2-4
 gdb 10.2-2
 gdb-common 10.2-2
-gdbm 1.19-2
+gdbm 1.20-1
 gdk-pixbuf2 2.42.6-1
 gdl 3.34.0-2
 gedit 40.1-1
@@ -322,7 +324,7 @@ glib2-docs 2.68.3-1
 glibc 2.33-5
 glibmm 2.66.1-2
 glslang 11.4.0-1
-glu 9.0.1-2
+glu 9.0.2-1
 gmp 6.2.1-1
 gn-m85 0.1792.7d7e8dee-1
 gnome-autoar 0.3.3-1
@@ -392,6 +394,7 @@ gwenview 21.04.2-1
 gzip 1.10-3
 harfbuzz 2.8.1-1
 harfbuzz-icu 2.8.1-1
+harvid 0.8.3-1
 hdf5 1.12.0-2
 hdparm 9.62-1
 hicolor-icon-theme 0.17-2
@@ -406,7 +409,7 @@ hwids 20210613-1
 hwloc 2.4.1-1
 hyphen 2.8.8-3
 i3lock-color-git r774.a318ff3-1
-iana-etc 20210202-1
+iana-etc 20210624-1
 ibam 0.5.2-9
 icoutils 0.32.3-3
 icu 69.1-1
@@ -677,8 +680,8 @@ kxmlgui 5.83.0-1
 l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
-lapack 3.9.1-1
-latte-dock-git 0.9.12.r5578.d699e144-1
+lapack 3.9.1-2
+latte-dock-git 0.9.97.r5581.8ec97ed6-1
 layer-shell-qt 5.22.2.1-1
 lazydocker 0.12-1
 lcms2 2.12-1
@@ -983,9 +986,11 @@ libktorrent 21.04.2-1
 liblangtag 0.6.3-2
 libldac 2.0.2.3-1
 libldap 2.4.59-1
+liblo 1:0.31-1
 liblouis 3.18.0-1
 liblqr 0.4.2-3
 liblrdf 0.6.1-4
+libltc 1.3.1-3
 libluv 1.41.0-1
 libmad 0.15.1b-9
 libmanette 0.2.6-2
@@ -1065,7 +1070,7 @@ libraw1394 2.1.2-3
 libreoffice-fresh 7.1.4-1
 librevenge 0.0.4-3
 librime 1:1.7.3-2
-librime-data 0.0.0.20210208-1
+librime-data 0.0.0.20210627-1
 librsvg 2:2.50.7-1
 libsamplerate 0.2.1-1
 libsasl 2.1.27-3
@@ -1331,6 +1336,7 @@ nettle 3.7.3-1
 network-manager-applet 1.22.0-1
 networkmanager 1.32.0-1
 networkmanager-qt 5.83.0-1
+new-session-manager 1.5.1-1
 nftables 1:0.9.9-1
 nginx 1.20.1-1
 ninja 1.10.2-1
@@ -1376,7 +1382,7 @@ openshadinglanguage 1.11.14.0-3
 openssh 8.6p1-1
 openssl 1.1.1.k-1
 openssl-1.0 1.0.2.u-1
-opensubdiv 3.4.4-1
+opensubdiv 3.4.4-2
 openvdb 8.1.0-1
 openxr 1.0.17-1
 opus 1.3.1-2
@@ -1504,6 +1510,7 @@ python-appdirs 1.4.4-3
 python-argcomplete 1.12.1-1
 python-asn1crypto 1.4.0-3
 python-attrs 21.2.0-1
+python-aubio 0.4.9-9
 python-automat 20.2.0-6
 python-backcall 0.2.0-4
 python-cachecontrol 0.12.6-3
@@ -1696,12 +1703,13 @@ rhash 1.4.1-1
 rime-bopomofo 0.0.0.20210131-1
 rime-cangjie 0.0.0.20210223-1
 rime-emoji 0.0.0.20210427-1
-rime-essay 0.0.0.20201222-1
-rime-luna-pinyin 0.0.0.20210303-1
-rime-prelude 0.0.0.20210208-1
+rime-essay 0.0.0.20210627-1
+rime-luna-pinyin 0.0.0.20210627-1
+rime-prelude 0.0.0.20210627-1
 rime-stroke 0.0.0.20191221-2
 rime-terra-pinyin 0.0.0.20210201-1
 ripgrep 13.0.0-2
+rnnoise 0.4.1-1
 roccat-tools-common 5.9.0-2
 roccat-tools-kone 5.9.0-2
 roccat-tools-koneplus 5.9.0-2
@@ -1819,7 +1827,7 @@ tdb 1.4.3-4
 tdlib 0.5.0-4
 teamspeak3 3.5.6-1
 teamspeak3-server 3.13.6-1
-telegram-desktop 2.7.4-2
+telegram-desktop 2.8.2-1
 telepathy-accounts-signon 2.1-2
 telepathy-farstream 0.6.2-7
 telepathy-glib 0.24.2-2
@@ -1872,7 +1880,7 @@ ttf-monaco 6.1-6
 ttf-ms-fonts 2.0-12
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-4
 ttf-opensans 1.101-2
-ttf-sarasa-gothic 0.32.6-1
+ttf-sarasa-gothic 0.32.7-1
 ttf-symbola 13.00-10
 ttf-twemoji-color 13.0.1-1
 ttf-ubuntu-font-family 0.83-7
@@ -1994,6 +2002,7 @@ xfce4-notifyd 0.6.2-2
 xfce4-power-manager 4.16.0-3
 xfconf 4.16.0-2
 xfsprogs 5.12.0-1
+xjadeo 0.8.10-1
 xkeyboard-config 2.33-1
 xmlsec 1.2.32-1
 xmrig 6.12.2-1
@@ -2051,8 +2060,8 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.4-1
 xplane-sdk-devel 3.0.3-1
 xray 1.4.2-1
-xray-domain-list-community 20210626145509-1
-xray-geoip 202106240309-1
+xray-domain-list-community 20210628024723-1
+xray-geoip 202106280246-1
 xvidcore 1.3.7-2
 xxhash 0.8.0-1
 xz 5.2.5-1
