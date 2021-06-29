@@ -28,7 +28,7 @@ akonadiconsole 21.04.2-1
 akregator 21.04.2-1
 alacritty 0.8.0-1
 alembic 1.8.2-1
-alsa-card-profiles 1:0.3.30-2
+alsa-card-profiles 1:0.3.31-1
 alsa-firmware 1.2.4-2
 alsa-lib 1.2.5.1-3
 alsa-oss 1.1.8-3
@@ -95,7 +95,7 @@ bilibili-live-helper-bin 2.2.2-1
 binutils 2.36.1-3
 bison 3.7.6-1
 black-hole-solver 1.10.1-1
-blas 3.9.1-2
+blas 3.10.0-1
 blender 17:2.93.1-1
 blinken 21.04.2-1
 blosc 1.21.0-1
@@ -128,7 +128,7 @@ calendarsupport 21.04.2-1
 cantarell-fonts 1:0.301-1
 cantor 21.04.2-1
 capnproto 0.8.0-1
-cblas 3.9.1-2
+cblas 3.10.0-1
 ccls 0.20210330-2
 cdparanoia 10.2-8
 cdrtools 3.02a09-4
@@ -227,7 +227,7 @@ elisa 21.04.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148788-1
+emacs-git 28.0.50.148793-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.2.15-4
@@ -271,7 +271,7 @@ flex 2.6.4-3
 fltk 1.3.6-1
 fluidsynth 2.1.8-1
 fmt 7.1.3-1
-fontconfig 2:2.13.93-4
+fontconfig 2:2.13.94-1
 fprintd 1.90.9-1
 frameworkintegration 5.83.0-1
 freecell-solver 6.2.0-1
@@ -313,7 +313,7 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.24-4
 git 2.32.0-1
-git-delta-git 0.8.2.20210626-1
+git-delta-git 0.8.2.20210628-1
 git-lfs 2.13.3-2
 github-cli 1.11.0-1
 glew 2.2.0-2
@@ -342,7 +342,7 @@ google-glog 0.5.0-2
 gopls 0.7.0-1
 gperf 3.1-3
 gperftools 2.9.1-1
-gpgme 1.15.1-1
+gpgme 1.16.0-1
 gpm 1.20.7.r38.ge82d1a6-3
 gptfdisk 1.0.8-1
 granatier 21.04.2-1
@@ -403,7 +403,7 @@ hiredis 1.0.0-1
 hmcl 3.3.188-1
 htop 3.0.5-1
 http-parser 2.9.4-1
-hugo 0.84.0-1
+hugo 0.84.1-1
 hunspell 1.7.0-3
 hwids 20210613-1
 hwloc 2.4.1-1
@@ -680,8 +680,8 @@ kxmlgui 5.83.0-1
 l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
-lapack 3.9.1-2
-latte-dock-git 0.9.97.r5581.8ec97ed6-1
+lapack 3.10.0-1
+latte-dock-git 0.9.97.r5582.30de6748-1
 layer-shell-qt 5.22.2.1-1
 lazydocker 0.12-1
 lcms2 2.12-1
@@ -712,7 +712,7 @@ lib32-e2fsprogs 1.46.2-2
 lib32-expat 2.4.1-1
 lib32-faudio 21.06-1
 lib32-flac 1.3.3-1
-lib32-fontconfig 2:2.13.93-4
+lib32-fontconfig 2:2.13.94-1
 lib32-freetype2 2.10.4-1
 lib32-fribidi 1.0.10-1
 lib32-gcc-libs 11.1.0-1
@@ -1227,9 +1227,9 @@ make 4.3-3
 man-db 2.9.4-2
 marble 21.04.2-2
 marble-common 21.04.2-2
-mariadb 10.5.10-1
-mariadb-clients 10.5.10-1
-mariadb-libs 10.5.10-1
+mariadb 10.5.11-1
+mariadb-clients 10.5.11-1
+mariadb-libs 10.5.11-1
 marisa 0.2.6-6
 markdownpart 21.04.2-1
 maven 3.8.1-1
@@ -1448,7 +1448,7 @@ pim-data-exporter 21.04.2-1
 pim-sieve-editor 21.04.2-1
 pimcommon 21.04.2-1
 pinentry 1.1.1-1
-pipewire 1:0.3.30-2
+pipewire 1:0.3.31-1
 pixman 0.40.0-1
 pkgconf 1.7.3-1
 pkgfile 21-2
@@ -1567,7 +1567,7 @@ python-pip 20.3.4-1
 python-pluggy 0.13.1-4
 python-ply 3.11-7
 python-progress 1.5-5
-python-prompt_toolkit 3.0.18-1
+python-prompt_toolkit 3.0.19-1
 python-psutil 5.8.0-1
 python-ptyprocess 0.7.0-1
 python-pyalsa 1.1.6-6
@@ -1651,7 +1651,7 @@ python2-webencodings 0.5.1-6
 python2-zipp 1:1.1.1-1
 qca-qt5 2.3.3-1
 qemu 6.0.0-3
-qgpgme 1.15.1-1
+qgpgme 1.16.0-1
 qhull 2020.2-4
 qpdf 10.3.2-1
 qqc2-desktop-style 5.83.0-1
@@ -1738,7 +1738,7 @@ ruby-rspec-mocks 3.10.2-1
 ruby-rspec-support 3.10.2-1
 ruby-term-ansicolor 1.7.1-2
 ruby-tins 1.26.0-2
-rubygems 3.2.19-1
+rubygems 3.2.21-1
 run-parts 4.11.2-1
 runc 1.0.0-1
 rustup 1.24.3-1
@@ -1827,7 +1827,7 @@ tdb 1.4.3-4
 tdlib 0.5.0-4
 teamspeak3 3.5.6-1
 teamspeak3-server 3.13.6-1
-telegram-desktop 2.8.2-1
+telegram-desktop 2.8.3-1
 telepathy-accounts-signon 2.1-2
 telepathy-farstream 0.6.2-7
 telepathy-glib 0.24.2-2
@@ -1905,8 +1905,8 @@ util-linux 2.37-3
 util-linux-libs 2.37-3
 utools 1.3.5-1
 v2ray 4.40.1-1
-v2ray-domain-list-community 20210626145509-1
-v2ray-geoip 202106240309-1
+v2ray-domain-list-community 20210628024723-1
+v2ray-geoip 202106280246-1
 v2raya 1.3.3-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.7.3-1
@@ -2060,8 +2060,8 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.4-1
 xplane-sdk-devel 3.0.3-1
 xray 1.4.2-1
-xray-domain-list-community 20210628024723-1
-xray-geoip 202106280246-1
+xray-domain-list-community 20210629040700-1
+xray-geoip 202106290406-1
 xvidcore 1.3.7-2
 xxhash 0.8.0-1
 xz 5.2.5-1
