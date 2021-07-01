@@ -227,10 +227,10 @@ elisa 21.04.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148796-1
+emacs-git 28.0.50.148811-1
 embree 3.12.2-1
 enca 1.19-4
-enchant 2.2.15-4
+enchant 2.3.0-1
 ethtool 1:5.12-1
 eventviews 21.04.2-1
 exempi 2.5.2-1
@@ -315,7 +315,7 @@ gimp 2.10.24-4
 git 2.32.0-1
 git-delta-git 0.8.2.20210628-1
 git-lfs 2.13.3-2
-github-cli 1.11.0-1
+github-cli 1.12.0-1
 glew 2.2.0-2
 glfw-wayland 3.3.4-1
 glib-networking 1:2.68.1-1
@@ -403,7 +403,7 @@ hiredis 1.0.0-1
 hmcl 3.3.188-1
 htop 3.0.5-1
 http-parser 2.9.4-1
-hugo 0.84.2-1
+hugo 0.84.3-1
 hunspell 1.7.0-3
 hwids 20210613-1
 hwloc 2.4.1-1
@@ -416,12 +416,12 @@ icu 69.1-1
 id3lib 3.8.3-18
 ijs 0.35-3
 imagemagick 7.1.0.2-1
-imath 3.0.4-2
+imath 3.0.5-1
 imlib2 1.7.1-1
 incidenceeditor 21.04.2-1
 iniparser 4.1-3
 inkscape 1.1-4
-iproute2 5.12.0-1
+iproute2 5.13.0-1
 iptables-nft 1:1.8.7-1
 iputils 20210202-1
 ipython 7.25.0-1
@@ -827,7 +827,7 @@ lib32-opus 1.3.1-1
 lib32-orc 0.4.32-1
 lib32-p11-kit 0.24.0-1
 lib32-pam 1.5.1-1
-lib32-pango 1:1.48.5-1
+lib32-pango 1:1.48.6-1
 lib32-pcre 8.44-1
 lib32-pixman 0.40.0-1
 lib32-polkit 0.119-1
@@ -928,7 +928,7 @@ libgdiplus 5.6.1-3
 libgee 0.20.4-1
 libgexiv2 0.12.2-1
 libgig 4.3.0-3
-libgit2 1:1.1.0-1
+libgit2 1:1.1.1-1
 libglvnd 1.3.3-1
 libgme 0.6.3-1
 libgpg-error 1.42-1
@@ -978,7 +978,7 @@ libkmahjongg 21.04.2-1
 libkolabxml 1.1.6-16
 libkomparediff2 21.04.2-1
 libksane 21.04.2-1
-libksba 1.4.0-2
+libksba 1.6.0-1
 libkscreen 5.22.2.1-1
 libksieve 21.04.2-1
 libksysguard 5.22.2.1-1
@@ -1026,7 +1026,7 @@ libnftnl 1.2.0-1
 libnghttp2 1.43.0-1
 libnice 0.1.18-2
 libnl 3.5.0-3
-libnm 1.32.0-1
+libnm 1.32.2-1
 libnma 1.8.30-1
 libnotify 0.7.9-1
 libnsl 1.3.0-2
@@ -1247,7 +1247,7 @@ metis 5.1.0.p10-2
 milou 5.22.2.1-1
 minizip 1:1.2.11-4
 minuet 21.04.2-2
-mixxx 2.2.4-6
+mixxx 2.3.0-1
 mjpegtools 2.2.0-1
 mkinitcpio 30-1
 mkinitcpio-busybox 1.33.1-1
@@ -1334,7 +1334,7 @@ net-tools 2.10-1
 netpbm 10.73.34-1
 nettle 3.7.3-1
 network-manager-applet 1.22.0-1
-networkmanager 1.32.0-1
+networkmanager 1.32.2-1
 networkmanager-qt 5.83.0-1
 new-session-manager 1.5.1-1
 nftables 1:0.9.9-1
@@ -1395,13 +1395,13 @@ p11-kit 0.24.0-1
 p7zip 1:17.04-1
 package-query 1.12-1
 pacman 6.0.0-3
-pacman-contrib 1.4.0-3
+pacman-contrib 1.4.0-4
 pacman-mirrorlist 20210509-1
 pahole 1.21-1
 palapeli 21.04.2-1
 pam 1.5.1-1
 pambase 20210605-2
-pango 1:1.48.5-1
+pango 1:1.48.6-1
 pangomm 2.46.1-2
 paper 2.3-2
 parley 21.04.2-1
