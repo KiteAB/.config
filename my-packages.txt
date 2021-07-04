@@ -47,6 +47,7 @@ anydesk-bin 6.1.1-3
 aom 3.1.1-1
 apache 2.4.48-1
 appstream 0.14.4-1
+appstream-glib 0.7.18-2
 appstream-qt 0.14.4-1
 apr 1.7.0-3
 apr-util 1.6.1-8
@@ -227,7 +228,7 @@ elisa 21.04.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148831-1
+emacs-git 28.0.50.148832-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.3.0-1
@@ -267,6 +268,7 @@ findutils 4.8.0-1
 fingerprint-gui 1.09-7
 flac 1.3.3-3
 flameshot 0.9.0-1
+flatpak 1.11.2-1
 flex 2.6.4-3
 fltk 1.3.6-1
 fluidsynth 2.1.8-1
@@ -290,6 +292,7 @@ gamemode 1.6.1-1
 gavl 1.4.0-5
 gawk 5.1.0-1
 gc 8.0.4-4
+gcab 1.4-1
 gcc 11.1.0-1
 gcc-libs 11.1.0-1
 gconf 3.2.6+11+g07808097-10
@@ -302,6 +305,8 @@ gdk-pixbuf2 2.42.6-1
 gdl 3.34.0-2
 gedit 40.1-1
 gegl 0.4.30-4
+geoclue 2.5.7-3
+geocode-glib 3.26.2-1
 geoip 1.6.12-2
 geoip-database 20210622-1
 gettext 0.21-1
@@ -315,7 +320,7 @@ gimp 2.10.24-5
 git 2.32.0-1
 git-delta-git 0.8.2.20210628-1
 git-lfs 2.13.3-2
-github-cli 1.12.0-1
+github-cli 1.12.1-1
 glew 2.2.0-2
 glfw-wayland 3.3.4-1
 glib-networking 1:2.68.1-1
@@ -681,7 +686,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.9.97.r5583.fd5b4e53-1
+latte-dock-git 0.9.97.r5584.92aec503-1
 layer-shell-qt 5.22.2.1-1
 lazydocker 0.12-1
 lcms2 2.12-1
@@ -817,7 +822,7 @@ lib32-mesa-vdpau 21.1.3-1
 lib32-mpg123 1.28.0-1
 lib32-ncurses 6.2-1
 lib32-nettle 3.7.2-1
-lib32-nspr 4.31-1
+lib32-nspr 4.32-1
 lib32-nss 3.67-1
 lib32-ocl-icd 2.3.0-1
 lib32-openal 1.21.1-1
@@ -827,7 +832,7 @@ lib32-opus 1.3.1-1
 lib32-orc 0.4.32-1
 lib32-p11-kit 0.24.0-1
 lib32-pam 1.5.1-1
-lib32-pango 1:1.48.6-1
+lib32-pango 1:1.48.7-1
 lib32-pcre 8.44-1
 lib32-pixman 0.40.0-1
 lib32-polkit 0.119-1
@@ -996,7 +1001,7 @@ libmad 0.15.1b-9
 libmanette 0.2.6-2
 libmatroska 1.6.3-1
 libmbim 1.24.8-1
-libmfx 21.1.3-2
+libmfx 21.2.3-1
 libmicrodns 0.2.0-1
 libmicrohttpd 0.9.73-1
 libmikmod 3.3.11.1-4
@@ -1352,7 +1357,7 @@ noto-fonts-emoji-blob 20190614-2
 noto-fonts-extra 20201226-2
 npm 7.17.0-1
 npth 1.6-3
-nspr 4.31-1
+nspr 4.32-1
 nss 3.67-1
 ntfs-3g 2017.3.23-5
 numactl 2.0.14-1
@@ -1361,7 +1366,7 @@ obs-input-overlay-bin v4.8-3
 obs-studio 27.0.1-1
 ocl-icd 2.3.0-1
 okular 21.04.2-1
-onefetch 2.9.1-1
+onefetch 2.10.2-1
 openal 1.21.1-1
 openbabel 3.1.1-2
 opencc 1.1.2-1
@@ -1390,6 +1395,7 @@ opusfile 0.12-1
 orc 0.4.32-1
 os-prober 1.78-1
 osinfo-db 20210531-1
+ostree 2021.2-1
 oxygen 5.22.2.1-1
 p11-kit 0.24.0-1
 p7zip 1:17.04-1
@@ -1401,7 +1407,7 @@ pahole 1.21-1
 palapeli 21.04.2-1
 pam 1.5.1-1
 pambase 20210605-2
-pango 1:1.48.6-1
+pango 1:1.48.7-1
 pangomm 2.46.1-2
 paper 2.3-2
 parley 21.04.2-1
@@ -1606,7 +1612,7 @@ python-urllib3 1.26.5-1
 python-wcwidth 0.2.5-3
 python-webencodings 0.5.1-6
 python-werkzeug 2.0.1-1
-python-xlib 0.30-1
+python-xlib 0.31-1
 python-yaml 5.4.1.1-2
 python-zipp 3.4.1-1
 python-zope-interface 5.4.0-1
@@ -1827,7 +1833,7 @@ tdb 1.4.3-4
 tdlib 0.5.0-4
 teamspeak3 3.5.6-1
 teamspeak3-server 3.13.6-1
-telegram-desktop 2.8.4-1
+telegram-desktop 2.8.4-2
 telepathy-accounts-signon 2.1-2
 telepathy-farstream 0.6.2-7
 telepathy-glib 0.24.2-2
@@ -1978,6 +1984,7 @@ xcb-util-wm 0.4.1-3
 xcb-util-xrm 1.3-2
 xclip 0.13-3
 xdg-dbus-proxy 0.1.2-3
+xdg-desktop-portal 1.8.1-1
 xdg-desktop-portal-kde 5.22.2.1-1
 xdg-user-dirs 0.17-3
 xdg-utils 1.1.3+19+g9816ebb-1
