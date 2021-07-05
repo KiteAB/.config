@@ -228,7 +228,7 @@ elisa 21.04.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148832-1
+emacs-git 28.0.50.148850-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.3.0-1
@@ -251,7 +251,7 @@ fcitx5-configtool 5.0.5-1
 fcitx5-gtk 5.0.7-1
 fcitx5-material-color 0.2.1-1
 fcitx5-pinyin-moegirl 20210614-1
-fcitx5-pinyin-zhwiki 1:0.2.3.20210625-1
+fcitx5-pinyin-zhwiki 1:0.2.3.20210704-1
 fcitx5-qt 5.0.6-1
 fcitx5-rime 5.0.6-1
 fd 8.2.1-1
@@ -328,7 +328,7 @@ glib2 2.68.3-1
 glib2-docs 2.68.3-1
 glibc 2.33-5
 glibmm 2.66.1-2
-glslang 11.4.0-1
+glslang 11.5.0-1
 glu 9.0.2-1
 gmp 6.2.1-1
 gn-m85 0.1792.7d7e8dee-1
@@ -1054,7 +1054,7 @@ libpeas 1.30.0-1
 libpgm 5.3.128-1
 libphonenumber 8.12.25-1
 libpipeline 1.5.3-1
-libplacebo 3.120.3-1
+libplacebo 3.120.3-2
 libplist 2.2.0-3
 libpng 1.6.37-3
 libportal 0.4-1
@@ -1252,7 +1252,7 @@ metis 5.1.0.p10-2
 milou 5.22.2.1-1
 minizip 1:1.2.11-4
 minuet 21.04.2-2
-mixxx 2.3.0-1
+mixxx 2.3.0-2
 mjpegtools 2.2.0-1
 mkinitcpio 30-1
 mkinitcpio-busybox 1.33.1-1
@@ -1568,7 +1568,7 @@ python-path-and-address 2.0.1-1
 python-pep517 0.10.0-2
 python-pexpect 4.8.0-3
 python-pickleshare 0.7.5-6
-python-pillow 8.2.0-2
+python-pillow 8.3.0-1
 python-pip 20.3.4-1
 python-pluggy 0.13.1-4
 python-ply 3.11-7
@@ -1589,7 +1589,7 @@ python-pyqt5-webengine 5.15.4-1
 python-pyte 0.8.0-6
 python-pyzmq 22.0.3-1
 python-qrcode 6.1-6
-python-qtconsole 5.0.3-1
+python-qtconsole 5.1.1-1
 python-qtpy 1.9.0-5
 python-requests 2.25.1-1
 python-resolvelib 0.5.5-1
@@ -1687,7 +1687,6 @@ qtermwidget 0.17.0-2
 qtkeychain-qt5 0.12.0-1
 qv2ray 2.6.3-28
 qv2ray-plugin-trojan 2.0.0-8
-qv2ray-plugin-trojan-go-git 20201115.r28.7a0c3c9-1
 radeontool 1.6.3-4
 ragel 6.10-3
 rainbarf-git 20140404-1
@@ -1770,7 +1769,7 @@ sed 4.8-1
 semver 7.3.5-2
 serd 0.30.10-1
 sfml 2.5.1-2
-shaderc 2021.0-1
+shaderc 2021.1-1
 shadow 4.8.1-4
 shared-mime-info 2.0+57+gc1d1c70-1
 signon-kwallet-extension 21.04.2-1
@@ -1873,7 +1872,6 @@ tracker3-miners 3.1.2-1
 trash-cli 0.21.6.30-1
 tree-sitter 0.20.0-1
 trojan 1.16.0-4
-trojan-go-git 0.10.4.r1.g07fec5e-1
 tslib 1.22-1
 ttf-dejavu 2.37+18+g9b5d1b2f-3
 ttf-droid 20121017-10
