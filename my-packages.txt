@@ -102,8 +102,8 @@ blender 17:2.93.1-2
 blinken 21.04.2-1
 blosc 1.21.0-1
 bluedevil 1:5.22.3-1
-bluez 5.59-2
-bluez-libs 5.59-2
+bluez 5.60-1
+bluez-libs 5.60-1
 bluez-qt 5.83.0-1
 bolt 0.9.1-1
 bomber 21.04.2-1
@@ -210,6 +210,7 @@ dragon 21.04.2-1
 drkonqi 5.22.3-1
 droidcam 1:1.7.3-1
 dtc 1.6.0-3
+dune 2.9.0-1
 dvdauthor 0.7.2-11
 dvgrab 3.5-9
 e2fsprogs 1.46.2-1
@@ -219,7 +220,7 @@ editorconfig-core-c 0.12.5-1
 edk2-ovmf 202105-1
 efibootmgr 17-2
 efivar 37-4
-electron 13.1.5-1
+electron 13.1.6-1
 electron-netease-cloud-music 0.9.29-1
 electron9 9.4.4-1
 electronic-wechat 2.3.1-2
@@ -229,7 +230,7 @@ elisa 21.04.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148872-1
+emacs-git 28.0.50.148881-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.3.0-1
@@ -412,7 +413,7 @@ hiredis 1.0.0-1
 hmcl 3.3.188-1
 htop 3.0.5-1
 http-parser 2.9.4-1
-hugo 0.84.4-1
+hugo 0.85.0-1
 hunspell 1.7.0-3
 hwids 20210613-1
 hwloc 2.4.1-1
@@ -742,6 +743,7 @@ lib32-gtk2 2.24.33-1
 lib32-gtk3 3.24.29-1
 lib32-harfbuzz 2.8.1-1
 lib32-icu 69.1-1
+lib32-jansson 2.13.1-1
 lib32-json-glib 1.6.2-1
 lib32-keyutils 1.6.3-1
 lib32-krb5 1.19.1-1
@@ -755,7 +757,7 @@ lib32-libcups 2.3.3-1
 lib32-libdatrie 0.2.13-1
 lib32-libdbusmenu-glib 16.04.0-4
 lib32-libdbusmenu-gtk3 16.04.0-4
-lib32-libdrm 2.4.106-1
+lib32-libdrm 2.4.107-1
 lib32-libelf 0.185-1
 lib32-libepoxy 1.5.8-1
 lib32-libffi 3.3-2
@@ -1371,9 +1373,15 @@ numactl 2.0.14-1
 oath-toolkit 2.6.7-1
 obs-input-overlay-bin v4.8-3
 obs-studio 27.0.1-1
+ocaml 4.11.1-1
+ocaml-compiler-libs 4.11.1-1
+ocaml-csexp 1.3.2-1
+ocaml-findlib 1.9.1-1
+ocaml-result 1.5-3
 ocl-icd 2.3.0-1
 okular 21.04.2-1
 onefetch 2.10.2-1
+opam 2.0.8-1
 openal 1.21.1-1
 openbabel 3.1.1-2
 opencc 1.1.2-1
@@ -1734,6 +1742,7 @@ roccat-tools-konepure 5.9.0-2
 roccat-tools-konextd 5.9.0-2
 rocs 21.04.2-1
 rofi 1.6.1-1
+rsync 3.2.3-3
 rtaudio 5.1.0-3
 rtkit 0.13-1
 rtmpdump 1:2.4.r96.fa8646d-6
@@ -1923,7 +1932,7 @@ util-linux 2.37-3
 util-linux-libs 2.37-3
 utools 1.3.5-1
 v2ray 4.40.1-1
-v2ray-domain-list-community 20210702040554-1
+v2ray-domain-list-community 20210707032357-1
 v2ray-geoip 202107010026-1
 v2raya 1.3.3-1
 v4l-utils 1.20.0-1
@@ -2079,7 +2088,7 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.4-1
 xplane-sdk-devel 3.0.3-1
 xray 1.4.2-1
-xray-domain-list-community 20210702040554-1
+xray-domain-list-community 20210707032357-1
 xray-geoip 202107010026-1
 xvidcore 1.3.7-2
 xxhash 0.8.0-1
