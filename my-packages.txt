@@ -65,7 +65,7 @@ artikulate 21.04.3-1
 asciinema 2.0.2-5
 aspell 0.60.8-2
 at-spi2-atk 2.38.0-1
-at-spi2-core 2.40.2-1
+at-spi2-core 2.40.3-1
 atk 2.36.0-1
 atkmm 2.28.2-2
 atop 2.6.0-3
@@ -131,7 +131,7 @@ cantarell-fonts 1:0.301-1
 cantor 21.04.3-1
 capnproto 0.8.0-1
 cblas 3.10.0-1
-ccls 0.20210330-2
+ccls 0.20210330-3
 cdparanoia 10.2-8
 cdrtools 3.02a09-4
 ceph-libs 15.2.12-2
@@ -141,7 +141,7 @@ cheese 3.38.0-1
 chromaprint 1.5.0-3
 chrpath 0.16-3
 cifs-utils 6.13-2
-clang 12.0.0-1
+clang 12.0.1-1
 clucene 2.3.3.4-11
 clutter 1.26.4-1
 clutter-gst 3.0.27-3
@@ -151,7 +151,7 @@ cmatrix 2.0-2
 cogl 1.22.8-1
 colord 1.4.5-4
 com.qq.im.deepin 9.3.2-20
-compiler-rt 12.0.0-1
+compiler-rt 12.0.1-2
 confuse 3.3-3
 containerd 1.5.2-1
 convertlit 1.8-10
@@ -230,7 +230,7 @@ elisa 21.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148894-1
+emacs-git 28.0.50.148898-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.3.0-1
@@ -384,7 +384,7 @@ gtk-doc 1.33.2-1
 gtk-update-icon-cache 1:4.2.1-2
 gtk-vnc 1.2.0-1
 gtk2 2.24.33-2
-gtk3 1:3.24.29-2
+gtk3 1:3.24.30-1
 gtk4 1:4.2.1-2
 gtkglext 1.2.0-13
 gtkmm3 3.24.5-2
@@ -401,8 +401,8 @@ gv 3.7.4-5
 gvfs 1.48.1-1
 gwenview 21.04.3-1
 gzip 1.10-3
-harfbuzz 2.8.1-1
-harfbuzz-icu 2.8.1-1
+harfbuzz 2.8.2-1
+harfbuzz-icu 2.8.2-1
 harvid 0.8.3-1
 hdf5 1.12.0-2
 hdparm 9.62-1
@@ -531,7 +531,7 @@ kdeplasma-addons 5.22.3-1
 kdesdk-kioslaves 21.04.3-1
 kdesdk-thumbnailers 21.04.3-1
 kdesu 5.83.0-1
-kdevelop 5.6.2-4
+kdevelop 5.6.2-5
 kdevelop-php 5.6.2-1
 kdf 21.04.3-1
 kdiagram 2.8.0-1
@@ -693,7 +693,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.9.97.r5584.92aec503-1
+latte-dock-git 0.9.97.r5585.750785b5-1
 layer-shell-qt 5.22.3-1
 lazydocker 0.12-1
 lcms2 2.12-1
@@ -715,7 +715,7 @@ lib32-attr 2.5.1-1
 lib32-brotli 1.0.9-1
 lib32-bzip2 1.0.8-2
 lib32-cairo 1.17.4-5
-lib32-clang 12.0.0-1
+lib32-clang 12.0.1-1
 lib32-colord 1.4.5-3
 lib32-curl 7.77.0-1
 lib32-dbus 1.12.20-1
@@ -741,7 +741,7 @@ lib32-gst-plugins-base-libs 1.18.4-1
 lib32-gstreamer 1.18.4-1
 lib32-gtk2 2.24.33-1
 lib32-gtk3 3.24.29-1
-lib32-harfbuzz 2.8.1-1
+lib32-harfbuzz 2.8.2-1
 lib32-icu 69.1-1
 lib32-jansson 2.13.1-1
 lib32-json-glib 1.6.2-1
@@ -821,8 +821,8 @@ lib32-libxss 1.2.3-1
 lib32-libxtst 1.2.3-2
 lib32-libxv 1.0.11-2
 lib32-libxxf86vm 1.1.4-2
-lib32-llvm 12.0.0-2
-lib32-llvm-libs 12.0.0-2
+lib32-llvm 12.0.1-1
+lib32-llvm-libs 12.0.1-1
 lib32-lm_sensors 1:3.6.0.r41.g31d1f125-1
 lib32-lz4 1.9.3-1
 lib32-mesa 21.1.4-1
@@ -892,7 +892,7 @@ libcdio 2.1.0-2
 libcdio-paranoia 10.2+2.0.1-2
 libcdr 0.1.7-2
 libchewing 0.5.1-4
-libclc 12.0.0-1
+libclc 12.0.1-1
 libcloudproviders 0.3.1-2
 libcmis 0.5.2-8
 libcolord 1.4.5-4
@@ -1199,10 +1199,10 @@ linux-firmware 20210511.7685cf4-1
 linux-headers 5.12.15.arch1-1
 linuxqq 1:2.0.0_b2_1089-1
 lirc 1:0.10.1-8
-lld 12.0.0-1
+lld 12.0.1-1
 llpp 33-2
-llvm 12.0.0-2
-llvm-libs 12.0.0-2
+llvm 12.0.1-1
+llvm-libs 12.0.1-1
 lm_sensors 1:3.6.0.r41.g31d1f125-1
 lmdb 0.9.29-1
 lmms 1.2.2-4
@@ -1617,7 +1617,7 @@ python-retrying 1.3.3-9
 python-setuptools 1:57.1.0-1
 python-sexpdata 0.0.3-3
 python-sgmllib 5.2.1-9
-python-shiboken2 5.15.2-8
+python-shiboken2 5.15.2-9
 python-sip4 4.19.25-1
 python-six 1.16.0-1
 python-systemd 234-8
@@ -1696,7 +1696,7 @@ qt5-script 5.15.5-2
 qt5-sensors 5.15.2-1
 qt5-speech 5.15.2-1
 qt5-svg 5.15.2+kde+r7-1
-qt5-tools 5.15.2+kde+r17-2
+qt5-tools 5.15.2+kde+r17-3
 qt5-wayland 5.15.2+kde+r28-1
 qt5-webchannel 5.15.2-1
 qt5-webengine 5.15.5-1
@@ -1721,7 +1721,7 @@ readline 8.1.001-1
 recode 3.7.9-1
 recordmydesktop 0.4.0-1
 redland 1:1.0.17-8
-reflector 2021.4-1
+reflector 2021.7.8-1
 remmina 1:1.4.19-1
 rest 0.8.1-3
 rhash 1.4.1-1
@@ -1766,7 +1766,7 @@ ruby-term-ansicolor 1.7.1-2
 ruby-tins 1.26.0-2
 rubygems 3.2.21-1
 run-parts 4.11.2-1
-runc 1.0.0-1
+runc 1.0.0-2
 rustup 1.24.3-1
 samba 4.14.5-1
 sane 1.0.32-3
@@ -1932,7 +1932,7 @@ util-linux 2.37-3
 util-linux-libs 2.37-3
 utools 1.3.5-1
 v2ray 4.40.1-1
-v2ray-domain-list-community 20210707032357-1
+v2ray-domain-list-community 20210709152606-1
 v2ray-geoip 202107080024-1
 v2raya 1.3.3-1
 v4l-utils 1.20.0-1
@@ -1975,6 +1975,7 @@ webrtc-audio-processing 0.3.1-3
 wget 1.21.1-1
 which 2.21-5
 wildmidi 0.4.4-1
+wine-mono 6.2.0-1
 wine-valve 6.3.20210616-1
 winetricks 20210206-1
 wmctrl 1.07-6
@@ -2088,7 +2089,7 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.4-1
 xplane-sdk-devel 3.0.3-1
 xray 1.4.2-1
-xray-domain-list-community 20210707032357-1
+xray-domain-list-community 20210709152606-1
 xray-geoip 202107080024-1
 xvidcore 1.3.7-2
 xxhash 0.8.0-1
