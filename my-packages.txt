@@ -159,7 +159,7 @@ coordgen 2.0.3-1
 coreutils 8.32-1
 cowsay 3.04-2
 cpio 2.13-2
-cpupower 5.12-1
+cpupower 5.13-1
 cronie 1.5.7-2
 cryptsetup 2.3.6-1
 ctags 1:r20210106+g08b1c490-1
@@ -230,7 +230,7 @@ elisa 21.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148898-1
+emacs-git 28.0.50.148903-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.3.0-1
@@ -320,7 +320,7 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.24-5
 git 2.32.0-1
-git-delta-git 0.8.3.20210708-3
+git-delta-git 0.8.3.20210710-2
 git-lfs 2.13.3-2
 github-cli 1.12.1-1
 glew 2.2.0-2
@@ -693,7 +693,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.9.97.r5585.750785b5-1
+latte-dock-git 0.9.97.r5586.bb713e10-1
 layer-shell-qt 5.22.3-1
 lazydocker 0.12-1
 lcms2 2.12-1
@@ -1224,7 +1224,7 @@ lua52-socket 20200329-1
 lua53 5.3.6-1
 luajit 2.0.5-3
 lunar-client 2.7.3-1
-lutris 0.5.8.3-2
+lutris 0.5.8.4-1
 lvm2 2.03.12-1
 lxappearance 0.6.3-4
 lz4 1:1.9.3-2
@@ -1435,7 +1435,7 @@ pciutils 3.7.0-1
 pcre 8.45-1
 pcre2 10.37-1
 pcsclite 1.9.1-1
-perf 5.12-1
+perf 5.13-1
 perl 5.34.0-1
 perl-clone 0.45-3
 perl-encode-locale 1.05-8
@@ -1562,7 +1562,7 @@ python-grip 4.5.2-1
 python-html5lib 1.1-6
 python-hyperlink 21.0.0-2
 python-idna 3.2-1
-python-importlib-metadata 4.5.0-1
+python-importlib-metadata 4.6.0-1
 python-incremental 21.3.0-2
 python-ipykernel 5.5.3-1
 python-itsdangerous 2.0.1-1
@@ -1634,7 +1634,7 @@ python-webencodings 0.5.1-6
 python-werkzeug 2.0.1-1
 python-xlib 0.31-1
 python-yaml 5.4.1.1-2
-python-zipp 3.4.1-1
+python-zipp 3.5.0-1
 python-zope-interface 5.4.0-1
 python2 2.7.18-3
 python2-appdirs 1.4.4-3
@@ -1907,7 +1907,7 @@ ttf-monaco 6.1-6
 ttf-ms-fonts 2.0-12
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-4
 ttf-opensans 1.101-2
-ttf-sarasa-gothic 0.32.9-1
+ttf-sarasa-gothic 0.32.10-1
 ttf-symbola 13.00-10
 ttf-twemoji-color 13.0.1-1
 ttf-ubuntu-font-family 0.83-7
@@ -1969,7 +1969,7 @@ w3m 0.5.3.git20210102_6-1
 wavpack 5.4.0-1
 wayland 1.19.0-1
 wayland-protocols 1.21-1
-webkit2gtk 2.32.1-1
+webkit2gtk 2.32.2-1
 webp-pixbuf-loader 0.0.3-1
 webrtc-audio-processing 0.3.1-3
 wget 1.21.1-1
@@ -1977,6 +1977,7 @@ which 2.21-5
 wildmidi 0.4.4-1
 wine-mono 6.2.0-1
 wine-valve 6.3.20210616-1
+winegame 0.5.7.2-1
 winetricks 20210206-1
 wmctrl 1.07-6
 woff2 1.0.2-3
@@ -1991,7 +1992,7 @@ wxgtk-common 3.0.5.1-2
 wxgtk3 3.0.5.1-2
 x264 3:0.161.r3039.544c61f-1
 x265 3.5-1
-x86_energy_perf_policy 5.12-1
+x86_energy_perf_policy 5.13-1
 xapian-core 1:1.4.18-1
 xaw3d 1.6.3-2
 xcb-imdkit 1.0.3-1
@@ -2082,7 +2083,7 @@ xorg-xrefresh 1.0.6-2
 xorg-xset 1.2.4-2
 xorg-xsetroot 1.1.2-2
 xorg-xvinfo 1.1.4-2
-xorg-xwayland 21.1.1-1
+xorg-xwayland 21.1.2-1
 xorg-xwd 1.0.7-2
 xorg-xwininfo 1.1.5-2
 xorg-xwud 1.0.5-2
