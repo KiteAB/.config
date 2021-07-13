@@ -230,7 +230,7 @@ elisa 21.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148911-1
+emacs-git 28.0.50.148919-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.3.0-1
@@ -449,10 +449,13 @@ java11-openjfx 11.0.10.u1-1
 java8-openjfx 8.u202-3
 jbig2dec 0.19-1
 jbigkit 2.1-5
+jdk-openjdk 16.0.1.u9-1
 jdk11-openjdk 11.0.11.u9-1
 jdk8-openjdk 8.u292-1
 jemalloc 1:5.2.1-3
 joe 4.6-2
+jre-openjdk 16.0.1.u9-1
+jre-openjdk-headless 16.0.1.u9-1
 jre11-openjdk 11.0.11.u9-1
 jre11-openjdk-headless 11.0.11.u9-1
 jre8-openjdk 8.u292-1
@@ -827,7 +830,7 @@ lib32-lm_sensors 1:3.6.0.r41.g31d1f125-1
 lib32-lz4 1.9.3-1
 lib32-mesa 21.1.4-1
 lib32-mesa-vdpau 21.1.4-1
-lib32-mpg123 1.28.0-1
+lib32-mpg123 1.28.1-1
 lib32-ncurses 6.2-1
 lib32-nettle 3.7.2-1
 lib32-nspr 4.32-1
@@ -1132,7 +1135,7 @@ libuv 1.41.0-1
 libva 2.12.0-1
 libva-mesa-driver 21.1.4-1
 libvdpau 1.4-1
-libvirt 1:7.3.0-1
+libvirt 1:7.5.0-1
 libvirt-glib 4.0.0-1
 libvirt-python 1:7.3.0-1
 libvisio 0.1.7-5
@@ -1393,7 +1396,7 @@ opencolorio1 1.1.1-3
 opencore-amr 0.1.5-5
 opencv 4.5.3-1
 openexr 3.0.5-1
-openimagedenoise 1.4.0-1
+openimagedenoise 1.4.1-1
 openimageio 2.2.15.1-4
 openjpeg2 2.4.0-1
 openmpi 4.1.1-2
@@ -1539,7 +1542,7 @@ python-backcall 0.2.0-4
 python-beaker 1.11.0-6
 python-cachecontrol 0.12.6-3
 python-cairo 1.20.0-3
-python-cffi 1.14.5-1
+python-cffi 1.14.6-1
 python-chardet 4.0.0-2
 python-click 8.0.1-1
 python-colorama 0.4.4-3
@@ -1641,7 +1644,7 @@ python2-appdirs 1.4.4-3
 python2-asn1crypto 1.4.0-3
 python2-backports 1.0-3
 python2-cachecontrol 0.12.6-3
-python2-cffi 1.14.5-1
+python2-cffi 1.14.6-1
 python2-chardet 4.0.0-2
 python2-colorama 0.4.4-3
 python2-configparser 4.0.2-2
@@ -1683,7 +1686,7 @@ qpdf 10.3.2-1
 qqc2-desktop-style 5.84.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
-qt5-base 5.15.2+kde+r207-2
+qt5-base 5.15.2+kde+r209-1
 qt5-declarative 5.15.2+kde+r29-1
 qt5-graphicaleffects 5.15.2-1
 qt5-imageformats 5.15.2-1
@@ -1840,10 +1843,10 @@ swh-plugins 0.4.17-4
 syndication 5.84.0-1
 syntax-highlighting 5.84.0-1
 sysfsutils 2.1.1-1
-systemd 249-2
-systemd-libs 249-2
+systemd 249-3
+systemd-libs 249-3
 systemd-swap 4.4.0-2
-systemd-sysvcompat 249-2
+systemd-sysvcompat 249-3
 systemsettings 5.22.3-1
 taglib 1.12-1
 talloc 2.3.2-1
@@ -2104,7 +2107,7 @@ yasm 1.3.0-4
 yay 10.2.3-1
 yelp-tools 40.0-1
 yelp-xsl 40.2-1
-you-get 0.4.1527-1
+you-get 0.4.1536-1
 zbar 0.23.1-7
 zenity 3.32.0+55+gd7bedff-1
 zeroconf-ioslave 21.04.3-1
