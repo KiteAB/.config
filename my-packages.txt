@@ -121,7 +121,7 @@ bubblewrap 0.4.1-2
 bzip2 1.0.8-4
 c-ares 1.17.1-1
 ca-certificates 20210603-1
-ca-certificates-mozilla 3.67-1
+ca-certificates-mozilla 3.68-1
 ca-certificates-utils 20210603-1
 cabextract 1.9.1-2
 cairo 1.17.4-5
@@ -134,7 +134,7 @@ cblas 3.10.0-1
 ccls 0.20210330-3
 cdparanoia 10.2-8
 cdrtools 3.02a09-4
-ceph-libs 15.2.12-2
+ceph-libs 15.2.12-3
 cervisia 21.04.3-1
 cfitsio 1:3.49-1
 cheese 3.38.0-1
@@ -167,6 +167,7 @@ cups 1:2.3.3op2-3
 cups-filters 1.28.9-1
 curl 7.77.0-1
 dav1d 0.9.0-1
+davfs2 1.6.0-1
 db 5.3.28-5
 dbus 1.12.20-1
 dbus-glib 0.112-1
@@ -222,6 +223,7 @@ efibootmgr 17-2
 efivar 37-4
 electron 13.1.6-1
 electron-netease-cloud-music 0.9.29-1
+electron-qq 1.5.7-1
 electron9 9.4.4-1
 electronic-wechat 2.3.1-2
 elementary-icon-theme 5.3.1-1
@@ -230,7 +232,7 @@ elisa 21.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148919-1
+emacs-git 28.0.50.148930-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.3.0-1
@@ -274,7 +276,7 @@ flatpak 1.11.2-1
 flex 2.6.4-3
 fltk 1.3.6-1
 fluidsynth 2.1.8-1
-fmt 7.1.3-1
+fmt 8.0.0-2
 fontconfig 2:2.13.94-1
 fprintd 1.92.0-1
 frameworkintegration 5.84.0-1
@@ -320,7 +322,7 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.24-5
 git 2.32.0-1
-git-delta-git 0.8.3.20210710-2
+git-delta-git 0.8.3.20210713-1
 git-lfs 2.13.3-2
 github-cli 1.12.1-1
 glew 2.2.0-2
@@ -460,7 +462,7 @@ jre11-openjdk 11.0.11.u9-1
 jre11-openjdk-headless 11.0.11.u9-1
 jre8-openjdk 8.u292-1
 jre8-openjdk-headless 8.u292-1
-js78 78.11.0-1
+js78 78.12.0-1
 json-c 0.15-1
 json-glib 1.6.2-1
 jsoncpp 1.9.4-1
@@ -703,7 +705,7 @@ lcms2 2.12-1
 ldb 1:2.3.0-1
 ldns 1.7.1-2
 lensfun 0.3.95-4
-less 1:581.2-1
+less 1:590-1
 leveldb 1.23-3
 lf 24-1
 lib2geom 1.1-1
@@ -830,11 +832,11 @@ lib32-lm_sensors 1:3.6.0.r41.g31d1f125-1
 lib32-lz4 1.9.3-1
 lib32-mesa 21.1.4-1
 lib32-mesa-vdpau 21.1.4-1
-lib32-mpg123 1.28.1-1
+lib32-mpg123 1.28.2-1
 lib32-ncurses 6.2-1
 lib32-nettle 3.7.2-1
 lib32-nspr 4.32-1
-lib32-nss 3.67-1
+lib32-nss 3.68-1
 lib32-ocl-icd 2.3.0-1
 lib32-openal 1.21.1-1
 lib32-opencl-mesa 21.1.4-1
@@ -1281,7 +1283,7 @@ mono-msbuild 16.10.1.xamarinxplat.2021.05.26.14.00-1
 motrix-git 1.5.15.r68.g0cd1ed1-1
 movit 1.6.3-2
 mpfr 4.1.0-2
-mpg123 1.28.0-1
+mpg123 1.28.2-1
 mplayer 38157-4
 mprime 303b6-1
 mpv 1:0.33.1-2
@@ -1370,7 +1372,7 @@ noto-fonts-extra 20201226-2
 npm 7.17.0-1
 npth 1.6-3
 nspr 4.32-1
-nss 3.67-1
+nss 3.68-1
 ntfs-3g 2017.3.23-5
 numactl 2.0.14-1
 oath-toolkit 2.6.7-1
@@ -1591,7 +1593,7 @@ python-path-and-address 2.0.1-1
 python-pep517 0.10.0-2
 python-pexpect 4.8.0-3
 python-pickleshare 0.7.5-6
-python-pillow 8.3.0-1
+python-pillow 8.3.1-1
 python-pip 20.3.4-1
 python-pluggy 0.13.1-4
 python-ply 3.11-7
@@ -1686,7 +1688,7 @@ qpdf 10.3.2-1
 qqc2-desktop-style 5.84.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
-qt5-base 5.15.2+kde+r209-1
+qt5-base 5.15.2+kde+r210-1
 qt5-declarative 5.15.2+kde+r29-1
 qt5-graphicaleffects 5.15.2-1
 qt5-imageformats 5.15.2-1
@@ -1700,7 +1702,7 @@ qt5-sensors 5.15.2-1
 qt5-speech 5.15.2-1
 qt5-svg 5.15.2+kde+r7-1
 qt5-tools 5.15.2+kde+r17-3
-qt5-wayland 5.15.2+kde+r28-1
+qt5-wayland 5.15.2+kde+r29-1
 qt5-webchannel 5.15.2-1
 qt5-webengine 5.15.5-1
 qt5-webkit 5.212.0alpha4-10
@@ -1719,6 +1721,8 @@ raptor 2.0.15-16
 rar 6.0.2-1
 rasqal 1:0.9.33-4
 rav1e 0.4.1-1
+rclone 1.55.1-1
+rclone-browser 1.8.0-1
 re2 1:20210601-1
 readline 8.1.001-1
 recode 3.7.9-1
@@ -1751,7 +1755,7 @@ rtkit 0.13-1
 rtmpdump 1:2.4.r96.fa8646d-6
 rttr 0.9.6-3
 rubberband 1.9.2-1
-ruby 3.0.1-1
+ruby 3.0.2-1
 ruby-diff-lcs 1.4.4-2
 ruby-irb 1.3.6-1
 ruby-manpages 0.6.1-4
@@ -1771,7 +1775,7 @@ rubygems 3.2.21-1
 run-parts 4.11.2-1
 runc 1.0.0-2
 rustup 1.24.3-1
-samba 4.14.5-1
+samba 4.14.6-1
 sane 1.0.32-3
 sbc 1.5-2
 scrcpy 1.18-1
@@ -1802,7 +1806,7 @@ signon-ui 0.17+20171022-2
 signond 8.60-3
 slang 2.3.2-2
 smartmontools 7.2-1
-smbclient 4.14.5-1
+smbclient 4.14.6-1
 smpeg 0.4.5-5
 snappy 1.1.8-2
 sndio 1.7.0-3
@@ -2104,7 +2108,7 @@ yaml-cpp 0.6.3-2
 yaourt 1.9-1
 yarn 1.22.10-1
 yasm 1.3.0-4
-yay 10.2.3-1
+yay 10.3.0-1
 yelp-tools 40.0-1
 yelp-xsl 40.2-1
 you-get 0.4.1536-1
