@@ -91,7 +91,7 @@ base 2-2
 bash 5.1.008-1
 bash-language-server 1.17.0-4
 bashtop 0.9.25-1
-bat 0.18.1-1
+bat 0.18.2-1
 bc 1.07.1-4
 bilibili-live-helper-bin 2.2.2-1
 binutils 2.36.1-3
@@ -232,7 +232,7 @@ elisa 21.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148930-1
+emacs-git 28.0.50.148945-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.3.0-1
@@ -578,7 +578,7 @@ kimap 21.04.3-1
 kindd 2.1.0-2
 kinfocenter 5.22.3-1
 kinit 5.84.0-1
-kio 5.84.0-1
+kio 5.84.0-2
 kio-extras 21.04.3-1
 kio-fuse 5.0.1-1
 kio-gdrive 21.04.3-1
@@ -1252,7 +1252,7 @@ mariadb-libs 10.5.11-1
 marisa 0.2.6-6
 markdownpart 21.04.3-1
 maven 3.8.1-1
-mbedtls 2.26.0-1
+mbedtls 2.27.0-1
 mbox-importer 21.04.3-1
 md4c 0.4.8-1
 mdadm 4.1-2
@@ -1362,7 +1362,7 @@ ninja 1.10.2-1
 nm-connection-editor 1.22.0-1
 nmap 7.91-1
 node-gyp 8.1.0-2
-nodejs 16.4.2-1
+nodejs 16.5.0-1
 nodejs-nopt 5.0.0-2
 noto-fonts 20201226-2
 noto-fonts-cjk 20201206-2
@@ -1377,14 +1377,14 @@ ntfs-3g 2017.3.23-5
 numactl 2.0.14-1
 oath-toolkit 2.6.7-1
 obs-input-overlay-bin v4.8-3
-obs-studio 27.0.1-1
+obs-studio 27.0.1-2
 ocaml 4.11.1-1
 ocaml-compiler-libs 4.11.1-1
 ocaml-csexp 1.3.2-1
 ocaml-findlib 1.9.1-1
 ocaml-result 1.5-3
 ocl-icd 2.3.0-1
-okular 21.04.3-1
+okular 21.04.3-2
 onefetch 2.10.2-1
 opam 2.0.8-1
 openal 1.21.1-1
@@ -1415,7 +1415,7 @@ opusfile 0.12-1
 orc 0.4.32-1
 os-prober 1.78-1
 osinfo-db 20210531-1
-ostree 2021.2-1
+ostree 2021.3-1
 oxygen 5.22.3-1
 p11-kit 0.24.0-1
 p7zip 1:17.04-1
@@ -1939,7 +1939,7 @@ util-linux 2.37-3
 util-linux-libs 2.37-3
 utools 1.3.5-1
 v2ray 4.40.1-1
-v2ray-domain-list-community 20210711091359-1
+v2ray-domain-list-community 20210714080645-1
 v2ray-geoip 202107080024-1
 v2raya 1.3.3-1
 v4l-utils 1.20.0-1
@@ -1960,7 +1960,7 @@ virt-manager 3.2.0-1
 virtio-win 0.1.196.1-3
 virtualbox 6.1.22-3
 virtualbox-host-modules-arch 6.1.22-22
-visual-studio-code-bin 1.58.0-1
+visual-studio-code-bin 1.58.1-1
 vkd3d 1.2-1
 vlc 3.0.16-2
 vmaf 1.5.3-1
@@ -1984,7 +1984,6 @@ which 2.21-5
 wildmidi 0.4.4-1
 wine-mono 6.2.0-1
 wine-valve 6.3.20210616-1
-winegame 0.5.7.2-1
 winetricks 20210206-1
 wmctrl 1.07-6
 woff2 1.0.2-3
@@ -2097,7 +2096,7 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.4-1
 xplane-sdk-devel 3.0.3-1
 xray 1.4.2-1
-xray-domain-list-community 20210711091359-1
+xray-domain-list-community 20210714080645-1
 xray-geoip 202107080024-1
 xvidcore 1.3.7-2
 xxhash 0.8.0-1
