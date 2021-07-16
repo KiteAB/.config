@@ -232,7 +232,7 @@ elisa 21.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148945-1
+emacs-git 28.0.50.148966-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.3.0-1
@@ -1268,7 +1268,7 @@ minizip 1:1.2.11-4
 minuet 21.04.3-1
 mixxx 2.3.0-2
 mjpegtools 2.2.0-1
-mkinitcpio 30-1
+mkinitcpio 30-2
 mkinitcpio-busybox 1.33.1-1
 mlt 7.0.1-1
 mlt6 6.26.1-4
@@ -1366,7 +1366,7 @@ nodejs 16.5.0-1
 nodejs-nopt 5.0.0-2
 noto-fonts 20201226-2
 noto-fonts-cjk 20201206-2
-noto-fonts-emoji 20200916-1
+noto-fonts-emoji 20210625-1
 noto-fonts-emoji-blob 20190614-2
 noto-fonts-extra 20201226-2
 npm 7.17.0-1
@@ -1420,7 +1420,7 @@ oxygen 5.22.3-1
 p11-kit 0.24.0-1
 p7zip 1:17.04-1
 package-query 1.12-1
-pacman 6.0.0-3
+pacman 6.0.0-5
 pacman-contrib 1.4.0-4
 pacman-mirrorlist 20210509-1
 pahole 1.21-1
@@ -1619,7 +1619,7 @@ python-qtpy 1.9.0-5
 python-requests 2.25.1-1
 python-resolvelib 0.5.5-1
 python-retrying 1.3.3-9
-python-setuptools 1:57.1.0-1
+python-setuptools 1:57.2.0-1
 python-sexpdata 0.0.3-3
 python-sgmllib 5.2.1-9
 python-shiboken2 5.15.2-9
@@ -1939,8 +1939,8 @@ util-linux 2.37-3
 util-linux-libs 2.37-3
 utools 1.3.5-1
 v2ray 4.40.1-1
-v2ray-domain-list-community 20210714080645-1
-v2ray-geoip 202107080024-1
+v2ray-domain-list-community 20210715104242-1
+v2ray-geoip 202107150023-1
 v2raya 1.3.3-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.7.3-1
@@ -1960,7 +1960,7 @@ virt-manager 3.2.0-1
 virtio-win 0.1.196.1-3
 virtualbox 6.1.22-3
 virtualbox-host-modules-arch 6.1.22-22
-visual-studio-code-bin 1.58.1-1
+visual-studio-code-bin 1.58.2-1
 vkd3d 1.2-1
 vlc 3.0.16-2
 vmaf 1.5.3-1
@@ -2096,8 +2096,8 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.4-1
 xplane-sdk-devel 3.0.3-1
 xray 1.4.2-1
-xray-domain-list-community 20210714080645-1
-xray-geoip 202107080024-1
+xray-domain-list-community 20210715104242-1
+xray-geoip 202107150023-1
 xvidcore 1.3.7-2
 xxhash 0.8.0-1
 xz 5.2.5-1
