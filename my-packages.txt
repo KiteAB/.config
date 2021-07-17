@@ -27,7 +27,7 @@ akonadi-search 21.04.3-1
 akonadiconsole 21.04.3-1
 akregator 21.04.3-1
 alacritty 0.8.0-1
-alembic 1.8.2-1
+alembic 1.8.2-2
 alsa-card-profiles 1:0.3.31-1
 alsa-firmware 1.2.4-2
 alsa-lib 1.2.5.1-3
@@ -98,7 +98,7 @@ binutils 2.36.1-3
 bison 3.7.6-1
 black-hole-solver 1.10.1-1
 blas 3.10.0-1
-blender 17:2.93.1-2
+blender 17:2.93.1-3
 blinken 21.04.3-1
 blosc 1.21.0-1
 bluedevil 1:5.22.3-1
@@ -232,7 +232,7 @@ elisa 21.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148966-1
+emacs-git 28.0.50.148984-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.3.0-1
@@ -254,7 +254,7 @@ fcitx5-chinese-addons 5.0.6-2
 fcitx5-configtool 5.0.5-1
 fcitx5-gtk 5.0.7-1
 fcitx5-material-color 0.2.1-1
-fcitx5-pinyin-moegirl 20210614-1
+fcitx5-pinyin-moegirl 20210717-1
 fcitx5-pinyin-zhwiki 1:0.2.3.20210704-1
 fcitx5-qt 5.0.6-1
 fcitx5-rime 5.0.6-1
@@ -348,7 +348,7 @@ gnutls 3.7.2-2
 go 2:1.16.5-1
 gobject-introspection 1.68.0-1
 gobject-introspection-runtime 1.68.0-1
-google-chrome 91.0.4472.114-1
+google-chrome 91.0.4472.164-1
 google-glog 0.5.0-2
 gopls 0.7.0-1
 gperf 3.1-3
@@ -375,8 +375,8 @@ gsm 1.0.19-1
 gspell 1.8.4-1
 gssdp 1.2.3-1
 gst-libav 1.18.4-1
-gst-plugins-bad 1.18.4-8
-gst-plugins-bad-libs 1.18.4-8
+gst-plugins-bad 1.18.4-9
+gst-plugins-bad-libs 1.18.4-9
 gst-plugins-base 1.18.4-1
 gst-plugins-base-libs 1.18.4-1
 gst-plugins-good 1.18.4-2
@@ -428,7 +428,7 @@ icu 69.1-1
 id3lib 3.8.3-18
 ijs 0.35-3
 imagemagick 7.1.0.2-2
-imath 3.0.5-1
+imath 3.1.0-1
 imlib2 1.7.1-1
 incidenceeditor 21.04.3-1
 iniparser 4.1-3
@@ -698,7 +698,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.9.97.r5587.19defa08-1
+latte-dock-git 0.9.97.r5588.e0e3f19f-1
 layer-shell-qt 5.22.3-1
 lazydocker 0.12-1
 lcms2 2.12-1
@@ -854,7 +854,7 @@ lib32-rest 0.8.1-3
 lib32-sdl2 2.0.14-1
 lib32-sqlite 3.36.0-1
 lib32-systemd 249-1
-lib32-tdb 1.4.3-1
+lib32-tdb 1.4.4-1
 lib32-util-linux 2.37-1
 lib32-v4l-utils 1.20.0-1
 lib32-vkd3d 1.2-2
@@ -1023,7 +1023,7 @@ libmms 0.6.4-3
 libmng 2.0.3-3
 libmnl 1.0.4-3
 libmodplug 0.8.9.0-3
-libmp4v2 4.1.6-1
+libmp4v2 5.0.0-1
 libmpc 1.2.1-1
 libmpcdec 1:0.1+r475-3
 libmpeg2 0.5.1-7
@@ -1133,7 +1133,7 @@ libusb 1.0.24-2
 libusb-compat 0.1.7-1
 libusbmuxd 2.0.2-1
 libutempter 1.2.1-1
-libuv 1.41.0-1
+libuv 1.41.1-1
 libva 2.12.0-1
 libva-mesa-driver 21.1.4-1
 libvdpau 1.4-1
@@ -1146,7 +1146,7 @@ libvncserver 0.9.13-1
 libvorbis 1.3.7-2
 libvpx 1.10.0-1
 libvterm 0.1.3.git1.65dbda-1
-libwacom 1.10-1
+libwacom 1.11-1
 libwebp 1.2.0-1
 libwmf 0.2.12-2
 libwpd 0.10.3-3
@@ -1393,13 +1393,13 @@ opencc 1.1.2-1
 opencl-headers 2:2021.04.29-1
 opencl-mesa 21.1.4-1
 opencollada 1:1.6.68-2
-opencolorio 2.0.1-2
+opencolorio 2.0.1-3
 opencolorio1 1.1.1-3
 opencore-amr 0.1.5-5
-opencv 4.5.3-1
-openexr 3.0.5-1
+opencv 4.5.3-2
+openexr 3.0.5-2
 openimagedenoise 1.4.1-1
-openimageio 2.2.15.1-4
+openimageio 2.2.15.1-5
 openjpeg2 2.4.0-1
 openmpi 4.1.1-2
 openresolv 3.12.0-1
@@ -1451,7 +1451,7 @@ perl-html-tagset 3.20-11
 perl-http-cookies 6.10-2
 perl-http-daemon 6.06-3
 perl-http-date 6.05-4
-perl-http-message 6.32-2
+perl-http-message 6.33-1
 perl-http-negotiate 6.01-9
 perl-io-html 1.004-2
 perl-ipc-run3 0.048-9
@@ -1731,7 +1731,7 @@ redland 1:1.0.17-8
 reflector 2021.7.8-1
 remmina 1:1.4.20-1
 rest 0.8.1-3
-rhash 1.4.1-1
+rhash 1.4.2-1
 rime-bopomofo 0.0.0.20210131-1
 rime-cangjie 0.0.0.20210223-1
 rime-emoji 0.0.0.20210427-1
@@ -1853,11 +1853,11 @@ systemd-swap 4.4.0-2
 systemd-sysvcompat 249-3
 systemsettings 5.22.3-1
 taglib 1.12-1
-talloc 2.3.2-1
+talloc 2.3.3-1
 tar 1.34-1
 tbb 2020.3-1
 tcl 8.6.11-1
-tdb 1.4.3-4
+tdb 1.4.4-1
 tdlib 0.5.0-4
 teamspeak3 3.5.6-1
 teamspeak3-server 3.13.6-1
@@ -1968,8 +1968,8 @@ volume_key 0.3.12-5
 vte-common 0.64.2-2
 vte3 0.64.2-2
 vtk 8.2.0-19
-vulkan-headers 1:1.2.182-1
-vulkan-icd-loader 1.2.182-1
+vulkan-headers 1:1.2.183-1
+vulkan-icd-loader 1.2.183-1
 vulkan-radeon 21.1.4-1
 vulkan-tools 1.2.182-1
 w3m 0.5.3.git20210102_6-1
