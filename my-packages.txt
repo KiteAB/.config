@@ -116,7 +116,7 @@ breeze-icons 5.84.0-1
 bridge-utils 1.7.1-1
 brltty 6.3-3
 brotli 1.0.9-4
-btrfs-progs 5.12.1-1
+btrfs-progs 5.13-1
 bubblewrap 0.4.1-2
 bzip2 1.0.8-4
 c-ares 1.17.1-1
@@ -146,7 +146,7 @@ clucene 2.3.3.4-11
 clutter 1.26.4-1
 clutter-gst 3.0.27-3
 clutter-gtk 1.8.4-2
-cmake 3.20.5-1
+cmake 3.21.0-1
 cmatrix 2.0-2
 cogl 1.22.8-1
 colord 1.4.5-4
@@ -232,7 +232,7 @@ elisa 21.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.148984-1
+emacs-git 28.0.50.148988-1
 embree 3.12.2-1
 enca 1.19-4
 enchant 2.3.0-1
@@ -343,9 +343,9 @@ gnome-icon-theme 3.12.0-6
 gnome-icon-theme-symbolic 3.12.0-6
 gnome-video-effects 0.5.0+4+g9554041-2
 gnugo 3.8-7
-gnupg 2.2.28-2
+gnupg 2.2.29-1
 gnutls 3.7.2-2
-go 2:1.16.5-1
+go 2:1.16.6-1
 gobject-introspection 1.68.0-1
 gobject-introspection-runtime 1.68.0-1
 google-chrome 91.0.4472.164-1
@@ -418,7 +418,7 @@ http-parser 2.9.4-1
 hugo 0.85.0-1
 hunspell 1.7.0-3
 hwids 20210613-1
-hwloc 2.4.1-1
+hwloc 2.5.0-1
 hyphen 2.8.8-3
 i3lock-color-git r774.a318ff3-1
 iana-etc 20210624-1
@@ -698,7 +698,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.9.97.r5588.e0e3f19f-1
+latte-dock-git 0.9.97.r5590.834f71d2-1
 layer-shell-qt 5.22.3-1
 lazydocker 0.12-1
 lcms2 2.12-1
@@ -801,7 +801,7 @@ lib32-libunistring 0.9.10-1
 lib32-libunwind 1.5.0-1
 lib32-libusb 1.0.24-1
 lib32-libva 2.11.0-1
-lib32-libva-mesa-driver 21.1.4-1
+lib32-libva-mesa-driver 21.1.5-1
 lib32-libvorbis 1.3.7-1
 lib32-libx11 1.7.2-1
 lib32-libxau 1.0.9-1
@@ -830,8 +830,8 @@ lib32-llvm 12.0.1-1
 lib32-llvm-libs 12.0.1-1
 lib32-lm_sensors 1:3.6.0.r41.g31d1f125-1
 lib32-lz4 1.9.3-1
-lib32-mesa 21.1.4-1
-lib32-mesa-vdpau 21.1.4-1
+lib32-mesa 21.1.5-1
+lib32-mesa-vdpau 21.1.5-1
 lib32-mpg123 1.28.2-1
 lib32-ncurses 6.2-1
 lib32-nettle 3.7.2-1
@@ -839,7 +839,7 @@ lib32-nspr 4.32-1
 lib32-nss 3.68-1
 lib32-ocl-icd 2.3.0-1
 lib32-openal 1.21.1-1
-lib32-opencl-mesa 21.1.4-1
+lib32-opencl-mesa 21.1.5-1
 lib32-openssl 1:1.1.1.k-1
 lib32-opus 1.3.1-1
 lib32-orc 0.4.32-1
@@ -859,7 +859,7 @@ lib32-util-linux 2.37-1
 lib32-v4l-utils 1.20.0-1
 lib32-vkd3d 1.2-2
 lib32-vulkan-icd-loader 1.2.182-1
-lib32-vulkan-radeon 21.1.4-1
+lib32-vulkan-radeon 21.1.5-1
 lib32-wayland 1.19.0-1
 lib32-x264 3:0.161.r3039.544c61f-2
 lib32-xz 5.2.5-2
@@ -1135,7 +1135,7 @@ libusbmuxd 2.0.2-1
 libutempter 1.2.1-1
 libuv 1.41.1-1
 libva 2.12.0-1
-libva-mesa-driver 21.1.4-1
+libva-mesa-driver 21.1.5-1
 libvdpau 1.4-1
 libvirt 1:7.5.0-1
 libvirt-glib 4.0.0-1
@@ -1257,9 +1257,9 @@ mbox-importer 21.04.3-1
 md4c 0.4.8-1
 mdadm 4.1-2
 media-player-info 24-2
-mesa 21.1.4-1
+mesa 21.1.5-1
 mesa-demos 8.4.0-4
-mesa-vdpau 21.1.4-1
+mesa-vdpau 21.1.5-1
 meson 0.58.1-1
 messagelib 21.04.3-1
 metis 5.1.0.p10-2
@@ -1367,7 +1367,7 @@ nodejs-nopt 5.0.0-2
 noto-fonts 20201226-2
 noto-fonts-cjk 20201206-2
 noto-fonts-emoji 20210625-1
-noto-fonts-emoji-blob 20190614-2
+noto-fonts-emoji-blob 1:14.0-1
 noto-fonts-extra 20201226-2
 npm 7.17.0-1
 npth 1.6-3
@@ -1391,7 +1391,7 @@ openal 1.21.1-1
 openbabel 3.1.1-2
 opencc 1.1.2-1
 opencl-headers 2:2021.04.29-1
-opencl-mesa 21.1.4-1
+opencl-mesa 21.1.5-1
 opencollada 1:1.6.68-2
 opencolorio 2.0.1-3
 opencolorio1 1.1.1-3
@@ -1413,7 +1413,7 @@ openxr 1.0.17-1
 opus 1.3.1-2
 opusfile 0.12-1
 orc 0.4.32-1
-os-prober 1.78-1
+os-prober 1.79-1
 osinfo-db 20210531-1
 ostree 2021.3-1
 oxygen 5.22.3-1
@@ -1567,7 +1567,7 @@ python-grip 4.5.2-1
 python-html5lib 1.1-6
 python-hyperlink 21.0.0-2
 python-idna 3.2-1
-python-importlib-metadata 4.6.0-1
+python-importlib-metadata 4.6.1-1
 python-incremental 21.3.0-2
 python-ipykernel 5.5.3-1
 python-itsdangerous 2.0.1-1
@@ -1861,7 +1861,7 @@ tdb 1.4.4-1
 tdlib 0.5.0-4
 teamspeak3 3.5.6-1
 teamspeak3-server 3.13.6-1
-telegram-desktop 2.8.4-3
+telegram-desktop 2.8.11-1
 telepathy-accounts-signon 2.1-2
 telepathy-farstream 0.6.2-7
 telepathy-glib 0.24.2-2
@@ -1907,14 +1907,14 @@ ttf-droid 20121017-10
 ttf-hack 3.003-3
 ttf-inconsolata 1:3.000-3
 ttf-jetbrains-mono 2.225-1
-ttf-joypixels 6.5.0-1
+ttf-joypixels 6.6.0-1
 ttf-liberation 2.1.4-1
 ttf-linux-libertine 5.3.0-7
 ttf-monaco 6.1-6
 ttf-ms-fonts 2.0-12
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-4
 ttf-opensans 1.101-2
-ttf-sarasa-gothic 0.32.10-1
+ttf-sarasa-gothic 0.32.11-1
 ttf-symbola 13.00-10
 ttf-twemoji-color 13.0.1-1
 ttf-ubuntu-font-family 0.83-7
@@ -1939,7 +1939,7 @@ util-linux 2.37-3
 util-linux-libs 2.37-3
 utools 1.3.5-1
 v2ray 4.40.1-1
-v2ray-domain-list-community 20210715104242-1
+v2ray-domain-list-community 20210717091509-1
 v2ray-geoip 202107150023-1
 v2raya 1.3.3-1
 v4l-utils 1.20.0-1
@@ -1949,7 +1949,7 @@ vala 0.52.4-1
 vamp-plugin-sdk 2.10.0-1
 vde2 2.3.2-16
 vdpauinfo 1.4-1
-ventoy-bin 1.0.46-2
+ventoy-bin 1.0.47-1
 vi 1:070224-5
 vid.stab 1.1-3
 vim 8.2.2891-1
@@ -1970,7 +1970,7 @@ vte3 0.64.2-2
 vtk 8.2.0-19
 vulkan-headers 1:1.2.183-1
 vulkan-icd-loader 1.2.183-1
-vulkan-radeon 21.1.4-1
+vulkan-radeon 21.1.5-1
 vulkan-tools 1.2.182-1
 w3m 0.5.3.git20210102_6-1
 wavpack 5.4.0-1
@@ -2096,7 +2096,7 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.4-1
 xplane-sdk-devel 3.0.3-1
 xray 1.4.2-1
-xray-domain-list-community 20210715104242-1
+xray-domain-list-community 20210717172626-1
 xray-geoip 202107150023-1
 xvidcore 1.3.7-2
 xxhash 0.8.0-1
