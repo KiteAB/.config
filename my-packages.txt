@@ -44,7 +44,7 @@ analitza 21.04.3-1
 android-tools 31.0.2-1
 android-udev 20210501-1
 anydesk-bin 6.1.1-3
-aom 3.1.1-1
+aom 3.1.2-1
 apache 2.4.48-1
 appstream 0.14.4-1
 appstream-glib 0.7.18-2
@@ -53,7 +53,7 @@ apr 1.7.0-3
 apr-util 1.6.1-8
 arandr 0.1.10-6
 arc-icon-theme 20161122-3
-archlinux-appstream-data 20210612-1
+archlinux-appstream-data 20210723-1
 archlinux-keyring 20210616-1
 archlinuxcn-keyring 20210401-1
 arctime 2.4.1-1
@@ -98,7 +98,7 @@ binutils 2.36.1-3
 bison 3.7.6-1
 black-hole-solver 1.10.1-1
 blas 3.10.0-1
-blender 17:2.93.1-4
+blender 17:2.93.1-5
 blinken 21.04.3-1
 blosc 1.21.0-1
 bluedevil 1:5.22.3-1
@@ -232,7 +232,7 @@ elisa 21.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.149068-1
+emacs-git 28.0.50.149131-1
 embree 3.13.0-1
 enca 1.19-4
 enchant 2.3.0-1
@@ -814,7 +814,7 @@ lib32-libxcursor 1.2.0-1
 lib32-libxdamage 1.1.5-1
 lib32-libxdmcp 1.1.3-1
 lib32-libxext 1.3.4-1
-lib32-libxfixes 5.0.3-2
+lib32-libxfixes 6.0.0-1
 lib32-libxft 2.3.3-1
 lib32-libxi 1.7.10-2
 lib32-libxinerama 1.1.4-1
@@ -856,7 +856,7 @@ lib32-rest 0.8.1-3
 lib32-sdl2 2.0.14-1
 lib32-sqlite 3.36.0-1
 lib32-systemd 249.1-1
-lib32-tdb 1.4.4-1
+lib32-tdb 1.4.5-1
 lib32-util-linux 2.37-1
 lib32-v4l-utils 1.20.0-1
 lib32-vkd3d 1.2-2
@@ -1372,7 +1372,7 @@ noto-fonts-cjk 20201206-2
 noto-fonts-emoji 20210625-1
 noto-fonts-emoji-blob 1:14.0-2
 noto-fonts-extra 20201226-2
-npm 7.18.1-1
+npm 7.19.1-1
 npth 1.6-3
 nspr 4.32-1
 nss 3.68-1
@@ -1633,7 +1633,7 @@ python-systemd 234-8
 python-sysv_ipc 1.1.0-1
 python-termcolor 1.1.0-10
 python-toml 0.10.2-3
-python-tomli 1.0.4-1
+python-tomli 1.1.0-1
 python-tornado 6.1.0-3
 python-traitlets 5.0.5-1
 python-twisted 21.2.0-3
@@ -1862,7 +1862,7 @@ talloc 2.3.3-1
 tar 1.34-1
 tbb 2020.3-1
 tcl 8.6.11-1
-tdb 1.4.4-1
+tdb 1.4.5-1
 tdlib 0.5.0-4
 teamspeak3 3.5.6-1
 teamspeak3-server 3.13.6-1
@@ -1973,15 +1973,15 @@ volume_key 0.3.12-5
 vte-common 0.64.2-2
 vte3 0.64.2-2
 vtk 8.2.0-20
-vulkan-headers 1:1.2.184-1
-vulkan-icd-loader 1.2.184-1
+vulkan-headers 1:1.2.185-1
+vulkan-icd-loader 1.2.185-1
 vulkan-radeon 21.1.5-1
 vulkan-tools 1.2.184-1
 w3m 0.5.3.git20210102_6-1
 wavpack 5.4.0-1
 wayland 1.19.0-1
 wayland-protocols 1.21-1
-webkit2gtk 2.32.2-1
+webkit2gtk 2.32.3-1
 webp-pixbuf-loader 0.0.3-1
 webrtc-audio-processing 0.3.1-3
 wget 1.21.1-1
