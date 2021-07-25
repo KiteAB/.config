@@ -6,7 +6,7 @@ accountsservice 0.6.55-3
 acl 2.3.1-1
 acorn 1:8.4.1-1
 acpi 1.7-3
-acpi_call 1.2.1-73
+acpi_call 1.2.1-74
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-2
@@ -38,7 +38,7 @@ alsa-topology-conf 1.2.5.1-1
 alsa-ucm-conf 1.2.5.1-1
 alsa-utils 1.2.5.1-1
 amd-ucode 20210716.b7c134f-1
-amdvlk 2021.Q3.1-1
+amdvlk 2021.Q3.2-1
 amtk 5.3.1-1
 analitza 21.04.3-1
 android-tools 31.0.2-1
@@ -232,7 +232,7 @@ elisa 21.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.149131-1
+emacs-git 28.0.50.149151-1
 embree 3.13.0-1
 enca 1.19-4
 enchant 2.3.0-1
@@ -259,7 +259,7 @@ fcitx5-pinyin-zhwiki 1:0.2.3.20210722-1
 fcitx5-qt 5.0.6-1
 fcitx5-rime 5.0.6-1
 fd 8.2.1-1
-feh 3.7-1
+feh 3.7.1-1
 ffmpeg 2:4.4-4
 ffmpegthumbs 21.04.3-1
 ffms2 2.40-1
@@ -305,7 +305,7 @@ gd 2.3.2-4
 gdb 10.2-2
 gdb-common 10.2-2
 gdbm 1.20-1
-gdk-pixbuf2 2.42.6-1
+gdk-pixbuf2 2.42.6-2
 gdl 3.34.0-2
 gedit 40.1-1
 gegl 0.4.30-4
@@ -700,7 +700,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.9.98.r5591.d600bbeb-1
+latte-dock-git 0.9.98.r5593.d84e50a5-1
 layer-shell-qt 5.22.3-1
 lazydocker 0.12-1
 lcms2 2.12-1
@@ -714,7 +714,7 @@ lib2geom 1.1-1
 lib32-acl 2.3.1-1
 lib32-alsa-lib 1.2.5.1-1
 lib32-alsa-plugins 1.2.5-1
-lib32-amdvlk 2021.Q3.1-1
+lib32-amdvlk 2021.Q3.2-1
 lib32-at-spi2-atk 2.38.0-1
 lib32-at-spi2-core 2.40.3-1
 lib32-atk 2.36.0-2
@@ -735,7 +735,7 @@ lib32-fontconfig 2:2.13.94-1
 lib32-freetype2 2.10.4-1
 lib32-fribidi 1.0.10-1
 lib32-gcc-libs 11.1.0-1
-lib32-gdk-pixbuf2 2.42.6-1
+lib32-gdk-pixbuf2 2.42.6-2
 lib32-gettext 0.21-1
 lib32-giflib 5.2.1-1
 lib32-glib-networking 2.68.1-1
@@ -855,9 +855,9 @@ lib32-readline 8.1.001-1
 lib32-rest 0.8.1-3
 lib32-sdl2 2.0.14-1
 lib32-sqlite 3.36.0-1
-lib32-systemd 249.1-1
+lib32-systemd 249.2-1
 lib32-tdb 1.4.5-1
-lib32-util-linux 2.37-1
+lib32-util-linux 2.37.1-1
 lib32-v4l-utils 1.20.0-1
 lib32-vkd3d 1.2-2
 lib32-vulkan-icd-loader 1.2.184-1
@@ -967,7 +967,7 @@ libibus 1.5.24-1
 libical 3.0.10-1
 libice 1.0.10-3
 libid3tag 0.15.1b-11
-libidn 1.37-1
+libidn 1.38-1
 libidn2 2.3.1-1
 libiec61883 1.2.0-6
 libieee1284 0.2.11-11
@@ -1201,10 +1201,10 @@ lightdm 1:1.30.0-4
 lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-5
 lilv 0.24.12-1
-linux 5.13.4.arch1-1
+linux 5.13.4.arch2-1
 linux-api-headers 5.12.3-1
 linux-firmware 20210716.b7c134f-1
-linux-headers 5.13.4.arch1-1
+linux-headers 5.13.4.arch2-1
 linuxqq 1:2.0.0_b2_1089-1
 lirc 1:0.10.1-8
 lld 12.0.1-1
@@ -1372,7 +1372,7 @@ noto-fonts-cjk 20201206-2
 noto-fonts-emoji 20210625-1
 noto-fonts-emoji-blob 1:14.0-2
 noto-fonts-extra 20201226-2
-npm 7.19.1-1
+npm 7.20.1-1
 npth 1.6-3
 nspr 4.32-1
 nss 3.68-1
@@ -1444,7 +1444,7 @@ pcre 8.45-1
 pcre2 10.37-1
 pcsclite 1.9.1-1
 perf 5.13-1
-perl 5.34.0-1
+perl 5.34.0-2
 perl-clone 0.45-3
 perl-encode-locale 1.05-8
 perl-error 0.17029-3
@@ -1852,10 +1852,10 @@ swh-plugins 0.4.17-4
 syndication 5.84.0-1
 syntax-highlighting 5.84.0-1
 sysfsutils 2.1.1-1
-systemd 249.1-1
-systemd-libs 249.1-1
+systemd 249.2-1
+systemd-libs 249.2-1
 systemd-swap 4.4.0-2
-systemd-sysvcompat 249.1-1
+systemd-sysvcompat 249.2-1
 systemsettings 5.22.3-1
 taglib 1.12-1
 talloc 2.3.3-1
@@ -1894,7 +1894,7 @@ thin-provisioning-tools 0.9.0-1
 threadweaver 5.84.0-1
 tigervnc 1.11.0-6
 tinyxml 2.6.2-7
-tldr 1.2.1-1
+tldr 2.0.0-1
 tlp 1.3.1-2
 tlp-rdw 1.3.1-2
 tlpui-git 2:1.4.0.alpha.r1.gcfe3b14-1
@@ -1929,7 +1929,7 @@ uchardet 0.0.7-1
 udisks2 2.9.2-1
 ueberzug 18.1.9-2
 umbrello 21.04.3-1
-unbound 1.13.1-1
+unbound 1.13.1-2
 unibilium 2.1.1-1
 unicode-character-database 13.0.0-1
 unicode-cldr 38.0-2
@@ -1940,11 +1940,11 @@ upower 0.99.12-2
 usbmuxd 1.1.1-1
 usbredir 0.9.0-1
 usbutils 013-1
-util-linux 2.37-3
-util-linux-libs 2.37-3
+util-linux 2.37.1-1
+util-linux-libs 2.37.1-1
 utools 1.3.5-1
 v2ray 4.40.1-1
-v2ray-domain-list-community 20210722040510-1
+v2ray-domain-list-community 20210725030530-1
 v2ray-geoip 202107220025-1
 v2raya 1.4.1-1
 v4l-utils 1.20.0-1
@@ -1964,7 +1964,7 @@ virt-install 3.2.0-1
 virt-manager 3.2.0-1
 virtio-win 0.1.196.1-3
 virtualbox 6.1.24-1
-virtualbox-host-modules-arch 6.1.24-2
+virtualbox-host-modules-arch 6.1.24-3
 visual-studio-code-bin 1.58.2-1
 vkd3d 1.2-1
 vlc 3.0.16-2
@@ -2101,7 +2101,7 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.4-1
 xplane-sdk-devel 3.0.3-1
 xray 1.4.2-1
-xray-domain-list-community 20210722040510-1
+xray-domain-list-community 20210725030530-1
 xray-geoip 202107220025-1
 xvidcore 1.3.7-2
 xxhash 0.8.0-1
