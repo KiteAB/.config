@@ -338,6 +338,7 @@ glibc 2.33-5
 glibmm 2.66.1-2
 glslang 11.5.0-1
 glu 9.0.2-1
+glusterfs 1:9.1-1
 gmp 6.2.1-1
 gn-m85 0.1792.7d7e8dee-1
 gnome-autoar 0.3.3-1
@@ -987,6 +988,7 @@ libinput-gestures 2.67-1
 libinput_gestures_qt 0.3.2+7+g0868859-1
 libinstpatch 1.1.6-1
 libiptcdata 1.0.4-5
+libiscsi 1.19.0-2
 libixion 0.16.1-6
 libjpeg-turbo 2.1.0-1
 libkate 0.4.1-7
@@ -1136,6 +1138,7 @@ libuiohook 1.0.3-5
 libunistring 0.9.10-3
 libunwind 1.5.0-1
 libupnp 1.14.7-1
+liburcu 0.12.2-1
 liburing 2.0-1
 libusb 1.0.24-2
 libusb-compat 0.1.7-1
@@ -1206,6 +1209,7 @@ licenses 20200427-1
 lightdm 1:1.30.0-4
 lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-5
+lightly-qt 0.4.1-1
 lilv 0.24.12-1
 linux 5.13.5.arch1-1
 linux-api-headers 5.12.3-1
@@ -1614,6 +1618,7 @@ python-pillow 8.3.1-1
 python-pip 20.3.4-1
 python-pluggy 0.13.1-4
 python-ply 3.11-7
+python-prettytable 0.7.2-14
 python-progress 1.5-5
 python-prompt_toolkit 3.0.19-1
 python-psutil 5.8.0-1
@@ -1700,6 +1705,10 @@ python2-webencodings 0.5.1-6
 python2-zipp 1:1.1.1-1
 qca-qt5 2.3.3-1
 qemu 6.0.0-3
+qemu-arch-extra 6.0.0-3
+qemu-block-gluster 6.0.0-3
+qemu-block-iscsi 6.0.0-3
+qemu-block-rbd 6.0.0-3
 qgpgme 1.16.0-1
 qhull 2020.2-4
 qpdf 10.3.2-1
@@ -1767,6 +1776,7 @@ roccat-tools-konepure 5.9.0-2
 roccat-tools-konextd 5.9.0-2
 rocs 21.04.3-1
 rofi 1.6.1-1
+rpcbind 1.2.6-1
 rsync 3.2.3-3
 rtaudio 5.1.0-3
 rtkit 0.13-1
