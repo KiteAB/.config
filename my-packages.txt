@@ -58,6 +58,11 @@ archlinux-appstream-data 20210723-1
 archlinux-keyring 20210616-1
 archlinuxcn-keyring 20210401-1
 arctime 2.4.1-1
+arduino 1:1.8.15-1
+arduino-avr-core 1.8.3-1
+arduino-builder 1.6.1-1
+arduino-ctags 5.8_arduino11-4
+arduino-docs 1.6.6-7
 argon2 20190702-3
 aria2 1.35.0-2
 aribb24 1.0.3-3
@@ -84,7 +89,12 @@ avahi 0.8+20+gd1e71b3-1
 avogadro-crystals 1.0.1-1
 avogadro-molecules 1.0.0-1
 avogadrolibs 1.94.0-1
+avr-binutils 2.36.1-2
+avr-gcc 11.1.0-1
+avr-libc 2.0.0-4
+avrdude 1:6.3-7
 awesome-terminal-fonts 1.1.0-4
+axel 2.17.10-1
 babl 0.1.86-1
 baloo 5.84.0-1
 baloo-widgets 21.04.3-1
@@ -237,10 +247,11 @@ elisa 21.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.149199-1
+emacs-git 28.0.50.149223-1
 embree 3.13.0-1
 enca 1.19-4
 enchant 2.3.0-1
+esptool 3.1-1
 ethtool 1:5.13-1
 eventviews 21.04.3-1
 exempi 2.5.2-1
@@ -340,7 +351,7 @@ glibc 2.33-5
 glibmm 2.66.1-2
 glslang 11.5.0-1
 glu 9.0.2-1
-glusterfs 1:9.1-1
+glusterfs 1:9.3-1
 gmp 6.2.1-1
 gn-m85 0.1792.7d7e8dee-1
 gnome-autoar 0.3.3-1
@@ -381,6 +392,7 @@ gsettings-desktop-schemas 40.0-3
 gsfonts 20200910-2
 gsl 2.7-1
 gsm 1.0.19-1
+gsmartcontrol 1.1.3-3
 gspell 1.8.4-1
 gssdp 1.2.3-1
 gst-libav 1.18.4-1
@@ -439,7 +451,7 @@ id3lib 3.8.3-18
 ijs 0.35-3
 imagemagick 7.1.0.4-1
 imath 3.1.1-1
-imlib2 1.7.1-1
+imlib2 1.7.2-1
 incidenceeditor 21.04.3-1
 iniparser 4.1-3
 inkscape 1.1-4
@@ -447,7 +459,7 @@ intellij-idea-community-edition 4:2021.1.3-1
 intltool 0.51.0-6
 iproute2 5.13.0-1
 iptables-nft 1:1.8.7-1
-iputils 20210202-1
+iputils 20210722-1
 ipython 7.25.0-1
 iso-codes 4.6.0-1
 itinerary 21.04.3-1
@@ -1384,14 +1396,15 @@ ninja 1.10.2-1
 nm-connection-editor 1.22.0-1
 nmap 7.91-1
 node-gyp 8.1.0-2
-nodejs 16.5.0-1
+nodejs 16.6.0-1
 nodejs-nopt 5.0.0-2
+nodemcu-pyflasher 5.0.0-1
 noto-fonts 20201226-2
 noto-fonts-cjk 20201206-2
 noto-fonts-emoji 20210625-1
 noto-fonts-emoji-blob 1:14.0-2
 noto-fonts-extra 20201226-2
-npm 7.20.2-1
+npm 7.20.3-1
 npth 1.6-3
 nspr 4.32-1
 nss 3.68-1
@@ -1430,7 +1443,7 @@ openshadinglanguage 1.11.14.0-3
 openssh 8.6p1-1
 openssl 1.1.1.k-1
 openssl-1.0 1.0.2.u-1
-opensubdiv 3.4.4-2
+opensubdiv 3.4.4-4
 openvdb 8.1.0-1
 openxr 1.0.17-1
 opus 1.3.1-2
@@ -1567,6 +1580,7 @@ python-aubio 0.4.9-9
 python-automat 20.2.0-6
 python-backcall 0.2.0-4
 python-beaker 1.11.0-6
+python-bitstring 3.1.7-3
 python-cachecontrol 0.12.6-3
 python-cairo 1.20.0-3
 python-cffi 1.14.6-1
@@ -1582,6 +1596,7 @@ python-distlib 0.3.2-1
 python-distro 1.5.0-3
 python-dnspython 1:1.16.0-3
 python-docopt 0.6.2-9
+python-ecdsa 0.17.0-1
 python-epc 0.0.5-3
 python-evdev 1.4.0-1
 python-feedparser 5.2.1-9
@@ -1590,6 +1605,7 @@ python-future 0.18.2-5
 python-gobject 3.40.1-1
 python-grip 4.5.2-1
 python-html5lib 1.1-6
+python-httplib2 0.19.1-1
 python-hyperlink 21.0.0-2
 python-idna 3.2-1
 python-importlib-metadata 4.6.1-1
@@ -1627,6 +1643,7 @@ python-progress 1.5-5
 python-prompt_toolkit 3.0.19-1
 python-psutil 5.8.0-1
 python-ptyprocess 0.7.0-1
+python-pyaes 1.6.1-7
 python-pyalsa 1.1.6-6
 python-pycparser 2.20-3
 python-pygments 2.9.0-1
@@ -1637,11 +1654,13 @@ python-pyparsing 2.4.7-3
 python-pyqt5 5.15.4-1
 python-pyqt5-sip 12.9.0-1
 python-pyqt5-webengine 5.15.4-1
+python-pyserial 3.5-2
 python-pyte 0.8.0-6
 python-pyzmq 22.1.0-1
 python-qrcode 6.1-6
 python-qtconsole 5.1.1-1
 python-qtpy 1.9.0-5
+python-reedsolo 1.5.4-1
 python-requests 2.26.0-1
 python-resolvelib 0.5.5-1
 python-retrying 1.3.3-9
@@ -1664,6 +1683,7 @@ python-urllib3 1.26.6-1
 python-wcwidth 0.2.5-3
 python-webencodings 0.5.1-6
 python-werkzeug 2.0.1-1
+python-wxpython 1:4.0.7.2-1
 python-xlib 0.31-1
 python-yaml 5.4.1.1-2
 python-zipp 3.5.0-1
@@ -1871,6 +1891,7 @@ stk 4.6.1-3
 sudo 1.9.7.p2-1
 suil 0.10.10-1
 suitesparse 5.10.1-1
+sunloginclient 11.0.0.36662-2
 svgpart 21.04.3-1
 svt-av1 0.8.7-1
 svt-hevc 1.5.1-1
@@ -1893,7 +1914,7 @@ tdb 1.4.5-1
 tdlib 0.5.0-4
 teamspeak3 3.5.6-1
 teamspeak3-server 3.13.6-1
-telegram-desktop 2.8.11-2
+telegram-desktop 2.9.0-1
 telepathy-accounts-signon 2.1-2
 telepathy-farstream 0.6.2-7
 telepathy-glib 0.24.2-2
@@ -1926,6 +1947,7 @@ tlp 1.3.1-2
 tlp-rdw 1.3.1-2
 tlpui-git 2:1.4.0.alpha.r1.gcfe3b14-1
 tmux 3.2_a-1
+todesk-bin 2.0.2-2
 totem-pl-parser 3.26.6-1
 traceroute 2.1.0-5
 tracker3 3.1.2-1
@@ -1971,7 +1993,7 @@ util-linux 2.37.1-1
 util-linux-libs 2.37.1-1
 utools 1.3.5-1
 v2ray 4.40.1-1
-v2ray-domain-list-community 20210727125446-1
+v2ray-domain-list-community 20210730144734-1
 v2ray-geoip 202107290023-1
 v2raya 1.4.1-1
 v4l-utils 1.20.0-1
@@ -2129,7 +2151,7 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.4-1
 xplane-sdk-devel 3.0.3-1
 xray 1.4.2-1
-xray-domain-list-community 20210727125446-1
+xray-domain-list-community 20210730144734-1
 xray-geoip 202107290023-1
 xvidcore 1.3.7-2
 xxhash 0.8.0-1
@@ -2140,7 +2162,7 @@ yaml-cpp 0.6.3-2
 yaourt 1.9-1
 yarn 1.22.11-1
 yasm 1.3.0-4
-yay 10.3.0-1
+yay 10.3.1-1
 yelp-tools 40.0-1
 yelp-xsl 40.2-1
 you-get 0.4.1536-1
