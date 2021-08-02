@@ -6,7 +6,7 @@ accountsservice 0.6.55-3
 acl 2.3.1-1
 acorn 1:8.4.1-1
 acpi 1.7-3
-acpi_call 1.2.1-76
+acpi_call 1.2.1-77
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-2
@@ -119,6 +119,7 @@ bluez-libs 5.60-1
 bluez-qt 5.84.0-1
 bolt 0.9.1-1
 bomber 21.04.3-1
+boost 1.76.0-1
 boost-libs 1.76.0-1
 bovo 21.04.3-1
 box2d 2.4.1-1
@@ -249,7 +250,7 @@ elisa 21.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.149245-1
+emacs-git 28.0.50.149260-1
 embree 3.13.0-1
 enca 1.19-4
 enchant 2.3.0-1
@@ -266,7 +267,7 @@ faac 1.30-2
 faad2 2.10.0-1
 fakeroot 1.25.3-2
 farstream 0.2.9-2
-faudio 21.07-1
+faudio 21.08-1
 fcitx5 5.0.8-1
 fcitx5-anthy 5.0.5-1
 fcitx5-chewing 5.0.5-1
@@ -437,6 +438,7 @@ hicolor-icon-theme 0.17-2
 hidapi 0.10.1-1
 hiredis 1.0.0-1
 hmcl 3.3.188-1
+howdy 2.6.1-2
 htop 3.0.5-1
 http-parser 2.9.4-1
 hugo 0.86.1-1
@@ -453,7 +455,7 @@ icu 69.1-1
 id3lib 3.8.3-18
 ijs 0.35-3
 imagemagick 7.1.0.4-1
-imath 3.1.1-1
+imath 3.1.2-1
 imlib2 1.7.2-1
 incidenceeditor 21.04.3-1
 iniparser 4.1-3
@@ -725,7 +727,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.9.98.r5596.71f9e891-1
+latte-dock-git 0.9.98.r5598.2f6808b6-1
 layer-shell-qt 5.22.4-1
 lazydocker 0.12-1
 lcms2 2.12-1
@@ -754,7 +756,7 @@ lib32-dbus 1.12.20-1
 lib32-dconf 0.40.0-1
 lib32-e2fsprogs 1.46.3-1
 lib32-expat 2.4.1-1
-lib32-faudio 21.07-1
+lib32-faudio 21.08-1
 lib32-flac 1.3.3-1
 lib32-fontconfig 2:2.13.94-1
 lib32-freetype2 2.10.4-1
@@ -828,7 +830,7 @@ lib32-libunistring 0.9.10-1
 lib32-libunwind 1.5.0-1
 lib32-libusb 1.0.24-1
 lib32-libva 2.11.0-1
-lib32-libva-mesa-driver 21.1.5-1
+lib32-libva-mesa-driver 21.1.6-1
 lib32-libvorbis 1.3.7-1
 lib32-libx11 1.7.2-1
 lib32-libxau 1.0.9-1
@@ -857,8 +859,8 @@ lib32-llvm 12.0.1-1
 lib32-llvm-libs 12.0.1-1
 lib32-lm_sensors 1:3.6.0.r41.g31d1f125-1
 lib32-lz4 1.9.3-1
-lib32-mesa 21.1.5-1
-lib32-mesa-vdpau 21.1.5-1
+lib32-mesa 21.1.6-1
+lib32-mesa-vdpau 21.1.6-1
 lib32-mpg123 1.28.2-1
 lib32-ncurses 6.2-1
 lib32-nettle 3.7.3-1
@@ -866,7 +868,7 @@ lib32-nspr 4.32-1
 lib32-nss 3.68-1
 lib32-ocl-icd 2.3.0-1
 lib32-openal 1.21.1-1
-lib32-opencl-mesa 21.1.5-1
+lib32-opencl-mesa 21.1.6-1
 lib32-openssl 1:1.1.1.k-1
 lib32-opus 1.3.1-1
 lib32-orc 0.4.32-1
@@ -886,7 +888,7 @@ lib32-util-linux 2.37.1-1
 lib32-v4l-utils 1.20.0-1
 lib32-vkd3d 1.2-2
 lib32-vulkan-icd-loader 1.2.184-1
-lib32-vulkan-radeon 21.1.5-1
+lib32-vulkan-radeon 21.1.6-1
 lib32-wayland 1.19.0-1
 lib32-x264 3:0.161.r3039.544c61f-2
 lib32-xz 5.2.5-2
@@ -1042,7 +1044,7 @@ libluv 1.41.0-1
 libmad 0.15.1b-9
 libmanette 0.2.6-2
 libmatroska 1.6.3-1
-libmbim 1.24.8-1
+libmbim 1.26.0-1
 libmfx 21.2.3-1
 libmicrodns 0.2.0-1
 libmicrohttpd 0.9.73-1
@@ -1230,12 +1232,12 @@ lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-6
 lightly-qt 0.4.1-1
 lilv 0.24.12-1
-linux 5.13.6.arch1-1
+linux 5.13.7.arch1-1
 linux-api-headers 5.12.3-1
 linux-firmware 20210716.b7c134f-1
-linux-headers 5.13.6.arch1-1
-linux-zen 5.13.6.zen1-1
-linux-zen-headers 5.13.6.zen1-1
+linux-headers 5.13.7.arch1-1
+linux-zen 5.13.7.zen1-1
+linux-zen-headers 5.13.7.zen1-1
 linuxqq 1:2.0.0_b2_1089-1
 lirc 1:0.10.1-8
 lld 12.0.1-1
@@ -1465,6 +1467,7 @@ pacman-mirrorlist 20210718-1
 pahole 1.21-1
 palapeli 21.04.3-1
 pam 1.5.1-1
+pam-python 1.0.8-2
 pambase 20210605-2
 pango 1:1.48.7-1
 pangomm 2.46.1-2
@@ -1570,7 +1573,7 @@ pulseaudio-rtp 15.0-1
 pulseaudio-zeroconf 15.0-1
 pulsemixer 1.5.1-2
 purpose 5.84.0-1
-pybind11 2.7.0-1
+pybind11 2.7.0-2
 pyrit 0.5.0-5
 pystring 1.1.3.git1-1
 python 3.9.6-1
@@ -1581,6 +1584,7 @@ python-asn1crypto 1.4.0-3
 python-attrs 21.2.0-1
 python-aubio 0.4.9-9
 python-automat 20.2.0-6
+python-babel 2.9.1-1
 python-backcall 0.2.0-4
 python-beaker 1.11.0-6
 python-bitstring 3.1.7-3
@@ -1597,11 +1601,15 @@ python-dateutil 2.8.1-6
 python-decorator 5.0.9-1
 python-distlib 0.3.2-1
 python-distro 1.5.0-3
+python-dlib 19.21-2
 python-dnspython 1:1.16.0-3
 python-docopt 0.6.2-9
+python-docutils 0.17.1-1
 python-ecdsa 0.17.0-1
 python-epc 0.0.5-3
 python-evdev 1.4.0-1
+python-face_recognition 1.3.0-1
+python-face_recognition_models 0.3.0-1
 python-feedparser 5.2.1-9
 python-flask 2.0.1-1
 python-future 0.18.2-5
@@ -1611,6 +1619,7 @@ python-html5lib 1.1-6
 python-httplib2 0.19.1-1
 python-hyperlink 21.0.0-2
 python-idna 3.2-1
+python-imagesize 1.2.0-4
 python-importlib-metadata 4.6.1-1
 python-incremental 21.3.0-2
 python-ipykernel 5.5.3-1
@@ -1630,6 +1639,7 @@ python-more-itertools 8.8.0-1
 python-msgpack 1.0.2-2
 python-nautilus 1.2.3-5
 python-numpy 1.20.3-1
+python-opencv 4.5.3-2
 python-ordered-set 4.0.2-3
 python-packaging 20.9-1
 python-parso 1:0.8.2-1
@@ -1659,6 +1669,7 @@ python-pyqt5-sip 12.9.0-1
 python-pyqt5-webengine 5.15.4-1
 python-pyserial 3.5-2
 python-pyte 0.8.0-6
+python-pytz 2021.1-1
 python-pyzmq 22.1.0-1
 python-qrcode 6.1-6
 python-qtconsole 5.1.1-1
@@ -1667,12 +1678,22 @@ python-reedsolo 1.5.4-1
 python-requests 2.26.0-1
 python-resolvelib 0.5.5-1
 python-retrying 1.3.3-9
+python-scipy 1.7.0-1
 python-setuptools 1:57.4.0-1
 python-sexpdata 0.0.3-3
 python-sgmllib 5.2.1-9
 python-shiboken2 5.15.2-9
 python-sip4 4.19.25-1
 python-six 1.16.0-1
+python-snowballstemmer 2.1.0-1
+python-sphinx 4.1.2-1
+python-sphinx-alabaster-theme 0.7.12-6
+python-sphinxcontrib-applehelp 1.0.2-6
+python-sphinxcontrib-devhelp 1.0.2-6
+python-sphinxcontrib-htmlhelp 2.0.0-1
+python-sphinxcontrib-jsmath 1.0.1-9
+python-sphinxcontrib-qthelp 1.0.3-6
+python-sphinxcontrib-serializinghtml 1.1.5-1
 python-systemd 234-8
 python-sysv_ipc 1.1.0-1
 python-termcolor 1.1.0-10
@@ -1917,7 +1938,7 @@ tdb 1.4.5-1
 tdlib 0.5.0-4
 teamspeak3 3.5.6-1
 teamspeak3-server 3.13.6-1
-telegram-desktop 2.9.0-1
+telegram-desktop 2.9.0-2
 telepathy-accounts-signon 2.1-2
 telepathy-farstream 0.6.2-7
 telepathy-glib 0.24.2-2
@@ -1971,7 +1992,7 @@ ttf-monaco 6.1-6
 ttf-ms-fonts 2.0-12
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-4
 ttf-opensans 1.101-2
-ttf-sarasa-gothic 0.34.0-1
+ttf-sarasa-gothic 0.34.1-1
 ttf-symbola 13.00-10
 ttf-twemoji-color 13.0.1-1
 ttf-ubuntu-font-family 0.83-7
@@ -2006,7 +2027,7 @@ vala 0.52.4-1
 vamp-plugin-sdk 2.10.0-1
 vde2 2.3.2-16
 vdpauinfo 1.4-1
-ventoy-bin 1.0.47-1
+ventoy-bin 1.0.48-1
 vi 1:070224-5
 vid.stab 1.1-3
 vim 8.2.2891-1
@@ -2016,7 +2037,7 @@ virt-install 3.2.0-1
 virt-manager 3.2.0-1
 virtio-win 0.1.196.1-3
 virtualbox 6.1.26-1
-virtualbox-host-modules-arch 6.1.26-2
+virtualbox-host-modules-arch 6.1.26-3
 visual-studio-code-bin 1.58.2-1
 vkd3d 1.2-1
 vlc 3.0.16-2
@@ -2080,7 +2101,7 @@ xf86-input-libinput 1.1.0-1
 xf86-input-synaptics 1.9.1-2
 xf86-input-vmmouse 13.1.0-5
 xf86-input-void 1.4.1-5
-xf86-video-amdgpu 19.1.0-2
+xf86-video-amdgpu 21.0.0-1
 xf86-video-ati 1:19.1.0-2
 xf86-video-dummy 0.3.8-4
 xf86-video-fbdev 0.5.0-2
@@ -2154,7 +2175,7 @@ xorgproto 2021.4-1
 xplane-sdk-devel 3.0.3-1
 xray 1.4.2-1
 xray-domain-list-community 20210731055901-1
-xray-geoip 202107290023-1
+xray-geoip 202108020308-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
 xvidcore 1.3.7-2
 xxhash 0.8.0-1
