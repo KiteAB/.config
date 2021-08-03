@@ -42,3 +42,6 @@ alias t='if command -v tmux &> /dev/null && [ -n "$PS1" ] && [[ ! "$TERM" =~ scr
   exec tmux
 fi'
 alias lo='lsof -p $(fps) +w'
+
+alias lsesp='ls /dev/ttyUSB*'
+alias chmodesp='sudo chmod 777 /dev/ttyUSB0'
