@@ -90,7 +90,7 @@ avahi 0.8+20+gd1e71b3-1
 avogadro-crystals 1.0.1-1
 avogadro-molecules 1.0.0-1
 avogadrolibs 1.94.0-1
-avr-binutils 2.36.1-2
+avr-binutils 2.37-1
 avr-gcc 11.2.0-1
 avr-libc 2.0.0-4
 avrdude 1:6.3-7
@@ -168,7 +168,7 @@ com.qq.im.deepin 9.3.2-20
 com.qq.tim.spark 3.3.5.22018spark0-1
 compiler-rt 12.0.1-2
 confuse 3.3-3
-containerd 1.5.4-1
+containerd 1.5.5-1
 convertlit 1.8-10
 coordgen 2.0.3-1
 coreutils 8.32-1
@@ -253,7 +253,7 @@ elisa 21.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.149301-1
+emacs-git 28.0.50.149316-1
 embree 3.13.0-1
 enca 1.19-4
 enchant 2.3.0-1
@@ -348,7 +348,7 @@ gimp 2.10.24-6
 git 2.32.0-1
 git-delta-git 0.8.3.20210713-1
 git-lfs 2.13.3-2
-github-cli 1.13.1-1
+github-cli 1.14.0-1
 glew 2.2.0-2
 glfw-wayland 3.3.4-1
 glib-networking 1:2.68.1-1
@@ -414,7 +414,7 @@ gtk-doc 1.33.2-1
 gtk-update-icon-cache 1:4.2.1-2
 gtk-vnc 1.2.0-1
 gtk2 2.24.33-2
-gtk3 1:3.24.30-1
+gtk3 1:3.24.30-2
 gtk4 1:4.2.1-2
 gtkglext 1.2.0-13
 gtkmm3 3.24.5-2
@@ -1047,7 +1047,7 @@ libluv 1.41.0-1
 libmad 0.15.1b-9
 libmanette 0.2.6-2
 libmatroska 1.6.3-1
-libmbim 1.26.0-1
+libmbim 1.26.0-2
 libmfx 21.2.3-1
 libmicrodns 0.2.0-1
 libmicrohttpd 0.9.73-1
@@ -1110,7 +1110,7 @@ libpsl 0.21.1-1
 libpulse 15.0-1
 libqaccessibilityclient 0.4.1-2
 libqalculate 3.20.1-1
-libqmi 1.28.6-1
+libqmi 1.30.0-1
 libqrtr-glib 1.0.0-1
 libquicktime 1.2.4-24
 libquvi 0.9.4-6
@@ -1325,7 +1325,7 @@ mono 6.12.0.122-1
 mono-msbuild 16.10.1.xamarinxplat.2021.05.26.14.00-1
 motrix-git 1.5.15.r68.g0cd1ed1-1
 movit 1.6.3-2
-mpfr 4.1.0-2
+mpfr 4.1.0.p13-1
 mpg123 1.28.2-1
 mplayer 38157-4
 mprime 303b6-1
@@ -1416,7 +1416,7 @@ noto-fonts-cjk 20201206-2
 noto-fonts-emoji 20210625-1
 noto-fonts-emoji-blob 1:14.0-2
 noto-fonts-extra 20201226-2
-npm 7.20.4-1
+npm 7.20.5-1
 npth 1.6-3
 nspr 4.32-1
 nss 3.68-1
@@ -1457,7 +1457,7 @@ openssl 1.1.1.k-1
 openssl-1.0 1.0.2.u-1
 opensubdiv 3.4.4-4
 openvdb 8.1.0-1
-openxr 1.0.17-1
+openxr 1.0.18-1
 opus 1.3.1-2
 opusfile 0.12-1
 orc 0.4.32-1
@@ -1488,7 +1488,7 @@ pavucontrol 1:4.0-2
 pciutils 3.7.0-1
 pcre 8.45-1
 pcre2 10.37-1
-pcsclite 1.9.1-1
+pcsclite 1.9.2-2
 perf 5.13-1
 perl 5.34.0-2
 perl-clone 0.45-3
@@ -1566,7 +1566,7 @@ protobuf-c 1.4.0-1
 proton 6.3.4-1
 psmisc 23.4-1
 psutils 2.05-1
-ptex 2.4.0-1
+ptex 2.4.1-1
 pugixml 1.11.4-1
 pulseaudio 15.0-1
 pulseaudio-alsa 1:1.2.5-2
@@ -1865,7 +1865,7 @@ scrcpy 1.18-1
 screen 4.8.0-3
 screenfetch 3.9.1-1
 screenkey 1.4-2
-scrot 1.6-1
+scrot 1.6-2
 sd 0.7.6-1
 sddm 0.19.0-6
 sddm-kcm 5.22.4-1
@@ -2024,7 +2024,7 @@ util-linux 2.37.1-3
 util-linux-libs 2.37.1-3
 utools 1.3.5-1
 v2ray 4.40.1-1
-v2ray-domain-list-community 20210802121239-1
+v2ray-domain-list-community 20210806154034-1
 v2ray-geoip 202108050026-1
 v2raya 1.4.1-1
 v4l-utils 1.20.0-1
@@ -2181,7 +2181,7 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.4-1
 xplane-sdk-devel 3.0.3-1
 xray 1.4.2-1
-xray-domain-list-community 20210802121239-1
+xray-domain-list-community 20210806154034-1
 xray-geoip 202108050026-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
 xvidcore 1.3.7-2
