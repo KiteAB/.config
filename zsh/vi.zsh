@@ -9,15 +9,15 @@ bindkey -M vicmd "I" vi-end-of-line
 bindkey -M vicmd "e" down-line-or-history
 bindkey -M vicmd "u" up-line-or-history
 bindkey -M vicmd "l" undo
-#bindkey -M vicmd "-" vi-rev-repeat-search
+# bindkey -M vicmd "-" vi-rev-repeat-search
 bindkey -M vicmd "=" vi-repeat-search
 bindkey -M vicmd "h" vi-forward-word-end
 
-function zle-line-init zle-keymap-select {
-	RPS1="${${KEYMAP/vicmd/-- NOR --}/(main|viins)/-- INS --}"
-	RPS2=$RPS1
-	zle reset-prompt
-}
+# function zle-line-init zle-keymap-select {
+# 	RPS1="${${KEYMAP/vicmd/-- NOR --}/(main|viins)/-- INS --}"
+# 	RPS2=$RPS1
+# 	zle reset-prompt
+# }
 
 function zle-keymap-select {
 	if [[ ${KEYMAP} == vicmd ]] || [[ $1 = 'block' ]]; then
@@ -42,7 +42,7 @@ _fix_cursor() {
 precmd_functions+=(_fix_cursor)
 
 
-zle -N zle-line-init
+# zle -N zle-line-init
 zle -N zle-keymap-select
 
 KEYTIMEOUT=1
