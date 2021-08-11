@@ -133,9 +133,9 @@ brotli 1.0.9-4
 btrfs-progs 5.13.1-1
 bubblewrap 0.4.1-2
 bzip2 1.0.8-4
-c-ares 1.17.1-1
+c-ares 1.17.2-1
 ca-certificates 20210603-1
-ca-certificates-mozilla 3.68-1
+ca-certificates-mozilla 3.69-1
 ca-certificates-utils 20210603-1
 cabextract 1.9.1-2
 cairo 1.17.4-5
@@ -187,7 +187,7 @@ dav1d 0.9.1-1
 davfs2 1.6.0-1
 db 5.3.28-5
 dbus 1.12.20-1
-dbus-glib 0.112-1
+dbus-glib 0.112-2
 dbus-python 1.2.18-1
 dconf 0.40.0-1
 ddcutil 1.1.0-1
@@ -254,7 +254,7 @@ elisa 21.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.149316-1
+emacs-git 28.0.50.149355-1
 embree 3.13.0-1
 enca 1.19-4
 enchant 2.3.0-1
@@ -365,7 +365,7 @@ glu 9.0.2-1
 glusterfs 1:9.3-1
 gmp 6.2.1-1
 gn-m85 0.1792.7d7e8dee-1
-gnome-autoar 0.3.3-1
+gnome-autoar 0.4.0-1
 gnome-common 3.18.0-4
 gnome-desktop 1:40.3-1
 gnome-icon-theme 3.12.0-6
@@ -455,7 +455,7 @@ hwinfo 21.76-1
 hwloc 2.5.0-1
 hyphen 2.8.8-3
 i3lock-color-git r774.a318ff3-1
-iana-etc 20210624-1
+iana-etc 20210728-1
 ibam 0.5.2-9
 icoutils 0.32.3-3
 icu 69.1-1
@@ -738,7 +738,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.9.98.r5598.2f6808b6-1
+latte-dock-git 0.10.0.r5624.df9117d0-2
 layer-shell-qt 5.22.4-1
 lazydocker 0.12-1
 lcms2 2.12-1
@@ -814,7 +814,7 @@ lib32-libgusb 0.3.7-1
 lib32-libice 1.0.10-1
 lib32-libidn2 2.3.1-1
 lib32-libindicator-gtk3 12.10.1-8
-lib32-libjpeg-turbo 2.1.0-1
+lib32-libjpeg-turbo 2.1.1-1
 lib32-libjpeg6-turbo 1.5.3-2
 lib32-libldap 2.4.59-1
 lib32-libltdl 2.4.6+42+gb88cebd5-1
@@ -866,8 +866,8 @@ lib32-libxss 1.2.3-1
 lib32-libxtst 1.2.3-2
 lib32-libxv 1.0.11-2
 lib32-libxxf86vm 1.1.4-2
-lib32-llvm 12.0.1-1
-lib32-llvm-libs 12.0.1-1
+lib32-llvm 12.0.1-2
+lib32-llvm-libs 12.0.1-2
 lib32-lm_sensors 1:3.6.0.r41.g31d1f125-1
 lib32-lz4 1.9.3-1
 lib32-mesa 21.1.6-1
@@ -876,7 +876,7 @@ lib32-mpg123 1.28.2-1
 lib32-ncurses 6.2-1
 lib32-nettle 3.7.3-1
 lib32-nspr 4.32-1
-lib32-nss 3.68-1
+lib32-nss 3.69-1
 lib32-ocl-icd 2.3.0-1
 lib32-openal 1.21.1-1
 lib32-opencl-mesa 21.1.6-1
@@ -1022,7 +1022,7 @@ libinstpatch 1.1.6-1
 libiptcdata 1.0.4-5
 libiscsi 1.19.0-2
 libixion 0.16.1-6
-libjpeg-turbo 2.1.0-1
+libjpeg-turbo 2.1.1-1
 libkate 0.4.1-7
 libkcddb 21.04.3-1
 libkcompactdisc 21.04.3-1
@@ -1061,7 +1061,7 @@ libmfx 21.2.3-1
 libmicrodns 0.2.0-1
 libmicrohttpd 0.9.73-1
 libmikmod 3.3.11.1-4
-libmm-glib 1.16.8-1
+libmm-glib 1.16.10-1
 libmms 0.6.4-3
 libmng 2.0.3-3
 libmnl 1.0.4-3
@@ -1087,7 +1087,7 @@ libnftnl 1.2.0-1
 libnghttp2 1.44.0-1
 libnice 0.1.18-2
 libnl 3.5.0-3
-libnm 1.32.6-1
+libnm 1.32.8-1
 libnma 1.8.30-1
 libnotify 0.7.9-1
 libnsl 1.3.0-2
@@ -1256,8 +1256,8 @@ lirc 1:0.10.1-8
 lld 12.0.1-1
 lldb 12.0.1-1
 llpp 33-2
-llvm 12.0.1-2
-llvm-libs 12.0.1-2
+llvm 12.0.1-3
+llvm-libs 12.0.1-3
 lm_sensors 1:3.6.0.r41.g31d1f125-1
 lmdb 0.9.29-1
 lmms 1.2.2-5
@@ -1325,7 +1325,7 @@ mkinitcpio-busybox 1.33.1-1
 mlt 7.0.1-1
 mlt6 6.26.1-4
 mobile-broadband-provider-info 20201225-1
-modemmanager 1.16.8-1
+modemmanager 1.16.10-1
 modemmanager-qt 5.84.0-1
 molequeue 0.9.0-2
 monero 0.17.2.0-5
@@ -1403,11 +1403,11 @@ nerd-fonts-victor-mono 2.1.0-4
 net-snmp 5.9.1-1
 net-tools 2.10-1
 netbeans 12.4-1
-netpbm 10.73.35-1
+netpbm 10.73.36-1
 netstandard-targeting-pack 5.0.8.sdk205-1
 nettle 3.7.3-1
 network-manager-applet 1.22.0-1
-networkmanager 1.32.6-1
+networkmanager 1.32.8-1
 networkmanager-qt 5.84.0-1
 new-session-manager 1.5.1-1
 nftables 1:0.9.9-6
@@ -1429,7 +1429,7 @@ noto-fonts-extra 20201226-2
 npm 7.20.5-1
 npth 1.6-3
 nspr 4.32-1
-nss 3.68-1
+nss 3.69-1
 ntfs-3g 2017.3.23-5
 numactl 2.0.14-1
 oath-toolkit 2.6.7-1
@@ -1641,7 +1641,7 @@ python-idna 3.2-1
 python-imagesize 1.2.0-4
 python-importlib-metadata 4.6.1-1
 python-incremental 21.3.0-2
-python-ipykernel 5.5.3-1
+python-ipykernel 6.0.3-1
 python-itsdangerous 2.0.1-1
 python-jedi 0.18.0-2
 python-jinja 3.0.1-1
@@ -1689,7 +1689,7 @@ python-pyqt5-webengine 5.15.4-1
 python-pyserial 3.5-2
 python-pyte 0.8.0-6
 python-pytz 2021.1-1
-python-pyzmq 22.1.0-1
+python-pyzmq 22.2.1-1
 python-qrcode 6.1-6
 python-qtconsole 5.1.1-1
 python-qtpy 1.9.0-5
@@ -1919,7 +1919,7 @@ spectacle 21.04.3-1
 speedtest-cli 2.1.3-1
 speex 1.2.0-3
 speexdsp 1.2.0-2
-spglib 1.16.1-2
+spglib 1.16.2-1
 spice 0.15.0-1
 spice-gtk 0.39-3
 spirv-tools 2021.1-1
@@ -2040,7 +2040,7 @@ utools 1.3.5-1
 v2ray 4.40.1-1
 v2ray-domain-list-community 20210806154034-1
 v2ray-geoip 202108050026-1
-v2raya 1.4.1-1
+v2raya 1.4.3-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.7.3-2
 v4l2loopback-dkms 0.12.5-1
