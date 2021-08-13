@@ -45,3 +45,8 @@ alias lo='lsof -p $(fps) +w'
 
 alias lsesp='ls /dev/ttyUSB*'
 alias chmodesp='sudo chmod 777 /dev/ttyUSB0'
+
+# alias ls='exa --icons --color=always'
+# alias lt='exa --tree --icons --color=always'
+# alias ll='exa --icons --color=always --long'
+# alias l='exa --icons --color=always --long --all'
