@@ -232,7 +232,7 @@ doxygen 1.9.1-1
 drkonqi 5.22.4-1
 droidcam 1:1.8.0-1
 dtc 1.6.1-1
-dune 2.9.0-2
+dune 2.9.0-3
 dvdauthor 0.7.2-11
 dvgrab 3.5-9
 e2fsprogs 1.46.3-3
@@ -255,7 +255,7 @@ elisa 21.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.149369-1
+emacs-git 28.0.50.149389-1
 embree 3.13.0-1
 enca 1.19-4
 enchant 2.3.0-1
@@ -739,7 +739,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.10.0.r5624.df9117d0-2
+latte-dock-git 0.10.0.r5626.66ddda95-1
 layer-shell-qt 5.22.4-1
 lazydocker 0.12-1
 lcms2 2.12-1
@@ -886,7 +886,7 @@ lib32-opus 1.3.1-1
 lib32-orc 0.4.32-1
 lib32-p11-kit 0.24.0-1
 lib32-pam 1.5.1-1
-lib32-pango 1:1.48.7-1
+lib32-pango 1:1.48.8-1
 lib32-pcre 8.44-1
 lib32-pixman 0.40.0-1
 lib32-polkit 0.119-1
@@ -1262,7 +1262,7 @@ llvm-libs 12.0.1-3
 lm_sensors 1:3.6.0.r41.g31d1f125-1
 lmdb 0.9.29-1
 lmms 1.2.2-5
-log4cplus 2.0.6-1
+log4cplus 2.0.7-1
 lokalize 21.04.3-1
 lolcat 100.0.1-1
 lpsolve 5.5.2.11-1
@@ -1427,7 +1427,7 @@ noto-fonts-cjk 20201206-2
 noto-fonts-emoji 20210625-1
 noto-fonts-emoji-blob 1:14.0-2
 noto-fonts-extra 20201226-2
-npm 7.20.5-1
+npm 7.20.6-1
 npth 1.6-3
 nspr 4.32-1
 nss 3.69-1
@@ -1438,7 +1438,7 @@ obs-input-overlay-bin v4.8-3
 obs-studio 27.0.1-2
 ocaml 4.12.0-1
 ocaml-compiler-libs 4.12.0-1
-ocaml-csexp 1.3.2-2
+ocaml-csexp 1.5.1-1
 ocaml-findlib 1.9.1-2
 ocaml-result 1.5-4
 ocl-icd 2.3.0-1
@@ -1488,7 +1488,7 @@ palapeli 21.04.3-1
 pam 1.5.1-1
 pam-python 1.0.8-3
 pambase 20210605-2
-pango 1:1.48.7-1
+pango 1:1.48.8-1
 pangomm 2.46.1-2
 paper 2.3-2
 parley 21.04.3-1
@@ -1618,6 +1618,7 @@ python-constantly 15.1.0-9
 python-contextlib2 0.6.0.post1-3
 python-cryptography 3.4.7-1
 python-dateutil 2.8.2-1
+python-debugpy 1.4.1-2
 python-decorator 5.0.9-1
 python-distlib 0.3.2-1
 python-distro 1.5.0-3
@@ -1642,7 +1643,7 @@ python-idna 3.2-1
 python-imagesize 1.2.0-4
 python-importlib-metadata 4.6.1-1
 python-incremental 21.3.0-2
-python-ipykernel 6.0.3-1
+python-ipykernel 6.0.3-2
 python-itsdangerous 2.0.1-1
 python-jedi 0.18.0-2
 python-jinja 3.0.1-1
@@ -1783,7 +1784,7 @@ qpdf 10.3.2-1
 qqc2-desktop-style 5.84.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
-qt5-base 5.15.2+kde+r214-1
+qt5-base 5.15.2+kde+r215-1
 qt5-declarative 5.15.2+kde+r29-1
 qt5-graphicaleffects 5.15.2-1
 qt5-imageformats 5.15.2-1
@@ -1884,7 +1885,7 @@ sddm 0.19.0-6
 sddm-kcm 5.22.4-1
 sddm-sugar-light 1.0-2
 sdl 1.2.15-14
-sdl2 2.0.14-1
+sdl2 2.0.16-1
 sdl_image 1.2.12-7
 sdl_net 1.2.8-5
 sdl_sound 1.0.3-8
@@ -1958,7 +1959,7 @@ tdb 1.4.5-1
 tdlib 0.5.0-4
 teamspeak3 3.5.6-1
 teamspeak3-server 3.13.6-1
-telegram-desktop 2.9.0-4
+telegram-desktop 2.9.3-1
 telepathy-accounts-signon 2.1-2
 telepathy-farstream 0.6.2-7
 telepathy-glib 0.24.2-2
@@ -2040,7 +2041,7 @@ util-linux-libs 2.37.1-3
 utools 1.3.5-1
 v2ray 4.40.1-1
 v2ray-domain-list-community 20210806154034-1
-v2ray-geoip 202108050026-1
+v2ray-geoip 202108120026-1
 v2raya 1.4.3-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.8.0-1
@@ -2197,7 +2198,7 @@ xorgproto 2021.4-1
 xplane-sdk-devel 3.0.3-1
 xray 1.4.2-1
 xray-domain-list-community 20210806154034-1
-xray-geoip 202108050026-1
+xray-geoip 202108120026-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
 xvidcore 1.3.7-2
 xxhash 0.8.0-1
