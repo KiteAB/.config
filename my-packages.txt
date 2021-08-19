@@ -113,7 +113,7 @@ binutils 2.36.1-3
 bison 3.7.6-1
 black-hole-solver 1.10.1-1
 blas 3.10.0-1
-blender 17:2.93.2-1
+blender 17:2.93.2-2
 blinken 21.08.0-1
 blosc 1.21.0-1
 bluedevil 1:5.22.4-1
@@ -256,7 +256,7 @@ elisa 21.08.0-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.149468-1
+emacs-git 28.0.50.149484-1
 embree 3.13.0-1
 enca 1.19-4
 enchant 2.3.0-1
@@ -351,7 +351,7 @@ ghostxps 9.54.0-2
 giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.24-6
-git 2.32.0-1
+git 2.33.0-1
 git-delta-git 0.8.3.20210713-1
 git-lfs 2.13.3-2
 github-cli 1.14.0-1
@@ -440,8 +440,8 @@ gv 3.7.4-5
 gvfs 1.48.1-1
 gwenview 21.08.0-1
 gzip 1.10-3
-harfbuzz 2.8.2-1
-harfbuzz-icu 2.8.2-1
+harfbuzz 2.9.0-1
+harfbuzz-icu 2.9.0-1
 harvid 0.8.3-1
 hdf5 1.12.0-2
 hdparm 9.62-1
@@ -678,7 +678,7 @@ kolourpaint 21.08.0-1
 kompare 21.08.0-1
 konqueror 21.08.0-1
 konquest 21.08.0-1
-konsole 21.08.0-1
+konsole 21.08.0-2
 kontact 21.08.0-1
 kontactinterface 21.08.0-1
 konversation 21.08.0-1
@@ -803,7 +803,7 @@ lib32-gst-plugins-base-libs 1.18.4-1
 lib32-gstreamer 1.18.4-1
 lib32-gtk2 2.24.33-1
 lib32-gtk3 3.24.30-1
-lib32-harfbuzz 2.8.2-1
+lib32-harfbuzz 2.9.0-1
 lib32-icu 69.1-1
 lib32-imlib2 1.7.3-1
 lib32-jack2 1.9.19-2
@@ -850,7 +850,7 @@ lib32-libltdl 2.4.6+42+gb88cebd5-1
 lib32-libmikmod 3.3.11.1-4
 lib32-libmodplug 0.8.9.0-3
 lib32-libnl 3.5.0-1
-lib32-libnm 1.32.8-1
+lib32-libnm 1.32.10-1
 lib32-libnsl 1.3.0-2
 lib32-libogg 1.3.5-1
 lib32-libpcap 1.10.1-1
@@ -928,7 +928,7 @@ lib32-opus 1.3.1-1
 lib32-orc 0.4.32-1
 lib32-p11-kit 0.24.0-1
 lib32-pam 1.5.1-1
-lib32-pango 1:1.48.8-1
+lib32-pango 1:1.48.9-1
 lib32-pcre 8.44-1
 lib32-pipewire 1:0.3.33-1
 lib32-pipewire-jack 1:0.3.33-1
@@ -949,7 +949,7 @@ lib32-smpeg 0.4.5-3
 lib32-sqlite 3.36.0-1
 lib32-systemd 249.3-1
 lib32-tdb 1.4.5-1
-lib32-util-linux 2.37.1-1
+lib32-util-linux 2.37.2-1
 lib32-v4l-utils 1.20.0-1
 lib32-vkd3d 1.2-2
 lib32-vulkan-icd-loader 1.2.184-1
@@ -1148,7 +1148,7 @@ libnftnl 1.2.0-1
 libnghttp2 1.44.0-1
 libnice 0.1.18-2
 libnl 3.5.0-3
-libnm 1.32.8-1
+libnm 1.32.10-1
 libnma 1.8.30-1
 libnotify 0.7.9-1
 libnsl 1.3.0-2
@@ -1377,7 +1377,7 @@ media-player-info 24-2
 mesa 21.1.6-1
 mesa-demos 8.4.0-4
 mesa-vdpau 21.1.6-1
-meson 0.59.0-2
+meson 0.59.1-1
 messagelib 21.08.0-1
 metis 5.1.0.p10-2
 milou 5.22.4-1
@@ -1473,7 +1473,7 @@ netpbm 10.73.36-1
 netstandard-targeting-pack 5.0.8.sdk205-1
 nettle 3.7.3-1
 network-manager-applet 1.24.0-1
-networkmanager 1.32.8-1
+networkmanager 1.32.10-1
 networkmanager-qt 5.85.0-1
 new-session-manager 1.5.1-1
 nftables 1:0.9.9-6
@@ -1484,7 +1484,7 @@ ninja 1.10.2-1
 nm-connection-editor 1.24.0-1
 nmap 7.92-1
 node-gyp 8.1.0-2
-nodejs 16.6.2-1
+nodejs 16.7.0-1
 nodejs-nopt 5.0.0-2
 nodemcu-pyflasher 5.0.0-1
 noto-fonts 20201226-2
@@ -1532,7 +1532,7 @@ openshadinglanguage 1.11.14.0-3
 openssh 8.6p1-1
 openssl 1.1.1.k-1
 openssl-1.0 1.0.2.u-1
-opensubdiv 3.4.4-4
+opensubdiv 3.4.4-5
 openvdb 8.1.0-1
 openxr 1.0.18-1
 opus 1.3.1-2
@@ -1554,7 +1554,7 @@ palapeli 21.08.0-1
 pam 1.5.1-1
 pam-python 1.0.8-3
 pambase 20210605-2
-pango 1:1.48.8-1
+pango 1:1.48.9-1
 pangomm 2.46.1-2
 paper 2.3-2
 parley 21.08.0-1
@@ -2112,12 +2112,12 @@ upower 0.99.12-2
 usbmuxd 1.1.1-1
 usbredir 0.9.0-1
 usbutils 013-1
-util-linux 2.37.1-3
-util-linux-libs 2.37.1-3
+util-linux 2.37.2-1
+util-linux-libs 2.37.2-1
 utools 1.3.5-1
 v2ray 4.41.1-1
 v2ray-domain-list-community 20210816014827-1
-v2ray-geoip 202108120026-1
+v2ray-geoip 202108190022-1
 v2raya 1.4.4-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.8.0-1
@@ -2137,7 +2137,7 @@ virt-manager 3.2.0-1
 virtio-win 0.1.204.1-4
 virtualbox 6.1.26-1
 virtualbox-host-modules-arch 6.1.26-6
-visual-studio-code-bin 1.59.0-1
+visual-studio-code-bin 1.59.0-2
 vkd3d 1.2-1
 vlc 3.0.16-3
 vmaf 1.5.3-1
@@ -2174,6 +2174,7 @@ wqy-microhei-lite 0.2.0_beta-10
 wqy-zenhei 0.9.45-9
 wxgtk-common 3.0.5.1-2
 wxgtk3 3.0.5.1-2
+x11vnc 1:0.9.16-4
 x264 3:0.161.r3039.544c61f-1
 x265 3.5-1
 x86_energy_perf_policy 5.13-1
@@ -2275,7 +2276,7 @@ xorgproto 2021.4-1
 xplane-sdk-devel 3.0.3-1
 xray 1.4.2-1
 xray-domain-list-community 20210816014827-1
-xray-geoip 202108120026-1
+xray-geoip 202108190022-1
 xsel 1.2.0.20190821-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
 xvidcore 1.3.7-2
