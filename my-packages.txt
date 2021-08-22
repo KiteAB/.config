@@ -65,7 +65,7 @@ arduino-builder 1.6.1-1
 arduino-ctags 5.8_arduino11-4
 arduino-docs 1.6.6-7
 argon2 20190702-3
-aria2 1.35.0-2
+aria2 1.36.0-1
 aribb24 1.0.3-3
 ark 21.08.0-1
 artikulate 21.08.0-1
@@ -237,7 +237,7 @@ dtc 1.6.1-1
 dune 2.9.0-3
 dvdauthor 0.7.2-11
 dvgrab 3.5-9
-e2fsprogs 1.46.3-3
+e2fsprogs 1.46.4-1
 ebook-tools 0.2.2-7
 eclipse-ecj 4.6.3-2
 eclipse-emf 2.19-2
@@ -256,7 +256,7 @@ elisa 21.08.0-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.149522-1
+emacs-git 28.0.50.149558-1
 embree 3.13.0-1
 enca 1.19-4
 enchant 2.3.1-1
@@ -295,7 +295,7 @@ ffms2 2.40-1
 ffnvcodec-headers 11.1.5.0-1
 fftw 3.3.9-1
 file 5.40-5
-filebrowser-bin 2.16.1-1
+filebrowser-bin 2.17.0-1
 filelight 21.08.0-1
 filesystem 2021.05.31-1
 findutils 4.8.0-1
@@ -629,7 +629,7 @@ killbots 21.08.0-1
 kimageannotator 0.5.1-1
 kimagemapeditor 21.08.0-1
 kimap 21.08.0-1
-kindd 2.1.0-2
+kindd 2.1.0-3
 kinfocenter 5.22.4-1
 kinit 5.85.0-1
 kio 5.85.0-1
@@ -780,7 +780,7 @@ lib32-curl 7.78.0-1
 lib32-dbus 1.12.20-1
 lib32-dbus-glib 0.112-1
 lib32-dconf 0.40.0-1
-lib32-e2fsprogs 1.46.3-1
+lib32-e2fsprogs 1.46.4-1
 lib32-expat 2.4.1-1
 lib32-faudio 21.08-1
 lib32-flac 1.3.3-1
@@ -1121,7 +1121,7 @@ libmanette 0.2.6-2
 libmatroska 1.6.3-1
 libmbim 1.26.0-2
 libmd 1.0.3-1
-libmfx 21.2.3-1
+libmfx 21.3.2-1
 libmicrodns 0.2.0-1
 libmicrohttpd 0.9.73-1
 libmikmod 3.3.11.1-4
