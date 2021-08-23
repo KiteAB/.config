@@ -246,8 +246,6 @@ editorconfig-core-c 0.12.5-1
 edk2-ovmf 202105-1
 efibootmgr 17-2
 efivar 37-4
-egl-wayland 1.1.7-1
-eglexternalplatform 1.1-2
 electron 13.2.1-1
 electron-netease-cloud-music 0.9.29-1
 elementary-icon-theme 6.0.0-1
@@ -256,7 +254,7 @@ elisa 21.08.0-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.149558-1
+emacs-git 28.0.50.149575-1
 embree 3.13.0-1
 enca 1.19-4
 enchant 2.3.1-1
@@ -300,6 +298,7 @@ filelight 21.08.0-1
 filesystem 2021.05.31-1
 findutils 4.8.0-1
 fingerprint-gui 1.09-7
+firewalld 1.0.1-1
 flac 1.3.3-3
 flameshot 0.10.1-1
 flatpak 1.11.2-1
@@ -308,6 +307,8 @@ fltk 1.3.7-1
 fluidsynth 2.2.2-1
 fmt 8.0.1-1
 fontconfig 2:2.13.94-1
+fpc 3.2.2-1
+fpc-src 3.2.2-1
 fprintd 1.92.0-1
 frameworkintegration 5.85.0-1
 freecell-solver 6.2.0-1
@@ -386,11 +387,14 @@ gobject-introspection-runtime 1.68.0-1
 google-chrome 92.0.4515.159-1
 google-glog 0.5.0-2
 gopls 0.7.1-1
+goverlay 0.6.2-2
 gperf 3.1-3
 gperftools 2.9.1-1
 gpgme 1.16.0-1
 gpm 1.20.7.r38.ge82d1a6-3
 gptfdisk 1.0.8-1
+gradle 7.2-1
+gradle-src 7.2-1
 granatier 21.08.0-1
 grantlee 5.2.0-3
 grantlee-editor 21.08.0-1
@@ -421,11 +425,11 @@ gst-plugins-good 1.18.4-2
 gstreamer 1.18.4-1
 gtest 1.11.0-1
 gtk-doc 1.33.2-1
-gtk-update-icon-cache 1:4.2.1-2
+gtk-update-icon-cache 1:4.4.0-1
 gtk-vnc 1.2.0-1
 gtk2 2.24.33-2
 gtk3 1:3.24.30-2
-gtk4 1:4.2.1-2
+gtk4 1:4.4.0-1
 gtkglext 1.2.0-13
 gtkmm3 3.24.5-2
 gtksourceview4 4.8.1-1
@@ -752,8 +756,9 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.10.0.r5629.25e05070-1
+latte-dock-git 0.10.0.r5630.eb95f2ef-1
 layer-shell-qt 5.22.4-1
+lazarus 2.0.12-3
 lazydocker 0.12-1
 lcms2 2.12-1
 ldb 2:2.3.0-1
@@ -865,7 +870,7 @@ lib32-librsvg 2:2.50.7-1
 lib32-librtmp0 2.4-4
 lib32-libsm 1.2.3-1
 lib32-libsndfile 1.0.31-1
-lib32-libsoup 2.72.0-1
+lib32-libsoup 2.74.0-1
 lib32-libssh2 1.9.0-1
 lib32-libtasn1 4.17.0-1
 lib32-libthai 0.1.28-1
@@ -920,11 +925,9 @@ lib32-ncurses 6.2-1
 lib32-nettle 3.7.3-1
 lib32-nspr 4.32-1
 lib32-nss 3.69-1
-lib32-nvidia-utils 470.63.01-1
 lib32-ocl-icd 2.3.0-1
 lib32-openal 1.21.1-1
 lib32-opencl-mesa 21.2.1-1
-lib32-opencl-nvidia 470.63.01-1
 lib32-openssl 1:1.1.1.k-1
 lib32-openssl-1.0 1.0.2.u-1
 lib32-opus 1.3.1-1
@@ -1209,7 +1212,7 @@ libslirp 4.6.1-1
 libsm 1.2.3-2
 libsndfile 1.0.31-1
 libsodium 1.0.18-2
-libsoup 2.72.0+10+gfe1e295d-1
+libsoup 2.74.0-1
 libsoxr 0.1.3-2
 libspectre 0.2.9-2
 libspeechd 0.10.2-1
@@ -1290,6 +1293,7 @@ libxkbfile 1.1.0-2
 libxklavier 5.4-3
 libxml2 2.9.10-9
 libxmu 1.1.3-2
+libxnvctrl 470.63.01-1
 libxpm 3.5.13-2
 libxrandr 1.5.2-3
 libxrender 0.9.10-4
@@ -1362,6 +1366,8 @@ mailimporter 21.08.0-1
 make 4.3-3
 mallard-ducktype 1.0.2-6
 man-db 2.9.4-2
+mangohud 0.6.5-1
+mangohud-common 0.6.5-1
 marble 21.08.0-1
 marble-common 21.08.0-1
 mariadb 10.6.4-1
@@ -1499,8 +1505,6 @@ nspr 4.32-1
 nss 3.69-1
 ntfs-3g 2017.3.23-5
 numactl 2.0.14-1
-nvidia-lts 1:470.63.01-2
-nvidia-utils 470.63.01-1
 oath-toolkit 2.6.7-1
 obs-studio 27.0.1-2
 ocaml 4.12.0-1
@@ -1519,7 +1523,6 @@ opencascade 7.5.0-3
 opencc 1.1.2-1
 opencl-headers 2:2021.04.29-1
 opencl-mesa 21.2.1-1
-opencl-nvidia 470.63.01-1
 opencollada 1:1.6.68-2
 opencolorio 2.0.1-3
 opencolorio1 1.1.1-3
@@ -1532,7 +1535,7 @@ openjpeg2 2.4.0-1
 openmpi 4.1.1-2
 openresolv 3.12.0-1
 openshadinglanguage 1.11.14.0-3
-openssh 8.6p1-1
+openssh 8.7p1-1
 openssl 1.1.1.k-1
 openssl-1.0 1.0.2.u-1
 opensubdiv 3.4.4-5
@@ -1551,7 +1554,7 @@ p7zip 1:17.04-1
 package-query 1.12-1
 pacman 6.0.0-5
 pacman-contrib 1.4.0-4
-pacman-mirrorlist 20210808-1
+pacman-mirrorlist 20210822-1
 pahole 1.21-1
 palapeli 21.08.0-1
 pam 1.5.1-1
@@ -1617,11 +1620,13 @@ pkgfile 21-2
 plasma-browser-integration 5.22.4-1
 plasma-desktop 5.22.4-1
 plasma-disks 5.22.4-1
+plasma-firewall 5.22.4-1
 plasma-framework 5.85.0-2
 plasma-integration 5.22.4-1
 plasma-nm 5.22.4-1
 plasma-pa 5.22.4-1
 plasma-sdk 5.22.4-1
+plasma-systemmonitor 5.22.4-1
 plasma-thunderbolt 5.22.4-1
 plasma-vault 5.22.4-1
 plasma-workspace 5.22.4-3
@@ -1876,6 +1881,7 @@ qt5-webengine 5.15.5-1
 qt5-webkit 5.212.0alpha4-10
 qt5-x11extras 5.15.2-1
 qt5-xmlpatterns 5.15.2-1
+qt5pas 2.6.r65219-1
 qtermwidget 0.17.0-2
 qtkeychain-qt5 0.12.0-1
 quazip 1.1-1
@@ -2102,6 +2108,7 @@ tzdata 2021a-1
 uchardet 0.0.7-1
 udisks2 2.9.3-1
 ueberzug 18.1.9-2
+ufw 0.36-5
 umbrello 21.08.0-1
 unbound 1.13.1-2
 unibilium 2.1.1-1
