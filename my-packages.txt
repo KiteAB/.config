@@ -1,3 +1,5 @@
+0ad a25-2
+0ad-data a25-2
 a52dec 0.7.4-11
 aalib 1.4rc5-14
 abseil-cpp 20210324.2-1
@@ -106,7 +108,7 @@ bash 5.1.008-1
 bash-completion 2.11-2
 bash-language-server 2.0.0-2
 bashtop 0.9.25-1
-bat 0.18.2-1
+bat 0.18.3-1
 bc 1.07.1-4
 bdf-unifont 13.0.06-1
 bilibili-live-helper-bin 2.2.2-1
@@ -254,10 +256,11 @@ elisa 21.08.0-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.149599-1
+emacs-git 28.0.50.149605-1
 embree 3.13.0-1
 enca 1.19-4
 enchant 2.3.1-1
+enet 1.3.17-1
 esp8266-nonos-sdk 3.0.4-1
 esptool 3.1-1
 ethtool 1:5.13-1
@@ -357,7 +360,7 @@ gimp 2.10.24-6
 git 2.33.0-1
 git-delta-git 0.8.3.20210713-1
 git-lfs 2.13.3-2
-github-cli 1.14.0-1
+github-cli 2.0.0-1
 gl2ps 1.4.2-2
 glew 2.2.0-2
 glew1.10 1.10.0-3
@@ -368,6 +371,7 @@ glib2-docs 2.68.4-1
 glibc 2.33-5
 glibmm 2.66.1-2
 glm 0.9.9.8-1
+gloox 1.0.24-1
 glslang 11.5.0-1
 glu 9.0.2-1
 glusterfs 1:9.3-2
@@ -451,7 +455,7 @@ harfbuzz-icu 2.9.0-1
 harvid 0.8.3-1
 hdf5 1.12.0-2
 hdparm 9.62-1
-help2man 1.48.4-1
+help2man 1.48.5-1
 hicolor-icon-theme 0.17-2
 hidapi 0.10.1-1
 hiredis 1.0.0-1
@@ -465,6 +469,7 @@ hwids 20210613-1
 hwinfo 21.76-1
 hwloc 2.5.0-1
 hyphen 2.8.8-3
+i2c-tools 4.2-3
 i3lock-color-git r774.a318ff3-1
 iana-etc 20210728-1
 ibam 0.5.2-9
@@ -1271,6 +1276,7 @@ libwpg 0.3.3-2
 libwps 0.4.12-1
 libwrap 7.6.31-1
 libx11 1.7.2-1
+libx86 1.1-8
 libx86emu 3.1-1
 libxau 1.0.9-3
 libxaw 1.0.14-1
@@ -1391,6 +1397,7 @@ messagelib 21.08.0-1
 metis 5.1.0.p10-2
 milou 5.22.4-1
 minicom 2.8-1
+miniupnpc 2.2.2-1
 minizip 1:1.2.11-4
 minuet 21.08.0-1
 mixxx 2.3.0-2
@@ -1536,9 +1543,10 @@ openimageio 2.2.17.0-1
 openjpeg2 2.4.0-1
 openmpi 4.1.1-2
 openresolv 3.12.0-1
+openrgb 0.6-2
 openshadinglanguage 1.11.14.0-3
 openssh 8.7p1-1
-openssl 1.1.1.k-1
+openssl 1.1.1.l-1
 openssl-1.0 1.0.2.u-1
 opensubdiv 3.4.4-5
 openvdb 8.1.0-1
@@ -1687,7 +1695,7 @@ python-automat 20.2.0-6
 python-babel 2.9.1-1
 python-backcall 0.2.0-4
 python-beaker 1.11.0-6
-python-bitstring 3.1.7-3
+python-bitstring 3.1.9-1
 python-cachecontrol 0.12.6-3
 python-cairo 1.20.0-3
 python-cffi 1.14.6-1
@@ -1903,6 +1911,7 @@ rav1e 0.4.1-1
 rclone 1.56.0-1
 rclone-browser 1.8.0-1
 re2 1:20210801-1
+read-edid 3.0.2-3
 readline 8.1.001-1
 recode 3.7.9-1
 recordmydesktop 0.4.0-1
@@ -1952,7 +1961,7 @@ ruby-rspec-support 3.10.2-1
 ruby-term-ansicolor 1.7.1-2
 ruby-tins 1.26.0-2
 rubygems 3.2.21-1
-run-parts 4.11.2-1
+run-parts 5.3-1
 runc 1.0.2-1
 rustup 1.24.3-1
 samba 4.14.6-1
@@ -2169,6 +2178,7 @@ wayland-protocols 1.21-1
 webkit2gtk 2.32.3-1
 webp-pixbuf-loader 0.0.3-1
 webrtc-audio-processing 0.3.1-3
+weechat 3.2-1
 wget 1.21.1-1
 which 2.21-5
 wildmidi 0.4.4-1
@@ -2230,7 +2240,7 @@ xf86-video-voodoo 1.2.5-11
 xfce4-notifyd 0.6.2-2
 xfce4-power-manager 4.16.0-3
 xfconf 4.16.0-2
-xfsprogs 5.12.0-1
+xfsprogs 5.13.0-1
 xjadeo 0.8.10-1
 xkeyboard-config 2.33-1
 xmlsec 1.2.32-1
@@ -2290,7 +2300,7 @@ xorgproto 2021.4-1
 xplane-sdk-devel 3.0.3-1
 xray 1.4.2-1
 xray-domain-list-community 20210816014827-1
-xray-geoip 202108190022-1
+xray-geoip 202108241658-1
 xsel 1.2.0.20190821-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
 xvidcore 1.3.7-2
