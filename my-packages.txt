@@ -252,11 +252,11 @@ electron 13.2.2-1
 electron-netease-cloud-music 0.9.29-1
 elementary-icon-theme 6.0.0-1
 elfutils 0.185-1
-elisa 21.08.0-1
+elisa 21.08.0-2
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.149605-1
+emacs-git 28.0.50.149620-1
 embree 3.13.0-1
 enca 1.19-4
 enchant 2.3.1-1
@@ -302,6 +302,7 @@ filelight 21.08.0-1
 filesystem 2021.05.31-1
 findutils 4.8.0-1
 fingerprint-gui 1.09-7
+firefox 91.0.2-1
 firewalld 1.0.1-1
 flac 1.3.3-3
 flameshot 0.10.1-1
@@ -697,7 +698,7 @@ kopeninghours 21.08.0-1
 kopete 21.08.0-1
 korganizer 21.08.0-1
 kosmindoormap 21.08.0-1
-kotlin 1.5.21-1
+kotlin 1.5.30-1
 kpackage 5.85.0-1
 kparts 5.85.0-1
 kpat 21.08.0-1
@@ -763,7 +764,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.10.0.r5630.eb95f2ef-1
+latte-dock-git 0.10.1.r5631.a192b66a-1
 layer-shell-qt 5.22.4-1
 lazarus 2.0.12-3
 lazydocker 0.12-1
@@ -831,7 +832,7 @@ lib32-libappindicator-gtk3 12.10.0-12
 lib32-libasyncns 0.8+3+g68cd5af-2
 lib32-libcaca 0.99.beta19-5
 lib32-libcanberra 0.30+2+gc0620e4-5
-lib32-libcap 2.51-1
+lib32-libcap 2.53-1
 lib32-libcups 2.3.3-1
 lib32-libcurl-compat 7.78.0-1
 lib32-libcurl-gnutls 7.78.0-1
@@ -979,7 +980,7 @@ libaec 1.0.5-1
 libaio 0.3.112-2
 libakonadi 21.08.0-1
 libappindicator-gtk3 12.10.0.r296-1
-libarchive 3.5.1-1
+libarchive 3.5.2-1
 libass 0.15.1-1
 libassuan 2.5.5-1
 libasyncns 0.8+3+g68cd5af-3
@@ -997,7 +998,7 @@ libbytesize 2.6-1
 libcaca 0.99.beta19-5
 libcacard 2.7.0-2
 libcanberra 0.30+2+gc0620e4-5
-libcap 2.51-1
+libcap 2.53-1
 libcap-ng 0.8.2-3
 libcddb 1.3.2-6
 libcdio 2.1.0-2
@@ -1500,7 +1501,7 @@ ninja 1.10.2-1
 nm-connection-editor 1.24.0-1
 nmap 7.92-1
 node-gyp 8.1.0-2
-nodejs 16.7.0-1
+nodejs 16.8.0-1
 nodejs-nopt 5.0.0-2
 nodemcu-pyflasher 5.0.0-1
 noto-fonts 20201226-2
@@ -1578,6 +1579,7 @@ parley 21.08.0-1
 parted 3.4-2
 partitionmanager 21.08.0-1
 paru 1.8.2-1
+pastebinit 1.5.1-1
 patch 2.7.6-8
 patchelf 0.12-1
 pavucontrol 1:5.0-1
@@ -1704,7 +1706,7 @@ python-click 8.0.1-1
 python-colorama 0.4.4-3
 python-constantly 15.1.0-9
 python-contextlib2 0.6.0.post1-3
-python-cryptography 3.4.7-1
+python-cryptography 3.4.8-1
 python-dateutil 2.8.2-1
 python-debugpy 1.4.1-2
 python-decorator 5.0.9-1
@@ -1964,7 +1966,7 @@ rubygems 3.2.21-1
 run-parts 5.3-1
 runc 1.0.2-1
 rustup 1.24.3-1
-samba 4.14.6-1
+samba 4.14.7-1
 sane 1.0.32-3
 sbc 1.5-2
 scrcpy 1.18-1
@@ -2000,7 +2002,7 @@ signon-ui 0.17+20171022-2
 signond 8.60-3
 slang 2.3.2-2
 smartmontools 7.2-1
-smbclient 4.14.6-1
+smbclient 4.14.7-1
 smpeg 0.4.5-5
 snappy 1.1.9-1
 sndio 1.7.0-3
@@ -2123,7 +2125,7 @@ udisks2 2.9.3-1
 ueberzug 18.1.9-2
 ufw 0.36-5
 umbrello 21.08.0-1
-unbound 1.13.1-2
+unbound 1.13.2-1
 unibilium 2.1.1-1
 unicode-character-database 13.0.0-1
 unicode-cldr 38.0-2
@@ -2133,13 +2135,13 @@ unzip 6.0-14
 upower 0.99.12-2
 usbmuxd 1.1.1-1
 usbredir 0.11.0-1
-usbutils 013-1
+usbutils 014-1
 util-linux 2.37.2-1
 util-linux-libs 2.37.2-1
 utools 1.3.5-1
 v2ray 4.41.1-1
 v2ray-domain-list-community 20210816014827-1
-v2ray-geoip 202108190022-1
+v2ray-geoip 202108251225-1
 v2raya 1.4.4-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.8.0-1
@@ -2184,7 +2186,7 @@ which 2.21-5
 wildmidi 0.4.4-1
 wine-mono 6.3.0-1
 wine-valve 6.3.20210616-1
-winetricks 20210206-1
+winetricks 20210825-1
 wireless-regdb 2021.04.21-1
 wl-clipboard 1:2.0.0-2
 wmctrl 1.07-6
@@ -2300,7 +2302,7 @@ xorgproto 2021.4-1
 xplane-sdk-devel 3.0.3-1
 xray 1.4.2-1
 xray-domain-list-community 20210816014827-1
-xray-geoip 202108241658-1
+xray-geoip 202108251225-1
 xsel 1.2.0.20190821-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
 xvidcore 1.3.7-2
