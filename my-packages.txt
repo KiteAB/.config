@@ -51,9 +51,9 @@ anthy 9100h-6
 anydesk-bin 6.1.1-4
 aom 3.1.2-1
 apache 2.4.48-1
-appstream 0.14.4-1
+appstream 0.14.5-2
 appstream-glib 0.7.18-2
-appstream-qt 0.14.4-1
+appstream-qt 0.14.5-2
 apr 1.7.0-3
 apr-util 1.6.1-8
 arandr 0.1.10-6
@@ -94,7 +94,7 @@ automake 1.16.4-1
 avahi 0.8+20+gd1e71b3-1
 avogadro-crystals 1.0.1-1
 avogadro-molecules 1.0.0-1
-avogadrolibs 1.94.0-1
+avogadrolibs 1.95.1-1
 avr-binutils 2.37-1
 avr-gcc 11.2.0-1
 avr-libc 2.0.0-4
@@ -182,7 +182,7 @@ coordgen 2.0.3-1
 coreutils 8.32-1
 cowsay 3.04-2
 cpio 2.13-2
-cpupower 5.13-1
+cpupower 5.14-1
 crda 4.14-4
 cronie 1.5.7-2
 cryptsetup 2.4.0-1
@@ -216,7 +216,7 @@ discount 2.2.7-1
 discover 5.22.4-1
 distorm 3.5.2-2
 djvulibre 3.5.28-3
-dkms 2.8.4-1
+dkms 2.8.5-1
 dmenu 5.0-1
 dmidecode 3.3-1
 dmraid 1.0.0.rc16.3-13
@@ -260,7 +260,7 @@ elisa 21.08.0-2
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.149670-1
+emacs-git 28.0.50.149684-1
 embree 3.13.0-1
 enca 1.19-4
 enchant 2.3.1-1
@@ -314,6 +314,7 @@ flac 1.3.3-3
 flameshot 0.10.1-1
 flatpak 1.11.3-1
 flex 2.6.4-3
+flite 2.2-1
 fltk 1.3.7-1
 fluidsynth 2.2.2-1
 fmt 8.0.1-1
@@ -487,7 +488,7 @@ icoutils 0.32.3-3
 icu 69.1-1
 id3lib 3.8.3-18
 ijs 0.35-3
-imagemagick 7.1.0.4-2
+imagemagick 7.1.0.5-1
 imath 3.1.2-1
 imlib2 1.7.3-1
 incidenceeditor 21.08.0-1
@@ -599,7 +600,7 @@ kdegraphics-thumbnailers 21.08.0-1
 kdelibs4support 5.85.0-1
 kdenetwork-filesharing 21.08.0-1
 kdenlive 21.08.0-1
-kdepim-addons 21.08.0-1
+kdepim-addons 21.08.0-2
 kdepim-runtime 21.08.0-1
 kdeplasma-addons 5.22.4-1
 kdesdk-kioslaves 21.08.0-1
@@ -774,7 +775,7 @@ l-smash 2.14.5-2
 ladspa 1.15-2
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.10.1.r5636.596a184f-1
+latte-dock-git 0.10.1.r5637.d47f01a4-1
 layer-shell-qt 5.22.4-1
 lazarus 2.0.12-3
 lazydocker 0.12-1
@@ -1409,6 +1410,7 @@ meson 0.59.1-1
 messagelib 21.08.0-1
 metis 5.1.0.p10-2
 milou 5.22.4-1
+minecraft-launcher 928-1
 minicom 2.8-1
 miniupnpc 2.2.2-1
 minizip 1:1.2.11-4
@@ -1606,7 +1608,7 @@ pciutils 3.7.0-1
 pcre 8.45-1
 pcre2 10.37-1
 pcsclite 1.9.3-1
-perf 5.13-1
+perf 5.14-1
 perl 5.34.0-2
 perl-clone 0.45-3
 perl-encode-locale 1.05-8
@@ -1895,8 +1897,8 @@ qpdf 10.3.2-1
 qqc2-desktop-style 5.85.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
-qt5-base 5.15.2+kde+r215-2
-qt5-declarative 5.15.2+kde+r29-1
+qt5-base 5.15.2+kde+r222-1
+qt5-declarative 5.15.2+kde+r30-1
 qt5-graphicaleffects 5.15.2-1
 qt5-imageformats 5.15.2-1
 qt5-location 5.15.2-3
@@ -1959,7 +1961,7 @@ roccat-tools-koneplus 5.9.0-2
 roccat-tools-konepure 5.9.0-2
 roccat-tools-konextd 5.9.0-2
 rocs 21.08.0-1
-rofi 1.6.1-1
+rofi 1.7.0-1
 rpcbind 1.2.6-1
 rsync 3.2.3-4
 rtaudio 5.1.0-3
@@ -2114,7 +2116,7 @@ tlp 1.3.1-2
 tlp-rdw 1.3.1-2
 tlpui-git 2:1.4.0.alpha.r1.gcfe3b14-1
 tmux 3.2_a-1
-todesk-bin 3.2.0-2
+todesk-bin 3.2.1-1
 totem-pl-parser 3.26.6-1
 traceroute 2.1.0-5
 tracker3 3.1.2-1
@@ -2172,7 +2174,7 @@ vala 0.52.5-1
 vamp-plugin-sdk 2.10.0-1
 vde2 2.3.2-16
 vdpauinfo 1.4-1
-ventoy-bin 1.0.51-1
+ventoy-bin 1.0.51-2
 vi 1:070224-5
 vid.stab 1.1-3
 vim 8.2.2891-1
@@ -2226,7 +2228,7 @@ wxgtk3 3.0.5.1-2
 x11vnc 1:0.9.16-4
 x264 3:0.161.r3039.544c61f-1
 x265 3.5-1
-x86_energy_perf_policy 5.13-1
+x86_energy_perf_policy 5.14-1
 xapian-core 1:1.4.18-1
 xaw3d 1.6.3-2
 xcb-imdkit 1.0.3-1
