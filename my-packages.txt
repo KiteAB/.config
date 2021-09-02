@@ -117,7 +117,7 @@ binutils 2.36.1-3
 bison 3.7.6-1
 black-hole-solver 1.10.1-1
 blas 3.10.0-1
-blender 17:2.93.3-1
+blender 17:2.93.4-1
 blinken 21.08.0-1
 blosc 1.21.0-1
 bluedevil 1:5.22.5-1
@@ -156,7 +156,7 @@ ccls 0.20210330-3
 cdparanoia 10.2-8
 cdrtools 3.02a09-5
 celt 0.11.3-4
-ceph-libs 15.2.13-2
+ceph-libs 15.2.14-1
 cervisia 21.08.0-1
 cfitsio 1:4.0.0-1
 cheese 3.38.0-1
@@ -225,7 +225,7 @@ dnssec-anchors 20190629-3
 docbook-xml 4.5-9
 docbook-xsl 1.79.2-7
 docker 1:20.10.8-1
-dolphin 21.08.0-1
+dolphin 21.08.0-2
 dolphin-plugins 21.08.0-1
 dosbox 0.74.3-2
 dosfstools 4.2-1
@@ -260,7 +260,7 @@ elisa 21.08.0-2
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.149686-1
+emacs-git 28.0.50.149699-1
 embree 3.13.0-1
 enca 1.19-4
 enchant 2.3.1-1
@@ -281,7 +281,7 @@ faad2 2.10.0-1
 fail2ban 0.11.2-2
 fakeroot 1.25.3-2
 farstream 0.2.9-2
-faudio 21.08-1
+faudio 21.09-1
 fcitx5 5.0.8-1
 fcitx5-anthy 5.0.5-1
 fcitx5-breeze 1.0.0-1
@@ -395,7 +395,7 @@ gnome-video-effects 0.5.0+4+g9554041-2
 gnugo 3.8-7
 gnupg 2.2.29-1
 gnutls 3.7.2-2
-go 2:1.17-1
+go 2:1.17-2
 gobject-introspection 1.68.0-1
 gobject-introspection-runtime 1.68.0-1
 google-chrome 93.0.4577.63-1
@@ -407,7 +407,7 @@ gparted 1.3.1-1
 gperf 3.1-3
 gperftools 2.9.1-1
 gpgme 1.16.0-1
-gpm 1.20.7.r38.ge82d1a6-3
+gpm 1.20.7.r38.ge82d1a6-4
 gptfdisk 1.0.8-1
 gradle 7.2-1
 gradle-src 7.2-1
@@ -497,7 +497,7 @@ iniparser 4.1-3
 inkscape 1.1-5
 intellij-idea-community-edition 4:2021.1.3-1
 intltool 0.51.0-6
-iproute2 5.13.0-1
+iproute2 5.14.0-1
 iptables-nft 1:1.8.7-1
 iputils 20210722-1
 ipython 7.27.0-1
@@ -856,7 +856,7 @@ lib32-libdrm 2.4.107-1
 lib32-libelf 0.185-1
 lib32-libepoxy 1.5.9-1
 lib32-libffi 3.3-2
-lib32-libgcrypt 1.9.3-1
+lib32-libgcrypt 1.9.4-1
 lib32-libgcrypt15 1.5.6-5
 lib32-libglvnd 1.3.3-1
 lib32-libgpg-error 1.42-1
@@ -1426,8 +1426,8 @@ mobile-broadband-provider-info 20201225-1
 modemmanager 1.16.10-1
 modemmanager-qt 5.85.0-1
 molequeue 0.9.0-2
-monero 0.17.2.0-5
-monero-gui 0.17.2.2-3
+monero 0.17.2.3-1
+monero-gui 0.17.2.3-1
 mono 6.12.0.122-1
 mono-msbuild 16.10.1.xamarinxplat.2021.05.26.14.00-1
 motrix-git 1.5.15.r68.g0cd1ed1-1
@@ -1836,7 +1836,7 @@ python-tomli 1.2.1-1
 python-tornado 6.1.0-3
 python-traitlets 5.0.5-1
 python-twisted 21.7.0-1
-python-typing_extensions 3.10.0.0-1
+python-typing_extensions 3.10.0.2-1
 python-ujson 4.1.0-1
 python-urllib3 1.26.6-1
 python-wcwidth 0.2.5-3
@@ -1935,7 +1935,7 @@ rasqal 1:0.9.33-4
 rav1e 0.4.1-1
 rclone 1.56.0-1
 rclone-browser 1.8.0-1
-re2 1:20210801-1
+re2 1:20210901-1
 read-edid 3.0.2-3
 readline 8.1.001-1
 recode 3.7.9-1
@@ -2143,7 +2143,7 @@ ttf-symbola 13.00-10
 ttf-ubuntu-font-family 0.83-7
 ttf-unifont 13.0.06-1
 twolame 0.4.0-2
-tzdata 2021a-1
+tzdata 2021a-2
 uchardet 0.0.7-1
 udftools 2.3-1
 udisks2 2.9.3-1
@@ -2165,7 +2165,7 @@ util-linux 2.37.2-1
 util-linux-libs 2.37.2-1
 utools 1.3.5-1
 v2ray 4.41.1-1
-v2ray-domain-list-community 20210816014827-1
+v2ray-domain-list-community 20210901054852-1
 v2ray-geoip 202108260024-1
 v2raya 1.5.2-1
 v4l-utils 1.20.0-1
@@ -2327,8 +2327,8 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.4-1
 xplane-sdk-devel 3.0.3-1
 xray 1.4.2-1
-xray-domain-list-community 20210901020946-1
-xray-geoip 202108260024-1
+xray-domain-list-community 20210901054852-1
+xray-geoip 202109020025-1
 xsel 1.2.0.20190821-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
 xvidcore 1.3.7-2
