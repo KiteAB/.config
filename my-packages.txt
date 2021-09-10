@@ -8,7 +8,7 @@ accountsservice 0.6.55-3
 acl 2.3.1-1
 acorn 1:8.4.1-1
 acpi 1.7-3
-acpi_call 1.2.1-82
+acpi_call 1.2.1-85
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-2
@@ -32,7 +32,7 @@ akregator 21.08.1-1
 alacritty 0.9.0-1
 alembic 1.8.2-2
 alpm_octopi_utils 1.0.2-3
-alsa-card-profiles 1:0.3.34-1
+alsa-card-profiles 1:0.3.35-1
 alsa-firmware 1.2.4-2
 alsa-lib 1.2.5.1-3
 alsa-oss 1.1.8-3
@@ -42,7 +42,7 @@ alsa-topology-conf 1.2.5.1-1
 alsa-ucm-conf 1.2.5.1-1
 alsa-utils 1.2.5.1-1
 amd-ucode 20210818.c46b8c3-1
-amdvlk 2021.Q3.5-1
+amdvlk 2021.Q3.6-1
 amtk 5.3.1-1
 analitza 21.08.1-1
 android-tools 31.0.2-1
@@ -188,7 +188,7 @@ cpupower 5.14-1
 crda 4.14-4
 cronie 1.5.7-2
 cryptsetup 2.4.0-1
-ctags 1:r20210106+g08b1c490-1
+ctags 1:5.9.20210905.0-1
 cups 1:2.3.3op2-3
 cups-filters 1.28.10-1
 curl 7.78.0-1
@@ -240,7 +240,7 @@ doxygen 1.9.2-1
 drkonqi 5.22.5-1
 droidcam 1:1.8.0-1
 dtc 1.6.1-1
-dune 2.9.0-3
+dune 2.9.1-1
 dvdauthor 0.7.2-11
 dvgrab 3.5-9
 e2fsprogs 1.46.4-1
@@ -262,7 +262,7 @@ elisa 21.08.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.149827-1
+emacs-git 28.0.50.149856-1
 embree 3.13.0-1
 enca 1.19-4
 enchant 2.3.1-1
@@ -310,7 +310,7 @@ filelight 21.08.1-1
 filesystem 2021.05.31-1
 findutils 4.8.0-1
 fingerprint-gui 1.09-7
-firefox 91.0.2-1
+firefox 92.0-1
 firewalld 1.0.1-1
 flac 1.3.3-3
 flameshot 0.10.1-1
@@ -356,7 +356,7 @@ gdk-pixbuf2 2.42.6-2
 gdl 3.40.0-1
 gedit 40.1-1
 gegl 0.4.32-1
-geoclue 2.5.7-3
+geoclue 2.5.7-4
 geocode-glib 3.26.2-1
 geoip 1.6.12-2
 geoip-database 20210824-1
@@ -369,7 +369,7 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.26-1
 git 2.33.0-1
-git-delta-git 0.8.3.20210713-1
+git-delta-git 0.8.4.20210909-1
 git-lfs 2.13.3-2
 github-cli 2.0.0-1
 gl2ps 1.4.2-2
@@ -427,7 +427,7 @@ groff 1.22.4-6
 groovy 3.0.8-1
 grpc 1.39.1-1
 grpc-cli 1.39.1-1
-grub 2:2.06-1
+grub 2:2.06-2
 grub-customizer 5.1.0-2
 gsettings-desktop-schemas 40.0-3
 gsfonts 20200910-2
@@ -728,7 +728,7 @@ kpty 5.85.0-1
 kpublictransport 21.08.1-1
 kqtquickcharts 21.08.1-1
 kquickcharts 5.85.0-1
-krb5 1.19.1-1
+krb5 1.19.2-1
 krdc 21.08.1-1
 kreversi 21.08.1-1
 krfb 21.08.1-1
@@ -795,7 +795,7 @@ lib2geom 1.1-1
 lib32-acl 2.3.1-1
 lib32-alsa-lib 1.2.5.1-1
 lib32-alsa-plugins 1.2.5-1
-lib32-amdvlk 2021.Q3.5-1
+lib32-amdvlk 2021.Q3.6-1
 lib32-at-spi2-atk 2.38.0-1
 lib32-at-spi2-core 2.40.3-1
 lib32-atk 2.36.0-2
@@ -840,7 +840,7 @@ lib32-jack2 1.9.19-2
 lib32-jansson 2.13.1-1
 lib32-json-glib 1.6.6-1
 lib32-keyutils 1.6.3-1
-lib32-krb5 1.19.1-1
+lib32-krb5 1.19.2-1
 lib32-l-smash 2.14.5-2
 lib32-lcms2 2.12-1
 lib32-libappindicator-gtk2 12.10.0-12
@@ -869,7 +869,7 @@ lib32-libgusb 0.3.7-1
 lib32-libice 1.0.10-1
 lib32-libid3tag 0.15.1b-2
 lib32-libidn11 1.33-1
-lib32-libidn2 2.3.1-1
+lib32-libidn2 2.3.2-1
 lib32-libindicator-gtk2 12.10.1-8
 lib32-libindicator-gtk3 12.10.1-8
 lib32-libinstpatch 1.1.6-1
@@ -927,12 +927,12 @@ lib32-libxft 2.3.4-1
 lib32-libxi 1.7.10-2
 lib32-libxinerama 1.1.4-1
 lib32-libxkbcommon 1.3.0-1
-lib32-libxml2 2.9.10-4
+lib32-libxml2 2.9.12-1
 lib32-libxmu 1.1.3-1
 lib32-libxrandr 1.5.2-1
 lib32-libxrender 0.9.10-2
 lib32-libxshmfence 1.3-2
-lib32-libxslt 1.1.34-1
+lib32-libxslt 1.1.34-2
 lib32-libxss 1.2.3-1
 lib32-libxt 1.2.1-1
 lib32-libxtst 1.2.3-2
@@ -961,8 +961,8 @@ lib32-p11-kit 0.24.0-1
 lib32-pam 1.5.1-2
 lib32-pango 1:1.48.9-2
 lib32-pcre 8.44-1
-lib32-pipewire 1:0.3.34-1
-lib32-pipewire-jack 1:0.3.34-1
+lib32-pipewire 1:0.3.35-1
+lib32-pipewire-jack 1:0.3.35-1
 lib32-pixman 0.40.0-1
 lib32-polkit 0.119-1
 lib32-portaudio 1:19.7.0-1
@@ -1051,7 +1051,7 @@ libdvdread 6.1.2-1
 libe-book 0.1.3-9
 libebml 1.4.2-1
 libebur128 1.2.6-1
-libedit 20210522_3.1-1
+libedit 20210714_3.1-1
 libelf 0.185-1
 libepoxy 1.5.9-1
 libepubgen 0.1.1-2
@@ -1090,7 +1090,7 @@ libgtop 2.40.0+2+g31db82ef-2
 libgudev 237-1
 libgusb 0.3.7-1
 libgxps 0.3.2-1
-libhandy 1.2.3-1
+libhandy 1.4.0-1
 libheif 1.12.0-1
 libibus 1.5.25-3
 libical 3.0.10-1
@@ -1212,7 +1212,7 @@ libpsl 0.21.1-1
 libpulse 15.0-1
 libqaccessibilityclient 0.4.1-2
 libqalculate 3.20.1-1
-libqmi 1.30.0-1
+libqmi 1.30.2-1
 libqrtr-glib 1.0.0-1
 libquicktime 1.2.4-24
 libquvi 0.9.4-6
@@ -1319,7 +1319,7 @@ libxkbcommon 1.3.0-1
 libxkbcommon-x11 1.3.0-1
 libxkbfile 1.1.0-2
 libxklavier 5.4-3
-libxml2 2.9.10-9
+libxml2 2.9.12-2
 libxmu 1.1.3-2
 libxnvctrl 470.63.01-1
 libxpm 3.5.13-2
@@ -1327,7 +1327,7 @@ libxrandr 1.5.2-3
 libxrender 0.9.10-4
 libxres 1.2.1-1
 libxshmfence 1.3-2
-libxslt 1.1.34-5
+libxslt 1.1.34-6
 libxss 1.2.3-3
 libxt 1.2.1-1
 libxtst 1.2.3-4
@@ -1344,12 +1344,12 @@ lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-6
 lightly-qt 0.4.1-1
 lilv 0.24.12-1
-linux 5.13.13.arch1-1
+linux 5.14.2.arch1-2
 linux-api-headers 5.12.3-1
 linux-firmware 20210818.c46b8c3-1
-linux-headers 5.13.13.arch1-1
-linux-lts 5.10.62-1
-linux-lts-headers 5.10.62-1
+linux-headers 5.14.2.arch1-2
+linux-lts 5.10.63-1
+linux-lts-headers 5.10.63-1
 linuxqq 1:2.0.0_b2_1089-1
 lirc 1:0.10.1-8
 lld 12.0.1-1
@@ -1403,7 +1403,7 @@ mariadb-clients 10.6.4-1
 mariadb-libs 10.6.4-1
 marisa 0.2.6-6
 markdownpart 21.08.1-1
-maven 3.8.1-1
+maven 3.8.2-1
 mbedtls 2.27.0-1
 mbox-importer 21.08.1-1
 md4c 0.4.8-1
@@ -1531,13 +1531,13 @@ noto-fonts-cjk 20201206-3
 noto-fonts-emoji 20210625-1
 noto-fonts-emoji-blob 1:14.0-4
 noto-fonts-extra 20201226-2
-npm 7.22.0-1
+npm 7.23.0-1
 npth 1.6-3
 nspr 4.32-1
 nss 3.70-1
-ntfs-3g 2017.3.23-5
+ntfs-3g 2021.8.22-1
 numactl 2.0.14-1
-nvidia-lts 1:470.63.01-4
+nvidia-lts 1:470.63.01-5
 nvidia-utils 470.63.01-1
 oath-toolkit 2.6.7-1
 obs-studio 27.0.1-2
@@ -1608,7 +1608,7 @@ partitionmanager 21.08.1-1
 paru 1.8.2-1
 pastebinit 1.5.1-1
 patch 2.7.6-8
-patchelf 0.12-1
+patchelf 0.13-1
 pavucontrol 1:5.0-1
 pciutils 3.7.0-1
 pcre 8.45-1
@@ -1623,7 +1623,7 @@ perl-file-listing 6.14-2
 perl-html-parser 3.76-2
 perl-html-tagset 3.20-11
 perl-http-cookies 6.10-2
-perl-http-daemon 6.06-3
+perl-http-daemon 6.12-1
 perl-http-date 6.05-4
 perl-http-message 6.33-1
 perl-http-negotiate 6.01-9
@@ -1651,9 +1651,9 @@ pim-data-exporter 21.08.1-1
 pim-sieve-editor 21.08.1-1
 pimcommon 21.08.1-1
 pinentry 1.1.1-1
-pipewire 1:0.3.34-1
-pipewire-jack 1:0.3.34-1
-pipewire-media-session 1:0.3.34-1
+pipewire 1:0.3.35-1
+pipewire-jack 1:0.3.35-1
+pipewire-media-session 1:0.3.35-1
 pixman 0.40.0-1
 pkgconf 1.7.3-1
 pkgfile 21-2
@@ -1676,7 +1676,7 @@ polkit-kde-agent 5.22.5-1
 polkit-qt5 0.114.0-1
 ponysay 3.0.3-4
 poppler 21.09.0-1
-poppler-data 0.4.10-1
+poppler-data 0.4.11-1
 poppler-glib 21.09.0-1
 poppler-qt5 21.09.0-1
 popt 1.18-1
@@ -1711,7 +1711,7 @@ pulseaudio-zeroconf 15.0-1
 pulsemixer 1.5.1-2
 purpose 5.85.0-1
 pybind11 2.7.1-1
-pycharm-community-edition 2021.2-2
+pycharm-community-edition 2021.2.1-1
 pyrit 0.5.0-5
 pystring 1.1.3.git1-1
 python 3.9.6-1
@@ -1734,12 +1734,12 @@ python-click 8.0.1-1
 python-colorama 0.4.4-3
 python-constantly 15.1.0-9
 python-contextlib2 0.6.0.post1-3
-python-cryptography 3.4.8-1
+python-cryptography 3.4.8-2
 python-dateutil 2.8.2-1
-python-debugpy 1.4.1-3
+python-debugpy 1.4.3-1
 python-decorator 5.0.9-1
 python-distlib 0.3.2-1
-python-distro 1.5.0-3
+python-distro 1.6.0-1
 python-dlib 19.21-2
 python-dnspython 1:1.16.0-3
 python-docopt 0.6.2-9
@@ -1780,7 +1780,7 @@ python-nautilus 1.2.3-5
 python-numpy 1.20.3-1
 python-opencv 4.5.3-4
 python-ordered-set 4.0.2-3
-python-packaging 20.9-1
+python-packaging 20.9-2
 python-parso 1:0.8.2-1
 python-path-and-address 2.0.1-1
 python-pep517 0.11.0-1
@@ -1819,7 +1819,7 @@ python-requests 2.26.0-1
 python-resolvelib 0.5.5-1
 python-retrying 1.3.3-9
 python-scipy 1.7.1-1
-python-setuptools 1:57.4.0-1
+python-setuptools 1:57.4.0-2
 python-sexpdata 0.0.3-3
 python-sgmllib 5.2.1-9
 python-shiboken2 5.15.2-9
@@ -1840,7 +1840,7 @@ python-termcolor 1.1.0-10
 python-toml 0.10.2-3
 python-tomli 1.2.1-1
 python-tornado 6.1.0-3
-python-traitlets 5.0.5-1
+python-traitlets 5.0.5-2
 python-twisted 21.7.0-1
 python-typing_extensions 3.10.0.2-1
 python-ujson 4.1.0-1
@@ -1865,7 +1865,7 @@ python2-configparser 4.0.2-2
 python2-contextlib2 0.6.0.post1-3
 python2-cryptography 3.3.2-1
 python2-distlib 0.3.2-1
-python2-distro 1.5.0-3
+python2-distro 1.6.0-1
 python2-enum34 1.1.9-1
 python2-html5lib 1.1-6
 python2-idna 2.10-4
@@ -1873,7 +1873,7 @@ python2-importlib-metadata 2.1.1-1
 python2-ipaddress 1.0.23-2
 python2-msgpack 0.6.2-4
 python2-ordered-set 3.1.1-3
-python2-packaging 20.9-1
+python2-packaging 20.9-2
 python2-pathlib2 2.3.6-1
 python2-pep517 0.11.0-1
 python2-pip 20.3.4-1
@@ -1913,7 +1913,7 @@ qt5-multimedia 5.15.2-1
 qt5-networkauth 5.15.2-1
 qt5-quickcontrols 5.15.2-1
 qt5-quickcontrols2 5.15.2+kde+r8-1
-qt5-script 5.15.5-2
+qt5-script 5.15.6-1
 qt5-sensors 5.15.2-1
 qt5-serialport 5.15.2-1
 qt5-speech 5.15.2-1
@@ -1921,7 +1921,7 @@ qt5-svg 5.15.2+kde+r7-1
 qt5-tools 5.15.2+kde+r17-3
 qt5-wayland 5.15.2+kde+r30-1
 qt5-webchannel 5.15.2-1
-qt5-webengine 5.15.5-1
+qt5-webengine 5.15.6-1
 qt5-webkit 5.212.0alpha4-10
 qt5-x11extras 5.15.2-1
 qt5-xmlpatterns 5.15.2-1
@@ -2061,7 +2061,7 @@ sratom 0.6.8-1
 srt 1.4.3-1
 sshfs 3.7.2-1
 startup-notification 0.12-7
-steam 1.0.0.71-1
+steam 1.0.0.72-1
 steam-native-runtime 1.0.0.70-2
 step 21.08.1-1
 stk 4.6.1-3
@@ -2174,8 +2174,8 @@ util-linux 2.37.2-1
 util-linux-libs 2.37.2-1
 utools 1.3.5-1
 v2ray 4.41.1-1
-v2ray-domain-list-community 20210901054852-1
-v2ray-geoip 202109060310-1
+v2ray-domain-list-community 20210906031055-1
+v2ray-geoip 202109090028-1
 v2raya 1.5.2-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.8.0-1
@@ -2187,14 +2187,14 @@ vdpauinfo 1.4-1
 ventoy-bin 1.0.51-2
 vi 1:070224-5
 vid.stab 1.1-3
-vim 8.2.2891-1
-vim-runtime 8.2.2891-1
+vim 8.2.3412-1
+vim-runtime 8.2.3412-1
 virglrenderer 0.9.1-1
 virt-install 3.2.0-1
 virt-manager 3.2.0-1
 virtio-win 0.1.204.1-4
 virtualbox 6.1.26-1
-virtualbox-host-modules-arch 6.1.26-8
+virtualbox-host-modules-arch 6.1.26-11
 visual-studio-code-bin 1.60.0-1
 vkd3d 1.2-1
 vlc 3.0.16-3
@@ -2336,8 +2336,8 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.4-1
 xplane-sdk-devel 3.0.3-1
 xray 1.4.3-1
-xray-domain-list-community 20210906031055-1
-xray-geoip 202109060310-1
+xray-domain-list-community 20210910034243-1
+xray-geoip 202109090028-1
 xsel 1.2.0.20190821-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
 xvidcore 1.3.7-2
