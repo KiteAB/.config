@@ -60,7 +60,7 @@ arandr 0.1.10-6
 arc-icon-theme 20161122-3
 archlinux-appstream-data 20210902-1
 archlinux-keyring 20210902-1
-archlinuxcn-keyring 20210906-1
+archlinuxcn-keyring 20210910-1
 arctime 2.4.1-1
 ardour 6.9-1
 arduino 1:1.8.15-1
@@ -249,7 +249,7 @@ eclipse-ecj 4.6.3-2
 eclipse-emf 2.19-2
 eclipse-platform 4.20-1
 editorconfig-core-c 0.12.5-1
-edk2-ovmf 202105-1
+edk2-ovmf 202108-1
 efibootmgr 17-2
 efivar 37-4
 egl-wayland 1.1.7-1
@@ -262,11 +262,12 @@ elisa 21.08.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.149856-1
+emacs-git 28.0.50.149870-1
 embree 3.13.0-1
 enca 1.19-4
 enchant 2.3.1-1
 enet 1.3.17-1
+epherome 0.2.7-1
 esp8266-nonos-sdk 3.0.4-1
 esptool 3.1-1
 ethtool 1:5.13-1
@@ -335,9 +336,9 @@ fribidi 1.0.10-1
 frpc 0.37.1-1
 fstrm 0.6.1-1
 fuckmemory 1.0.1-1
-fuse-common 3.10.4-1
+fuse-common 3.10.5-1
 fuse2 2.9.9-4
-fuse3 3.10.4-1
+fuse3 3.10.5-1
 fzf 0.27.2-1
 gamemode 1.6.1-1
 gavl 1.4.0-5
@@ -351,7 +352,7 @@ gcr 3.40.0-1
 gd 2.3.2-4
 gdb 10.2-2
 gdb-common 10.2-2
-gdbm 1.20-1
+gdbm 1.21-1
 gdk-pixbuf2 2.42.6-2
 gdl 3.40.0-1
 gedit 40.1-1
@@ -397,13 +398,13 @@ gnome-video-effects 0.5.0+4+g9554041-2
 gnugo 3.8-7
 gnupg 2.2.29-1
 gnutls 3.7.2-2
-go 2:1.17-2
+go 2:1.17.1-1
 gobject-introspection 1.68.0-1
 gobject-introspection-runtime 1.68.0-1
 godot 3.3.3-1
 google-chrome 93.0.4577.63-1
 google-glog 0.5.0-2
-gopls 0.7.1-1
+gopls 0.7.2-1
 goverlay 0.6.2-2
 gpart 0.3-4
 gparted 1.3.1-1
@@ -848,7 +849,7 @@ lib32-libappindicator-gtk3 12.10.0-12
 lib32-libasyncns 0.8+3+g68cd5af-2
 lib32-libcaca 0.99.beta19-5
 lib32-libcanberra 0.30+2+gc0620e4-5
-lib32-libcap 2.53-1
+lib32-libcap 2.56-1
 lib32-libcups 2.3.3-1
 lib32-libcurl-compat 7.78.0-1
 lib32-libcurl-gnutls 7.78.0-1
@@ -881,7 +882,7 @@ lib32-libmikmod 3.3.11.1-4
 lib32-libmodplug 0.8.9.0-3
 lib32-libnl 3.5.0-1
 lib32-libnm 1.32.10-1
-lib32-libnsl 1.3.0-2
+lib32-libnsl 2.0.0-1
 lib32-libogg 1.3.5-1
 lib32-libpcap 1.10.1-1
 lib32-libpciaccess 0.16-1
@@ -912,7 +913,7 @@ lib32-libvdpau 1.4-1
 lib32-libvorbis 1.3.7-1
 lib32-libvpx1.3 1.3.0-2
 lib32-libwebp 1.2.1-1
-lib32-libwrap 7.6.31-1
+lib32-libwrap 7.6.31-2
 lib32-libx11 1.7.2-1
 lib32-libxau 1.0.9-1
 lib32-libxcb 1.14-1
@@ -1016,7 +1017,7 @@ libbytesize 2.6-1
 libcaca 0.99.beta19-5
 libcacard 2.7.0-2
 libcanberra 0.30+2+gc0620e4-5
-libcap 2.53-1
+libcap 2.56-1
 libcap-ng 0.8.2-3
 libcddb 1.3.2-6
 libcdio 2.1.0-2
@@ -1183,7 +1184,7 @@ libnl 3.5.0-3
 libnm 1.32.10-1
 libnma 1.8.32-1
 libnotify 0.7.9-1
-libnsl 1.3.0-2
+libnsl 2.0.0-1
 libnumbertext 1.0.7-1
 libodfgen 0.1.8-1
 libofa 0.9.3-9
@@ -1267,7 +1268,7 @@ libunistring 0.9.10-3
 libunwind 1.5.0-1
 libupnp 1.14.8-1
 liburcu 0.13.0-1
-liburing 2.0-1
+liburing 2.1-1
 libusb 1.0.24-2
 libusb-compat 0.1.7-1
 libusbmuxd 2.0.2-1
@@ -1294,7 +1295,7 @@ libwpd 0.10.3-3
 libwpe 1.10.1-1
 libwpg 0.3.3-2
 libwps 0.4.12-1
-libwrap 7.6.31-1
+libwrap 7.6.31-2
 libx11 1.7.2-1
 libx86 1.1-8
 libx86emu 3.2-1
@@ -1422,7 +1423,7 @@ miniupnpc 2.2.2-1
 minizip 1:1.2.11-4
 minuet 21.08.1-1
 mixxx 2.3.0-2
-mjpegtools 2.2.0-1
+mjpegtools 2.2.1-1
 mkinitcpio 30-2
 mkinitcpio-busybox 1.33.1-1
 mlt 7.0.1-1
@@ -1523,7 +1524,7 @@ ninja 1.10.2-1
 nm-connection-editor 1.24.0-1
 nmap 7.92-1
 node-gyp 8.1.0-2
-nodejs 16.9.0-1
+nodejs 16.9.1-1
 nodejs-nopt 5.0.0-2
 nodemcu-pyflasher 5.0.0-1
 noto-fonts 20201226-2
@@ -1584,7 +1585,7 @@ orc 0.4.32-1
 os-prober 1.79-1
 osinfo-db 20210903-1
 ossp 1.3.2+11+g9e94d67-3
-ostree 2021.3-1
+ostree 2021.4-1
 oxygen 5.22.5-1
 p11-kit 0.24.0-1
 p7zip 1:17.04-3
@@ -1714,7 +1715,7 @@ pybind11 2.7.1-1
 pycharm-community-edition 2021.2.1-1
 pyrit 0.5.0-5
 pystring 1.1.3.git1-1
-python 3.9.6-1
+python 3.9.7-1
 python-anytree 2.8.0-3
 python-appdirs 1.4.4-3
 python-argcomplete 1.12.1-1
@@ -1853,7 +1854,7 @@ python-xlib 0.31-1
 python-yaml 5.4.1.1-2
 python-zipp 3.5.0-1
 python-zope-interface 5.4.0-1
-python2 2.7.18-3
+python2 2.7.18-4
 python2-appdirs 1.4.4-3
 python2-asn1crypto 1.4.0-3
 python2-backports 1.0-3
@@ -1998,10 +1999,10 @@ rubygems 3.2.21-1
 run-parts 5.4-1
 runc 1.0.2-2
 rustup 1.24.3-1
-samba 4.14.7-1
+samba 4.14.7-2
 sane 1.0.32-3
 sbc 1.5-2
-scrcpy 1.18-1
+scrcpy 1.19-1
 screen 4.8.0-3
 screenfetch 3.9.1-1
 screenkey 1.4-2
@@ -2034,9 +2035,9 @@ signon-ui 0.17+20171022-2
 signond 8.60-3
 slang 2.3.2-2
 smartmontools 7.2-1
-smbclient 4.14.7-1
+smbclient 4.14.7-2
 smpeg 0.4.5-5
-snappy 1.1.9-1
+snappy 1.1.9-2
 sndio 1.7.0-3
 snes9x-gtk 1.60-8
 socat 1.7.4.1-1
@@ -2174,7 +2175,7 @@ util-linux 2.37.2-1
 util-linux-libs 2.37.2-1
 utools 1.3.5-1
 v2ray 4.41.1-1
-v2ray-domain-list-community 20210906031055-1
+v2ray-domain-list-community 20210910080130-1
 v2ray-geoip 202109090028-1
 v2raya 1.5.2-1
 v4l-utils 1.20.0-1
@@ -2257,7 +2258,7 @@ xdg-desktop-portal-kde 5.22.5-1
 xdg-user-dirs 0.17-3
 xdg-utils 1.1.3+19+g9816ebb-1
 xdotool 3.20210903.1-1
-xerces-c 3.2.3-3
+xerces-c 3.2.3-4
 xf86-input-evdev 2.10.6-2
 xf86-input-libinput 1.1.0-1
 xf86-input-synaptics 1.9.1-2
@@ -2336,7 +2337,7 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.4-1
 xplane-sdk-devel 3.0.3-1
 xray 1.4.3-1
-xray-domain-list-community 20210910034243-1
+xray-domain-list-community 20210910080130-1
 xray-geoip 202109090028-1
 xsel 1.2.0.20190821-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
