@@ -63,7 +63,7 @@ archlinux-keyring 20210902-1
 archlinuxcn-keyring 20210910-1
 arctime 2.4.1-1
 ardour 6.9-1
-arduino 1:1.8.15-1
+arduino 1:1.8.16-1
 arduino-avr-core 1.8.3-1
 arduino-builder 1.6.1-1
 arduino-ctags 5.8_arduino11-4
@@ -222,7 +222,7 @@ dkms 2.8.6-2
 dmenu 5.0-1
 dmidecode 3.3-1
 dmraid 1.0.0.rc16.3-13
-dnsmasq 2.85-1
+dnsmasq 2.86-1
 dnssec-anchors 20190629-3
 docbook-xml 4.5-9
 docbook-xsl 1.79.2-7
@@ -262,7 +262,7 @@ elisa 21.08.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.149990-1
+emacs-git 28.0.50.150051-1
 embree 3.13.0-1
 enca 1.19-4
 enchant 2.3.1-1
@@ -282,7 +282,7 @@ f2fs-tools 1.14.0-3
 faac 1.30-2
 faad2 2.10.0-1
 fail2ban 0.11.2-2
-fakeroot 1.25.3-2
+fakeroot 1.26-1
 farstream 0.2.9-2
 faudio 21.09-1
 fcitx5 5.0.8-1
@@ -303,7 +303,7 @@ ffmpeg 2:4.4-4
 ffmpegthumbs 21.08.1-1
 ffms2 2.40-1
 ffnvcodec-headers 11.1.5.0-1
-fftw 3.3.9-1
+fftw 3.3.10-1
 figlet 2.2.5-4
 file 5.40-5
 filebrowser-bin 2.17.2-1
@@ -319,7 +319,7 @@ flatpak 1.11.3-1
 flex 2.6.4-3
 flite 2.2-1
 fltk 1.3.7-1
-fluidsynth 2.2.2-1
+fluidsynth 2.2.3-1
 fmt 8.0.1-1
 fontconfig 2:2.13.94-1
 fpc 3.2.2-1
@@ -350,8 +350,8 @@ gcc-libs 11.1.0-1
 gconf 3.2.6+11+g07808097-10
 gcr 3.40.0-1
 gd 2.3.3-1
-gdb 10.2-2
-gdb-common 10.2-2
+gdb 11.1-1
+gdb-common 11.1-1
 gdbm 1.21-1
 gdk-pixbuf2 2.42.6-2
 gdl 3.40.0-1
@@ -368,9 +368,9 @@ ghostscript 9.54.0-3
 ghostxps 9.54.0-3
 giblib 1.2.4-8
 giflib 5.2.1-2
-gimp 2.10.26-1
+gimp 2.10.28-1
 git 2.33.0-1
-git-delta-git 0.8.4.20210909-1
+git-delta-git 0.8.4.20210915-2
 git-lfs 2.13.3-2
 github-cli 2.0.0-1
 gl2ps 1.4.2-2
@@ -500,7 +500,7 @@ imlib2 1.7.3-1
 incidenceeditor 21.08.1-1
 iniparser 4.1-3
 inkscape 1.1-6
-intellij-idea-community-edition 4:2021.2.1-1
+intellij-idea-community-edition 4:2021.2.2-1
 intltool 0.51.0-6
 iproute2 5.14.0-1
 iptables-nft 1:1.8.7-1
@@ -814,7 +814,7 @@ lib32-e2fsprogs 1.46.4-1
 lib32-expat 2.4.1-1
 lib32-faudio 21.08-1
 lib32-flac 1.3.3-1
-lib32-fluidsynth 2.2.2-1
+lib32-fluidsynth 2.2.3-1
 lib32-fontconfig 2:2.13.94-1
 lib32-freeglut 3.2.1-1
 lib32-freetype2 2.11.0-3
@@ -912,7 +912,7 @@ lib32-libva-mesa-driver 21.2.1-1
 lib32-libvdpau 1.4-1
 lib32-libvorbis 1.3.7-1
 lib32-libvpx1.3 1.3.0-2
-lib32-libwebp 1.2.1-1
+lib32-libwebp 1.2.1-2
 lib32-libwrap 7.6.31-2
 lib32-libx11 1.7.2-1
 lib32-libxau 1.0.9-1
@@ -1288,7 +1288,7 @@ libvpx 1.10.0-1
 libvpx1.3 1.3.0-3
 libvterm 0.1.3.git1.65dbda-1
 libwacom 1.12-1
-libwebp 1.2.1-1
+libwebp 1.2.1-2
 libwebsockets 4.2.2-1
 libwmf 0.2.12-2
 libwpd 0.10.3-3
@@ -1441,7 +1441,7 @@ mpfr 4.1.0.p13-1
 mpg123 1.29.0-1
 mplayer 38157-4
 mprime 303b6-1
-mpv 1:0.33.1-2
+mpv 1:0.33.1-3
 msgpack-c 4.0.0-1
 msr-tools 1.3-4
 mtdev 1.1.6-1
@@ -1711,7 +1711,7 @@ pulseaudio-zeroconf 15.0-1
 pulsemixer 1.5.1-2
 purpose 5.86.0-1
 pybind11 2.7.1-1
-pycharm-community-edition 2021.2.1-1
+pycharm-community-edition 2021.2.2-1
 pyrit 0.5.0-5
 pystring 1.1.3.git1-1
 python 3.9.7-1
@@ -1737,7 +1737,7 @@ python-contextlib2 0.6.0.post1-3
 python-cryptography 3.4.8-2
 python-dateutil 2.8.2-1
 python-debugpy 1.4.3-1
-python-decorator 5.0.9-1
+python-decorator 5.1.0-1
 python-distlib 0.3.2-1
 python-distro 1.6.0-1
 python-dlib 19.21-2
@@ -2065,7 +2065,7 @@ steam 1.0.0.72-1
 steam-native-runtime 1.0.0.70-2
 step 21.08.1-1
 stk 4.6.1-3
-sudo 1.9.7.p2-1
+sudo 1.9.8-2
 suil 0.10.10-1
 suitesparse 5.10.1-1
 sunloginclient 11.0.0.36662-2
@@ -2177,7 +2177,7 @@ utools 1.3.5-1
 v2ray 4.41.1-1
 v2ray-domain-list-community 20210910080130-1
 v2ray-geoip 202109102251-1
-v2raya 1.5.2-1
+v2raya 1.5.3-2
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.8.0-1
 v4l2loopback-dkms 0.12.5-1
@@ -2185,11 +2185,11 @@ vala 0.52.5-1
 vamp-plugin-sdk 2.10.0-1
 vde2 2.3.2-16
 vdpauinfo 1.4-1
-ventoy-bin 1.0.52-4
+ventoy-bin 1.0.52-6
 vi 1:070224-5
 vid.stab 1.1-3
-vim 8.2.3412-1
-vim-runtime 8.2.3412-1
+vim 8.2.3441-1
+vim-runtime 8.2.3441-1
 virglrenderer 0.9.1-1
 virt-install 3.2.0-1
 virt-manager 3.2.0-1
