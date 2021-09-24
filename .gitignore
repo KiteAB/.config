@@ -23,6 +23,7 @@ ranger/folders.conf
 !/mutt/
 /mutt/accounts/*
 !/my-packages.txt
+!/my-packages-q.txt
 !/vimium-options.json
 !/vimium-c-options.json
 !/jesseduffield/
