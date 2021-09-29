@@ -1243,6 +1243,7 @@ libsm
 libsndfile
 libsodium
 libsoup
+libsoup3
 libsoxr
 libspectre
 libspeechd
@@ -1485,7 +1486,6 @@ nerd-fonts-ibm-plex-mono
 nerd-fonts-inconsolata
 nerd-fonts-inconsolata-go
 nerd-fonts-inconsolata-lgc
-nerd-fonts-iosevka
 nerd-fonts-jetbrains-mono
 nerd-fonts-lekton
 nerd-fonts-liberation
@@ -2132,7 +2132,6 @@ tk
 tldr
 tlp
 tlp-rdw
-tlpui-git
 tmux
 todesk-bin
 totem-pl-parser
@@ -2147,6 +2146,7 @@ ttf-dejavu
 ttf-droid
 ttf-hack
 ttf-inconsolata
+ttf-iosevka-nerd
 ttf-jetbrains-mono
 ttf-joypixels
 ttf-liberation
