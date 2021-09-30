@@ -59,7 +59,7 @@ apr-util 1.6.1-8
 arandr 0.1.10-6
 arc-icon-theme 20161122-3
 arch-install-scripts 24-2
-archlinux-appstream-data 20210921-1
+archlinux-appstream-data 20210929-1
 archlinux-keyring 20210902-1
 archlinuxcn-keyring 20210910-1
 arctime 2.4.1-1
@@ -116,7 +116,7 @@ bc 1.07.1-4
 bdf-unifont 14.0.01-1
 bilibili-live-helper-bin 2.2.2-1
 binutils 2.36.1-3
-bison 3.7.6-1
+bison 3.8.1-1
 black-hole-solver 1.10.1-1
 blas 3.10.0-1
 blender 17:2.93.4-3
@@ -255,7 +255,7 @@ editorconfig-core-c 0.12.5-1
 edk2-ovmf 202108-1
 efibootmgr 17-2
 efivar 37-4
-egl-wayland 1.1.8-1
+egl-wayland 1:1.1.7-1
 eglexternalplatform 1.1-2
 electron 15.0.0-1
 electron-netease-cloud-music 0.9.29-1
@@ -265,7 +265,7 @@ elisa 21.08.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.150471-1
+emacs-git 28.0.50.150481-1
 embree 3.13.0-1
 enca 1.19-4
 enchant 2.3.1-1
@@ -291,15 +291,15 @@ faudio 21.09-1
 fcitx5 5.0.9-1
 fcitx5-anthy 5.0.5-1
 fcitx5-breeze 1.0.0-1
-fcitx5-chewing 5.0.5-1
+fcitx5-chewing 5.0.6-1
 fcitx5-chinese-addons 5.0.6-2
 fcitx5-configtool 5.0.5-1
 fcitx5-gtk 5.0.7-1
 fcitx5-material-color 0.2.1-1
 fcitx5-pinyin-moegirl 20210914-1
 fcitx5-pinyin-zhwiki 1:0.2.3.20210923-1
-fcitx5-qt 5.0.6-1
-fcitx5-rime 5.0.6-1
+fcitx5-qt 5.0.7-1
+fcitx5-rime 5.0.7-1
 fd 8.2.1-1
 feh 3.7.2-1
 ffmpeg 2:4.4-4
@@ -911,7 +911,7 @@ lib32-libunistring 0.9.10-1
 lib32-libunwind 1.5.0-1
 lib32-libusb 1.0.24-1
 lib32-libva 2.11.0-1
-lib32-libva-mesa-driver 21.2.2-1
+lib32-libva-mesa-driver 21.2.3-1
 lib32-libvdpau 1.4-1
 lib32-libvorbis 1.3.7-1
 lib32-libvpx1.3 1.3.0-2
@@ -946,8 +946,8 @@ lib32-llvm 12.0.1-2
 lib32-llvm-libs 12.0.1-2
 lib32-lm_sensors 1:3.6.0.r41.g31d1f125-1
 lib32-lz4 1.9.3-1
-lib32-mesa 21.2.2-1
-lib32-mesa-vdpau 21.2.2-1
+lib32-mesa 21.2.3-1
+lib32-mesa-vdpau 21.2.3-1
 lib32-mpg123 1.29.0-1
 lib32-ncurses 6.2-1
 lib32-nettle 3.7.3-1
@@ -955,7 +955,7 @@ lib32-nspr 4.32-1
 lib32-nss 3.70-1
 lib32-ocl-icd 2.3.0-1
 lib32-openal 1.21.1-1
-lib32-opencl-mesa 21.2.2-1
+lib32-opencl-mesa 21.2.3-1
 lib32-opencl-nvidia 470.74-1
 lib32-openssl 1:1.1.1.l-1
 lib32-openssl-1.0 1.0.2.u-1
@@ -988,7 +988,7 @@ lib32-util-linux 2.37.2-1
 lib32-v4l-utils 1.20.0-1
 lib32-vkd3d 1.2-2
 lib32-vulkan-icd-loader 1.2.191-1
-lib32-vulkan-radeon 21.2.2-1
+lib32-vulkan-radeon 21.2.3-1
 lib32-wayland 1.19.0-1
 lib32-x264 3:0.161.r3039.544c61f-2
 lib32-xz 5.2.5-2
@@ -1106,7 +1106,7 @@ libidn2 2.3.2-1
 libiec61883 1.2.0-6
 libieee1284 0.2.11-11
 libimagequant 2.16.0-1
-libime 1.0.7-2
+libime 1.0.8-1
 libimobiledevice 1.3.0-3
 libindicator-gtk2 12.10.1-9
 libindicator-gtk3 12.10.1-9
@@ -1270,7 +1270,7 @@ libtool 2.4.6+42+gb88cebd5-16
 libudev0-shim 1-4
 libunistring 0.9.10-3
 libunwind 1.5.0-1
-libupnp 1.14.8-1
+libupnp 1.14.12-1
 liburcu 0.13.0-1
 liburing 2.1-1
 libusb 1.0.24-2
@@ -1280,7 +1280,7 @@ libutempter 1.2.1-1
 libutf8proc 2.6.1-1
 libuv 1.42.0-1
 libva 2.12.0-1
-libva-mesa-driver 21.2.2-1
+libva-mesa-driver 21.2.3-1
 libvdpau 1.4-1
 libvirt 1:7.7.0-1
 libvirt-glib 4.0.0-1
@@ -1414,9 +1414,9 @@ md4c 0.4.8-1
 mdadm 4.1-2
 media-player-info 24-2
 mercurial 5.9.1-2
-mesa 21.2.2-1
+mesa 21.2.3-1
 mesa-demos 8.4.0-4
-mesa-vdpau 21.2.2-1
+mesa-vdpau 21.2.3-1
 meson 0.59.1-1
 messagelib 21.08.1-1
 metis 5.1.0.p10-2
@@ -1561,7 +1561,7 @@ openbabel 3.1.1-2
 opencascade 7.5.0-3
 opencc 1.1.2-1
 opencl-headers 2:2021.04.29-1
-opencl-mesa 21.2.2-1
+opencl-mesa 21.2.3-1
 opencl-nvidia 470.74-1
 opencollada 1:1.6.68-2
 opencolorio 2.1.0-1
@@ -2017,7 +2017,7 @@ sddm 0.19.0-7
 sddm-kcm 5.22.5-1
 sddm-sugar-light 1.0-2
 sdl 1.2.15+387+gfbfcca32-1
-sdl2 2.0.16-2
+sdl2 2.0.16-3
 sdl2_image 2.0.5-2
 sdl2_mixer 2.0.4-7
 sdl2_ttf 2.0.15-2
@@ -2183,7 +2183,7 @@ util-linux 2.37.2-1
 util-linux-libs 2.37.2-1
 utools 1.3.5-2
 v2ray 4.42.2-1
-v2ray-domain-list-community 20210927113941-1
+v2ray-domain-list-community 20210927210458-1
 v2ray-geoip 202109230028-1
 v2raya 1.5.3-2
 v4l-utils 1.20.0-1
@@ -2214,7 +2214,7 @@ vte3 0.64.2-2
 vtk 8.2.0-20
 vulkan-headers 1:1.2.191-1
 vulkan-icd-loader 1.2.191-1
-vulkan-radeon 21.2.2-1
+vulkan-radeon 21.2.3-1
 vulkan-tools 1.2.190-1
 w3m 0.5.3.git20210102_6-1
 wavpack 5.4.0-1
@@ -2347,7 +2347,7 @@ xorgproto 2021.5-1
 xplane-sdk-devel 3.0.3-1
 xray 1.4.5-1
 xray-domain-list-community 20210927210458-1
-xray-geoip 202109230028-1
+xray-geoip 202109300030-1
 xsel 1.2.0.20190821-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
 xvidcore 1.3.7-2
@@ -2357,7 +2357,7 @@ yajl 2.1.0-4
 yakuake 21.08.1-1
 yaml-cpp 0.6.3-2
 yaourt 1.9-1
-yarn 1.22.11-1
+yarn 1.22.13-1
 yasm 1.3.0-4
 yelp-tools 40.0-1
 yelp-xsl 40.2-1
