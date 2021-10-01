@@ -32,7 +32,7 @@ akregator 21.08.1-1
 alacritty 0.9.0-1
 alembic 1.8.3-1
 alpm_octopi_utils 1.0.2-3
-alsa-card-profiles 1:0.3.37-1
+alsa-card-profiles 1:0.3.38-1
 alsa-firmware 1.2.4-2
 alsa-lib 1.2.5.1-3
 alsa-oss 1.1.8-3
@@ -42,7 +42,7 @@ alsa-topology-conf 1.2.5.1-1
 alsa-ucm-conf 1.2.5.1-1
 alsa-utils 1.2.5.1-1
 amd-ucode 20210919.d526e04-1
-amdvlk 2021.Q3.6-1
+amdvlk 2021.Q3.7-1
 amtk 5.3.1-1
 analitza 21.08.1-1
 android-tools 31.0.2-1
@@ -258,14 +258,14 @@ efivar 37-4
 egl-wayland 1:1.1.7-1
 eglexternalplatform 1.1-2
 electron 15.0.0-1
-electron-netease-cloud-music 0.9.29-1
+electron-netease-cloud-music 0.9.30-1
 elementary-icon-theme 6.0.0-1
 elfutils 0.185-1
 elisa 21.08.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 28.0.50.150481-1
+emacs-git 29.0.50.150520-1
 embree 3.13.0-1
 enca 1.19-4
 enchant 2.3.1-1
@@ -289,12 +289,12 @@ fakeroot 1.26-1
 farstream 0.2.9-2
 faudio 21.09-1
 fcitx5 5.0.9-1
-fcitx5-anthy 5.0.5-1
+fcitx5-anthy 5.0.6-1
 fcitx5-breeze 1.0.0-1
 fcitx5-chewing 5.0.6-1
-fcitx5-chinese-addons 5.0.6-2
+fcitx5-chinese-addons 5.0.7-1
 fcitx5-configtool 5.0.5-1
-fcitx5-gtk 5.0.7-1
+fcitx5-gtk 5.0.8-1
 fcitx5-material-color 0.2.1-1
 fcitx5-pinyin-moegirl 20210914-1
 fcitx5-pinyin-zhwiki 1:0.2.3.20210923-1
@@ -405,7 +405,7 @@ go 2:1.17.1-1
 gobject-introspection 1.70.0-1
 gobject-introspection-runtime 1.70.0-1
 godot 3.3.3-1
-google-chrome 94.0.4606.61-1
+google-chrome 94.0.4606.71-1
 google-glog 0.5.0-2
 gopls 0.7.2-1
 goverlay 0.6.3-1
@@ -425,7 +425,7 @@ grantleetheme 21.08.1-1
 graphene 1.10.6-1
 graphicsmagick 1.3.36-3
 graphite 1:1.3.14-1
-graphviz 2.49.0-1
+graphviz 2.49.1-1
 grep 3.7-1
 groff 1.22.4-6
 groovy 3.0.8-1
@@ -799,7 +799,7 @@ lib2geom 1.1-1
 lib32-acl 2.3.1-1
 lib32-alsa-lib 1.2.5.1-1
 lib32-alsa-plugins 1.2.5-1
-lib32-amdvlk 2021.Q3.6-1
+lib32-amdvlk 2021.Q3.7-1
 lib32-at-spi2-atk 2.38.0-1
 lib32-at-spi2-core 2.40.3-1
 lib32-atk 2.36.0-2
@@ -1242,7 +1242,7 @@ libslirp 4.6.1-1
 libsm 1.2.3-2
 libsndfile 1.0.31-1
 libsodium 1.0.18-2
-libsoup 2.74.0-2
+libsoup 2.74.0-3
 libsoup3 3.0.0-2
 libsoxr 0.1.3-2
 libspectre 0.2.9-2
@@ -1654,9 +1654,9 @@ pim-data-exporter 21.08.1-1
 pim-sieve-editor 21.08.1-1
 pimcommon 21.08.1-1
 pinentry 1.1.1-1
-pipewire 1:0.3.37-1
-pipewire-jack 1:0.3.37-1
-pipewire-media-session 1:0.3.37-1
+pipewire 1:0.3.38-1
+pipewire-jack 1:0.3.38-1
+pipewire-media-session 1:0.3.38-1
 pixman 0.40.0-1
 pkgconf 1.8.0-1
 pkgfile 21-2
@@ -1742,7 +1742,7 @@ python-cryptography 3.4.8-2
 python-dateutil 2.8.2-1
 python-debugpy 1.4.3-1
 python-decorator 5.1.0-1
-python-distlib 0.3.2-1
+python-distlib 0.3.3-1
 python-distro 1.6.0-1
 python-dlib 19.21-2
 python-dnspython 1:2.1.0-1
@@ -1869,7 +1869,7 @@ python2-colorama 0.4.4-3
 python2-configparser 4.0.2-2
 python2-contextlib2 0.6.0.post1-3
 python2-cryptography 3.3.2-1
-python2-distlib 0.3.2-1
+python2-distlib 0.3.3-1
 python2-distro 1.6.0-1
 python2-enum34 1.1.9-1
 python2-html5lib 1.1-6
@@ -1909,7 +1909,7 @@ qpdf 10.3.2-1
 qqc2-desktop-style 5.86.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
-qt5-base 5.15.2+kde+r227-1
+qt5-base 5.15.2+kde+r228-1
 qt5-declarative 5.15.2+kde+r31-1
 qt5-graphicaleffects 5.15.2-1
 qt5-imageformats 5.15.2-1
@@ -2149,7 +2149,7 @@ ttf-inconsolata 1:3.000-3
 ttf-iosevka-nerd 2.1.0-1
 ttf-jetbrains-mono 2.242-1
 ttf-joypixels 6.6.0-1
-ttf-liberation 2.1.4-1
+ttf-liberation 2.1.5-1
 ttf-linux-libertine 5.3.0-7
 ttf-monaco 6.1-6
 ttf-ms-fonts 2.0-12
@@ -2184,7 +2184,7 @@ util-linux-libs 2.37.2-1
 utools 1.3.5-2
 v2ray 4.42.2-1
 v2ray-domain-list-community 20210927210458-1
-v2ray-geoip 202109230028-1
+v2ray-geoip 202109300030-1
 v2raya 1.5.3-2
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.8.0-1
@@ -2357,7 +2357,7 @@ yajl 2.1.0-4
 yakuake 21.08.1-1
 yaml-cpp 0.6.3-2
 yaourt 1.9-1
-yarn 1.22.13-1
+yarn 1.22.14-1
 yasm 1.3.0-4
 yelp-tools 40.0-1
 yelp-xsl 40.2-1
