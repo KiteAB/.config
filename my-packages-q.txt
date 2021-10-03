@@ -1,5 +1,3 @@
-0ad
-0ad-data
 a52dec
 aalib
 abseil-cpp
@@ -269,7 +267,6 @@ emacs-git
 embree
 enca
 enchant
-enet
 epherome
 esp8266-nonos-sdk
 esptool
@@ -386,7 +383,6 @@ glib2-docs
 glibc
 glibmm
 glm
-gloox
 glslang
 glu
 glusterfs
@@ -1301,6 +1297,7 @@ libwpe
 libwpg
 libwps
 libwrap
+libwslay
 libx11
 libx86
 libx86emu
@@ -1454,6 +1451,7 @@ mtools
 mujs
 mypaint-brushes1
 nano
+nasm
 nautilus
 ncurses
 ndctl
@@ -2002,6 +2000,7 @@ ruby-tins
 rubygems
 run-parts
 runc
+rustdesk-bin
 rustup
 samba
 sane

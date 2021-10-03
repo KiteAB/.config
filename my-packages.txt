@@ -1,5 +1,3 @@
-0ad a25.b-1
-0ad-data a25.b-1
 a52dec 0.7.4-11
 aalib 1.4rc5-14
 abseil-cpp 20210324.2-1
@@ -183,7 +181,7 @@ confuse 3.3-3
 containerd 1.5.5-1
 convertlit 1.8-10
 coordgen 3.0.0-1
-coreutils 9.0-1
+coreutils 9.0-2
 cowsay 3.04-2
 cpio 2.13-2
 cpupower 5.14-1
@@ -265,11 +263,10 @@ elisa 21.08.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.150562-1
+emacs-git 29.0.50.150566-1
 embree 3.13.0-1
 enca 1.19-4
 enchant 2.3.1-1
-enet 1.3.17-1
 epherome 0.2.7-1
 esp8266-nonos-sdk 3.0.4-1
 esptool 3.1-1
@@ -287,7 +284,7 @@ faad2 2.10.0-1
 fail2ban 0.11.2-2
 fakeroot 1.26-1
 farstream 0.2.9-2
-faudio 21.09-1
+faudio 21.10-1
 fcitx5 5.0.9-1
 fcitx5-anthy 5.0.6-1
 fcitx5-breeze 1.0.0-1
@@ -386,7 +383,6 @@ glib2-docs 2.70.0-1
 glibc 2.33-5
 glibmm 2.66.1-2
 glm 0.9.9.8-1
-gloox 1.0.24-1
 glslang 11.6.0-1
 glu 9.0.2-1
 glusterfs 1:9.3-2
@@ -404,7 +400,7 @@ gnutls 3.7.2-2
 go 2:1.17.1-1
 gobject-introspection 1.70.0-1
 gobject-introspection-runtime 1.70.0-1
-godot 3.3.4-1
+godot 3.3.4-2
 google-chrome 94.0.4606.71-1
 google-glog 0.5.0-2
 gopls 0.7.2-1
@@ -664,7 +660,7 @@ kindd 2.1.0-3
 kinfocenter 5.22.5-1
 kinit 5.86.0-1
 kio 5.86.0-1
-kio-extras 21.08.1-1
+kio-extras 21.08.1-2
 kio-fuse 5.0.1-1
 kio-gdrive 21.08.1-1
 kipi-plugins 21.08.1-1
@@ -784,7 +780,7 @@ l-smash 2.14.5-2
 ladspa 1.17-1
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.10.2.r5642.58c7093b-1
+latte-dock-git 0.10.2.r5643.fc4dc6da-1
 layer-shell-qt 5.22.5-1
 lazarus 2.0.12-3
 lazydocker 0.12-1
@@ -815,7 +811,7 @@ lib32-dbus-glib 0.112-1
 lib32-dconf 0.40.0-1
 lib32-e2fsprogs 1.46.4-1
 lib32-expat 2.4.1-1
-lib32-faudio 21.08-1
+lib32-faudio 21.10-1
 lib32-flac 1.3.3-1
 lib32-fluidsynth 2.2.3-1
 lib32-fontconfig 2:2.13.94-1
@@ -1251,7 +1247,7 @@ libspiro 1:20200505-2
 libspnav 0.2.3-3
 libsrtp 1:2.4.0-1
 libssh 0.9.6-1
-libssh2 1.9.0-3
+libssh2 1.10.0-1
 libstaroffice 0.0.7-1
 libstdc++5 3.3.6-7
 libstemmer 2.1.0-1
@@ -1301,6 +1297,7 @@ libwpe 1.10.1-1
 libwpg 0.3.3-2
 libwps 0.4.12-1
 libwrap 7.6.31-2
+libwslay 1.1.1-3
 libx11 1.7.2-1
 libx86 1.1-8
 libx86emu 3.2-1
@@ -1454,6 +1451,7 @@ mtools 1:4.0.35-1
 mujs 1.1.3-1
 mypaint-brushes1 1.3.1-1
 nano 5.8-1
+nasm 2.15.05-1
 nautilus 40.2-1
 ncurses 6.2-2
 ndctl 71.1-1
@@ -1616,7 +1614,7 @@ pavucontrol 1:5.0-1
 pciutils 3.7.0-1
 pcre 8.45-1
 pcre2 10.37-1
-pcsclite 1.9.3-1
+pcsclite 1.9.4-1
 perf 5.14-1
 perl 5.34.0-2
 perl-clone 0.45-3
@@ -1945,7 +1943,7 @@ raptor 2.0.15-16
 rar 6.0.2-1
 rasqal 1:0.9.33-4
 rav1e 0.4.1-1
-rclone 1.56.1-1
+rclone 1.56.2-1
 rclone-browser 1.8.0-1
 re2 1:20210901-1
 read-edid 3.0.2-3
@@ -2000,8 +1998,9 @@ ruby-rspec-support 3.10.2-1
 ruby-term-ansicolor 1.7.1-2
 ruby-tins 1.26.0-2
 rubygems 3.2.21-1
-run-parts 5.4-1
+run-parts 5.5-1
 runc 1.0.2-2
+rustdesk-bin 1.1.8-1
 rustup 1.24.3-1
 samba 4.15.0-1
 sane 1.0.32-3
