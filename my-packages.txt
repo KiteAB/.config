@@ -178,7 +178,7 @@ com.qq.im.deepin 9.3.2-20
 com.qq.tim.spark 3.3.5.22018spark0-1
 compiler-rt 12.0.1-2
 confuse 3.3-3
-containerd 1.5.5-1
+containerd 1.5.6-1
 convertlit 1.8-10
 coordgen 3.0.0-1
 coreutils 9.0-2
@@ -263,7 +263,7 @@ elisa 21.08.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.150566-1
+emacs-git 29.0.50.150570-1
 embree 3.13.0-1
 enca 1.19-4
 enchant 2.3.1-1
@@ -290,7 +290,7 @@ fcitx5-anthy 5.0.6-1
 fcitx5-breeze 1.0.0-1
 fcitx5-chewing 5.0.6-1
 fcitx5-chinese-addons 5.0.7-1
-fcitx5-configtool 5.0.5-1
+fcitx5-configtool 5.0.6-1
 fcitx5-gtk 5.0.8-1
 fcitx5-material-color 0.2.1-1
 fcitx5-pinyin-moegirl 20210914-1
@@ -780,7 +780,7 @@ l-smash 2.14.5-2
 ladspa 1.17-1
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.10.2.r5643.fc4dc6da-1
+latte-dock-git 0.10.2.r5644.c86878f6-1
 layer-shell-qt 5.22.5-1
 lazarus 2.0.12-3
 lazydocker 0.12-1
@@ -1207,7 +1207,7 @@ libplist 2.2.0-3
 libpng 1.6.37-3
 libpng12 1.2.59-2
 libportal 0.4-1
-libproxy 0.4.17-2
+libproxy 0.4.17-3
 libpsl 0.21.1-1
 libpulse 15.0-1
 libqaccessibilityclient 0.4.1-2
@@ -1278,7 +1278,7 @@ libuv 1.42.0-1
 libva 2.13.0-1
 libva-mesa-driver 21.2.3-1
 libvdpau 1.4-1
-libvirt 1:7.7.0-1
+libvirt 1:7.8.0-1
 libvirt-glib 4.0.0-1
 libvirt-python 1:7.3.0-1
 libvisio 0.1.7-5
@@ -1854,7 +1854,7 @@ python-werkzeug 2.0.1-1
 python-wxpython 1:4.0.7.2-1
 python-xlib 0.31-1
 python-yaml 5.4.1.1-2
-python-zipp 3.5.0-1
+python-zipp 3.6.0-1
 python-zope-interface 5.4.0-1
 python2 2.7.18-4
 python2-appdirs 1.4.4-3
@@ -2154,7 +2154,7 @@ ttf-monaco 6.1-6
 ttf-ms-fonts 2.0-12
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-4
 ttf-opensans 1.101-2
-ttf-sarasa-gothic 0.34.3-1
+ttf-sarasa-gothic 0.34.4-1
 ttf-symbola 13.00-10
 ttf-ubuntu-font-family 0.83-7
 ttf-unifont 14.0.01-1
@@ -2356,7 +2356,7 @@ yajl 2.1.0-4
 yakuake 21.08.1-1
 yaml-cpp 0.6.3-2
 yaourt 1.9-1
-yarn 1.22.14-1
+yarn 1.22.15-1
 yasm 1.3.0-4
 yelp-tools 40.0-1
 yelp-xsl 40.2-1
