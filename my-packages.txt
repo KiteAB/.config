@@ -72,7 +72,7 @@ aria2 1.36.0-1
 aribb24 1.0.3-3
 ark 21.08.1-1
 artikulate 21.08.1-1
-asciinema 2.0.2-5
+asciinema 2.1.0-1
 asio 1.18.2-1
 asp 7-1
 aspell 0.60.8-2
@@ -143,7 +143,7 @@ bullet 3.17-1
 bzip2 1.0.8-4
 c-ares 1.17.2-1
 ca-certificates 20210603-1
-ca-certificates-mozilla 3.70-1
+ca-certificates-mozilla 3.71-1
 ca-certificates-utils 20210603-1
 cabextract 1.9.1-2
 cairo 1.17.4-5
@@ -227,7 +227,7 @@ dnsmasq 2.86-1
 dnssec-anchors 20190629-3
 docbook-xml 4.5-9
 docbook-xsl 1.79.2-7
-docker 1:20.10.8-1
+docker 1:20.10.9-1
 dolphin 21.08.1-1
 dolphin-plugins 21.08.1-1
 dosbox 0.74.3-2
@@ -255,7 +255,7 @@ efibootmgr 17-2
 efivar 37-4
 egl-wayland 1:1.1.7-1
 eglexternalplatform 1.1-2
-electron 15.1.0-1
+electron 15.1.1-1
 electron-netease-cloud-music 0.9.30-1
 elementary-icon-theme 6.0.0-1
 elfutils 0.185-1
@@ -263,7 +263,7 @@ elisa 21.08.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.150570-1
+emacs-git 29.0.50.150648-1
 embree 3.13.0-1
 enca 1.19-4
 enchant 2.3.1-1
@@ -332,7 +332,7 @@ freeimage 3.18.0-12
 freerdp 2:2.4.0-1
 freetype2 2.11.0-4
 frei0r-plugins 1.7.0-1
-fribidi 1.0.10-1
+fribidi 1.0.11-1
 frpc 0.37.1-1
 fstrm 0.6.1-1
 fuckmemory 1.0.1-1
@@ -356,7 +356,7 @@ gdbm 1.21-1
 gdk-pixbuf2 2.42.6-2
 gdl 3.40.0-1
 gedit 40.1-1
-gegl 0.4.32-1
+gegl 0.4.32-2
 geoclue 2.5.7-4
 geocode-glib 3.26.2-1
 geoip 1.6.12-2
@@ -493,7 +493,7 @@ icoutils 0.32.3-3
 icu 69.1-1
 id3lib 3.8.3-18
 ijs 0.35-3
-imagemagick 7.1.0.8-1
+imagemagick 7.1.0.9-1
 imath 3.1.3-1
 imlib2 1.7.4-1
 incidenceeditor 21.08.1-1
@@ -780,7 +780,7 @@ l-smash 2.14.5-2
 ladspa 1.17-1
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.10.2.r5644.c86878f6-1
+latte-dock-git 0.10.2.r5646.4ca17600-1
 layer-shell-qt 5.22.5-1
 lazarus 2.0.12-3
 lazydocker 0.12-1
@@ -817,7 +817,7 @@ lib32-fluidsynth 2.2.3-1
 lib32-fontconfig 2:2.13.94-1
 lib32-freeglut 3.2.1-1
 lib32-freetype2 2.11.0-3
-lib32-fribidi 1.0.10-1
+lib32-fribidi 1.0.11-1
 lib32-gcc-libs 11.1.0-1
 lib32-gdk-pixbuf2 2.42.6-2
 lib32-gettext 0.21-1
@@ -948,7 +948,7 @@ lib32-mpg123 1.29.0-1
 lib32-ncurses 6.2-1
 lib32-nettle 3.7.3-1
 lib32-nspr 4.32-1
-lib32-nss 3.70-1
+lib32-nss 3.71-1
 lib32-ocl-icd 2.3.0-1
 lib32-openal 1.21.1-1
 lib32-opencl-mesa 21.2.3-1
@@ -1075,7 +1075,7 @@ libgcrypt 1.9.4-1
 libgcrypt15 1.5.6-4
 libgdiplus 5.6.1-3
 libgee 0.20.4-1
-libgexiv2 0.12.3-1
+libgexiv2 0.14.0-1
 libgig 4.3.0-3
 libgit2 1:1.2.0-1
 libglvnd 1.3.4-1
@@ -1169,11 +1169,11 @@ libmtp 1.1.19-1
 libmusicbrainz5 5.1.0-4
 libmwaw 0.3.20-1
 libmypaint 1.6.1-1
-libnautilus-extension 40.2-1
+libnautilus-extension 40.2+7+g67c7bdbf8-1
 libndp 1.8-1
 libnet 1:1.1.6-1
 libnetfilter_conntrack 1.0.8-1
-libnewt 0.52.21-5
+libnewt 0.52.21-6
 libnfnetlink 1.0.1-4
 libnfs 4.0.0-4
 libnftnl 1.2.0-1
@@ -1200,7 +1200,7 @@ libpcap 1.10.1-1
 libpciaccess 0.16-2
 libpeas 1.30.0-1
 libpgm 5.3.128-1
-libphonenumber 8.12.29-1
+libphonenumber 8.12.33-1
 libpipeline 1.5.3-1
 libplacebo 3.120.3-3
 libplist 2.2.0-3
@@ -1239,7 +1239,7 @@ libsm 1.2.3-2
 libsndfile 1.0.31-1
 libsodium 1.0.18-2
 libsoup 2.74.0-3
-libsoup3 3.0.0-2
+libsoup3 3.0.1-1
 libsoxr 0.1.3-2
 libspectre 0.2.9-2
 libspeechd 0.10.2-1
@@ -1452,7 +1452,7 @@ mujs 1.1.3-1
 mypaint-brushes1 1.3.1-1
 nano 5.8-1
 nasm 2.15.05-1
-nautilus 40.2-1
+nautilus 40.2+7+g67c7bdbf8-1
 ncurses 6.2-2
 ndctl 71.1-1
 neofetch 7.1.0-2
@@ -1536,7 +1536,7 @@ noto-fonts-extra 20201226-2
 npm 7.24.1-1
 npth 1.6-3
 nspr 4.32-1
-nss 3.70-1
+nss 3.71-1
 ntfs-3g 2021.8.22-1
 numactl 2.0.14-1
 nvidia-lts 1:470.74-4
@@ -1738,7 +1738,7 @@ python-constantly 15.1.0-9
 python-contextlib2 0.6.0.post1-3
 python-cryptography 3.4.8-2
 python-dateutil 2.8.2-1
-python-debugpy 1.4.3-1
+python-debugpy 1.5.0-1
 python-decorator 5.1.0-1
 python-distlib 0.3.3-1
 python-distro 1.6.0-1
@@ -1907,7 +1907,7 @@ qpdf 10.3.2-1
 qqc2-desktop-style 5.86.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
-qt5-base 5.15.2+kde+r228-1
+qt5-base 5.15.2+kde+r234-1
 qt5-declarative 5.15.2+kde+r31-1
 qt5-graphicaleffects 5.15.2-1
 qt5-imageformats 5.15.2-1
@@ -2084,10 +2084,10 @@ swh-plugins 0.4.17-4
 syndication 5.86.0-1
 syntax-highlighting 5.86.0-1
 sysfsutils 2.1.1-1
-systemd 249.4-1
-systemd-libs 249.4-1
+systemd 249.4-2
+systemd-libs 249.4-2
 systemd-swap 4.4.0-2
-systemd-sysvcompat 249.4-1
+systemd-sysvcompat 249.4-2
 systemsettings 5.22.5-1
 taglib 1.12-1
 talloc 2.3.3-1
@@ -2136,7 +2136,7 @@ todesk-bin 3.2.2-1
 totem-pl-parser 3.26.6-1
 traceroute 2.1.0-5
 tracker3 3.2.0-2
-tracker3-miners 3.2.0+6+gfffef2772-1
+tracker3-miners 3.2.0+6+gfffef2772-2
 trash-cli 0.21.7.24-1
 tree-sitter 0.20.0-1
 trojan 1.16.0-4
@@ -2159,7 +2159,7 @@ ttf-symbola 13.00-10
 ttf-ubuntu-font-family 0.83-7
 ttf-unifont 14.0.01-1
 twolame 0.4.0-2
-tzdata 2021b-1
+tzdata 2021c-1
 uchardet 0.0.7-1
 udftools 2.3-1
 udisks2 2.9.4-1
@@ -2188,7 +2188,7 @@ v2raya 1.5.4-1
 v4l-utils 1.20.0-1
 v4l2loopback-dc-dkms 1:1.8.0-1
 v4l2loopback-dkms 0.12.5-1
-vala 0.54.1-1
+vala 0.54.2-1
 vamp-plugin-sdk 2.10.0-1
 vde2 2.3.2-16
 vdpauinfo 1.4-1
@@ -2208,8 +2208,8 @@ vkd3d 1.2-1
 vlc 3.0.16-3
 vmaf 1.5.3-1
 volume_key 0.3.12-5
-vte-common 0.64.2-2
-vte3 0.64.2-2
+vte-common 0.66.0-1
+vte3 0.66.0-1
 vtk 8.2.0-20
 vulkan-headers 1:1.2.194-1
 vulkan-icd-loader 1.2.194-1
@@ -2345,8 +2345,8 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.5-1
 xplane-sdk-devel 3.0.3-1
 xray 1.4.5-1
-xray-domain-list-community 20211001023210-1
-xray-geoip 202109300030-1
+xray-domain-list-community 20211004124604-1
+xray-geoip 202110040733-1
 xsel 1.2.0.20190821-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
 xvidcore 1.3.7-2
@@ -2358,8 +2358,8 @@ yaml-cpp 0.6.3-2
 yaourt 1.9-1
 yarn 1.22.15-1
 yasm 1.3.0-4
-yelp-tools 40.0-1
-yelp-xsl 40.2-1
+yelp-tools 41.0-1
+yelp-xsl 41.0-1
 you-get 0.4.1545-1
 yubico-c 1.13-6
 yubico-c-client 2.15-5
