@@ -468,6 +468,7 @@ gwenview
 gzip
 harfbuzz
 harfbuzz-icu
+harmonyos-sans-git
 harvid
 hdf5
 hdparm
@@ -475,7 +476,7 @@ help2man
 hicolor-icon-theme
 hidapi
 hiredis
-hmcl
+hmcl-bin
 howdy
 htop
 http-parser
@@ -1926,6 +1927,7 @@ qt5-wayland
 qt5-webchannel
 qt5-webengine
 qt5-webkit
+qt5-websockets
 qt5-x11extras
 qt5-xmlpatterns
 qt5pas
