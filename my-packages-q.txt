@@ -309,6 +309,7 @@ file
 filebrowser-bin
 filelight
 filesystem
+filezilla
 findutils
 fingerprint-gui
 firefox
@@ -1065,6 +1066,7 @@ libexttextcat
 libfakekey
 libfdk-aac
 libffi
+libfilezilla
 libfontenc
 libfprint
 libfprint-1
