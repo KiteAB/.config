@@ -1116,6 +1116,8 @@ libinput_gestures_qt
 libinstpatch
 libiptcdata
 libiscsi
+libisoburn
+libisofs
 libixion
 libjpeg-turbo
 libjpeg6-turbo
