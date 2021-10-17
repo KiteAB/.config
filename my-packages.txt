@@ -76,6 +76,7 @@ asciinema 2.1.0-1
 asio 1.18.2-1
 asp 7-1
 aspell 0.60.8-2
+assimp 5.0.1-3
 at-spi2-atk 2.38.0-1
 at-spi2-core 2.40.3-1
 atk 2.36.0-1
@@ -255,7 +256,7 @@ efibootmgr 17-2
 efivar 37-4
 egl-wayland 1:1.1.7-1
 eglexternalplatform 1.1-2
-electron 15.1.2-1
+electron 15.2.0-1
 electron-netease-cloud-music 0.9.30-1
 elementary-icon-theme 6.0.0-1
 elfutils 0.185-1
@@ -263,7 +264,7 @@ elisa 21.08.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.150917-1
+emacs-git 29.0.50.150920-1
 embree 3.13.1-1
 enca 1.19-4
 enchant 2.3.1-1
@@ -294,7 +295,7 @@ fcitx5-configtool 5.0.6-1
 fcitx5-gtk 5.0.8-1
 fcitx5-material-color 0.2.1-1
 fcitx5-pinyin-moegirl 20211014-1
-fcitx5-pinyin-zhwiki 1:0.2.3.20210923-1
+fcitx5-pinyin-zhwiki 1:0.2.3.20211016-1
 fcitx5-qt 5.0.7-1
 fcitx5-rime 5.0.7-1
 fd 8.2.1-1
@@ -371,7 +372,7 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.28-1
 git 2.33.1-1
-git-delta-git 0.8.4.20211013-1
+git-delta-git 0.8.4.20211016-1
 git-lfs 3.0.1-1
 github-cli 2.1.0-1
 gl2ps 1.4.2-2
@@ -484,7 +485,7 @@ http-parser 2.9.4-1
 hugo 0.88.1-1
 hunspell 1.7.0-3
 hwids 20210613-1
-hwinfo 21.76-1
+hwinfo 21.77-2
 hwloc 2.5.0-1
 hyphen 2.8.8-3
 i2c-tools 4.3-1
@@ -995,7 +996,7 @@ lib32-zstd 1.5.0-2
 libabw 0.1.3-2
 libaccounts-glib 1.25-4
 libaccounts-qt 1.16-3
-libaec 1.0.5-1
+libaec 1.0.6-1
 libaio 0.3.112-2
 libakonadi 21.08.2-1
 libappindicator-gtk3 12.10.0.r296-1
@@ -1305,7 +1306,7 @@ libwrap 7.6.31-2
 libwslay 1.1.1-3
 libx11 1.7.2-1
 libx86 1.1-8
-libx86emu 3.2-1
+libx86emu 3.3-1
 libxau 1.0.9-3
 libxaw 1.0.14-1
 libxcb 1.14-1
@@ -1719,6 +1720,7 @@ purpose 5.87.0-1
 pybind11 2.8.0-1
 pycharm-community-edition 2021.2.2-1
 pyrit 0.5.0-5
+pyside2 5.15.2-3
 pystring 1.1.3.git1-1
 python 3.9.7-1
 python-anytree 2.8.0-3
@@ -1821,7 +1823,7 @@ python-pyxdg 0.27-1
 python-pyzmq 22.2.1-1
 python-qrcode 7.3-5
 python-qtconsole 5.1.1-1
-python-qtpy 1.9.0-5
+python-qtpy 1.11.2-1
 python-reedsolo 1.5.4-1
 python-requests 2.26.0-1
 python-resolvelib 0.5.5-1
@@ -1912,7 +1914,10 @@ qpdf 10.3.2-1
 qqc2-desktop-style 5.87.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
+qt5-3d 5.15.2+kde+r33-1
 qt5-base 5.15.2+kde+r243-1
+qt5-charts 5.15.2-1
+qt5-datavis3d 5.15.2-1
 qt5-declarative 5.15.2+kde+r33-1
 qt5-graphicaleffects 5.15.2-1
 qt5-imageformats 5.15.2-1
@@ -1921,7 +1926,9 @@ qt5-multimedia 5.15.2-1
 qt5-networkauth 5.15.2-1
 qt5-quickcontrols 5.15.2-1
 qt5-quickcontrols2 5.15.2+kde+r8-1
+qt5-remoteobjects 5.15.2-1
 qt5-script 5.15.6-1
+qt5-scxml 5.15.2-1
 qt5-sensors 5.15.2-1
 qt5-serialport 5.15.2-1
 qt5-speech 5.15.2-1
@@ -1936,7 +1943,7 @@ qt5-x11extras 5.15.2-1
 qt5-xmlpatterns 5.15.2-1
 qt5pas 2.6.r65219-1
 qtermwidget 0.17.0-2
-qtkeychain-qt5 0.12.0-1
+qtkeychain-qt5 0.12.0-2
 quazip 1.1-1
 qv2ray 2.7.0-1
 qv2ray-plugin-trojan 2.0.0-8
@@ -2160,12 +2167,12 @@ ttf-monaco 6.1-6
 ttf-ms-fonts 2.0-12
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-4
 ttf-opensans 1.101-2
-ttf-sarasa-gothic 0.34.4-1
+ttf-sarasa-gothic 0.34.5-1
 ttf-symbola 13.00-10
 ttf-ubuntu-font-family 0.83-7
 ttf-unifont 14.0.01-1
 twolame 0.4.0-2
-tzdata 2021c-1
+tzdata 2021d-1
 uchardet 0.0.7-1
 udftools 2.3-1
 udisks2 2.9.4-1
@@ -2188,7 +2195,7 @@ util-linux 2.37.2-1
 util-linux-libs 2.37.2-1
 utools 1.3.5-2
 v2ray 4.43.0-1
-v2ray-domain-list-community 20211013090609-1
+v2ray-domain-list-community 20211016052758-1
 v2ray-geoip 202110140026-1
 v2raya 1.5.4-1
 v4l-utils 1.20.0-1
@@ -2351,7 +2358,7 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.5-1
 xplane-sdk-devel 3.0.3-1
 xray 1.4.5-1
-xray-domain-list-community 20211015124258-1
+xray-domain-list-community 20211016144834-1
 xray-geoip 202110140026-1
 xsel 1.2.0.20190821-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1

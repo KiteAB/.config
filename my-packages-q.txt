@@ -76,6 +76,7 @@ asciinema
 asio
 asp
 aspell
+assimp
 at-spi2-atk
 at-spi2-core
 atk
@@ -1719,6 +1720,7 @@ purpose
 pybind11
 pycharm-community-edition
 pyrit
+pyside2
 pystring
 python
 python-anytree
@@ -1912,7 +1914,10 @@ qpdf
 qqc2-desktop-style
 qrencode
 qt-gstreamer
+qt5-3d
 qt5-base
+qt5-charts
+qt5-datavis3d
 qt5-declarative
 qt5-graphicaleffects
 qt5-imageformats
@@ -1921,7 +1926,9 @@ qt5-multimedia
 qt5-networkauth
 qt5-quickcontrols
 qt5-quickcontrols2
+qt5-remoteobjects
 qt5-script
+qt5-scxml
 qt5-sensors
 qt5-serialport
 qt5-speech
