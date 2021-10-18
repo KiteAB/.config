@@ -2232,6 +2232,7 @@ w3m
 wavpack
 wayland
 wayland-protocols
+wayland-utils
 webkit2gtk
 webp-pixbuf-loader
 webrtc-audio-processing
