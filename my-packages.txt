@@ -120,7 +120,7 @@ black-hole-solver 1.10.1-1
 blas 3.10.0-1
 blender 17:2.93.5-3
 blinken 21.08.2-1
-blosc 1.21.0-1
+blosc 1.21.1-1
 bluedevil 1:5.23.0-1
 bluez 5.62-1
 bluez-libs 5.62-1
@@ -264,7 +264,7 @@ elisa 21.08.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.150963-1
+emacs-git 29.0.50.150998-1
 embree 3.13.1-1
 enca 1.19-4
 enchant 2.3.1-1
@@ -372,7 +372,7 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.28-1
 git 2.33.1-1
-git-delta-git 0.8.4.20211016-1
+git-delta-git 0.8.4.20211018-1
 git-lfs 3.0.1-1
 github-cli 2.1.0-1
 gl2ps 1.4.2-2
@@ -773,7 +773,7 @@ kwayland 5.87.0-1
 kwayland-integration 5.23.0-1
 kwayland-server 5.23.0-1
 kwidgetsaddons 5.87.0-1
-kwin 5.23.0-1
+kwin 5.23.0-2
 kwindowsystem 5.87.0-1
 kwordquiz 21.08.2-1
 kwrite 21.08.2-1
@@ -910,7 +910,7 @@ lib32-libunistring 0.9.10-1
 lib32-libunwind 1.5.0-1
 lib32-libusb 1.0.24-1
 lib32-libva 2.13.0-1
-lib32-libva-mesa-driver 21.2.3-1
+lib32-libva-mesa-driver 21.2.4-1
 lib32-libvdpau 1.4-1
 lib32-libvorbis 1.3.7-1
 lib32-libvpx1.3 1.3.0-2
@@ -945,16 +945,16 @@ lib32-llvm 12.0.1-2
 lib32-llvm-libs 12.0.1-2
 lib32-lm_sensors 1:3.6.0.r41.g31d1f125-1
 lib32-lz4 1.9.3-1
-lib32-mesa 21.2.3-1
-lib32-mesa-vdpau 21.2.3-1
-lib32-mpg123 1.29.0-1
+lib32-mesa 21.2.4-1
+lib32-mesa-vdpau 21.2.4-1
+lib32-mpg123 1.29.1-1
 lib32-ncurses 6.2-1
 lib32-nettle 3.7.3-1
 lib32-nspr 4.32-1
 lib32-nss 3.71-1
 lib32-ocl-icd 2.3.0-1
 lib32-openal 1.21.1-1
-lib32-opencl-mesa 21.2.3-1
+lib32-opencl-mesa 21.2.4-1
 lib32-opencl-nvidia 470.74-1
 lib32-openssl 1:1.1.1.l-1
 lib32-openssl-1.0 1.0.2.u-1
@@ -987,7 +987,7 @@ lib32-util-linux 2.37.2-1
 lib32-v4l-utils 1.20.0-1
 lib32-vkd3d 1.2-2
 lib32-vulkan-icd-loader 1.2.194-1
-lib32-vulkan-radeon 21.2.3-1
+lib32-vulkan-radeon 21.2.4-1
 lib32-wayland 1.19.0-1
 lib32-x264 3:0.161.r3039.544c61f-2
 lib32-xz 5.2.5-2
@@ -1150,7 +1150,7 @@ liblouis 3.19.0-1
 liblqr 0.4.2-3
 liblrdf 0.6.1-4
 libltc 1.3.1-3
-libluv 1.41.0-1
+libluv 1.42.0-1
 libmad 0.15.1b-9
 libmanette 0.2.6-2
 libmatroska 1.6.3-1
@@ -1282,7 +1282,7 @@ libutempter 1.2.1-1
 libutf8proc 2.6.1-1
 libuv 1.42.0-1
 libva 2.13.0-1
-libva-mesa-driver 21.2.3-1
+libva-mesa-driver 21.2.4-1
 libvdpau 1.4-1
 libvirt 1:7.8.0-1
 libvirt-glib 4.0.0-1
@@ -1417,9 +1417,9 @@ md4c 0.4.8-1
 mdadm 4.1-2
 media-player-info 24-2
 mercurial 5.9.2-1
-mesa 21.2.3-1
+mesa 21.2.4-1
 mesa-demos 8.4.0-4
-mesa-vdpau 21.2.3-1
+mesa-vdpau 21.2.4-1
 meson 0.59.2-1
 messagelib 21.08.2-1
 metis 5.1.0.p10-2
@@ -1446,7 +1446,7 @@ mono-msbuild 16.10.1.xamarinxplat.2021.05.26.14.00-1
 motrix-git 1.5.15.r68.g0cd1ed1-1
 movit 1.6.3-2
 mpfr 4.1.0.p13-1
-mpg123 1.29.0-1
+mpg123 1.29.1-1
 mplayer 38157-4
 mprime 303b6-1
 mpv 1:0.33.1-3
@@ -1565,7 +1565,7 @@ openbabel 3.1.1-2
 opencascade 7.5.0-3
 opencc 1.1.2-1
 opencl-headers 2:2021.04.29-1
-opencl-mesa 21.2.3-1
+opencl-mesa 21.2.4-1
 opencl-nvidia 470.74-1
 opencollada 1:1.6.68-2
 opencolorio 2.1.0-1
@@ -1745,7 +1745,7 @@ python-constantly 15.1.0-9
 python-contextlib2 0.6.0.post1-3
 python-cryptography 35.0.0-1
 python-dateutil 2.8.2-1
-python-debugpy 1.5.0-1
+python-debugpy 1.5.1-1
 python-decorator 5.1.0-1
 python-distlib 0.3.3-1
 python-distro 1.6.0-1
@@ -1813,9 +1813,9 @@ python-pyhamcrest 1.10.1-1
 python-pyinotify 0.9.6-9
 python-pyopenssl 20.0.1-1
 python-pyparsing 2.4.7-3
-python-pyqt5 5.15.4-1
+python-pyqt5 5.15.5-1
 python-pyqt5-sip 12.9.0-1
-python-pyqt5-webengine 5.15.4-1
+python-pyqt5-webengine 5.15.5-1
 python-pyserial 3.5-2
 python-pyte 0.8.0-6
 python-pytz 2021.1-1
@@ -1915,10 +1915,10 @@ qqc2-desktop-style 5.87.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
 qt5-3d 5.15.2+kde+r33-1
-qt5-base 5.15.2+kde+r243-1
+qt5-base 5.15.2+kde+r247-1
 qt5-charts 5.15.2-1
 qt5-datavis3d 5.15.2-1
-qt5-declarative 5.15.2+kde+r33-1
+qt5-declarative 5.15.2+kde+r34-1
 qt5-graphicaleffects 5.15.2-1
 qt5-imageformats 5.15.2-1
 qt5-location 5.15.2-3
@@ -1967,7 +1967,7 @@ recordmydesktop 0.4.0-1
 redland 1:1.0.17-8
 reflector 2021.7.8-1
 reiserfsprogs 3.6.27-3
-remmina 1:1.4.20-1
+remmina 1:1.4.21-1
 rest 0.8.1-3
 rhash 1.4.2-1
 rime-bopomofo 0.0.0.20210131-1
@@ -2226,7 +2226,7 @@ vte3 0.66.0-1
 vtk 8.2.0-21
 vulkan-headers 1:1.2.194-1
 vulkan-icd-loader 1.2.194-1
-vulkan-radeon 21.2.3-1
+vulkan-radeon 21.2.4-1
 vulkan-tools 1.2.194-1
 w3m 0.5.3.git20210102_6-1
 wavpack 5.4.0-1
@@ -2359,7 +2359,7 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.5-1
 xplane-sdk-devel 3.0.3-1
 xray 1.4.5-1
-xray-domain-list-community 20211018032250-1
+xray-domain-list-community 20211018134657-1
 xray-geoip 202110140026-1
 xsel 1.2.0.20190821-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
