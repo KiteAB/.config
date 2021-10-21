@@ -6,7 +6,7 @@ accountsservice 0.6.55-3
 acl 2.3.1-1
 acorn 1:8.5.0-1
 acpi 1.7-3
-acpi_call-lts 1.2.1-85
+acpi_call-lts 1.2.1-86
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-2
@@ -264,7 +264,7 @@ elisa 21.08.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.151019-1
+emacs-git 29.0.50.151032-1
 embree 3.13.1-1
 enca 1.19-4
 enchant 2.3.1-1
@@ -405,7 +405,7 @@ gobject-introspection-runtime 1.70.0-2
 godot 3.3.4-2
 google-chrome 95.0.4638.54-1
 google-glog 0.5.0-2
-gopls 0.7.2-1
+gopls 0.7.3-1
 goverlay 0.6.3-1
 gpart 0.3-4
 gparted 1.3.1-1
@@ -783,7 +783,7 @@ l-smash 2.14.5-2
 ladspa 1.17-1
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.10.2.r5649.c9515a03-1
+latte-dock-git 0.10.2.r5650.dacf4d71-1
 layer-shell-qt 5.23.1-1
 lazarus 2.0.12-3
 lazydocker 0.12-1
@@ -1251,7 +1251,7 @@ libspectre 0.2.9-2
 libspeechd 0.10.2-1
 libspiro 1:20200505-2
 libspnav 0.2.3-3
-libsrtp 1:2.4.0-1
+libsrtp 1:2.4.2-1
 libssh 0.9.6-1
 libssh2 1.10.0-1
 libstaroffice 0.0.7-1
@@ -1355,8 +1355,8 @@ lightly-qt 0.4.1-1
 lilv 0.24.12-1
 linux-api-headers 5.12.3-1
 linux-firmware 20210919.d526e04-1
-linux-lts 5.10.74-1
-linux-lts-headers 5.10.74-1
+linux-lts 5.10.75-1
+linux-lts-headers 5.10.75-1
 linuxqq 1:2.0.0_b2_1089-1
 lirc 1:0.10.1-8
 lld 12.0.1-1
@@ -1385,7 +1385,7 @@ lua52-luajson 1.3.4-3
 lua52-socket 20200329-1
 lua53 5.3.6-1
 luajit 2.0.5-3
-lunar-client 2.8.4-1
+lunar-client 2.8.5-1
 lutris 0.5.8.4-1
 lvm2 2.03.13-1
 lxappearance 0.6.3-4
@@ -1401,8 +1401,8 @@ mailimporter 21.08.2-1
 make 4.3-3
 mallard-ducktype 1.0.2-6
 man-db 2.9.4-2
-mangohud 0.6.5-3
-mangohud-common 0.6.5-3
+mangohud 0.6.6-2
+mangohud-common 0.6.6-2
 marble 21.08.2-1
 marble-common 21.08.2-1
 mariadb 10.6.4-1
@@ -1545,7 +1545,7 @@ nspr 4.32-1
 nss 3.71-1
 ntfs-3g 2021.8.22-1
 numactl 2.0.14-1
-nvidia-lts 1:470.74-8
+nvidia-lts 1:470.74-9
 nvidia-utils 470.74-1
 oath-toolkit 2.6.7-1
 obs-studio 27.0.1-3
@@ -1651,7 +1651,7 @@ perl-xml-writer 0.625-7
 phodav 2.5-1
 phonon-qt5 4.11.1-2
 phonon-qt5-gstreamer 4.10.0-2
-php 8.0.11-2
+php 8.0.12-1
 picmi 21.08.2-1
 picom 8.2-1
 pim-data-exporter 21.08.2-1
@@ -1758,7 +1758,7 @@ python-epc 0.0.5-3
 python-evdev 1.4.0-1
 python-face_recognition 1.3.0-1
 python-face_recognition_models 0.3.0-1
-python-feedparser 6.0.1-1
+python-feedparser 6.0.1-2
 python-flask 2.0.2-1
 python-future 0.18.2-5
 python-gobject 3.40.1-2
@@ -1831,7 +1831,7 @@ python-retrying 1.3.3-9
 python-scipy 1.7.1-1
 python-setuptools 1:57.4.0-2
 python-sexpdata 0.0.3-3
-python-sgmllib 5.2.1-9
+python-sgmllib3k 1.0.0-2
 python-shiboken2 5.15.2-9
 python-sip4 4.19.25-1
 python-six 1.16.0-1
@@ -1915,10 +1915,10 @@ qqc2-desktop-style 5.87.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
 qt5-3d 5.15.2+kde+r33-1
-qt5-base 5.15.2+kde+r247-1
+qt5-base 5.15.2+kde+r251-1
 qt5-charts 5.15.2-1
 qt5-datavis3d 5.15.2-1
-qt5-declarative 5.15.2+kde+r34-1
+qt5-declarative 5.15.2+kde+r36-1
 qt5-graphicaleffects 5.15.2-1
 qt5-imageformats 5.15.2-1
 qt5-location 5.15.2-3
@@ -2097,10 +2097,10 @@ swh-plugins 0.4.17-4
 syndication 5.87.0-1
 syntax-highlighting 5.87.0-2
 sysfsutils 2.1.1-1
-systemd 249.5-1
-systemd-libs 249.5-1
+systemd 249.5-2
+systemd-libs 249.5-2
 systemd-swap 4.4.0-2
-systemd-sysvcompat 249.5-1
+systemd-sysvcompat 249.5-2
 systemsettings 5.23.1-1
 taglib 1.12-1
 talloc 2.3.3-1
@@ -2214,8 +2214,8 @@ virglrenderer 0.9.1-1
 virt-install 3.2.0-3
 virt-manager 3.2.0-3
 virtio-win 0.1.208.1-5
-virtualbox 6.1.26-1
-virtualbox-host-dkms 6.1.26-1
+virtualbox 6.1.28-2
+virtualbox-host-dkms 6.1.28-2
 visual-studio-code-bin 1.61.2-1
 vkd3d 1.2-1
 vlc 3.0.16-3
@@ -2358,9 +2358,9 @@ xorg-xwininfo 1.1.5-2
 xorg-xwud 1.0.5-2
 xorgproto 2021.5-1
 xplane-sdk-devel 3.0.3-1
-xray 1.4.5-1
+xray 1.5.0-1
 xray-domain-list-community 20211018134657-1
-xray-geoip 202110140026-1
+xray-geoip 202110210032-1
 xsel 1.2.0.20190821-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
 xvidcore 1.3.7-2

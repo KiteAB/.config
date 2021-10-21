@@ -1831,7 +1831,7 @@ python-retrying
 python-scipy
 python-setuptools
 python-sexpdata
-python-sgmllib
+python-sgmllib3k
 python-shiboken2
 python-sip4
 python-six
