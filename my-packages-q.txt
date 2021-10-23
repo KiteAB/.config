@@ -989,7 +989,6 @@ lib32-vkd3d
 lib32-vulkan-icd-loader
 lib32-vulkan-radeon
 lib32-wayland
-lib32-x264
 lib32-xz
 lib32-zlib
 lib32-zstd
