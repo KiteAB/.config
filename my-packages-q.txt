@@ -580,6 +580,7 @@ kcalc
 kcalendarcore
 kcalutils
 kcharselect
+kcm-colorful-git
 kcmutils
 kcodecs
 kcolorchooser
