@@ -125,6 +125,7 @@ bluedevil
 bluez
 bluez-libs
 bluez-qt
+boinc
 bolt
 bomber
 boost
@@ -173,6 +174,7 @@ clutter-gst
 clutter-gtk
 cmake
 cmatrix
+code-server
 cogl
 colord
 com.qq.im.deepin
@@ -391,6 +393,7 @@ glusterfs
 gmp
 gn-m85
 gnome-autoar
+gnome-clocks
 gnome-common
 gnome-desktop
 gnome-icon-theme
@@ -436,6 +439,7 @@ gsfonts
 gsl
 gsm
 gsmartcontrol
+gsound
 gspell
 gssdp
 gst-libav
@@ -479,7 +483,6 @@ hicolor-icon-theme
 hidapi
 hiredis
 hmcl-bin
-howdy
 htop
 http-parser
 hugo
@@ -1093,6 +1096,7 @@ libgssglue
 libgtop
 libgudev
 libgusb
+libgweather
 libgxps
 libhandy
 libheif
@@ -1603,7 +1607,6 @@ pacman-mirrorlist
 pacmanlogviewer
 palapeli
 pam
-pam-python
 pambase
 pango
 pangomm
@@ -1749,15 +1752,12 @@ python-debugpy
 python-decorator
 python-distlib
 python-distro
-python-dlib
 python-dnspython
 python-docopt
 python-docutils
 python-ecdsa
 python-epc
 python-evdev
-python-face_recognition
-python-face_recognition_models
 python-feedparser
 python-flask
 python-future
@@ -1787,7 +1787,6 @@ python-more-itertools
 python-msgpack
 python-nautilus
 python-numpy
-python-opencv
 python-ordered-set
 python-packaging
 python-parso
@@ -1828,7 +1827,6 @@ python-reedsolo
 python-requests
 python-resolvelib
 python-retrying
-python-scipy
 python-setuptools
 python-sexpdata
 python-sgmllib3k
