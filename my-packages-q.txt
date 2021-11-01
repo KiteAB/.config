@@ -1318,6 +1318,7 @@ libxcb
 libxcomposite
 libxcrypt
 libxcursor
+libxcvt
 libxdamage
 libxdg-basedir
 libxdmcp
@@ -1552,6 +1553,7 @@ ntfs-3g
 numactl
 nvidia-lts
 nvidia-utils
+nvme-cli
 oath-toolkit
 obs-studio
 ocaml

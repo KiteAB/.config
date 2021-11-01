@@ -6,7 +6,7 @@ accountsservice 0.6.55-3
 acl 2.3.1-1
 acorn 1:8.5.0-1
 acpi 1.7-3
-acpi_call-lts 1.2.1-86
+acpi_call-lts 1.2.1-87
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-2
@@ -256,7 +256,7 @@ editorconfig-core-c 0.12.5-1
 edk2-ovmf 202108-1
 efibootmgr 17-2
 efivar 37-4
-egl-wayland 1:1.1.7-1
+egl-wayland 1:1.1.9+2+gdaab854-1
 eglexternalplatform 1.1-2
 electron 15.3.0-1
 electron-netease-cloud-music 0.9.30-1
@@ -266,7 +266,7 @@ elisa 21.08.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.151268-1
+emacs-git 29.0.50.151311-1
 embree 3.13.2-1
 enca 1.19-4
 enchant 2.3.1-1
@@ -286,7 +286,7 @@ faac 1.30-2
 faad2 2.10.0-1
 fail2ban 0.11.2-2
 fakeroot 1.26-1
-farstream 0.2.9-2
+farstream 0.2.9-3
 faudio 21.10-1
 fcitx5 5.0.9-1
 fcitx5-anthy 5.0.6-1
@@ -309,7 +309,7 @@ ffnvcodec-headers 11.1.5.0-1
 fftw 3.3.10-1
 figlet 2.2.5-4
 file 5.41-1
-filebrowser-bin 2.17.2-1
+filebrowser-bin 2.18.0-1
 filelight 21.08.2-1
 filesystem 2021.05.31-1
 filezilla 3.56.2-1
@@ -465,9 +465,9 @@ gtop 1.1.1-1
 gts 0.7.6.121130-2
 guile 2.2.7-2
 gumbo-parser 0.10.1-2
-gupnp 1:1.2.7-1
-gupnp-dlna 0.10.5+4+gc947eed-2
-gupnp-igd 1.2.0-1
+gupnp 1:1.4.0-1
+gupnp-dlna 0.12.0-1
+gupnp-igd 1.2.0-2
 gv 3.7.4-5
 gvfs 1.48.1-1
 gwenview 21.08.2-1
@@ -787,7 +787,7 @@ l-smash 2.14.5-2
 ladspa 1.17-1
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.10.3.r5668.e642087e-1
+latte-dock-git 0.10.3.r5669.90405fef-1
 layer-shell-qt 5.23.2-1
 lazarus 2.0.12-3
 lazydocker 0.12-1
@@ -959,7 +959,7 @@ lib32-nss 3.71-1
 lib32-ocl-icd 2.3.0-1
 lib32-openal 1.21.1-1
 lib32-opencl-mesa 21.2.4-1
-lib32-opencl-nvidia 470.74-1
+lib32-opencl-nvidia 495.44-1
 lib32-openssl 1:1.1.1.l-1
 lib32-openssl-1.0 1.0.2.u-1
 lib32-opus 1.3.1-1
@@ -1266,7 +1266,7 @@ libtar 1.2.20-6
 libtasn1 4.17.0-1
 libteam 1.31-3
 libtermkey 0.22-2
-libtg_owt 0.git7.575fb17-2
+libtg_owt 0.git8.d578c76-1
 libthai 0.1.28-2
 libtheora 1.1.1-5
 libtiff 4.3.0-1
@@ -1318,6 +1318,7 @@ libxcb 1.14-1
 libxcomposite 0.4.5-3
 libxcrypt 4.4.26-1
 libxcursor 1.2.0-2
+libxcvt 0.1.1-1
 libxdamage 1.1.5-3
 libxdg-basedir 1.2.3-1
 libxdmcp 1.1.3-3
@@ -1335,7 +1336,7 @@ libxkbfile 1.1.0-2
 libxklavier 5.4-3
 libxml2 2.9.12-2
 libxmu 1.1.3-2
-libxnvctrl 470.74-1
+libxnvctrl 495.44-1
 libxpm 3.5.13-2
 libxrandr 1.5.2-3
 libxrender 0.9.10-4
@@ -1360,8 +1361,8 @@ lightly-qt 0.4.1-1
 lilv 0.24.12-1
 linux-api-headers 5.12.3-1
 linux-firmware 20210919.d526e04-1
-linux-lts 5.10.75-1
-linux-lts-headers 5.10.75-1
+linux-lts 5.10.76-1
+linux-lts-headers 5.10.76-1
 linuxqq 1:2.0.0_b2_1089-1
 lirc 1:0.10.1-8
 lld 12.0.1-1
@@ -1425,7 +1426,7 @@ mercurial 5.9.3-1
 mesa 21.2.4-1
 mesa-demos 8.4.0-4
 mesa-vdpau 21.2.4-1
-meson 0.60.0-1
+meson 0.60.0-2
 messagelib 21.08.2-1
 metis 5.1.0.p10-2
 milou 5.23.2-1
@@ -1540,7 +1541,7 @@ nodejs 16.11.1-1
 nodejs-nopt 5.0.0-2
 nodemcu-pyflasher 5.0.0-1
 noto-fonts 20201226-2
-noto-fonts-cjk 20201206-3
+noto-fonts-cjk 20211026-1
 noto-fonts-emoji 20210625-1
 noto-fonts-emoji-blob 1:14.0.1-1
 noto-fonts-extra 20201226-2
@@ -1550,8 +1551,9 @@ nspr 4.32-1
 nss 3.71-1
 ntfs-3g 2021.8.22-1
 numactl 2.0.14-1
-nvidia-lts 1:470.74-9
-nvidia-utils 470.74-1
+nvidia-lts 1:495.44-2
+nvidia-utils 495.44-3
+nvme-cli 1.15-1
 oath-toolkit 2.6.7-1
 obs-studio 27.1.3-1
 ocaml 4.12.0-1
@@ -1571,7 +1573,7 @@ opencascade 7.5.3-2
 opencc 1.1.2-1
 opencl-headers 2:2021.04.29-1
 opencl-mesa 21.2.4-1
-opencl-nvidia 470.74-1
+opencl-nvidia 495.44-3
 opencollada 1:1.6.68-2
 opencolorio 2.1.0-2
 opencolorio1 1.1.1-3
@@ -1581,7 +1583,7 @@ openexr 3.1.3-1
 openimagedenoise 1.4.1-1
 openimageio 2.2.18.0-1
 openjpeg2 2.4.0-1
-openmpi 4.1.1-2
+openmpi 4.1.1-3
 openresolv 3.12.0-1
 openrgb 0.6-2
 openshadinglanguage 1.11.14.2-1
@@ -1755,14 +1757,14 @@ python-distlib 0.3.3-1
 python-distro 1.6.0-1
 python-dnspython 1:2.1.0-1
 python-docopt 0.6.2-9
-python-docutils 0.17.1-1
+python-docutils 0.17.1-2
 python-ecdsa 0.17.0-1
 python-epc 0.0.5-3
 python-evdev 1.4.0-1
 python-feedparser 6.0.1-2
 python-flask 2.0.2-1
 python-future 0.18.2-5
-python-gobject 3.40.1-2
+python-gobject 3.42.0-1
 python-grip 4.5.2-1
 python-html5lib 1.1-6
 python-httplib2 0.19.1-1
@@ -1818,8 +1820,8 @@ python-pyqt5-sip 12.9.0-1
 python-pyqt5-webengine 5.15.5-1
 python-pyserial 3.5-2
 python-pyte 0.8.0-6
-python-pytz 2021.3-1
-python-pyxdg 0.27-1
+python-pytz 2021.3-2
+python-pyxdg 0.27-2
 python-pyzmq 22.2.1-1
 python-qrcode 7.3-5
 python-qtconsole 5.1.1-1
@@ -1861,7 +1863,7 @@ python-wxpython 1:4.0.7.2-1
 python-xlib 0.31-1
 python-yaml 5.4.1.1-2
 python-zipp 3.6.0-1
-python-zope-interface 5.4.0-1
+python-zope-interface 5.4.0-2
 python2 2.7.18-5
 python2-appdirs 1.4.4-3
 python2-asn1crypto 1.4.0-3
@@ -2110,7 +2112,7 @@ tdb 1.4.5-1
 tdlib 0.5.0-4
 teamspeak3 3.5.6-2
 teamspeak3-server 3.13.6-1
-telegram-desktop 3.1.11-1
+telegram-desktop 3.1.11-2
 telepathy-accounts-signon 2.1-2
 telepathy-farstream 0.6.2-7
 telepathy-glib 0.24.2-2
@@ -2197,10 +2199,10 @@ v2ray 4.43.0-1
 v2ray-domain-list-community 20211025125330-1
 v2ray-geoip 202110280028-1
 v2raya 1.5.4-1
-v4l-utils 1.20.0-1
+v4l-utils 1.22.1-1
 v4l2loopback-dc-dkms 1:1.8.0-1
 v4l2loopback-dkms 0.12.5-2
-vala 0.54.2-1
+vala 0.54.3-1
 vamp-plugin-sdk 2.10.0-1
 vde2 2.3.2-16
 vdpauinfo 1.4-1
@@ -2314,12 +2316,12 @@ xorg-fonts-alias-75dpi 1.0.4-1
 xorg-fonts-encodings 1.0.5-2
 xorg-iceauth 1.0.8-2
 xorg-mkfontscale 1.2.1-2
-xorg-server 1.20.13-2
-xorg-server-common 1.20.13-2
-xorg-server-devel 1.20.13-2
-xorg-server-xephyr 1.20.13-2
-xorg-server-xnest 1.20.13-2
-xorg-server-xvfb 1.20.13-2
+xorg-server 1.20.13-3
+xorg-server-common 1.20.13-3
+xorg-server-devel 1.20.13-3
+xorg-server-xephyr 1.20.13-3
+xorg-server-xnest 1.20.13-3
+xorg-server-xvfb 1.20.13-3
 xorg-sessreg 1.1.2-2
 xorg-setxkbmap 1.3.2-2
 xorg-smproxy 1.0.6-3
@@ -2359,7 +2361,7 @@ xorgproto 2021.5-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.0-1
 xray-domain-list-community 20211025125330-1
-xray-geoip 202110280028-1
+xray-geoip 202110311208-1
 xsel 1.2.0.20190821-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
 xvidcore 1.3.7-2
@@ -2378,7 +2380,7 @@ yubico-c 1.13-6
 yubico-c-client 2.15-5
 yubikey-personalization 1.20.0-3
 zbar 0.23.1-7
-zenity 3.32.0+55+gd7bedff-1
+zenity 3.41.0-1
 zeroconf-ioslave 21.08.2-1
 zeromq 4.3.4-2
 zile 2.6.2-1
