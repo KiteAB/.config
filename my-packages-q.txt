@@ -315,7 +315,7 @@ filesystem
 filezilla
 findutils
 fingerprint-gui
-firefox
+firefox-appmenu
 firewalld
 flac
 flameshot
