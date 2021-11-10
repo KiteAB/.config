@@ -29,7 +29,6 @@ akonadiconsole
 akregator
 alacritty
 alembic
-alpm_octopi_utils
 alsa-card-profiles
 alsa-firmware
 alsa-lib
@@ -46,7 +45,6 @@ analitza
 android-tools
 android-udev
 anthy
-anydesk-bin
 aom
 apache
 appstream
@@ -210,7 +208,6 @@ deepin-wine-plugin
 deepin-wine-plugin-virtual
 deepin-wine5
 deepin-wine5-i386
-deepin.com.qq.im.light
 desktop-file-utils
 device-mapper
 devtools
@@ -242,7 +239,6 @@ dotnet-targeting-pack
 double-conversion
 doxygen
 drkonqi
-droidcam
 dtc
 dune
 dvdauthor
@@ -456,7 +452,6 @@ gtk-vnc
 gtk2
 gtk3
 gtk4
-gtkglext
 gtkmm
 gtkmm3
 gtksourceview4
@@ -534,7 +529,6 @@ jdk11-openjdk
 jdk8-openjdk
 jemalloc
 jfsutils
-joe
 jq
 jre-openjdk
 jre-openjdk-headless
@@ -1028,6 +1022,7 @@ libcddb
 libcdio
 libcdio-paranoia
 libcdr
+libcheese
 libchewing
 libclc
 libcloudproviders
@@ -1077,7 +1072,6 @@ libfprint-1
 libfreeaptx
 libfreehand
 libftdi
-libgaminggear
 libgcrypt
 libgcrypt15
 libgdiplus
@@ -1363,7 +1357,6 @@ linux-api-headers
 linux-firmware
 linux-lts
 linux-lts-headers
-linuxqq
 lirc
 lld
 lldb
@@ -1391,7 +1384,6 @@ lua52-luajson
 lua52-socket
 lua53
 luajit
-lunar-client
 lutris
 lvm2
 lxappearance
@@ -1562,7 +1554,6 @@ ocaml-csexp
 ocaml-findlib
 ocaml-result
 ocl-icd
-octopi
 okular
 onefetch
 oniguruma
@@ -1605,7 +1596,6 @@ p11-kit
 p7zip
 package-query
 pacman
-pacman-contrib
 pacman-mirrorlist
 pacmanlogviewer
 palapeli
@@ -1943,11 +1933,8 @@ qt5-websockets
 qt5-x11extras
 qt5-xmlpatterns
 qt5pas
-qtermwidget
 qtkeychain-qt5
 quazip
-qv2ray
-qv2ray-plugin-trojan
 radeontool
 ragel
 rainbarf-git
@@ -1981,11 +1968,6 @@ rime-stroke
 rime-terra-pinyin
 ripgrep
 rnnoise
-roccat-tools-common
-roccat-tools-kone
-roccat-tools-koneplus
-roccat-tools-konepure
-roccat-tools-konextd
 rocs
 rofi
 rpcbind
@@ -2146,7 +2128,6 @@ tldr
 tlp
 tlp-rdw
 tmux
-todesk-bin
 totem-pl-parser
 traceroute
 tracker3
@@ -2200,7 +2181,6 @@ v2ray-domain-list-community
 v2ray-geoip
 v2raya
 v4l-utils
-v4l2loopback-dc-dkms
 v4l2loopback-dkms
 vala
 vamp-plugin-sdk
