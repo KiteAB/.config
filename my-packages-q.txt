@@ -94,6 +94,7 @@ avahi
 avogadro-crystals
 avogadro-molecules
 avogadrolibs
+avogadrolibs-qt5
 avr-binutils
 avr-gcc
 avr-libc
