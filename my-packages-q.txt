@@ -1523,7 +1523,8 @@ networkmanager-qt
 new-session-manager
 nftables
 nginx
-nginx-mod-rtmp-git
+nginx-mod-rtmp
+nginx-src
 ngspice
 nilfs-utils
 ninja
