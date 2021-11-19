@@ -46,12 +46,12 @@ android-tools 31.0.3-1
 android-udev 20210501-1
 anthy 9100h-6
 aom 3.2.0-1
-apache 2.4.51-1
+apache 2.4.51-2
 appstream 0.14.6-1
 appstream-glib 0.7.18-2
 appstream-qt 0.14.6-1
 apr 1.7.0-3
-apr-util 1.6.1-8
+apr-util 1.6.1-9
 arandr 0.1.10-6
 arc-icon-theme 20161122-3
 arch-install-scripts 24-2
@@ -86,7 +86,7 @@ aubio 0.4.9-10
 audacity 1:2.4.1-4
 audiocd-kio 21.08.3-1
 audiofile 0.3.6-6
-audit 3.0.6-1
+audit 3.0.6-2
 autoconf 2.71-1
 autoconf-archive 1:2021.02.19-2
 automake 1.16.5-1
@@ -192,7 +192,7 @@ cronie 1.5.7-2
 cryptsetup 2.4.1-3
 ctags 1:5.9.20210905.0-1
 cups 1:2.3.3op2-4
-cups-filters 1.28.10-1
+cups-filters 1.28.10-2
 curl 7.80.0-1
 dav1d 0.9.2-1
 davfs2 1.6.1-1
@@ -212,7 +212,7 @@ deepin-wine5-i386 5.0.16-1
 desktop-file-utils 0.26-1
 device-mapper 2.03.14-1
 devtools 20210202-3
-dhcp 4.4.2.P1-1
+dhcp 4.4.2.P1-2
 dhcpcd 9.4.0-1
 diffutils 3.8-1
 discord 0.0.16-1
@@ -263,7 +263,7 @@ elisa 21.08.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.151870-1
+emacs-git 29.0.50.151902-1
 embree 3.13.2-1
 enca 1.19-4
 enchant 2.3.1-1
@@ -312,7 +312,7 @@ filesystem 2021.11.11-1
 filezilla 3.56.2-1
 findutils 4.8.0-1
 fingerprint-gui 1.09-7
-firefox-appmenu 94.0.1-1
+firefox-appmenu 94.0.2-1
 firewalld 1.0.2-1
 flac 1.3.3-3
 flameshot 0.10.1-1
@@ -371,7 +371,7 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.28-1
 git 2.34.0-1
-git-delta-git 0.9.2.20211117-1
+git-delta-git 0.9.2.20211118-1
 git-lfs 3.0.2-1
 github-cli 2.2.0-1
 gl2ps 1.4.2-2
@@ -397,7 +397,7 @@ gnome-icon-theme 3.12.0-6
 gnome-icon-theme-symbolic 3.12.0-6
 gnome-video-effects 0.5.0+4+g9554041-2
 gnugo 3.8-7
-gnupg 2.2.32-1
+gnupg 2.2.32-2
 gnutls 3.7.2-2
 go 2:1.17.3-1
 gobject-introspection 1.70.0-2
@@ -676,7 +676,7 @@ kitinerary 21.08.3-1
 kjobwidgets 5.88.0-1
 kjs 5.88.0-1
 kjumpingcube 21.08.3-1
-kldap 21.08.3-1
+kldap 21.08.3-2
 kleopatra 21.08.3-1
 klettres 21.08.3-1
 klickety 21.08.3-1
@@ -730,7 +730,7 @@ kpty 5.88.0-1
 kpublictransport 21.08.3-1
 kqtquickcharts 21.08.3-1
 kquickcharts 5.88.0-1
-krb5 1.19.2-1
+krb5 1.19.2-2
 krdc 21.08.3-1
 kreversi 21.08.3-1
 krfb 21.08.3-1
@@ -787,7 +787,7 @@ layer-shell-qt 5.23.3-1
 lazarus 2.0.12-3
 lazydocker 0.12-1
 lcms2 2.12-1
-ldb 2:2.4.1-1
+ldb 2:2.4.1-2
 ldns 1.7.1-2
 lensfun 0.3.95-4
 less 1:590-1
@@ -842,7 +842,7 @@ lib32-jack2 1.9.19-2
 lib32-jansson 2.14-1
 lib32-json-glib 1.6.6-1
 lib32-keyutils 1.6.3-1
-lib32-krb5 1.19.2-1
+lib32-krb5 1.19.2-2
 lib32-l-smash 2.14.5-2
 lib32-lcms2 2.12-1
 lib32-libappindicator-gtk2 12.10.0-12
@@ -858,7 +858,7 @@ lib32-libdatrie 0.2.13-1
 lib32-libdbusmenu-glib 16.04.0-4
 lib32-libdbusmenu-gtk2 16.04.0-4
 lib32-libdbusmenu-gtk3 16.04.0-4
-lib32-libdrm 2.4.107-1
+lib32-libdrm 2.4.108-1
 lib32-libelf 0.185-1
 lib32-libepoxy 1.5.9-1
 lib32-libffi 3.4.2-3
@@ -877,7 +877,7 @@ lib32-libindicator-gtk3 12.10.1-8
 lib32-libinstpatch 1.1.6-1
 lib32-libjpeg-turbo 2.1.1-1
 lib32-libjpeg6-turbo 1.5.3-2
-lib32-libldap 2.4.59-1
+lib32-libldap 2.6.0-1
 lib32-libltdl 2.4.6+42+gb88cebd5-1
 lib32-libmikmod 3.3.11.1-4
 lib32-libmodplug 0.8.9.0-3
@@ -898,7 +898,7 @@ lib32-libsm 1.2.3-1
 lib32-libsndfile 1.0.31-1
 lib32-libsoup 2.74.1-1
 lib32-libssh2 1.10.0-1
-lib32-libtasn1 4.17.0-1
+lib32-libtasn1 4.18.0-1
 lib32-libthai 0.1.28-1
 lib32-libtheora 1.1.1-12
 lib32-libtiff 4.3.0-1
@@ -1144,7 +1144,7 @@ libksysguard 5.23.3-1
 libktorrent 21.08.3-1
 liblangtag 0.6.3-2
 libldac 2.0.2.3-1
-libldap 2.4.59-2
+libldap 2.6.0-2
 liblo 1:0.31-1
 liblouis 3.19.0-1
 liblqr 0.4.2-3
@@ -1154,7 +1154,7 @@ libluv 1.42.0-1
 libmad 0.15.1b-9
 libmanette 0.2.6-2
 libmatroska 1.6.3-1
-libmbim 1.26.0-2
+libmbim 1.26.2-1
 libmd 1.0.4-1
 libmfx 21.3.2-1
 libmicrodns 0.2.0-1
@@ -1219,7 +1219,7 @@ libpulse 15.0-1
 libqaccessibilityclient 0.4.1-2
 libqalculate 3.21.0-1
 libqmi 1.30.2-1
-libqrtr-glib 1.0.0-1
+libqrtr-glib 1.2.0-1
 libquicktime 1.2.4-25
 libquvi 0.9.4-6
 libquvi-scripts 0.9.20131130-5
@@ -1227,7 +1227,7 @@ libqxp 0.0.2-6
 libraqm 0.7.2-2
 libraw 0.20.2-1
 libraw1394 2.1.2-3
-libreoffice-fresh 7.2.2-2
+libreoffice-fresh 7.2.2-3
 librevenge 0.0.4-3
 librime 1:1.7.3-5
 librime-data 0.0.0.20210627-1
@@ -1545,8 +1545,8 @@ nspr 4.32-1
 nss 3.72-1
 ntfs-3g 2021.8.22-1
 numactl 2.0.14-1
-nvidia-lts 1:495.44-9
-nvidia-utils 495.44-3
+nvidia-lts 1:495.44-12
+nvidia-utils 495.44-5
 nvme-cli 1.16-1
 oath-toolkit 2.6.7-1
 obs-studio 27.1.3-1
@@ -1566,7 +1566,7 @@ opencascade 7.5.3-3
 opencc 1.1.2-1
 opencl-headers 2:2021.04.29-1
 opencl-mesa 21.2.5-1
-opencl-nvidia 495.44-3
+opencl-nvidia 495.44-5
 opencollada 1:1.6.68-2
 opencolorio 2.1.0-2
 opencolorio1 1.1.1-3
@@ -1649,7 +1649,7 @@ perl-xml-writer 0.625-7
 phodav 2.5-1
 phonon-qt5 4.11.1-2
 phonon-qt5-gstreamer 4.10.0-2
-php 8.0.12-1
+php 8.0.12-2
 picmi 21.08.3-1
 picom 8.2-1
 pim-data-exporter 21.08.3-1
@@ -1903,7 +1903,7 @@ qemu-block-iscsi 6.1.0-5
 qemu-block-rbd 6.1.0-5
 qgpgme 1.16.0-1
 qhull 2020.2-4
-qpdf 10.3.2-1
+qpdf 10.4.0-1
 qqc2-desktop-style 5.88.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
@@ -1935,7 +1935,7 @@ qt5-websockets 5.15.2+kde+r4-1
 qt5-x11extras 5.15.2-1
 qt5-xmlpatterns 5.15.2-1
 qt5pas 2.6.r65219-1
-qtkeychain-qt5 0.13.1-1
+qtkeychain-qt5 0.13.2-1
 quazip 1.2-1
 radeontool 1.6.3-4
 ragel 6.10-3
@@ -1951,7 +1951,7 @@ rclone-browser 1.8.0-1
 re2 1:20211101-1
 read-edid 3.0.2-3
 readline 8.1.001-1
-reaper-bin 6.41-1
+reaper-bin 6.42-1
 recode 3.7.9-1
 recordmydesktop 0.4.0-1
 redland 1:1.0.17-8
@@ -1974,7 +1974,7 @@ rocs 21.08.3-1
 rofi 1.7.0-1
 rpcbind 1.2.6-1
 rsync 3.2.3-4
-rtaudio 5.1.0-3
+rtaudio 5.2.0-1
 rtkit 0.13-1
 rtmpdump 1:2.4.r96.fa8646d-6
 rttr 0.9.6-3
@@ -2000,10 +2000,10 @@ run-parts 5.5-1
 runc 1.0.2-2
 rustdesk-bin 1.1.8-1
 rustup 1.24.3-2
-samba 4.15.2-1
+samba 4.15.2-2
 sane 1.0.32-3
 sbc 1.5-2
-scons 4.2.0-1
+scons 4.3.0-1
 scrcpy 1.20-1
 screen 4.8.0-3
 screenfetch 3.9.1-1
@@ -2038,7 +2038,7 @@ signon-ui 0.17+20171022-2
 signond 8.60-3
 slang 2.3.2-2
 smartmontools 7.2-1
-smbclient 4.15.2-1
+smbclient 4.15.2-2
 smpeg 0.4.5-5
 snappy 1.1.9-2
 sndio 1.8.1-1
@@ -2070,7 +2070,7 @@ steam-native-runtime 1.0.0.70-2
 step 21.08.3-1
 stk 4.6.1-3
 subversion 1.14.1-3
-sudo 1.9.8.p2-1
+sudo 1.9.8.p2-3
 suil 0.10.10-1
 suitesparse 5.10.1-1
 sunloginclient 11.0.0.36662-2
@@ -2199,7 +2199,7 @@ virt-manager 3.2.0-3
 virtio-win 0.1.208.1-5
 virtualbox 6.1.28-3
 virtualbox-host-dkms 6.1.28-3
-visual-studio-code-bin 1.62.2-1
+visual-studio-code-bin 1.62.3-1
 vkd3d 1.2-1
 vlc 3.0.16-4
 vmaf 1.5.3-1
@@ -2270,7 +2270,7 @@ xf86-input-synaptics 1.9.1-3
 xf86-input-vmmouse 13.1.0-6
 xf86-input-void 1.4.1-6
 xf86-video-amdgpu 21.0.0-2
-xf86-video-ati 1:19.1.0.r9.g5eba006e-1
+xf86-video-ati 1:19.1.0.r9.g5eba006e-2
 xf86-video-dummy 0.3.8-5
 xf86-video-fbdev 0.5.0-3
 xf86-video-intel 1:2.99.917+916+g31486f40-2
