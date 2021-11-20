@@ -189,7 +189,7 @@ cpio 2.13-2
 cpupower 5.15-1
 crda 4.14-4
 cronie 1.5.7-2
-cryptsetup 2.4.1-3
+cryptsetup 2.4.2-1
 ctags 1:5.9.20210905.0-1
 cups 1:2.3.3op2-4
 cups-filters 1.28.10-2
@@ -258,12 +258,12 @@ eglexternalplatform 1.1-2
 electron 15.3.1-1
 electron-netease-cloud-music 0.9.32-1
 elementary-icon-theme 6.0.0-1
-elfutils 0.185-1
+elfutils 0.186-1
 elisa 21.08.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.151902-1
+emacs-git 29.0.50.151916-1
 embree 3.13.2-1
 enca 1.19-4
 enchant 2.3.1-1
@@ -859,7 +859,7 @@ lib32-libdbusmenu-glib 16.04.0-4
 lib32-libdbusmenu-gtk2 16.04.0-4
 lib32-libdbusmenu-gtk3 16.04.0-4
 lib32-libdrm 2.4.108-1
-lib32-libelf 0.185-1
+lib32-libelf 0.186-1
 lib32-libepoxy 1.5.9-1
 lib32-libffi 3.4.2-3
 lib32-libgcrypt 1.9.4-1
@@ -1054,7 +1054,7 @@ libe-book 0.1.3-9
 libebml 1.4.2-1
 libebur128 1.2.6-1
 libedit 20210910_3.1-1
-libelf 0.185-1
+libelf 0.186-1
 libepoxy 1.5.9-1
 libepubgen 0.1.1-2
 libetonyek 0.1.10-1
@@ -2342,7 +2342,7 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.5-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.0-1
-xray-domain-list-community 20211118025219-1
+xray-domain-list-community 20211119143108-1
 xray-geoip 202111180029-1
 xsel 1.2.0.20190821-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
