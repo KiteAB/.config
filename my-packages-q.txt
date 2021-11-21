@@ -1386,6 +1386,7 @@ lua52-socket
 lua53
 luajit
 lutris
+lv2
 lvm2
 lxappearance
 lz4

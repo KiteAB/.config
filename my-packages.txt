@@ -6,7 +6,7 @@ accountsservice 0.6.55-3
 acl 2.3.1-1
 acorn 1:8.5.0-1
 acpi 1.7-3
-acpi_call-lts 1.2.1-93
+acpi_call-lts 1.2.1-94
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-2
@@ -74,7 +74,7 @@ asciinema 2.1.0-1
 asio 1.18.2-1
 asp 8-1
 aspell 0.60.8-2
-assimp 5.0.1-3
+assimp 5.1.1-1
 at-spi2-atk 2.38.0-1
 at-spi2-core 2.42.0-1
 atk 2.36.0-1
@@ -171,7 +171,7 @@ clucene 2.3.3.4-11
 clutter 1.26.4-1
 clutter-gst 3.0.27-3
 clutter-gtk 1.8.4-2
-cmake 3.21.4-1
+cmake 3.22.0-1
 cmatrix 2.0-2
 code-server 3.12.0-0
 cogl 1.22.8-1
@@ -180,7 +180,7 @@ com.qq.im.deepin 9.3.2-20
 com.qq.tim.spark 3.3.5.22018spark0-1
 compiler-rt 13.0.0-1
 confuse 3.3-3
-containerd 1.5.7-1
+containerd 1.5.8-1
 convertlit 1.8-10
 coordgen 3.0.0-1
 coreutils 9.0-2
@@ -228,7 +228,7 @@ dnsmasq 2.86-1
 dnssec-anchors 20190629-3
 docbook-xml 4.5-9
 docbook-xsl 1.79.2-7
-docker 1:20.10.10-1
+docker 1:20.10.11-1
 dolphin 21.08.3-1
 dolphin-plugins 21.08.3-1
 dosbox 0.74.3-2
@@ -263,7 +263,7 @@ elisa 21.08.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.151916-1
+emacs-git 29.0.50.151949-1
 embree 3.13.2-1
 enca 1.19-4
 enchant 2.3.1-1
@@ -289,7 +289,7 @@ fcitx5 5.0.10-1
 fcitx5-anthy 5.0.7-1
 fcitx5-breeze 1.0.0-1
 fcitx5-chewing 5.0.7-1
-fcitx5-chinese-addons 5.0.7-1
+fcitx5-chinese-addons 5.0.8-1
 fcitx5-configtool 5.0.8-1
 fcitx5-gtk 5.0.9-1
 fcitx5-material-color 0.2.1-1
@@ -386,7 +386,7 @@ glibmm 2.66.2-1
 glm 0.9.9.8-1
 glslang 11.7.0-1
 glu 9.0.2-1
-glusterfs 1:10.0-1
+glusterfs 1:10.0-2
 gmp 6.2.1-1
 gn-m85 0.1792.7d7e8dee-1
 gnome-autoar 0.4.1-1
@@ -716,7 +716,7 @@ kopeninghours 21.08.3-1
 kopete 21.08.3-1
 korganizer 21.08.3-1
 kosmindoormap 21.08.3-1
-kotlin 1.5.31-1
+kotlin 1.6.0-1
 kpackage 5.88.0-1
 kparts 5.88.0-1
 kpat 21.08.3-1
@@ -875,7 +875,7 @@ lib32-libidn2 2.3.2-1
 lib32-libindicator-gtk2 12.10.1-8
 lib32-libindicator-gtk3 12.10.1-8
 lib32-libinstpatch 1.1.6-1
-lib32-libjpeg-turbo 2.1.1-1
+lib32-libjpeg-turbo 2.1.2-1
 lib32-libjpeg6-turbo 1.5.3-2
 lib32-libldap 2.6.0-1
 lib32-libltdl 2.4.6+42+gb88cebd5-1
@@ -1106,7 +1106,7 @@ libidn2 2.3.2-1
 libiec61883 1.2.0-6
 libieee1284 0.2.11-11
 libimagequant 2.16.0-1
-libime 1.0.8-1
+libime 1.0.9-1
 libimobiledevice 1.3.0-3
 libindicator-gtk2 12.10.1-9
 libindicator-gtk3 12.10.1-9
@@ -1120,7 +1120,7 @@ libiscsi 1.19.0-2
 libisoburn 1.5.4-2
 libisofs 1.5.4-1
 libixion 0.16.1-6
-libjpeg-turbo 2.1.1-1
+libjpeg-turbo 2.1.2-1
 libjpeg6-turbo 1.5.3-2
 libkate 0.4.1-7
 libkcddb 21.08.3-1
@@ -1353,11 +1353,11 @@ lightdm 1:1.30.0-4
 lightdm-gtk-greeter 1:2.0.8-1
 lightdm-gtk-greeter-settings 1.2.2-6
 lightly-qt 0.4.1-1
-lilv 0.24.12-1
+lilv 0.24.12-2
 linux-api-headers 5.12.3-1
 linux-firmware 20211027.1d00989-1
-linux-lts 5.10.79-1
-linux-lts-headers 5.10.79-1
+linux-lts 5.10.80-1
+linux-lts-headers 5.10.80-1
 lirc 1:0.10.1-8
 lld 13.0.0-1
 lldb 13.0.0-1
@@ -1386,6 +1386,7 @@ lua52-socket 20200329-1
 lua53 5.3.6-1
 luajit 2.0.5-3
 lutris 0.5.9.1-1
+lv2 1.18.2-1
 lvm2 2.03.14-1
 lxappearance 0.6.3-4
 lz4 1:1.9.3-2
@@ -1545,8 +1546,8 @@ nspr 4.32-1
 nss 3.72-1
 ntfs-3g 2021.8.22-1
 numactl 2.0.14-1
-nvidia-lts 1:495.44-12
-nvidia-utils 495.44-5
+nvidia-lts 1:495.44-14
+nvidia-utils 495.44-6
 nvme-cli 1.16-1
 oath-toolkit 2.6.7-1
 obs-studio 27.1.3-1
@@ -1566,7 +1567,7 @@ opencascade 7.5.3-3
 opencc 1.1.2-1
 opencl-headers 2:2021.04.29-1
 opencl-mesa 21.2.5-1
-opencl-nvidia 495.44-5
+opencl-nvidia 495.44-6
 opencollada 1:1.6.68-2
 opencolorio 2.1.0-2
 opencolorio1 1.1.1-3
@@ -1649,7 +1650,7 @@ perl-xml-writer 0.625-7
 phodav 2.5-1
 phonon-qt5 4.11.1-2
 phonon-qt5-gstreamer 4.10.0-2
-php 8.0.12-2
+php 8.0.13-1
 picmi 21.08.3-1
 picom 8.2-1
 pim-data-exporter 21.08.3-1
@@ -1701,7 +1702,7 @@ protobuf-c 1.4.0-1
 proton 6.3.4-1
 psmisc 23.4-1
 psutils 2.05-1
-ptex 2.4.1-1
+ptex 2.4.1-2
 pugixml 1.11.4-1
 pulseaudio 15.0-1
 pulseaudio-alsa 1:1.2.5-2
@@ -1907,8 +1908,8 @@ qpdf 10.4.0-1
 qqc2-desktop-style 5.88.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
-qt5-3d 5.15.2+kde+r33-1
-qt5-base 5.15.2+kde+r256-1
+qt5-3d 5.15.2+kde+r33-2
+qt5-base 5.15.2+kde+r257-1
 qt5-charts 5.15.2-1
 qt5-datavis3d 5.15.2-1
 qt5-declarative 5.15.2+kde+r41-1
@@ -2061,7 +2062,7 @@ spice 0.15.0-1
 spice-gtk 0.39-3
 spirv-tools 2021.3-1
 sqlite 3.36.0-1
-sratom 0.6.8-1
+sratom 0.6.8-3
 srt 1.4.4-1
 sshfs 3.7.2-2
 startup-notification 0.12-7
@@ -2071,9 +2072,9 @@ step 21.08.3-1
 stk 4.6.1-3
 subversion 1.14.1-3
 sudo 1.9.8.p2-3
-suil 0.10.10-1
+suil 0.10.10-2
 suitesparse 5.10.1-1
-sunloginclient 11.0.0.36662-2
+sunloginclient 11.0.0.36662-3
 svgpart 21.08.3-1
 svt-av1 0.8.7-1
 svt-hevc 1.5.1-1
@@ -2180,7 +2181,7 @@ util-linux-libs 2.37.2-1
 utools 2.4.1-1
 v2ray 4.43.0-1
 v2ray-domain-list-community 20211115045842-1
-v2ray-geoip 202111110028-1
+v2ray-geoip 202111180029-1
 v2raya 1.5.4-1
 v4l-utils 1.22.1-1
 v4l2loopback-dkms 0.12.5-2
