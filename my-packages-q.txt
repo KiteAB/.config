@@ -1528,6 +1528,8 @@ nginx-mod-rtmp
 nginx-src
 ngspice
 nilfs-utils
+nim
+nimble
 ninja
 nm-connection-editor
 nmap
@@ -1752,6 +1754,7 @@ python-dnspython
 python-docopt
 python-docutils
 python-ecdsa
+python-entrypoints
 python-epc
 python-evdev
 python-feedparser
@@ -1782,6 +1785,7 @@ python-matplotlib-inline
 python-more-itertools
 python-msgpack
 python-nautilus
+python-nest_asyncio
 python-numpy
 python-ordered-set
 python-packaging
