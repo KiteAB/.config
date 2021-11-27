@@ -105,7 +105,7 @@ babl 0.1.88-2
 baloo 5.88.0-1
 baloo-widgets 21.08.3-1
 base 2-2
-bash 5.1.008-1
+bash 5.1.012-1
 bash-completion 2.11-2
 bash-language-server 2.0.0-5
 bashtop 0.9.25-1
@@ -263,7 +263,7 @@ elisa 21.08.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.152092-1
+emacs-git 29.0.50.152113-1
 embree 3.13.2-1
 enca 1.19-4
 enchant 2.3.1-2
@@ -315,7 +315,7 @@ fingerprint-gui 1.09-7
 firefox-appmenu 94.0.2-4
 firewalld 1.0.2-1
 flac 1.3.3-3
-flameshot 0.10.1-1
+flameshot 0.10.2-1
 flatpak 1.12.2-1
 flex 2.6.4-3
 flite 2.2-1
@@ -371,7 +371,7 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.28-1
 git 2.34.1-1
-git-delta-git 0.10.1.20211125-1
+git-delta-git 0.10.1.20211126-1
 git-lfs 3.0.2-1
 github-cli 2.2.0-1
 gl2ps 1.4.2-2
@@ -468,8 +468,8 @@ gv 3.7.4-5
 gvfs 1.48.1-1
 gwenview 21.08.3-1
 gzip 1.11-1
-harfbuzz 3.1.1-2
-harfbuzz-icu 3.1.1-2
+harfbuzz 3.1.2-1
+harfbuzz-icu 3.1.2-1
 harmonyos-sans-git r4.b226381-1
 harvid 0.8.3-2
 hdf5 1.12.1-1
@@ -835,7 +835,7 @@ lib32-gst-plugins-base-libs 1.18.4-1
 lib32-gstreamer 1.18.5-1
 lib32-gtk2 2.24.33-1
 lib32-gtk3 3.24.30-1
-lib32-harfbuzz 3.1.1-2
+lib32-harfbuzz 3.1.2-1
 lib32-icu 70.1-1
 lib32-imlib2 1.7.4-1
 lib32-jack2 1.9.19-2
@@ -1061,7 +1061,7 @@ libetonyek 0.1.10-1
 libev 4.33-1
 libevdev 1.12.0-1
 libevent 2.1.12-1
-libexif 0.6.23-1
+libexif 0.6.24-1
 libexttextcat 3.4.6-1
 libfakekey 0.3-2
 libfdk-aac 2.0.2-1
@@ -1160,7 +1160,7 @@ libmfx 21.3.2-1
 libmicrodns 0.2.0-1
 libmicrohttpd 0.9.73-1
 libmikmod 3.3.11.1-4
-libmm-glib 1.18.2-1
+libmm-glib 1.18.4-1
 libmms 0.6.4-3
 libmng 2.0.3-3
 libmnl 1.0.4-3
@@ -1436,7 +1436,7 @@ mkinitcpio-busybox 1.33.1-1
 mlt 7.2.0-2
 mlt6 6.26.1-5
 mobile-broadband-provider-info 20210805-1
-modemmanager 1.18.2-1
+modemmanager 1.18.4-1
 modemmanager-qt 5.88.0-1
 molequeue 0.9.0-2
 monero 0.17.2.3-1
@@ -1579,7 +1579,7 @@ openexr 3.1.3-1
 openimagedenoise 1.4.1-1
 openimageio 2.2.18.0-1
 openjpeg2 2.4.0-1
-openmpi 4.1.1-3
+openmpi 4.1.2-1
 openresolv 3.12.0-1
 openrgb 0.6-3
 openshadinglanguage 1.11.16.0-1
@@ -1644,7 +1644,7 @@ perl-mailtools 2.21-5
 perl-net-http 6.21-2
 perl-parse-yapp 1.21-4
 perl-timedate 2.33-3
-perl-try-tiny 0.30-6
+perl-try-tiny 0.31-1
 perl-uri 5.10-1
 perl-www-robotrules 6.02-9
 perl-xml-parser 2.46-3
@@ -2292,7 +2292,7 @@ xfsprogs 5.14.0-1
 xjadeo 0.8.10-2
 xkeyboard-config 2.34-1
 xmlsec 1.2.33-1
-xmrig 6.15.3-1
+xmrig 6.16.0-1
 xorg-bdftopcf 1.1-2
 xorg-docs 1.7.1-3
 xorg-font-util 1.3.2-2
@@ -2347,7 +2347,7 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.5-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.0-1
-xray-domain-list-community 20211123142444-1
+xray-domain-list-community 20211126110355-1
 xray-geoip 202111250029-1
 xsel 1.2.0.20190821-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
