@@ -1330,6 +1330,7 @@ libxkbcommon-x11
 libxkbfile
 libxklavier
 libxml2
+libxmlb
 libxmu
 libxnvctrl
 libxpm
@@ -1419,6 +1420,7 @@ media-player-info
 mercurial
 mesa
 mesa-demos
+mesa-utils
 mesa-vdpau
 meson
 messagelib
@@ -1524,7 +1526,6 @@ networkmanager-qt
 new-session-manager
 nftables
 nginx
-nginx-mod-rtmp
 nginx-src
 ngspice
 nilfs-utils
