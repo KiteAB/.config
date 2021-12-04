@@ -47,6 +47,7 @@ android-udev
 anthy
 aom
 apache
+appmenu-gtk-module
 appstream
 appstream-glib
 appstream-qt

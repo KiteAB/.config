@@ -6,7 +6,7 @@ accountsservice 0.6.55-3
 acl 2.3.1-1
 acorn 1:8.6.0-1
 acpi 1.7-3
-acpi_call-lts 1.2.1-97
+acpi_call-lts 1.2.2-1
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-2
@@ -47,6 +47,7 @@ android-udev 20210501-1
 anthy 9100h-6
 aom 3.2.0-1
 apache 2.4.51-2
+appmenu-gtk-module 0.7.6-1
 appstream 0.15.0-1
 appstream-glib 0.7.18-2
 appstream-qt 0.15.0-1
@@ -133,7 +134,7 @@ bovo 21.08.3-1
 box2d 2.4.1-1
 breeze 5.23.4-1
 breeze-gtk 5.23.4-1
-breeze-icons 5.88.0-1
+breeze-icons 5.88.0-2
 breezy 3.2.0-1
 bridge-utils 1.7.1-1
 brltty 6.4-2
@@ -151,7 +152,7 @@ cairo 1.17.4-5
 cairomm 1.14.3-2
 calendarsupport 21.08.3-1
 cantarell-fonts 1:0.303-1
-cantor 21.08.3-1
+cantor 21.08.3-2
 capnproto 0.9.0-1
 catimg 2.7.0-1
 cblas 3.10.0-1
@@ -255,7 +256,7 @@ efibootmgr 17-2
 efivar 37-4
 egl-wayland 2:1.1.9+r3+g582b2d3-1
 eglexternalplatform 1.1-2
-electron 16.0.3-1
+electron 16.0.4-1
 electron-netease-cloud-music 0.9.32-1
 elementary-icon-theme 6.1.0-1
 elfutils 0.186-1
@@ -263,7 +264,7 @@ elisa 21.08.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.152299-1
+emacs-git 29.0.50.152302-1
 embree 3.13.2-1
 enca 1.19-4
 enchant 2.3.1-2
@@ -399,7 +400,7 @@ gnome-video-effects 0.5.0+4+g9554041-2
 gnugo 3.8-7
 gnupg 2.2.32-2
 gnutls 3.7.2-2
-go 2:1.17.3-1
+go 2:1.17.4-1
 gobject-introspection 1.70.0-2
 gobject-introspection-runtime 1.70.0-2
 godot 3.4-1
@@ -961,7 +962,7 @@ lib32-opus 1.3.1-1
 lib32-orc 0.4.32-1
 lib32-p11-kit 0.24.0-2
 lib32-pam 1.5.2-1
-lib32-pango 1:1.48.10-1
+lib32-pango 1:1.50.0-1
 lib32-pcre 8.44-1
 lib32-pipewire 1:0.3.40-1
 lib32-pipewire-jack 1:0.3.40-1
@@ -1284,7 +1285,7 @@ libuv 1.42.0-1
 libva 2.13.0-1
 libva-mesa-driver 21.2.5-1
 libvdpau 1.4-1
-libvirt 1:7.9.0-1
+libvirt 1:7.10.0-2
 libvirt-glib 4.0.0-1
 libvirt-python 1:7.8.0-1
 libvisio 0.1.7-6
@@ -1433,7 +1434,7 @@ minizip 1:1.2.11-4
 minuet 21.08.3-1
 mixxx 2.3.1-1
 mjpegtools 2.2.1-1
-mkinitcpio 31-1
+mkinitcpio 31-2
 mkinitcpio-busybox 1.34.1-1
 mlt 7.2.0-2
 mlt6 6.26.1-5
@@ -1607,14 +1608,14 @@ pacmanlogviewer 1.4.3-1
 palapeli 21.08.3-1
 pam 1.5.2-1
 pambase 20211111-1
-pango 1:1.48.10-1
+pango 1:1.50.0-1
 pangomm 2.46.1-2
 paper 2.3-2
 papirus-icon-theme 20211101-1
 parley 21.08.3-1
 parted 3.4-2
 partitionmanager 21.08.3-1
-paru 1.9.0-1
+paru 1.9.1-1
 pastebinit 1.5.1-1
 patch 2.7.6-8
 patchelf 0.13-1
@@ -1977,7 +1978,7 @@ rime-terra-pinyin 0.0.0.20210805-1
 ripgrep 13.0.0-2
 rnnoise 0.4.1-1
 rocs 21.08.3-1
-rofi 1.7.1-1
+rofi 1.7.2-1
 rpcbind 1.2.6-1
 rsync 3.2.3-4
 rtaudio 5.2.0-1
@@ -2185,7 +2186,7 @@ util-linux 2.37.2-1
 util-linux-libs 2.37.2-1
 utools 2.4.1-1
 v2ray 4.43.0-1
-v2ray-domain-list-community 20211126110355-1
+v2ray-domain-list-community 20211203092402-1
 v2ray-geoip 202111250029-1
 v2raya 1.5.4-1
 v4l-utils 1.22.1-1
@@ -2348,7 +2349,7 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.5-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.0-1
-xray-domain-list-community 20211202151304-1
+xray-domain-list-community 20211203092402-1
 xray-geoip 202112020029-1
 xsel 1.2.0.20190821-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
@@ -2362,7 +2363,7 @@ yaourt 1.9-1
 yarn 1.22.17-1
 yasm 1.3.0-4
 yelp-tools 41.0-1
-yelp-xsl 41.0-1
+yelp-xsl 41.1-1
 you-get 0.4.1555-1
 yubico-c 1.13-6
 yubico-c-client 2.15-5
