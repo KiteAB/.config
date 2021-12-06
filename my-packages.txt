@@ -118,7 +118,7 @@ binutils 2.36.1-3
 bison 3.8.2-1
 black-hole-solver 1.10.1-1
 blas 3.10.0-1
-blender 17:2.93.6-1
+blender 17:3.0.0-1
 blinken 21.08.3-1
 blosc 1.21.1-1
 bluedevil 1:5.23.4-1
@@ -192,7 +192,7 @@ crda 4.14-4
 cronie 1.5.7-2
 cryptsetup 2.4.2-1
 ctags 1:5.9.20210905.0-1
-cups 1:2.3.3op2-4
+cups 1:2.4.0-4
 cups-filters 1.28.10-2
 curl 7.80.0-1
 dav1d 0.9.2-1
@@ -238,7 +238,7 @@ dotnet-host 6.0.0.sdk100-2
 dotnet-runtime 6.0.0.sdk100-2
 dotnet-sdk 6.0.0.sdk100-2
 dotnet-targeting-pack 6.0.0.sdk100-2
-double-conversion 3.1.5-2
+double-conversion 3.1.6-1
 doxygen 1.9.2-1
 drkonqi 5.23.4-1
 dtc 1.6.1-1
@@ -264,7 +264,7 @@ elisa 21.08.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.152302-1
+emacs-git 29.0.50.152393-1
 embree 3.13.2-1
 enca 1.19-4
 enchant 2.3.1-2
@@ -332,7 +332,7 @@ freecell-solver 6.6.0-1
 freeglut 3.2.1-2
 freeimage 3.18.0-12
 freerdp 2:2.4.1-2
-freetype2 2.11.0-4
+freetype2 2.11.1-1
 frei0r-plugins 1.7.0-1
 fribidi 1.0.11-1
 frpc 0.38.0-1
@@ -372,9 +372,9 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.28-1
 git 2.34.1-1
-git-delta-git 0.10.3.20211203-1
+git-delta-git 0.11.0.20211206-1
 git-lfs 3.0.2-1
-github-cli 2.2.0-1
+github-cli 2.3.0-1
 gl2ps 1.4.2-2
 glew 2.2.0-2
 glew1.10 1.10.0-3
@@ -431,6 +431,7 @@ groovy 3.0.9-1
 grpc 1.42.0-1
 grpc-cli 1.42.0-1
 grub 2:2.06-2
+grub-btrfs 4.10.2-1
 grub-customizer 5.1.0-3
 gsettings-desktop-schemas 41.0-1
 gsfonts 20200910-2
@@ -496,7 +497,7 @@ icoutils 0.32.3-3
 icu 70.1-1
 id3lib 3.8.3-18
 ijs 0.35-3
-imagemagick 7.1.0.16-1
+imagemagick 7.1.0.17-1
 imath 3.1.3-1
 imlib2 1.7.4-1
 incidenceeditor 21.08.3-1
@@ -819,7 +820,7 @@ lib32-flac 1.3.3-1
 lib32-fluidsynth 2.2.4-1
 lib32-fontconfig 2:2.13.94-1
 lib32-freeglut 3.2.1-1
-lib32-freetype2 2.11.0-3
+lib32-freetype2 2.11.1-1
 lib32-fribidi 1.0.11-1
 lib32-gcc-libs 11.1.0-1
 lib32-gdk-pixbuf2 2.42.6-2
@@ -962,7 +963,7 @@ lib32-opus 1.3.1-1
 lib32-orc 0.4.32-1
 lib32-p11-kit 0.24.0-2
 lib32-pam 1.5.2-1
-lib32-pango 1:1.50.0-1
+lib32-pango 1:1.50.0-2
 lib32-pcre 8.44-1
 lib32-pipewire 1:0.3.40-1
 lib32-pipewire-jack 1:0.3.40-1
@@ -1033,7 +1034,7 @@ libcolord 1.4.5-4
 libconfig 1.7.3-1
 libcroco 0.6.13-2
 libcue 2.2.1-2
-libcups 1:2.3.3op2-4
+libcups 1:2.4.0-4
 libcurl-compat 7.80.0-1
 libcurl-gnutls 7.80.0-1
 libdaemon 0.14-5
@@ -1083,6 +1084,7 @@ libgig 4.3.0-3
 libgit2 1:1.3.0-1
 libglvnd 1.3.4-1
 libgme 0.6.3-1
+libgnomekbd 3.26.1+2+g8d02ebd-2
 libgpg-error 1.43-1
 libgphoto2 2.5.27-1
 libgravatar 21.08.3-1
@@ -1331,7 +1333,7 @@ libxkbcommon-x11 1.3.1-1
 libxkbfile 1.1.0-2
 libxklavier 5.4-3
 libxml2 2.9.12-3
-libxmlb 0.3.4-1
+libxmlb 0.3.5-1
 libxmu 1.1.3-2
 libxnvctrl 495.44-1
 libxpm 3.5.13-2
@@ -1536,7 +1538,7 @@ ninja 1.10.2-1
 nm-connection-editor 1.24.0-1
 nmap 7.92-1
 node-gyp 8.2.0-1
-nodejs 17.1.0-2
+nodejs 17.1.0-3
 nodejs-nopt 5.0.0-2
 nodemcu-pyflasher 5.0.0-1
 noto-fonts 20201226-2
@@ -1608,10 +1610,10 @@ pacmanlogviewer 1.4.3-1
 palapeli 21.08.3-1
 pam 1.5.2-1
 pambase 20211111-1
-pango 1:1.50.0-1
-pangomm 2.46.1-2
+pango 1:1.50.0-2
+pangomm 2.46.2-1
 paper 2.3-2
-papirus-icon-theme 20211101-1
+papirus-icon-theme 20211201-1
 parley 21.08.3-1
 parted 3.4-2
 partitionmanager 21.08.3-1
@@ -1823,7 +1825,7 @@ python-pytz 2021.3-2
 python-pyxdg 0.27-2
 python-pyzmq 22.2.1-1
 python-qrcode 7.3-5
-python-qtconsole 5.1.1-1
+python-qtconsole 5.2.1-1
 python-qtpy 1.11.2-1
 python-reedsolo 1.5.4-1
 python-requests 2.26.0-2
@@ -1915,7 +1917,7 @@ qqc2-desktop-style 5.88.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
 qt5-3d 5.15.2+kde+r39-1
-qt5-base 5.15.2+kde+r260-1
+qt5-base 5.15.2+kde+r262-1
 qt5-charts 5.15.2-1
 qt5-datavis3d 5.15.2-1
 qt5-declarative 5.15.2+kde+r41-1
@@ -1979,7 +1981,7 @@ ripgrep 13.0.0-2
 rnnoise 0.4.1-1
 rocs 21.08.3-1
 rofi 1.7.2-1
-rpcbind 1.2.6-1
+rpcbind 1.2.6-2
 rsync 3.2.3-4
 rtaudio 5.2.0-1
 rtkit 0.13-1
@@ -2047,6 +2049,7 @@ slang 2.3.2-2
 smartmontools 7.2-1
 smbclient 4.15.2-3
 smpeg 0.4.5-5
+snapper 0.9.1-1
 snappy 1.1.9-2
 sndio 1.8.1-1
 snes9x-gtk 1.60-8
@@ -2131,6 +2134,7 @@ thefuck 3.31-1
 thin-provisioning-tools 0.9.0-1
 threadweaver 5.88.0-1
 tigervnc 1.12.0-1
+timeshift 21.09.1-3
 tinyxml 2.6.2-8
 tk 8.6.12-1
 tldr 2.0.0-1
@@ -2158,7 +2162,7 @@ ttf-monaco 6.1-6
 ttf-ms-fonts 2.0-12
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-4
 ttf-opensans 1.101-2
-ttf-sarasa-gothic 0.35.1-1
+ttf-sarasa-gothic 0.35.2-1
 ttf-symbola 13.00-10
 ttf-ubuntu-font-family 0.83-7
 ttf-unifont 14.0.01-1
@@ -2187,7 +2191,7 @@ util-linux-libs 2.37.2-1
 utools 2.4.1-1
 v2ray 4.43.0-1
 v2ray-domain-list-community 20211203092402-1
-v2ray-geoip 202111250029-1
+v2ray-geoip 202112020029-1
 v2raya 1.5.4-1
 v4l-utils 1.22.1-1
 v4l2loopback-dkms 0.12.5-2
@@ -2211,8 +2215,8 @@ vkd3d 1.2-1
 vlc 3.0.16-4
 vmaf 1.5.3-1
 volume_key 0.3.12-5
-vte-common 0.66.1-2
-vte3 0.66.1-2
+vte-common 0.66.2-1
+vte3 0.66.2-1
 vtk 9.1.0-2
 vulkan-headers 1:1.2.200-1
 vulkan-icd-loader 1.2.199-2
@@ -2252,6 +2256,7 @@ x264 3:0.163.r3060.5db6aa6-1
 x265 3.5-1
 x86_energy_perf_policy 5.15-1
 xapian-core 1:1.4.18-1
+xapp 2.2.4-1
 xaw3d 1.6.3-2
 xboxdrv-git 0.8.4.r453.gf8ef7e0-2
 xcb-imdkit 1.0.3-1
@@ -2350,7 +2355,7 @@ xorgproto 2021.5-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.0-1
 xray-domain-list-community 20211203092402-1
-xray-geoip 202112020029-1
+xray-geoip 202112060252-1
 xsel 1.2.0.20190821-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
 xvidcore 1.3.7-2

@@ -431,6 +431,7 @@ groovy
 grpc
 grpc-cli
 grub
+grub-btrfs
 grub-customizer
 gsettings-desktop-schemas
 gsfonts
@@ -1083,6 +1084,7 @@ libgig
 libgit2
 libglvnd
 libgme
+libgnomekbd
 libgpg-error
 libgphoto2
 libgravatar
@@ -2047,6 +2049,7 @@ slang
 smartmontools
 smbclient
 smpeg
+snapper
 snappy
 sndio
 snes9x-gtk
@@ -2131,6 +2134,7 @@ thefuck
 thin-provisioning-tools
 threadweaver
 tigervnc
+timeshift
 tinyxml
 tk
 tldr
@@ -2252,6 +2256,7 @@ x264
 x265
 x86_energy_perf_policy
 xapian-core
+xapp
 xaw3d
 xboxdrv-git
 xcb-imdkit
