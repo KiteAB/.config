@@ -372,14 +372,14 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.28-1
 git 2.34.1-1
-git-delta-git 0.11.0.20211206-1
+git-delta-git 0.11.1.20211206-2
 git-lfs 3.0.2-1
 github-cli 2.3.0-1
 gl2ps 1.4.2-2
 glew 2.2.0-2
 glew1.10 1.10.0-3
 glfw-wayland 3.3.5-1
-glib-networking 1:2.70.0-1
+glib-networking 1:2.70.1-1
 glib2 2.70.1-1
 glib2-docs 2.70.1-1
 glibc 2.33-5
@@ -404,7 +404,7 @@ go 2:1.17.4-1
 gobject-introspection 1.70.0-2
 gobject-introspection-runtime 1.70.0-2
 godot 3.4-1
-google-chrome 96.0.4664.45-1
+google-chrome 96.0.4664.93-1
 google-glog 0.5.0-2
 gopls 0.7.3-1
 goverlay 0.7.0-2
@@ -424,7 +424,7 @@ grantleetheme 21.08.3-1
 graphene 1.10.6-1
 graphicsmagick 1.3.36-3
 graphite 1:1.3.14-1
-graphviz 2.49.3-1
+graphviz 2.50.0-1
 grep 3.7-1
 groff 1.22.4-6
 groovy 3.0.9-1
@@ -463,7 +463,7 @@ gtop 1.1.2-1
 gts 0.7.6.121130-2
 guile 2.2.7-2
 gumbo-parser 0.10.1-2
-gupnp 1:1.4.0-1
+gupnp 1:1.4.1-1
 gupnp-dlna 0.12.0-1
 gupnp-igd 1.2.0-2
 gv 3.7.4-5
@@ -508,7 +508,7 @@ intltool 0.51.0-6
 iproute2 5.15.0-1
 iptables-nft 1:1.8.7-1
 iputils 20210722-1
-ipython 7.30.0-1
+ipython 7.30.1-1
 iso-codes 4.8.0-1
 itinerary 21.08.3-1
 itstool 1:2.0.7-1
@@ -853,7 +853,7 @@ lib32-libasyncns 0.8+3+g68cd5af-2
 lib32-libcaca 0.99.beta19-5
 lib32-libcanberra 0.30+2+gc0620e4-5
 lib32-libcap 2.61-1
-lib32-libcups 2.3.3-1
+lib32-libcups 2.4.0-1
 lib32-libcurl-compat 7.80.0-1
 lib32-libcurl-gnutls 7.80.0-1
 lib32-libdatrie 0.2.13-1
@@ -1420,7 +1420,7 @@ mbox-importer 21.08.3-1
 md4c 0.4.8-1
 mdadm 4.1-2
 media-player-info 24-2
-mercurial 5.9.3-1
+mercurial 6.0-1
 mesa 21.2.5-1
 mesa-demos 8.4.0-6
 mesa-utils 8.4.0-6
@@ -1625,7 +1625,7 @@ pavucontrol 1:5.0-1
 pciutils 3.7.0-1
 pcre 8.45-1
 pcre2 10.39-1
-pcsclite 1.9.4-1
+pcsclite 1.9.5-1
 perf 5.15-1
 perl 5.34.0-2
 perl-clone 0.45-3
@@ -1809,7 +1809,7 @@ python-prompt_toolkit 3.0.22-1
 python-psutil 5.8.0-1
 python-ptyprocess 0.7.0-2
 python-pyaes 1.6.1-7
-python-pyalsa 1.1.6-6
+python-pyalsa 1.2.6-1
 python-pycparser 2.21-1
 python-pygments 2.10.0-1
 python-pyhamcrest 1.10.1-1
@@ -2006,7 +2006,7 @@ ruby-term-ansicolor 1.7.1-2
 ruby-tins 1.26.0-2
 rubygems 3.2.29-1
 run-parts 5.5-1
-runc 1.0.2-2
+runc 1.0.3-1
 rustdesk-bin 1.1.8-2
 rustup 1.24.3-2
 samba 4.15.2-3
@@ -2354,12 +2354,12 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.5-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.0-1
-xray-domain-list-community 20211203092402-1
-xray-geoip 202112060252-1
+xray-domain-list-community 20211207031256-1
+xray-geoip 202112061314-1
 xsel 1.2.0.20190821-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
 xvidcore 1.3.7-2
-xxhash 0.8.0-1
+xxhash 0.8.1-1
 xz 5.2.5-2
 yajl 2.1.0-4
 yakuake 21.08.3-1
