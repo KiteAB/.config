@@ -643,6 +643,7 @@ kgoldrunner
 kgpg
 kguiaddons
 khangman
+khealthcertificate
 khelpcenter
 kholidays
 khotkeys
