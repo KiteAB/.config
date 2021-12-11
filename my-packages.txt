@@ -31,13 +31,13 @@ alacritty 0.9.0-2
 alembic 1.8.3-2
 alsa-card-profiles 1:0.3.40-1
 alsa-firmware 1.2.4-2
-alsa-lib 1.2.5.1-3
+alsa-lib 1.2.6.1-1
 alsa-oss 1.1.8-3
-alsa-plugins 1:1.2.5-2
+alsa-plugins 1:1.2.6-1
 alsa-tools 1.2.5-1
 alsa-topology-conf 1.2.5.1-1
-alsa-ucm-conf 1.2.5.1-1
-alsa-utils 1.2.5.1-1
+alsa-ucm-conf 1.2.6.2-2
+alsa-utils 1.2.6-1
 amd-ucode 20211027.1d00989-1
 amdvlk 2021.Q4.2-1
 amtk 5.3.1-1
@@ -151,7 +151,7 @@ cabextract 1.9.1-2
 cairo 1.17.4-5
 cairomm 1.14.3-2
 calendarsupport 21.12.0-1
-cantarell-fonts 1:0.303-1
+cantarell-fonts 1:0.303.1-1
 cantor 21.12.0-1
 capnproto 0.9.1-1
 catimg 2.7.0-1
@@ -214,7 +214,7 @@ desktop-file-utils 0.26-1
 device-mapper 2.03.14-2
 devtools 20210202-3
 dhcp 4.4.2.P1-2
-dhcpcd 9.4.0-1
+dhcpcd 9.4.1-1
 diffutils 3.8-1
 discord 0.0.16-1
 discount 2.2.7-1
@@ -251,7 +251,7 @@ eclipse-ecj 4.6.3-2
 eclipse-emf 2.19-2
 eclipse-platform 4.21-1
 editorconfig-core-c 0.12.5-1
-edk2-ovmf 202108-1
+edk2-ovmf 202111-4
 efibootmgr 17-2
 efivar 37-4
 egl-wayland 2:1.1.9+r3+g582b2d3-1
@@ -264,7 +264,7 @@ elisa 21.12.0-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.152393-1
+emacs-git 29.0.50.152543-1
 embree 3.13.2-2
 enca 1.19-4
 enchant 2.3.1-2
@@ -310,7 +310,7 @@ file 5.41-1
 filebrowser-bin 2.19.0-1
 filelight 21.12.0-1
 filesystem 2021.12.07-1
-filezilla 3.56.2-2
+filezilla 3.57.0-1
 findutils 4.8.0-1
 fingerprint-gui 1.09-7
 firefox-appmenu 94.0.2-5
@@ -403,7 +403,7 @@ gnutls 3.7.2-2
 go 2:1.17.5-1
 gobject-introspection 1.70.0-2
 gobject-introspection-runtime 1.70.0-2
-godot 3.4-1
+godot 3.4-3
 google-chrome 96.0.4664.93-1
 google-glog 0.5.0-2
 gopls 0.7.3-1
@@ -480,7 +480,7 @@ help2man 1.48.5-1
 hicolor-icon-theme 0.17-2
 hidapi 0.11.0-1
 hiredis 1.0.2-1
-hmcl-bin 3.4.210-1
+hmcl-bin 3.4.211-1
 htop 3.1.2-1
 http-parser 2.9.4-1
 hugo 0.89.4-1
@@ -785,7 +785,7 @@ l-smash 2.14.5-2
 ladspa 1.17-1
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.10.4.r5689.434f3b16-1
+latte-dock-git 0.10.4.r5758.7258920d-1
 layer-shell-qt 5.23.4-1
 lazarus 2.0.12-3
 lazydocker 0.12-1
@@ -798,9 +798,9 @@ leveldb 1.23-3
 lf 26-1
 lib2geom 1.1-1
 lib32-acl 2.3.1-1
-lib32-alsa-lib 1.2.5.1-1
-lib32-alsa-plugins 1.2.5-1
-lib32-amdvlk 2021.Q4.1-1
+lib32-alsa-lib 1.2.6.1-1
+lib32-alsa-plugins 1.2.6-1
+lib32-amdvlk 2021.Q4.2-1
 lib32-at-spi2-atk 2.38.0-1
 lib32-at-spi2-core 2.42.0-1
 lib32-atk 2.36.0-2
@@ -1712,7 +1712,7 @@ psutils 2.05-1
 ptex 2.4.1-2
 pugixml 1.11.4-1
 pulseaudio 15.0-1
-pulseaudio-alsa 1:1.2.5-2
+pulseaudio-alsa 1:1.2.6-1
 pulseaudio-bluetooth 15.0-1
 pulseaudio-equalizer 15.0-1
 pulseaudio-equalizer-ladspa 3.0.2-4
@@ -2076,7 +2076,7 @@ sratom 0.6.8-3
 srt 1.4.4-1
 sshfs 3.7.2-2
 startup-notification 0.12-7
-steam 1.0.0.73-1
+steam 1.0.0.74-1
 steam-native-runtime 1.0.0.70-2
 step 21.12.0-1
 stk 4.6.2-1
