@@ -388,6 +388,7 @@ glm
 glslang
 glu
 glusterfs
+gmic
 gmp
 gn-m85
 gnome-autoar
@@ -659,6 +660,7 @@ kig
 kigo
 killbots
 kimageannotator
+kimageformats
 kimagemapeditor
 kimap
 kindd
@@ -737,12 +739,15 @@ krb5
 krdc
 kreversi
 krfb
+krita
+krita-plugin-gmic
 kross
 kross-interpreters
 kruler
 krunner
 kscreen
 kscreenlocker
+kseexpr
 kservice
 kshisen
 ksirk
