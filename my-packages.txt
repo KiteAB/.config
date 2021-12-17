@@ -29,7 +29,7 @@ akonadiconsole 21.12.0-1
 akregator 21.12.0-1
 alacritty 0.9.0-3
 alembic 1.8.3-2
-alsa-card-profiles 1:0.3.41-1
+alsa-card-profiles 1:0.3.42-1
 alsa-firmware 1.2.4-2
 alsa-lib 1.2.6.1-1
 alsa-oss 1.1.8-3
@@ -145,7 +145,7 @@ bullet 3.21-2
 bzip2 1.0.8-4
 c-ares 1.18.1-1
 ca-certificates 20210603-1
-ca-certificates-mozilla 3.73-1
+ca-certificates-mozilla 3.73.1-1
 ca-certificates-utils 20210603-1
 cabextract 1.9.1-2
 cairo 1.17.4-5
@@ -172,7 +172,7 @@ clucene 2.3.3.4-11
 clutter 1.26.4-1
 clutter-gst 3.0.27-3
 clutter-gtk 1.8.4-2
-cmake 3.22.1-1
+cmake 3.22.1-2
 cmatrix 2.0-2
 code-server 3.12.0-0
 cogl 1.22.8-1
@@ -492,7 +492,7 @@ hwloc 2.5.0-1
 hyphen 2.8.8-3
 i2c-tools 4.3-3
 i3lock-color-git r774.a318ff3-1
-iana-etc 20211025-1
+iana-etc 20211203-1
 ibam 0.5.2-9
 icoutils 0.32.3-3
 icu 70.1-1
@@ -790,7 +790,7 @@ l-smash 2.14.5-2
 ladspa 1.17-1
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.10.4.r5777.a033a200-1
+latte-dock-git 0.10.5.r5778.055e92b0-1
 layer-shell-qt 5.23.4-1
 lazarus 2.0.12-3
 lazydocker 0.12-1
@@ -958,7 +958,7 @@ lib32-mpg123 1.29.3-1
 lib32-ncurses 6.3-1
 lib32-nettle 3.7.3-1
 lib32-nspr 4.32-1
-lib32-nss 3.73-1
+lib32-nss 3.73.1-1
 lib32-ocl-icd 2.3.0-1
 lib32-openal 1.21.1-2
 lib32-opencl-mesa 21.3.1-1
@@ -969,10 +969,10 @@ lib32-opus 1.3.1-1
 lib32-orc 0.4.32-1
 lib32-p11-kit 0.24.0-2
 lib32-pam 1.5.2-1
-lib32-pango 1:1.50.1-1
+lib32-pango 1:1.50.2-1
 lib32-pcre 8.44-1
-lib32-pipewire 1:0.3.41-1
-lib32-pipewire-jack 1:0.3.41-1
+lib32-pipewire 1:0.3.42-1
+lib32-pipewire-jack 1:0.3.42-1
 lib32-pixman 0.40.0-1
 lib32-polkit 0.120-3
 lib32-portaudio 1:19.7.0-1
@@ -1017,7 +1017,7 @@ libavif 0.9.3-1
 libavtp 0.1.0-2
 libblockdev 2.26-3
 libbluray 1.3.0-1
-libbpf 0.5.0-1
+libbpf 0.6.0-1
 libbs2b 3.1.0-7
 libbsd 0.11.3-1
 libburn 1.5.4-1
@@ -1552,10 +1552,10 @@ noto-fonts-cjk 20211026-1
 noto-fonts-emoji 20211101-1
 noto-fonts-emoji-blob 1:14.0.1-1
 noto-fonts-extra 20201226-2
-npm 8.1.4-1
+npm 8.2.0-1
 npth 1.6-3
 nspr 4.32-1
-nss 3.73-1
+nss 3.73.1-1
 ntfs-3g 2021.8.22-1
 numactl 2.0.14-1
 nvidia-lts 1:495.46-2
@@ -1581,7 +1581,7 @@ opencl-headers 2:2021.04.29-1
 opencl-mesa 21.3.1-1
 opencl-nvidia 495.46-1
 opencollada 1:1.6.68-2
-opencolorio 2.1.0-4
+opencolorio 2.1.1-1
 opencolorio1 1.1.1-3
 opencore-amr 0.1.5-5
 opencv 4.5.4-10
@@ -1597,7 +1597,7 @@ openssh 8.8p1-1
 openssl 1.1.1.l-1
 openssl-1.0 1.0.2.u-1
 opensubdiv 3.4.4-8
-openvdb 9.0.0-7
+openvdb 9.0.0-8
 openxr 1.0.20-1
 opus 1.3.1-2
 opusfile 0.12-1
@@ -1616,7 +1616,7 @@ pacmanlogviewer 1.4.3-1
 palapeli 21.12.0-1
 pam 1.5.2-1
 pambase 20211210-1
-pango 1:1.50.1-1
+pango 1:1.50.2-1
 pangomm 2.46.2-1
 paper 2.3-2
 papirus-icon-theme 20211201-1
@@ -1669,8 +1669,8 @@ pim-data-exporter 21.12.0-1
 pim-sieve-editor 21.12.0-1
 pimcommon 21.12.0-1
 pinentry 1.2.0-1
-pipewire 1:0.3.41-1
-pipewire-jack 1:0.3.41-1
+pipewire 1:0.3.42-1
+pipewire-jack 1:0.3.42-1
 pipewire-media-session 1:0.4.1-1
 pixman 0.40.0-1
 pkgconf 1.8.0-1
@@ -1793,7 +1793,7 @@ python-markdown 3.3.6-3
 python-markupsafe 2.0.1-3
 python-matplotlib-inline 0.1.3-3
 python-more-itertools 8.10.0-4
-python-msgpack 1.0.2-4
+python-msgpack 1.0.3-1
 python-nautilus 1.2.3-7
 python-nest-asyncio 1.5.4-2
 python-numpy 1.21.4-1
@@ -2201,7 +2201,7 @@ v2ray-geoip 202112090029-1
 v2raya 1.5.5-1
 v4l-utils 1.22.1-1
 v4l2loopback-dkms 0.12.5-2
-vala 0.54.4-1
+vala 0.54.5-1
 vamp-plugin-sdk 2.10.0-1
 vde2 2.3.2-18
 vdpauinfo 1.4-1
@@ -2216,7 +2216,7 @@ virt-manager 3.2.0-4
 virtio-win 0.1.208.1-5
 virtualbox 6.1.30-3
 virtualbox-host-dkms 6.1.30-3
-visual-studio-code-bin 1.63.1-1
+visual-studio-code-bin 1.63.2-1
 vkd3d 1.2-1
 vlc 3.0.16-4
 vmaf 1.5.3-1
@@ -2360,7 +2360,7 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.5-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.1-1
-xray-domain-list-community 20211216034252-1
+xray-domain-list-community 20211216170356-1
 xray-geoip 202112160030-1
 xsel 1.2.0.20190821-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
