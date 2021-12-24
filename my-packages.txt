@@ -172,7 +172,7 @@ clucene 2.3.3.4-11
 clutter 1.26.4-1
 clutter-gst 3.0.27-3
 clutter-gtk 1.8.4-2
-cmake 3.22.1-4
+cmake 3.22.1-5
 cmatrix 2.0-2
 code-server 3.12.0-0
 cogl 1.22.8-1
@@ -285,7 +285,7 @@ faad2 2.10.0-1
 fail2ban 0.11.2-3
 fakeroot 1.26-1
 farstream 0.2.9-3
-faudio 21.11-1
+faudio 21.12-1
 fcitx5 5.0.11-1
 fcitx5-anthy 5.0.8-1
 fcitx5-breeze 1.0.0-1
@@ -388,7 +388,7 @@ glm 0.9.9.8-1
 glslang 11.7.1-2
 glu 9.0.2-1
 glusterfs 1:10.0-3
-gmic 3.0.0-1
+gmic 3.0.0-2
 gmp 6.2.1-1
 gn-m85 0.1792.7d7e8dee-1
 gnome-autoar 0.4.1-1
@@ -530,7 +530,7 @@ jbig2dec 0.19-1
 jbigkit 2.1-5
 jdk-openjdk 17.0.1.u12-1
 jdk11-openjdk 11.0.13.u8-1
-jdk8-openjdk 8.u292-1
+jdk8-openjdk 8.u312-2
 jemalloc 1:5.2.1-5
 jfsutils 1.1.15-7
 jq 1.6-4
@@ -538,8 +538,8 @@ jre-openjdk 17.0.1.u12-1
 jre-openjdk-headless 17.0.1.u12-1
 jre11-openjdk 11.0.13.u8-1
 jre11-openjdk-headless 11.0.13.u8-1
-jre8-openjdk 8.u292-1
-jre8-openjdk-headless 8.u292-1
+jre8-openjdk 8.u312-2
+jre8-openjdk-headless 8.u312-2
 js78 78.15.0-1
 json-c 0.15-2
 json-glib 1.6.6-1
@@ -739,7 +739,7 @@ krb5 1.19.2-2
 krdc 21.12.0-1
 kreversi 21.12.0-1
 krfb 21.12.0-1
-krita 5.0.0-1
+krita 5.0.0-2
 krita-plugin-gmic 3.0.0-1
 kross 5.89.0-1
 kross-interpreters 21.08.3-1
@@ -821,7 +821,7 @@ lib32-dbus-glib 0.112-1
 lib32-dconf 0.40.0-1
 lib32-e2fsprogs 1.46.4-1
 lib32-expat 2.4.1-1
-lib32-faudio 21.11-1
+lib32-faudio 21.12-1
 lib32-flac 1.3.3-1
 lib32-fluidsynth 2.2.4-1
 lib32-fontconfig 2:2.13.94-1
@@ -833,7 +833,7 @@ lib32-gdk-pixbuf2 2.42.6-2
 lib32-gettext 0.21-1
 lib32-giflib 5.2.1-1
 lib32-glew1.10 1.10.0-4
-lib32-glib-networking 2.70.0-1
+lib32-glib-networking 2.70.1-1
 lib32-glib2 2.70.2-1
 lib32-glibc 2.33-5
 lib32-glu 9.0.2-1
@@ -907,7 +907,7 @@ lib32-libsndfile 1.0.31-1
 lib32-libsoup 2.74.2-1
 lib32-libssh2 1.10.0-1
 lib32-libtasn1 4.18.0-1
-lib32-libthai 0.1.28-1
+lib32-libthai 0.1.29-1
 lib32-libtheora 1.1.1-12
 lib32-libtiff 4.3.0-1
 lib32-libtiff4 3.9.7-4
@@ -970,7 +970,7 @@ lib32-orc 0.4.32-1
 lib32-p11-kit 0.24.0-2
 lib32-pam 1.5.2-1
 lib32-pango 1:1.50.3-1
-lib32-pcre 8.44-1
+lib32-pcre 8.45-1
 lib32-pipewire 1:0.3.42-2
 lib32-pipewire-jack 1:0.3.42-2
 lib32-pixman 0.40.0-1
@@ -1944,10 +1944,10 @@ qt5-svg 5.15.2+kde+r13-1
 qt5-tools 5.15.2+kde+r17-4
 qt5-translations 5.15.2+kde+r20-2
 qt5-wayland 5.15.2+kde+r38-1
-qt5-webchannel 5.15.2-1
+qt5-webchannel 5.15.2+kde+r5-1
 qt5-webengine 5.15.7-2
 qt5-webkit 5.212.0alpha4-11
-qt5-websockets 5.15.2+kde+r4-1
+qt5-websockets 5.15.2+kde+r7-1
 qt5-x11extras 5.15.2-1
 qt5-xmlpatterns 5.15.2-1
 qt5pas 2.6.r65219-1
@@ -2361,14 +2361,14 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.5-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.1-1
-xray-domain-list-community 20211218145115-1
+xray-domain-list-community 20211224023657-1
 xray-geoip 202112230031-1
 xsel 1.2.0.20190821-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
 xvidcore 1.3.7-2
 xxhash 0.8.1-1
 xz 5.2.5-2
-yajl 2.1.0-4
+yajl 2.1.0-5
 yakuake 21.12.0-1
 yaml-cpp 0.7.0-2
 yaourt 1.9-1
