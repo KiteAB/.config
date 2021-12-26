@@ -1222,6 +1222,7 @@ libplist
 libpng
 libpng12
 libportal
+libportal-gtk3
 libproxy
 libpsl
 libpulse
@@ -1841,6 +1842,7 @@ python-setuptools
 python-sexpdata
 python-sgmllib3k
 python-shiboken2
+python-shtab
 python-sip4
 python-six
 python-snowballstemmer
