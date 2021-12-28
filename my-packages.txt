@@ -39,7 +39,7 @@ alsa-topology-conf 1.2.5.1-1
 alsa-ucm-conf 1.2.6.3-1
 alsa-utils 1.2.6-1
 amd-ucode 20211027.1d00989-1
-amdvlk 2021.Q4.2-1
+amdvlk 2021.Q4.3-1
 amtk 5.3.1-1
 analitza 21.12.0-1
 android-tools 31.0.3-2
@@ -190,7 +190,7 @@ cpio 2.13-2
 cpupower 5.15-2
 crda 4.14-4
 cronie 1.5.7-2
-cryptsetup 2.4.2-1
+cryptsetup 2.4.2-3
 ctags 1:5.9.20210905.0-1
 cups 1:2.4.0-4
 cups-filters 1.28.10-2
@@ -213,7 +213,7 @@ deepin-wine5-i386 5.0.16-1
 desktop-file-utils 0.26-1
 device-mapper 2.03.14-2
 devtools 20211129-1
-dhcp 4.4.2.P1-2
+dhcp 4.4.2.P1-4
 dhcpcd 9.4.1-1
 diffutils 3.8-1
 discord 0.0.16-1
@@ -277,7 +277,7 @@ exa 0.10.1-4
 exempi 2.5.2-1
 exfatprogs 1.1.3-1
 exiv2 0.27.5-1
-expat 2.4.1-1
+expat 2.4.2-1
 extra-cmake-modules 5.89.0-1
 f2fs-tools 1.14.0-3
 faac 1.30-2
@@ -404,7 +404,7 @@ gnutls 3.7.2-2
 go 2:1.17.5-1
 gobject-introspection 1.70.0-4
 gobject-introspection-runtime 1.70.0-4
-godot 3.4.1-1
+godot 3.4.2-1
 google-chrome 96.0.4664.110-1
 google-glog 0.5.0-2
 gopls 0.7.4-1
@@ -423,7 +423,7 @@ grantlee 5.2.0-3
 grantlee-editor 21.12.0-1
 grantleetheme 21.12.0-1
 graphene 1.10.6-1
-graphicsmagick 1.3.36-3
+graphicsmagick 1.3.37-1
 graphite 1:1.3.14-1
 graphviz 2.50.0-2
 grep 3.7-1
@@ -431,7 +431,7 @@ groff 1.22.4-6
 groovy 3.0.9-1
 grpc 1.43.0-2
 grpc-cli 1.43.0-2
-grub 2:2.06-2
+grub 2:2.06-3
 grub-btrfs 4.11-1
 grub-customizer 5.1.0-3
 gsettings-desktop-schemas 41.0-1
@@ -488,7 +488,7 @@ hugo 0.91.2-1
 hunspell 1.7.0-3
 hwids 20210613-1
 hwinfo 21.80-1
-hwloc 2.5.0-1
+hwloc 2.7.0-1
 hyphen 2.8.8-3
 i2c-tools 4.3-3
 i3lock-color-git r774.a318ff3-1
@@ -502,11 +502,11 @@ imagemagick 7.1.0.19-1
 imath 3.1.3-4
 imlib2 1.7.5-1
 incidenceeditor 21.12.0-1
-iniparser 4.1-3
+iniparser 4.1-4
 inkscape 1.1.1-5
 intellij-idea-community-edition 4:2021.3-1
 intltool 0.51.0-6
-iproute2 5.15.0-1
+iproute2 5.15.0-2
 iptables-nft 1:1.8.7-1
 iputils 20211215-1
 ipython 7.30.1-3
@@ -531,7 +531,7 @@ jbigkit 2.1-6
 jdk-openjdk 17.0.1.u12-1
 jdk11-openjdk 11.0.13.u8-1
 jdk8-openjdk 8.u312-2
-jemalloc 1:5.2.1-5
+jemalloc 1:5.2.1-6
 jfsutils 1.1.15-7
 jq 1.6-4
 jre-openjdk 17.0.1.u12-1
@@ -790,13 +790,13 @@ l-smash 2.14.5-2
 ladspa 1.17-1
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.10.6.r5815.7304025b-1
+latte-dock-git 0.10.6.r5818.5ecb8ab7-1
 layer-shell-qt 5.23.4-1
 lazarus 2.0.12-3
 lazydocker 0.12-1
 lcms2 2.12-1
 ldb 2:2.4.1-4
-ldns 1.7.1-2
+ldns 1.8.1-1
 lensfun 0.3.95-6
 less 1:590-1
 leveldb 1.23-3
@@ -805,7 +805,7 @@ lib2geom 1.1-2
 lib32-acl 2.3.1-1
 lib32-alsa-lib 1.2.6.1-1
 lib32-alsa-plugins 1.2.6-1
-lib32-amdvlk 2021.Q4.2-1
+lib32-amdvlk 2021.Q4.3-1
 lib32-at-spi2-atk 2.38.0-1
 lib32-at-spi2-core 2.42.0-1
 lib32-atk 2.36.0-2
@@ -820,7 +820,7 @@ lib32-dbus 1.12.20-1
 lib32-dbus-glib 0.112-1
 lib32-dconf 0.40.0-1
 lib32-e2fsprogs 1.46.4-1
-lib32-expat 2.4.1-1
+lib32-expat 2.4.2-1
 lib32-faudio 21.12-1
 lib32-flac 1.3.3-1
 lib32-fluidsynth 2.2.4-1
@@ -872,7 +872,7 @@ lib32-libepoxy 1.5.9-1
 lib32-libffi 3.4.2-3
 lib32-libgcrypt 1.9.4-1
 lib32-libgcrypt15 1.5.6-5
-lib32-libglvnd 1.3.4-1
+lib32-libglvnd 1.4.0-1
 lib32-libgpg-error 1.43-1
 lib32-libgudev 237-1
 lib32-libgusb 0.3.8-1
@@ -988,7 +988,7 @@ lib32-sdl_mixer 1.2.12-3
 lib32-sdl_ttf 2.0.11-5
 lib32-smpeg 0.4.5-3
 lib32-sqlite 3.37.0-1
-lib32-systemd 249.7-1
+lib32-systemd 250-1
 lib32-tdb 1.4.5-1
 lib32-util-linux 2.37.2-1
 lib32-v4l-utils 1.22.1-1
@@ -1088,14 +1088,14 @@ libgee 0.20.4-1
 libgexiv2 0.14.0-3
 libgig 4.3.0-3
 libgit2 1:1.3.0-1
-libglvnd 1.3.4-1
+libglvnd 1.4.0-1
 libgme 0.6.3-1
 libgnomekbd 3.26.1+2+g8d02ebd-2
 libgpg-error 1.43-1
 libgphoto2 2.5.27-1
 libgravatar 21.12.0-1
 libgrss 0.7.0+16+g971c421-3
-libgsf 1.14.47-1
+libgsf 1.14.48-1
 libgssglue 0.4-4
 libgtop 2.40.0+2+g31db82ef-2
 libgudev 237-1
@@ -1217,7 +1217,7 @@ libpeas 1.30.0-3
 libpgm 5.3.128-1
 libphonenumber 8.12.39-3
 libpipeline 1.5.4-1
-libplacebo 3.120.3-3
+libplacebo 4.157.0-1
 libplist 2.2.0-5
 libpng 1.6.37-3
 libpng12 1.2.59-2
@@ -1339,7 +1339,7 @@ libxkbcommon 1.3.1-1
 libxkbcommon-x11 1.3.1-1
 libxkbfile 1.1.0-2
 libxklavier 5.4-3
-libxml2 2.9.12-5
+libxml2 2.9.12-6
 libxmlb 0.3.6-1
 libxmu 1.1.3-2
 libxnvctrl 495.46-1
@@ -1461,7 +1461,7 @@ mpfr 4.1.0.p13-1
 mpg123 1.29.3-1
 mplayer 38322-2
 mprime 307b9-2
-mpv 1:0.34.0-3
+mpv 1:0.34.0-4
 msgpack-c 4.0.0-1
 msr-tools 1.3-4
 mtdev 1.1.6-1
@@ -1688,7 +1688,7 @@ plasma-sdk 5.23.4-1
 plasma-systemmonitor 5.23.4-1
 plasma-thunderbolt 5.23.4-1
 plasma-vault 5.23.4-1
-plasma-workspace 5.23.4-2
+plasma-workspace 5.23.4-3
 plasma-workspace-wallpapers 5.23.4-1
 polkit 0.120-3
 polkit-kde-agent 5.23.4-1
@@ -1734,7 +1734,7 @@ pycharm-community-edition 2021.2.3-2
 pyrit 0.5.0-5
 pyside2 5.15.2-5
 pystring 1.1.3.git1-1
-python 3.10.1-1
+python 3.10.1-2
 python-anytree 2.8.0-5
 python-appdirs 1.4.4-6
 python-argcomplete 1.12.3-1
@@ -1797,7 +1797,7 @@ python-more-itertools 8.10.0-4
 python-msgpack 1.0.3-1
 python-nautilus 1.2.3-7
 python-nest-asyncio 1.5.4-2
-python-numpy 1.21.4-1
+python-numpy 1.21.5-1
 python-ordered-set 4.0.2-6
 python-packaging 20.9-7
 python-parso 1:0.8.2-3
@@ -2047,7 +2047,7 @@ semver 7.3.5-2
 serd 0.30.10-1
 serf 1.3.9-5
 sfml 2.5.1-2
-shaderc 2021.2-1
+shaderc 2021.3-1
 shadow 4.8.1-4
 shared-mime-info 2.0+115+gd74a913-1
 signon-kwallet-extension 21.12.0-1
@@ -2101,15 +2101,15 @@ swh-plugins 0.4.17-4
 syndication 5.89.0-1
 syntax-highlighting 5.89.0-1
 sysfsutils 2.1.1-1
-systemd 249.7-2
-systemd-libs 249.7-2
+systemd 250-1
+systemd-libs 250-1
 systemd-swap 4.4.0-2
-systemd-sysvcompat 249.7-2
+systemd-sysvcompat 250-1
 systemsettings 5.23.4-1
 taglib 1.12-1
 talloc 2.3.3-3
 tar 1.34-1
-tbb 2021.4.0-3
+tbb 2021.5.0-1
 tcl 8.6.12-3
 tdb 1.4.5-3
 tdlib 0.5.0-4
@@ -2221,7 +2221,7 @@ virtualbox 6.1.30-3
 virtualbox-host-dkms 6.1.30-3
 visual-studio-code-bin 1.63.2-1
 vkd3d 1.2-1
-vlc 3.0.16-5
+vlc 3.0.16-6
 vmaf 1.5.3-1
 volume_key 0.3.12-7
 vte-common 0.66.2-1
@@ -2363,7 +2363,7 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.5-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.2-1
-xray-domain-list-community 20211224023657-1
+xray-domain-list-community 20211228022859-1
 xray-geoip 202112230031-1
 xsel 1.2.0.20190821-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
