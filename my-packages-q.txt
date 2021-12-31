@@ -1081,6 +1081,7 @@ libfprint-1
 libfreeaptx
 libfreehand
 libftdi
+libgccjit
 libgcrypt
 libgcrypt15
 libgdiplus
