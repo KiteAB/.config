@@ -264,7 +264,7 @@ elisa 21.12.0-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.153261-1
+emacs-git 29.0.50.153279-1
 embree 3.13.2-2
 enca 1.19-4
 enchant 2.3.2-1
@@ -451,11 +451,11 @@ gst-plugins-good 1.18.5-2
 gstreamer 1.18.5-1
 gtest 1.11.0-3
 gtk-doc 1.33.2-1
-gtk-update-icon-cache 1:4.4.1-1
+gtk-update-icon-cache 1:4.6.0-1
 gtk-vnc 1.3.0-1
 gtk2 2.24.33-2
 gtk3 1:3.24.31-1
-gtk4 1:4.4.1-1
+gtk4 1:4.6.0-1
 gtkmm 1:2.24.5-4
 gtkmm3 3.24.5-2
 gtksourceview4 4.8.2-1
@@ -790,7 +790,7 @@ l-smash 2.14.5-2
 ladspa 1.17-1
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.10.6.r5821.ce15e4e5-1
+latte-dock-git 0.10.6.r5823.1a12bce8-1
 layer-shell-qt 5.23.4-1
 lazarus 2.0.12-3
 lazydocker 0.12-1
@@ -805,7 +805,7 @@ lib2geom 1.1-2
 lib32-acl 2.3.1-1
 lib32-alsa-lib 1.2.6.1-1
 lib32-alsa-plugins 1.2.6-1
-lib32-amdvlk 2021.Q4.3-1
+lib32-amdvlk 2021.Q4.3-2
 lib32-at-spi2-atk 2.38.0-1
 lib32-at-spi2-core 2.42.0-1
 lib32-atk 2.36.0-2
@@ -2116,7 +2116,7 @@ tdb 1.4.5-3
 tdlib 0.5.0-4
 teamspeak3 3.5.6-2
 teamspeak3-server 3.13.6-1
-telegram-desktop 3.4.0-1
+telegram-desktop 3.4.1-1
 telepathy-accounts-signon 2.1-2
 telepathy-farstream 0.6.2-7
 telepathy-glib 0.24.2-2
@@ -2390,7 +2390,7 @@ zeromq 4.3.4-2
 zile 2.6.2-1
 zimg 3.0.3-1
 zip 3.0-9
-zita-alsa-pcmi 0.3.2-3
+zita-alsa-pcmi 0.4.0-1
 zita-resampler 1.8.0-1
 zlib 1:1.2.11-5
 zsh 5.8-1
