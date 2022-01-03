@@ -336,6 +336,7 @@ freetype2
 frei0r-plugins
 fribidi
 frpc
+frps
 fstrm
 fuckmemory
 fuse-common
