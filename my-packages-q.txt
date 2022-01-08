@@ -1270,6 +1270,7 @@ libssh2
 libstaroffice
 libstdc++5
 libstemmer
+libsysprof-capture
 libtar
 libtasn1
 libteam

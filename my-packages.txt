@@ -48,15 +48,15 @@ anthy 9100h-6
 aom 3.2.0-1
 apache 2.4.52-1
 appmenu-gtk-module 0.7.6-1
-appstream 0.15.1-1
+appstream 0.15.1-2
 appstream-glib 0.7.18-2
-appstream-qt 0.15.1-1
+appstream-qt 0.15.1-2
 apr 1.7.0-3
 apr-util 1.6.1-9
 arandr 0.1.10-7
 arc-icon-theme 20161122-3
 arch-install-scripts 24-2
-archlinux-appstream-data 20211210-1
+archlinux-appstream-data 20220107-1
 archlinux-keyring 20211028-1
 archlinuxcn-keyring 20211125-1
 arctime 2.4.1-1
@@ -145,7 +145,7 @@ bullet 3.21-2
 bzip2 1.0.8-4
 c-ares 1.18.1-1
 ca-certificates 20210603-1
-ca-certificates-mozilla 3.73.1-1
+ca-certificates-mozilla 3.74-1
 ca-certificates-utils 20210603-1
 cabextract 1.9.1-2
 cairo 1.17.4-5
@@ -181,7 +181,7 @@ com.qq.im.deepin 9.3.2-21
 com.qq.tim.spark 3.3.5.22018spark0-1
 compiler-rt 13.0.0-2
 confuse 3.3-3
-containerd 1.5.8-1
+containerd 1.5.9-1
 convertlit 1.8-10
 coordgen 3.0.0-1
 coreutils 9.0-2
@@ -264,7 +264,7 @@ elisa 21.12.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.153407-1
+emacs-git 29.0.50.153424-1
 embree 3.13.2-2
 enca 1.19-4
 enchant 2.3.2-1
@@ -392,7 +392,7 @@ glusterfs 1:10.0-3
 gmic 3.0.0-3
 gmp 6.2.1-1
 gn-m85 0.1792.7d7e8dee-1
-gnome-autoar 0.4.1-1
+gnome-autoar 0.4.2-1
 gnome-clocks 41.0-1
 gnome-common 3.18.0-4
 gnome-desktop 1:41.2-1
@@ -402,7 +402,7 @@ gnome-video-effects 0.5.0+4+g9554041-2
 gnugo 3.8-7
 gnupg 2.2.32-2
 gnutls 3.7.2-2
-go 2:1.17.5-1
+go 2:1.17.6-1
 gobject-introspection 1.70.0-4
 gobject-introspection-runtime 1.70.0-4
 godot 3.4.2-2
@@ -791,7 +791,7 @@ l-smash 2.14.5-2
 ladspa 1.17-1
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.10.6.r5833.78b124e8-1
+latte-dock-git 0.10.6.r5835.98f39e17-2
 layer-shell-qt 5.23.5-1
 lazarus 2.0.12-3
 lazydocker 0.12-1
@@ -959,7 +959,7 @@ lib32-mpg123 1.29.3-1
 lib32-ncurses 6.3-1
 lib32-nettle 3.7.3-1
 lib32-nspr 4.33-1
-lib32-nss 3.73.1-1
+lib32-nss 3.74-1
 lib32-ocl-icd 2.3.0-1
 lib32-openal 1.21.1-2
 lib32-opencl-mesa 21.3.3-1
@@ -1257,8 +1257,8 @@ libslirp 4.6.1-1
 libsm 1.2.3-2
 libsndfile 1.0.31-1
 libsodium 1.0.18-2
-libsoup 2.74.2-1
-libsoup3 3.0.4-1
+libsoup 2.74.2-2
+libsoup3 3.0.4-2
 libsoxr 0.1.3-2
 libspectre 0.2.9-2
 libspeechd 0.11.0-1
@@ -1270,6 +1270,7 @@ libssh2 1.10.0-1
 libstaroffice 0.0.7-1
 libstdc++5 3.3.6-7
 libstemmer 2.2.0-1
+libsysprof-capture 3.42.1-2
 libtar 1.2.20-6
 libtasn1 4.18.0-1
 libteam 1.31-5
@@ -1559,7 +1560,7 @@ noto-fonts-extra 20201226-2
 npm 8.3.0-1
 npth 1.6-3
 nspr 4.33-1
-nss 3.73.1-1
+nss 3.74-1
 ntfs-3g 2021.8.22-1
 numactl 2.0.14-1
 nvidia-lts 1:495.46-8
@@ -1841,7 +1842,7 @@ python-reedsolo 1.5.4-4
 python-requests 2.26.0-5
 python-resolvelib 0.5.5-4
 python-retrying 1.3.3-13
-python-setuptools 1:57.4.0-6
+python-setuptools 1:59.1.0-1
 python-sexpdata 0.0.3-3
 python-sgmllib3k 1.0.0-4
 python-shiboken2 5.15.2-13
@@ -1957,7 +1958,7 @@ qt5-x11extras 5.15.2-1
 qt5-xmlpatterns 5.15.2-1
 qt5pas 2.6.r65219-1
 qt6-5compat 6.2.2-1
-qt6-base 6.2.2-3
+qt6-base 6.2.2-4
 qt6-declarative 6.2.2-1
 qt6-imageformats 6.2.2-1
 qt6-svg 6.2.2-1
@@ -2205,8 +2206,8 @@ upower 0.99.13-1
 usbmuxd 1.1.1-1
 usbredir 0.12.0-1
 usbutils 014-1
-util-linux 2.37.2-4
-util-linux-libs 2.37.2-4
+util-linux 2.37.2-5
+util-linux-libs 2.37.2-5
 utools 2.5.2-1
 v2ray 4.44.0-1
 v2ray-domain-list-community 20211228022859-1
