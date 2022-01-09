@@ -42,7 +42,7 @@ amd-ucode 20211027.1d00989-1
 amdvlk 2021.Q4.3-2
 amtk 5.3.1-1
 analitza 21.12.1-1
-android-tools 31.0.3-2
+android-tools 31.0.3-3
 android-udev 20220102-1
 anthy 9100h-6
 aom 3.2.0-1
@@ -122,8 +122,8 @@ blender 17:3.0.0-4
 blinken 21.12.1-1
 blosc 1.21.1-2
 bluedevil 1:5.23.5-1
-bluez 5.62-1
-bluez-libs 5.62-1
+bluez 5.63-1
+bluez-libs 5.63-1
 bluez-qt 5.89.0-1
 boinc 7.16.20-1
 bolt 0.9.1-1
@@ -264,7 +264,7 @@ elisa 21.12.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.153424-1
+emacs-git 29.0.50.153444-1
 embree 3.13.2-2
 enca 1.19-4
 enchant 2.3.2-1
@@ -465,7 +465,7 @@ gtop 1.1.2-1
 gts 0.7.6.121130-2
 guile 2.2.7-2
 gumbo-parser 0.10.1-2
-gupnp 1:1.4.1-1
+gupnp 1:1.4.2-1
 gupnp-dlna 0.12.0-1
 gupnp-igd 1.2.0-2
 gv 3.7.4-5
@@ -504,7 +504,7 @@ imath 3.1.3-4
 imlib2 1.7.5-1
 incidenceeditor 21.12.1-1
 iniparser 4.1-4
-inkscape 1.1.1-5
+inkscape 1.1.1-6
 intellij-idea-community-edition 4:2021.3.1-1
 intltool 0.51.0-6
 iproute2 5.15.0-2
@@ -678,7 +678,7 @@ kiriki 21.12.1-1
 kitemmodels 5.89.0-1
 kitemviews 5.89.0-1
 kiten 21.12.1-1
-kitinerary 21.12.1-1
+kitinerary 21.12.1-2
 kjobwidgets 5.89.0-1
 kjs 5.89.0-1
 kjumpingcube 21.12.1-1
@@ -791,7 +791,7 @@ l-smash 2.14.5-2
 ladspa 1.17-1
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.10.6.r5835.98f39e17-2
+latte-dock-git 0.10.6.r5839.aa57d215-1
 layer-shell-qt 5.23.5-1
 lazarus 2.0.12-3
 lazydocker 0.12-1
@@ -1240,7 +1240,7 @@ libqxp 0.0.2-7
 libraqm 0.8.0-1
 libraw 0.20.2-1
 libraw1394 2.1.2-3
-libreoffice-fresh 7.2.5-1
+libreoffice-fresh 7.2.5-4
 librevenge 0.0.4-3
 librime 1:1.7.3-7
 librime-data 0.0.0.20210627-1
@@ -1261,7 +1261,7 @@ libsoup 2.74.2-2
 libsoup3 3.0.4-2
 libsoxr 0.1.3-2
 libspectre 0.2.9-2
-libspeechd 0.11.0-1
+libspeechd 0.11.1-1
 libspiro 1:20200505-2
 libspnav 0.2.3-3
 libsrtp 1:2.4.2-1
@@ -1431,7 +1431,7 @@ mbox-importer 21.12.1-1
 md4c 0.4.8-1
 mdadm 4.1-2
 media-player-info 24-2
-mercurial 6.0-3
+mercurial 6.0.1-1
 mesa 21.3.3-2
 mesa-demos 8.4.0-6
 mesa-utils 8.4.0-6
@@ -1698,10 +1698,10 @@ polkit 0.120-3
 polkit-kde-agent 5.23.5-1
 polkit-qt5 0.114.0-1
 ponysay 3.0.3-4
-poppler 21.11.0-1
+poppler 22.01.0-1
 poppler-data 0.4.11-1
-poppler-glib 21.11.0-1
-poppler-qt5 21.11.0-1
+poppler-glib 22.01.0-1
+poppler-qt5 22.01.0-1
 popt 1.18-2
 portaudio 1:19.7.0-1
 portmidi 236-1
@@ -1882,7 +1882,7 @@ python2-appdirs 1.4.4-6
 python2-asn1crypto 1.4.0-3
 python2-backports 1.0-3
 python2-cachecontrol 0.12.6-5
-python2-cffi 1.14.6-2
+python2-cffi 1.15.0-1
 python2-chardet 4.0.0-2
 python2-colorama 0.4.4-3
 python2-configparser 4.0.2-2
@@ -1929,10 +1929,10 @@ qqc2-desktop-style 5.89.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
 qt5-3d 5.15.2+kde+r39-1
-qt5-base 5.15.2+kde+r276-1
+qt5-base 5.15.2+kde+r277-1
 qt5-charts 5.15.2-1
 qt5-datavis3d 5.15.2-1
-qt5-declarative 5.15.2+kde+r42-1
+qt5-declarative 5.15.2+kde+r43-1
 qt5-graphicaleffects 5.15.2-1
 qt5-imageformats 5.15.2-1
 qt5-location 5.15.2-4
@@ -1946,7 +1946,7 @@ qt5-scxml 5.15.2-1
 qt5-sensors 5.15.2-1
 qt5-serialport 5.15.2-1
 qt5-speech 5.15.2-1
-qt5-svg 5.15.2+kde+r15-1
+qt5-svg 5.15.2+kde+r16-1
 qt5-tools 5.15.2+kde+r17-4
 qt5-translations 5.15.2+kde+r20-2
 qt5-wayland 5.15.2+kde+r38-1
@@ -1980,7 +1980,7 @@ rclone-browser 1.8.0-1
 re2 1:20211101-1
 read-edid 3.0.2-3
 readline 8.1.001-1
-reaper-bin 6.43-1
+reaper-bin 6.44-1
 recode 3.7.9-1
 recordmydesktop 0.4.0-1
 redland 1:1.0.17-8
@@ -2027,7 +2027,7 @@ ruby-tins 1.26.0-2
 rubygems 3.2.29-1
 run-parts 5.5-1
 runc 1.0.3-1
-rustdesk-bin 1.1.8-2
+rustdesk-bin 1.1.8-3
 rustup 1.24.3-2
 samba 4.15.3-2
 sane 1.0.32-3
@@ -2090,7 +2090,7 @@ spglib 1.16.3-1
 spice 0.15.0-1
 spice-gtk 0.39-3
 spirv-tools 2021.3-1
-sqlite 3.37.1-1
+sqlite 3.37.2-1
 sratom 0.6.8-3
 srt 1.4.4-1
 sshfs 3.7.2-2
@@ -2215,11 +2215,11 @@ v2ray-geoip 202112300030-1
 v2raya 1.5.5-1
 v4l-utils 1.22.1-1
 v4l2loopback-dkms 0.12.5-2
-vala 0.54.5-1
+vala 0.54.6-1
 vamp-plugin-sdk 2.10.0-1
 vde2 2.3.2-18
 vdpauinfo 1.4-1
-ventoy-bin 1.0.63-3
+ventoy-bin 1.0.64-1
 vi 1:070224-5
 vid.stab 1.1-3
 vim 8.2.3890-1
@@ -2374,7 +2374,7 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.5-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.2-1
-xray-domain-list-community 20220107034819-1
+xray-domain-list-community 20220108154758-1
 xray-geoip 202201060033-1
 xsel 1.2.0.20190821-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
