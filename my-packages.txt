@@ -38,7 +38,7 @@ alsa-tools 1.2.5-1
 alsa-topology-conf 1.2.5.1-1
 alsa-ucm-conf 1.2.6.3-1
 alsa-utils 1.2.6-1
-amd-ucode 20211027.1d00989-1
+amd-ucode 20211216.f682ecb-1
 amdvlk 2021.Q4.3-2
 amtk 5.3.1-1
 analitza 21.12.1-1
@@ -72,7 +72,7 @@ aribb24 1.0.3-3
 ark 21.12.1-1
 artikulate 21.12.1-1
 asciinema 2.1.0-2
-asio 1.18.2-1
+asio 1.20.0-1
 asp 8-1
 aspell 0.60.8-2
 assimp 5.1.4-1
@@ -187,7 +187,7 @@ coordgen 3.0.0-1
 coreutils 9.0-2
 cowsay 3.04-2
 cpio 2.13-2
-cpupower 5.15-2
+cpupower 5.16-1
 crda 4.14-4
 cronie 1.5.7-2
 cryptsetup 2.4.2-3
@@ -238,7 +238,7 @@ dotnet-host 6.0.0.sdk100-2
 dotnet-runtime 6.0.0.sdk100-2
 dotnet-sdk 6.0.0.sdk100-2
 dotnet-targeting-pack 6.0.0.sdk100-2
-double-conversion 3.1.7-1
+double-conversion 3.2.0-1
 doxygen 1.9.3-1
 drkonqi 5.23.5-1
 dtc 1.6.1-3
@@ -264,7 +264,7 @@ elisa 21.12.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.153474-1
+emacs-git 29.0.50.153486-2
 embree 3.13.2-2
 enca 1.19-4
 enchant 2.3.2-1
@@ -291,13 +291,13 @@ fcitx5-anthy 5.0.8-1
 fcitx5-breeze 1.0.0-1
 fcitx5-chewing 5.0.8-1
 fcitx5-chinese-addons 5.0.9-2
-fcitx5-configtool 5.0.9-1
+fcitx5-configtool 5.0.10-1
 fcitx5-gtk 5.0.11-1
 fcitx5-material-color 0.2.1-1
 fcitx5-pinyin-moegirl 20211214-1
 fcitx5-pinyin-zhwiki 1:0.2.3.20220101-1
 fcitx5-qt 5.0.9-1
-fcitx5-rime 5.0.9-1
+fcitx5-rime 5.0.10-1
 fd 8.3.1-1
 feh 3.8-1
 ffmpeg 2:4.4.1-1
@@ -322,7 +322,7 @@ flex 2.6.4-3
 flite 2.2-1
 fltk 1.3.8-1
 fluidsynth 2.2.4-1
-fmt 8.0.1-2
+fmt 8.1.1-1
 fontconfig 2:2.13.94-2
 fpc 3.2.2-1
 fpc-src 3.2.2-1
@@ -373,7 +373,7 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.30-1
 git 2.34.1-1
-git-delta-git 0.11.3.20220106-2
+git-delta-git 0.11.3.20220110-1
 git-lfs 3.0.2-1
 github-cli 2.4.0-1
 gl2ps 1.4.2-2
@@ -381,8 +381,8 @@ glew 2.2.0-2
 glew1.10 1.10.0-3
 glfw-wayland 3.3.6-1
 glib-networking 1:2.70.1-1
-glib2 2.70.2-1
-glib2-docs 2.70.2-1
+glib2 2.70.2-2
+glib2-docs 2.70.2-2
 glibc 2.33-5
 glibmm 2.66.2-1
 glm 0.9.9.8-1
@@ -487,12 +487,12 @@ htop 3.1.2-1
 http-parser 2.9.4-1
 hugo 0.91.2-1
 hunspell 1.7.0-3
-hwids 20210613-1
+hwdata 0.355-1
 hwinfo 21.80-1
 hwloc 2.7.0-1
 hyphen 2.8.8-3
 i2c-tools 4.3-3
-i3lock-color-git r774.a318ff3-1
+i3lock-color-git r897.16856ac-1
 iana-etc 20211203-1
 ibam 0.5.2-9
 icoutils 0.32.3-3
@@ -739,7 +739,7 @@ kquickcharts 5.90.0-1
 krb5 1.19.2-2
 krdc 21.12.1-1
 kreversi 21.12.1-1
-krfb 21.12.1-1
+krfb 21.12.1-2
 krita 5.0.2-1
 krita-plugin-gmic 3.0.0-1
 kross 5.90.0-1
@@ -791,7 +791,7 @@ l-smash 2.14.5-2
 ladspa 1.17-1
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.10.6.r5840.3c5b474a-1
+latte-dock-git 0.10.7.r5841.837f0a81-1
 layer-shell-qt 5.23.5-1
 lazarus 2.2.0-1
 lazydocker 0.12-1
@@ -876,7 +876,7 @@ lib32-libgcrypt15 1.5.6-5
 lib32-libglvnd 1.4.0-1
 lib32-libgpg-error 1.43-1
 lib32-libgudev 237-1
-lib32-libgusb 0.3.8-1
+lib32-libgusb 0.3.10-1
 lib32-libice 1.0.10-1
 lib32-libid3tag 0.15.1b-2
 lib32-libidn11 1.33-1
@@ -915,7 +915,7 @@ lib32-libtiff4 3.9.7-4
 lib32-libtirpc 1.3.2-1
 lib32-libudev0-shim 1-4
 lib32-libunistring 0.9.10-1
-lib32-libunwind 1.5.0-1
+lib32-libunwind 1.6.2-1
 lib32-libusb 1.0.24-1
 lib32-libva 2.13.0-1
 lib32-libva-mesa-driver 21.3.3-1
@@ -988,7 +988,7 @@ lib32-sdl_image 1.2.12-7
 lib32-sdl_mixer 1.2.12-3
 lib32-sdl_ttf 2.0.11-5
 lib32-smpeg 0.4.5-3
-lib32-sqlite 3.37.0-1
+lib32-sqlite 3.37.2-1
 lib32-systemd 250.1-1
 lib32-tdb 1.4.5-1
 lib32-util-linux 2.37.2-1
@@ -1102,7 +1102,7 @@ libgsf 1.14.48-1
 libgssglue 0.4-4
 libgtop 2.40.0+2+g31db82ef-2
 libgudev 237-1
-libgusb 0.3.8-1
+libgusb 0.3.10-1
 libgweather 40.0-1
 libgxps 0.3.2-1
 libhandy 1.4.0-1
@@ -1118,7 +1118,7 @@ libidn2 2.3.2-1
 libiec61883 1.2.0-6
 libieee1284 0.2.11-13
 libimagequant 2.17.0-1
-libime 1.0.10-2
+libime 1.0.11-1
 libimobiledevice 1.3.0-5
 libindicator-gtk2 12.10.1-9
 libindicator-gtk3 12.10.1-9
@@ -1208,7 +1208,7 @@ libofa 0.9.3-9
 libogg 1.3.5-1
 libomxil-bellagio 0.9.3-3
 liborcus 0.16.1-10
-libosinfo 1.9.0-1
+libosinfo 1.9.0-2
 libotf 0.9.16-3
 libotr 4.1.1-3
 libp11-kit 0.24.0-2
@@ -1370,7 +1370,7 @@ lightdm-gtk-greeter-settings 1.2.2-7
 lightly-qt 0.4.1-1
 lilv 0.24.12-4
 linux-api-headers 5.12.3-1
-linux-firmware 20211027.1d00989-1
+linux-firmware 20211216.f682ecb-1
 linux-lts 5.10.90-1
 linux-lts-headers 5.10.90-1
 lirc 1:0.10.1-10
@@ -1429,14 +1429,14 @@ maven 3.8.4-1
 mbedtls 2.28.0-1
 mbox-importer 21.12.1-1
 md4c 0.4.8-1
-mdadm 4.1-2
+mdadm 4.2-1
 media-player-info 24-2
 mercurial 6.0.1-1
 mesa 21.3.3-2
 mesa-demos 8.4.0-6
 mesa-utils 8.4.0-6
 mesa-vdpau 21.3.3-2
-meson 0.60.3-1
+meson 0.61.0-1
 messagelib 21.12.1-1
 metis 5.1.0.p10-2
 milou 5.23.5-1
@@ -1530,7 +1530,7 @@ nerd-fonts-ubuntu-mono 2.1.0-4
 nerd-fonts-victor-mono 2.1.0-4
 net-snmp 5.9.1-3
 net-tools 2.10-1
-netbeans 12.4-1
+netbeans 12.6-1
 netpbm 10.73.37-1
 netstandard-targeting-pack 6.0.0.sdk100-2
 nettle 3.7.3-1
@@ -1564,7 +1564,7 @@ nss 3.74-1
 ntfs-3g 2021.8.22-1
 numactl 2.0.14-1
 nvidia-lts 1:495.46-8
-nvidia-utils 495.46-1
+nvidia-utils 495.46-2
 nvme-cli 1.16-1
 oath-toolkit 2.6.7-1
 obs-studio 27.1.3-3
@@ -1584,7 +1584,7 @@ opencascade 7.6.0-1
 opencc 1.1.2-3
 opencl-headers 2:2021.04.29-1
 opencl-mesa 21.3.3-2
-opencl-nvidia 495.46-1
+opencl-nvidia 495.46-2
 opencollada 1:1.6.68-2
 opencolorio 2.1.1-2
 opencolorio1 1.1.1-3
@@ -1633,11 +1633,11 @@ pastebinit 1.5.1-1
 patch 2.7.6-8
 patchelf 0.14.3-1
 pavucontrol 1:5.0-1
-pciutils 3.7.0-1
+pciutils 3.7.0-2
 pcre 8.45-1
 pcre2 10.39-1
 pcsclite 1.9.5-1
-perf 5.15-2
+perf 5.16-1
 perl 5.34.0-3
 perl-clone 0.45-3
 perl-encode-locale 1.05-8
@@ -1929,7 +1929,7 @@ qqc2-desktop-style 5.90.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
 qt5-3d 5.15.2+kde+r39-1
-qt5-base 5.15.2+kde+r281-1
+qt5-base 5.15.2+kde+r286-1
 qt5-charts 5.15.2-1
 qt5-datavis3d 5.15.2-1
 qt5-declarative 5.15.2+kde+r43-1
@@ -1958,7 +1958,7 @@ qt5-x11extras 5.15.2-1
 qt5-xmlpatterns 5.15.2-1
 qt5pas 2.6.2.2.0-1
 qt6-5compat 6.2.2-1
-qt6-base 6.2.2-4
+qt6-base 6.2.2-5
 qt6-declarative 6.2.2-1
 qt6-imageformats 6.2.2-1
 qt6-svg 6.2.2-1
@@ -1980,7 +1980,7 @@ rclone-browser 1.8.0-1
 re2 1:20211101-1
 read-edid 3.0.2-3
 readline 8.1.001-1
-reaper-bin 6.44-1
+reaper-bin 6.45-1
 recode 3.7.9-1
 recordmydesktop 0.4.0-1
 redland 1:1.0.17-8
@@ -2005,7 +2005,7 @@ rpcbind 1.2.6-2
 rsync 3.2.3-4
 rtaudio 5.2.0-1
 rtkit 0.13-1
-rtmpdump 1:2.4.r96.fa8646d-6
+rtmpdump 1:2.4.r99.f1b83c1-1
 rttr 0.9.6-3
 rubberband 2.0.0-1
 ruby 3.0.3-1
@@ -2043,7 +2043,7 @@ sddm 0.19.0-7
 sddm-kcm 5.23.5-1
 sddm-sugar-light 1.0-2
 sdl 1:1.2.15+r406+gf1caf909-1
-sdl2 2.0.18-3
+sdl2 2.0.20-1
 sdl2_image 2.0.5-2
 sdl2_mixer 2.0.4-7
 sdl2_ttf 2.0.15-2
@@ -2079,7 +2079,7 @@ solid 5.90.0-1
 sonnet 5.90.0-1
 sord 0.16.8-1
 sound-theme-freedesktop 0.8-4
-soundtouch 2.3.0-1
+soundtouch 2.3.0-2
 source-highlight 3.1.9-7
 sox 14.4.2-7
 spandsp 0.0.6-3
@@ -2113,10 +2113,10 @@ swh-plugins 0.4.17-4
 syndication 5.90.0-1
 syntax-highlighting 5.90.0-1
 sysfsutils 2.1.1-1
-systemd 250.1-1
-systemd-libs 250.1-1
+systemd 250.1-2
+systemd-libs 250.1-2
 systemd-swap 4.4.0-2
-systemd-sysvcompat 250.1-1
+systemd-sysvcompat 250.1-2
 systemsettings 5.23.5-1
 taglib 1.12-1
 talloc 2.3.3-3
@@ -2159,8 +2159,8 @@ timeshift 21.09.1-3
 tinyxml 2.6.2-8
 tk 8.6.12-1
 tldr 3.0.0-1
-tlp 1.4.0-1
-tlp-rdw 1.4.0-1
+tlp 1.5.0-1
+tlp-rdw 1.5.0-1
 tmux 3.2_a-1
 totem-pl-parser 3.26.6-1
 traceroute 2.1.0-5
@@ -2206,7 +2206,7 @@ unzip 6.0-16
 upower 0.99.13-1
 usbmuxd 1.1.1-1
 usbredir 0.12.0-1
-usbutils 014-1
+usbutils 014-2
 util-linux 2.37.2-5
 util-linux-libs 2.37.2-5
 utools 2.5.2-1
@@ -2239,7 +2239,7 @@ volume_key 0.3.12-7
 vte-common 0.66.2-1
 vte3 0.66.2-1
 vtk 9.1.0-9
-vulkan-headers 1:1.2.202-1
+vulkan-headers 1:1.2.203-1
 vulkan-icd-loader 1.2.202-1
 vulkan-radeon 21.3.3-2
 vulkan-tools 1.2.199-1
@@ -2275,7 +2275,7 @@ wxgtk3 3.0.5.1-3
 x11vnc 1:0.9.16-4
 x264 3:0.163.r3060.5db6aa6-1
 x265 3.5-1
-x86_energy_perf_policy 5.15-2
+x86_energy_perf_policy 5.16-1
 xapian-core 1:1.4.18-1
 xapp 2.2.4-3
 xaw3d 1.6.3-2
