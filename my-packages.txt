@@ -57,7 +57,7 @@ arandr 0.1.10-7
 arc-icon-theme 20161122-3
 arch-install-scripts 24-2
 archlinux-appstream-data 20220107-1
-archlinux-keyring 20211028-1
+archlinux-keyring 20220111-1
 archlinuxcn-keyring 20211125-1
 arctime 2.4.1-1
 ardour 6.9-3
@@ -256,7 +256,7 @@ efibootmgr 17-2
 efivar 37-4
 egl-wayland 2:1.1.9+r3+g582b2d3-1
 eglexternalplatform 1.1-2
-electron 16.0.6-1
+electron 16.0.7-1
 electron-netease-cloud-music 0.9.32-1
 elementary-icon-theme 6.1.0-1
 elfutils 0.186-2
@@ -313,7 +313,7 @@ filesystem 2021.12.07-1
 filezilla 3.57.0-1
 findutils 4.8.0-1
 fingerprint-gui 1.09-7
-firefox-appmenu 95.0.2-1
+firefox-appmenu 95.0.2-2
 firewalld 1.0.2-2
 flac 1.3.3-3
 flameshot 0.10.2-2
@@ -327,7 +327,7 @@ fontconfig 2:2.13.94-2
 fpc 3.2.2-1
 fpc-src 3.2.2-1
 fprintd 1.94.1-1
-frameworkintegration 5.90.0-1
+frameworkintegration 5.90.0-2
 freecell-solver 6.6.0-1
 freeglut 3.2.1-2
 freeimage 3.18.0-12
@@ -395,7 +395,7 @@ gn-m85 0.1792.7d7e8dee-1
 gnome-autoar 0.4.2-1
 gnome-clocks 41.0-1
 gnome-common 3.18.0-4
-gnome-desktop 1:41.2-1
+gnome-desktop 1:41.3-1
 gnome-icon-theme 3.12.0-6
 gnome-icon-theme-symbolic 3.12.0-6
 gnome-video-effects 0.5.0+4+g9554041-2
@@ -507,7 +507,7 @@ iniparser 4.1-4
 inkscape 1.1.1-7
 intellij-idea-community-edition 4:2021.3.1-1
 intltool 0.51.0-6
-iproute2 5.15.0-2
+iproute2 5.16.0-1
 iptables-nft 1:1.8.7-1
 iputils 20211215-1
 ipython 7.31.0-1
@@ -541,7 +541,7 @@ jre11-openjdk 11.0.13.u8-1
 jre11-openjdk-headless 11.0.13.u8-1
 jre8-openjdk 8.u312-2
 jre8-openjdk-headless 8.u312-2
-js78 78.15.0-1
+js78 78.15.0-2
 json-c 0.15-2
 json-glib 1.6.6-1
 jsoncpp 1.9.5-1
@@ -989,7 +989,7 @@ lib32-sdl_mixer 1.2.12-3
 lib32-sdl_ttf 2.0.11-5
 lib32-smpeg 0.4.5-3
 lib32-sqlite 3.37.2-1
-lib32-systemd 250.1-1
+lib32-systemd 250.2-1
 lib32-tdb 1.4.5-1
 lib32-util-linux 2.37.2-1
 lib32-v4l-utils 1.22.1-1
@@ -1436,7 +1436,7 @@ mesa 21.3.3-2
 mesa-demos 8.4.0-6
 mesa-utils 8.4.0-6
 mesa-vdpau 21.3.3-2
-meson 0.61.0-1
+meson 0.61.0-2
 messagelib 21.12.1-1
 metis 5.1.0.p10-2
 milou 5.23.5-1
@@ -1456,7 +1456,7 @@ modemmanager 1.18.4-1
 modemmanager-qt 5.90.0-1
 molequeue 0.9.0-2
 monero 0.17.3.0-3
-monero-gui 0.17.3.0-4
+monero-gui 0.17.3.1-1
 mono 6.12.0.122-1
 mono-msbuild 16.10.1.xamarinxplat.2021.05.26.14.00-1
 motrix-git 1.5.15.r68.g0cd1ed1-1
@@ -1580,7 +1580,7 @@ oniguruma 6.9.7.1-1
 opam 2.1.2-1
 openal 1.21.1-2
 openbabel 3.1.1-3
-opencascade 7.6.0-1
+opencascade 1:7.5.3-1
 opencc 1.1.2-3
 opencl-headers 2:2021.04.29-1
 opencl-mesa 21.3.3-2
@@ -2113,10 +2113,10 @@ swh-plugins 0.4.17-4
 syndication 5.90.0-1
 syntax-highlighting 5.90.0-1
 sysfsutils 2.1.1-1
-systemd 250.1-2
-systemd-libs 250.1-2
+systemd 250.2-2
+systemd-libs 250.2-2
 systemd-swap 4.4.0-2
-systemd-sysvcompat 250.1-2
+systemd-sysvcompat 250.2-2
 systemsettings 5.23.5-1
 taglib 1.12-1
 talloc 2.3.3-3
@@ -2159,8 +2159,8 @@ timeshift 21.09.1-3
 tinyxml 2.6.2-8
 tk 8.6.12-1
 tldr 3.0.0-1
-tlp 1.5.0-1
-tlp-rdw 1.5.0-1
+tlp 1.5.0-2
+tlp-rdw 1.5.0-2
 tmux 3.2_a-1
 totem-pl-parser 3.26.6-1
 traceroute 2.1.0-5
