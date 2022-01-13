@@ -6,7 +6,7 @@ accountsservice 0.6.55-3
 acl 2.3.1-1
 acorn 1:8.7.0-1
 acpi 1.7-3
-acpi_call-lts 1.2.2-8
+acpi_call-lts 1.2.2-10
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-2
@@ -317,7 +317,7 @@ firefox-appmenu 95.0.2-2
 firewalld 1.0.2-2
 flac 1.3.3-3
 flameshot 0.10.2-2
-flatpak 1.12.2-1
+flatpak 1.12.3-1
 flex 2.6.4-3
 flite 2.2-1
 fltk 1.3.8-1
@@ -1187,7 +1187,7 @@ libmtp 1.1.19-1
 libmusicbrainz5 5.1.0-4
 libmwaw 0.3.21-1
 libmypaint 1.6.1-1
-libnautilus-extension 41.1-2
+libnautilus-extension 41.2-1
 libndp 1.8-1
 libnet 1:1.1.6-1
 libnetfilter_conntrack 1.0.8-1
@@ -1371,8 +1371,8 @@ lightly-qt 0.4.1-1
 lilv 0.24.12-4
 linux-api-headers 5.12.3-1
 linux-firmware 20211216.f682ecb-1
-linux-lts 5.10.90-1
-linux-lts-headers 5.10.90-1
+linux-lts 5.15.14-1
+linux-lts-headers 5.15.14-1
 lirc 1:0.10.1-10
 lld 13.0.0-1
 lldb 13.0.0-2
@@ -1436,7 +1436,7 @@ mesa 21.3.3-2
 mesa-demos 8.4.0-6
 mesa-utils 8.4.0-6
 mesa-vdpau 21.3.3-2
-meson 0.61.0-2
+meson 0.61.0-3
 messagelib 21.12.1-1
 metis 5.1.0.p10-2
 milou 5.23.5-1
@@ -1474,7 +1474,7 @@ mujs 1.2.0-1
 mypaint-brushes1 1.3.1-1
 nano 6.0-1
 nasm 2.15.05-1
-nautilus 41.1-2
+nautilus 41.2-1
 ncurses 6.3-1
 ndctl 72-1
 neofetch 7.1.0-2
@@ -1563,7 +1563,7 @@ nspr 4.33-1
 nss 3.74-1
 ntfs-3g 2021.8.22-1
 numactl 2.0.14-1
-nvidia-lts 1:495.46-8
+nvidia-lts 1:495.46-10
 nvidia-utils 495.46-2
 nvme-cli 1.16-1
 oath-toolkit 2.6.7-1
@@ -1591,13 +1591,13 @@ opencolorio1 1.1.1-3
 opencore-amr 0.1.5-5
 opencv 4.5.5-1
 openexr 3.1.3-1
-openimagedenoise 1.4.1-2
+openimagedenoise 1.4.2-1
 openimageio 2.2.18.0-4
 openjpeg2 2.4.0-1
 openmpi 4.1.2-1
 openresolv 3.12.0-1
 openrgb 0.7-6
-openshadinglanguage 1.11.16.0-4
+openshadinglanguage 1.11.17.0-1
 openssh 8.8p1-1
 openssl 1.1.1.m-1
 openssl-1.0 1.0.2.u-1
@@ -1618,6 +1618,7 @@ package-query 1.12-1
 pacman 6.0.1-3
 pacman-mirrorlist 20211212-1
 pacmanlogviewer 1.4.3-1
+pahole 1.23-1
 palapeli 21.12.1-1
 pam 1.5.2-1
 pambase 20211210-1
@@ -1929,7 +1930,7 @@ qqc2-desktop-style 5.90.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
 qt5-3d 5.15.2+kde+r39-1
-qt5-base 5.15.2+kde+r286-1
+qt5-base 5.15.2+kde+r289-1
 qt5-charts 5.15.2-1
 qt5-datavis3d 5.15.2-1
 qt5-declarative 5.15.2+kde+r43-1
@@ -2046,7 +2047,7 @@ sdl 1:1.2.15+r406+gf1caf909-1
 sdl2 2.0.20-1
 sdl2_image 2.0.5-2
 sdl2_mixer 2.0.4-7
-sdl2_ttf 2.0.15-2
+sdl2_ttf 2.0.18-1
 sdl_image 1.2.12-7
 sdl_mixer 1.2.12-10
 sdl_net 1.2.8-5

@@ -1618,6 +1618,7 @@ package-query
 pacman
 pacman-mirrorlist
 pacmanlogviewer
+pahole
 palapeli
 pam
 pambase
