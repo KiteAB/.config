@@ -450,6 +450,7 @@ gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
 gstreamer
+gstreamer-vaapi
 gtest
 gtk-doc
 gtk-update-icon-cache
@@ -711,6 +712,7 @@ knotifyconfig
 kolf
 kollision
 kolourpaint
+komorebi-bin
 kompare
 konqueror
 konquest
@@ -1297,6 +1299,7 @@ libutf8proc
 libuv
 libva
 libva-mesa-driver
+libva-utils
 libvdpau
 libvirt
 libvirt-glib
