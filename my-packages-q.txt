@@ -130,6 +130,7 @@ bolt
 bomber
 boost
 boost-libs
+botan
 bovo
 box2d
 breeze
@@ -905,6 +906,7 @@ lib32-libpsl
 lib32-libpulse
 lib32-librsvg
 lib32-librtmp0
+lib32-libsamplerate
 lib32-libsm
 lib32-libsndfile
 lib32-libsoup
@@ -2158,6 +2160,7 @@ texinfo
 thefuck
 thin-provisioning-tools
 threadweaver
+thunderbird-appmenu
 tigervnc
 timeshift
 tinyxml

@@ -130,6 +130,7 @@ bolt 0.9.1-1
 bomber 21.12.1-1
 boost 1.78.0-1
 boost-libs 1.78.0-1
+botan 2.18.2-3
 bovo 21.12.1-1
 box2d 2.4.1-1
 breeze 5.23.5-1
@@ -253,7 +254,7 @@ eclipse-platform 4.22-1
 editorconfig-core-c 0.12.5-1
 edk2-ovmf 202111-5
 efibootmgr 17-2
-efivar 37-4
+efivar 38-1
 egl-wayland 2:1.1.9+r3+g582b2d3-1
 eglexternalplatform 1.1-2
 electron 16.0.7-1
@@ -264,7 +265,7 @@ elisa 21.12.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.153486-2
+emacs-git 29.0.50.153633-1
 embree 3.13.2-2
 enca 1.19-4
 enchant 2.3.2-1
@@ -294,7 +295,7 @@ fcitx5-chinese-addons 5.0.10-1
 fcitx5-configtool 5.0.10-1
 fcitx5-gtk 5.0.11-1
 fcitx5-material-color 0.2.1-1
-fcitx5-pinyin-moegirl 20211214-1
+fcitx5-pinyin-moegirl 20220114-1
 fcitx5-pinyin-zhwiki 1:0.2.3.20220101-1
 fcitx5-qt 5.0.9-1
 fcitx5-rime 5.0.10-1
@@ -313,7 +314,7 @@ filesystem 2021.12.07-1
 filezilla 3.57.0-1
 findutils 4.8.0-1
 fingerprint-gui 1.09-7
-firefox-appmenu 96.0-1
+firefox-appmenu 96.0-2
 firewalld 1.0.3-2
 flac 1.3.3-3
 flameshot 0.10.2-2
@@ -373,7 +374,7 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.30-1
 git 2.34.1-1
-git-delta-git 0.11.3.20220114-1
+git-delta-git 0.11.3.20220115-1
 git-lfs 3.0.2-1
 github-cli 2.4.0-1
 gl2ps 1.4.2-2
@@ -516,8 +517,8 @@ iso-codes 4.9.0-1
 itinerary 21.12.1-1
 itstool 1:2.0.7-1
 iw 5.16-1
-jack2 1.9.19-2
-jack2-dbus 1.9.19-2
+jack2 1.9.20-1
+jack2-dbus 1.9.20-1
 jack_capture 0.9.73-8
 jack_delay 0.4.2-1
 jack_mixer 17-2
@@ -849,7 +850,7 @@ lib32-gtk3 3.24.31-1
 lib32-harfbuzz 3.2.0-1
 lib32-icu 70.1-1
 lib32-imlib2 1.7.5-1
-lib32-jack2 1.9.19-2
+lib32-jack2 1.9.20-1
 lib32-jansson 2.14-1
 lib32-json-glib 1.6.6-1
 lib32-keyutils 1.6.3-1
@@ -905,6 +906,7 @@ lib32-libpsl 0.21.1-1
 lib32-libpulse 15.0-1
 lib32-librsvg 2:2.52.5-1
 lib32-librtmp0 2.4-4
+lib32-libsamplerate 0.2.2-1
 lib32-libsm 1.2.3-1
 lib32-libsndfile 1.0.31-1
 lib32-libsoup 2.74.2-1
@@ -1289,7 +1291,7 @@ libudev0-shim 1-4
 libunistring 0.9.10-3
 libunwind 1.6.2-1
 libupnp 1.14.12-2
-liburcu 0.13.0-1
+liburcu 0.13.1-1
 liburing 2.1-1
 libusb 1.0.24-2
 libusb-compat 0.1.7-1
@@ -1540,7 +1542,7 @@ nettle 3.7.3-1
 network-manager-applet 1.24.0-1
 networkmanager 1.34.0-1
 networkmanager-qt 5.90.0-1
-new-session-manager 1.5.1-1
+new-session-manager 1.5.3-1
 nftables 1:1.0.1-3
 nginx 1.20.2-1
 nginx-src 1.20.2-1
@@ -1560,7 +1562,7 @@ noto-fonts-cjk 20211026-1
 noto-fonts-emoji 20211101-1
 noto-fonts-emoji-blob 1:14.0.1-1
 noto-fonts-extra 20201226-2
-npm 8.3.0-1
+npm 8.3.1-1
 npth 1.6-3
 nspr 4.33-1
 nss 3.74-1
@@ -2158,6 +2160,7 @@ texinfo 6.8-2
 thefuck 3.32-1
 thin-provisioning-tools 0.9.0-1
 threadweaver 5.90.0-1
+thunderbird-appmenu 91.4.0-8
 tigervnc 1.12.0-1
 timeshift 21.09.1-3
 tinyxml 2.6.2-8
@@ -2281,7 +2284,7 @@ x264 3:0.163.r3060.5db6aa6-1
 x265 3.5-1
 x86_energy_perf_policy 5.16-1
 xapian-core 1:1.4.18-1
-xapp 2.2.4-3
+xapp 2.2.8-1
 xaw3d 1.6.3-2
 xboxdrv-git 0.8.4.r453.gf8ef7e0-2
 xcb-imdkit 1.0.3-1
