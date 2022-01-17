@@ -6,7 +6,7 @@ accountsservice 0.6.55-3
 acl 2.3.1-1
 acorn 1:8.7.0-1
 acpi 1.7-3
-acpi_call-lts 1.2.2-10
+acpi_call-lts 1.2.2-11
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-2
@@ -194,7 +194,7 @@ cronie 1.5.7-2
 cryptsetup 2.4.3-1
 ctags 1:5.9.20210905.0-1
 cups 1:2.4.0-4
-cups-filters 1.28.10-2
+cups-filters 1.28.11-1
 curl 7.81.0-1
 dav1d 0.9.2-1
 davfs2 1.6.1-1
@@ -265,7 +265,7 @@ elisa 21.12.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.153633-1
+emacs-git 29.0.50.153653-1
 embree 3.13.2-2
 enca 1.19-4
 enchant 2.3.2-1
@@ -374,7 +374,7 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.30-1
 git 2.34.1-1
-git-delta-git 0.11.3.20220115-1
+git-delta-git 0.11.3.20220116-2
 git-lfs 3.0.2-1
 github-cli 2.4.0-1
 gl2ps 1.4.2-2
@@ -487,7 +487,7 @@ hiredis 1.0.2-1
 hmcl-bin 3.5.2.216-1
 htop 3.1.2-1
 http-parser 2.9.4-1
-hugo 0.91.2-1
+hugo 0.92.0-1
 hunspell 1.7.0-3
 hwdata 0.355-1
 hwinfo 21.80-1
@@ -517,8 +517,8 @@ iso-codes 4.9.0-1
 itinerary 21.12.1-1
 itstool 1:2.0.7-1
 iw 5.16-1
-jack2 1.9.20-1
-jack2-dbus 1.9.20-1
+jack2 1.9.20-3
+jack2-dbus 1.9.20-3
 jack_capture 0.9.73-8
 jack_delay 0.4.2-1
 jack_mixer 17-2
@@ -794,7 +794,7 @@ l-smash 2.14.5-2
 ladspa 1.17-1
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.10.7.r5844.0657ca1e-1
+latte-dock-git 0.10.7.r5851.ee307a07-1
 layer-shell-qt 5.23.5-1
 lazarus 2.2.0-1
 lazydocker 0.12-1
@@ -850,7 +850,7 @@ lib32-gtk3 3.24.31-1
 lib32-harfbuzz 3.2.0-1
 lib32-icu 70.1-1
 lib32-imlib2 1.7.5-1
-lib32-jack2 1.9.20-1
+lib32-jack2 1.9.20-2
 lib32-jansson 2.14-1
 lib32-json-glib 1.6.6-1
 lib32-keyutils 1.6.3-1
@@ -1298,7 +1298,7 @@ libusb-compat 0.1.7-1
 libusbmuxd 2.0.2-1
 libutempter 1.2.1-1
 libutf8proc 2.7.0-1
-libuv 1.42.0-1
+libuv 1.43.0-1
 libva 2.13.0-1
 libva-mesa-driver 21.3.4-1
 libva-utils 2.13.0-1
@@ -1376,8 +1376,8 @@ lightly-qt 0.4.1-1
 lilv 0.24.12-4
 linux-api-headers 5.12.3-1
 linux-firmware 20211216.f682ecb-1
-linux-lts 5.15.14-1
-linux-lts-headers 5.15.14-1
+linux-lts 5.15.15-1
+linux-lts-headers 5.15.15-1
 lirc 1:0.10.1-10
 lld 13.0.0-1
 lldb 13.0.0-2
@@ -1393,7 +1393,7 @@ lolcat 100.0.1-1
 lpsolve 5.5.2.11-1
 lrzsz 0.12.20-7
 lsb-release 1.4-18
-lsd 0.20.1-1
+lsd 0.21.0-1
 lskat 21.12.1-1
 lsof 4.94.0-1
 lua 5.4.3-1
@@ -1568,7 +1568,7 @@ nspr 4.33-1
 nss 3.74-1
 ntfs-3g 2021.8.22-1
 numactl 2.0.14-1
-nvidia-lts 1:495.46-10
+nvidia-lts 1:495.46-11
 nvidia-utils 495.46-2
 nvme-cli 1.16-1
 oath-toolkit 2.6.7-1
@@ -1621,7 +1621,7 @@ p11-kit 0.24.0-2
 p7zip 1:17.04-3
 package-query 1.12-1
 pacman 6.0.1-3
-pacman-mirrorlist 20211212-1
+pacman-mirrorlist 20220116-1
 pacmanlogviewer 1.4.3-1
 pahole 1.23-1
 palapeli 21.12.1-1
@@ -1848,7 +1848,7 @@ python-reedsolo 1.5.4-4
 python-requests 2.26.0-5
 python-resolvelib 0.5.5-4
 python-retrying 1.3.3-13
-python-setuptools 1:59.1.0-1
+python-setuptools 1:59.1.1-1
 python-sexpdata 0.0.3-3
 python-sgmllib3k 1.0.0-4
 python-shiboken2 5.15.2.1-1
@@ -1990,7 +1990,7 @@ reaper-bin 6.45-1
 recode 3.7.9-1
 recordmydesktop 0.4.0-1
 redland 1:1.0.17-8
-reflector 2021.7.8-2
+reflector 2021.11-2
 reiserfsprogs 3.6.27-3
 remmina 1:1.4.23-3
 rest 0.8.1-3
@@ -2218,7 +2218,7 @@ util-linux 2.37.2-5
 util-linux-libs 2.37.2-5
 utools 2.5.2-1
 v2ray 4.44.0-1
-v2ray-domain-list-community 20220109141424-1
+v2ray-domain-list-community 20220116033608-1
 v2ray-geoip 202201130034-1
 v2raya 1.5.5-1
 v4l-utils 1.22.1-1
@@ -2230,8 +2230,8 @@ vdpauinfo 1.4-1
 ventoy-bin 1.0.64-1
 vi 1:070224-5
 vid.stab 1.1-3
-vim 8.2.3890-1
-vim-runtime 8.2.3890-1
+vim 8.2.4106-1
+vim-runtime 8.2.4106-1
 virglrenderer 0.9.1-1
 virt-install 3.2.0-4
 virt-manager 3.2.0-4
@@ -2382,7 +2382,7 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.5-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.2-1
-xray-domain-list-community 20220114024213-1
+xray-domain-list-community 20220116033608-1
 xray-geoip 202201130034-1
 xsel 1.2.0.20190821-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
