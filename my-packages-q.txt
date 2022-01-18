@@ -798,6 +798,7 @@ latte-dock-git
 layer-shell-qt
 lazarus
 lazydocker
+lazygit
 lcms2
 ldb
 ldns
