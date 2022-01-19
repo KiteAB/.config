@@ -978,7 +978,6 @@ lib32-pam
 lib32-pango
 lib32-pcre
 lib32-pipewire
-lib32-pipewire-jack
 lib32-pixman
 lib32-polkit
 lib32-portaudio
@@ -1682,7 +1681,6 @@ pim-sieve-editor
 pimcommon
 pinentry
 pipewire
-pipewire-jack
 pipewire-media-session
 pixman
 pkgconf
