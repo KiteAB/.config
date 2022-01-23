@@ -1098,6 +1098,7 @@ libgit2
 libglvnd
 libgme
 libgnomekbd
+libgovirt
 libgpg-error
 libgphoto2
 libgravatar
@@ -1376,6 +1377,7 @@ lightly-qt
 lilv
 linux-api-headers
 linux-firmware
+linux-firmware-whence
 linux-lts
 linux-lts-headers
 lirc
@@ -1748,6 +1750,7 @@ python-anytree
 python-appdirs
 python-argcomplete
 python-asn1crypto
+python-asttokens
 python-attrs
 python-aubio
 python-automat
@@ -1755,6 +1758,7 @@ python-babel
 python-backcall
 python-beaker
 python-bitstring
+python-black
 python-cachecontrol
 python-cairo
 python-cffi
@@ -1777,6 +1781,7 @@ python-ecdsa
 python-entrypoints
 python-epc
 python-evdev
+python-executing
 python-feedparser
 python-flask
 python-future
@@ -1804,6 +1809,7 @@ python-markupsafe
 python-matplotlib-inline
 python-more-itertools
 python-msgpack
+python-mypy_extensions
 python-nautilus
 python-nest-asyncio
 python-numpy
@@ -1811,12 +1817,14 @@ python-ordered-set
 python-packaging
 python-parso
 python-path-and-address
+python-pathspec
 python-patiencediff
 python-pep517
 python-pexpect
 python-pickleshare
 python-pillow
 python-pip
+python-platformdirs
 python-pluggy
 python-ply
 python-prettytable
@@ -1824,6 +1832,7 @@ python-progress
 python-prompt_toolkit
 python-psutil
 python-ptyprocess
+python-pure-eval
 python-pyaes
 python-pyalsa
 python-pycparser
@@ -1863,6 +1872,7 @@ python-sphinxcontrib-htmlhelp
 python-sphinxcontrib-jsmath
 python-sphinxcontrib-qthelp
 python-sphinxcontrib-serializinghtml
+python-stack-data
 python-systemd
 python-sysv_ipc
 python-termcolor
@@ -2019,6 +2029,7 @@ ruby-irb
 ruby-manpages
 ruby-optimist
 ruby-paint
+ruby-psych
 ruby-rainbow
 ruby-rdoc
 ruby-reline
@@ -2027,6 +2038,7 @@ ruby-rspec-core
 ruby-rspec-expectations
 ruby-rspec-mocks
 ruby-rspec-support
+ruby-stringio
 ruby-term-ansicolor
 ruby-tins
 rubygems
@@ -2234,6 +2246,7 @@ vim-runtime
 virglrenderer
 virt-install
 virt-manager
+virt-viewer
 virtio-win
 virtualbox
 virtualbox-host-dkms
