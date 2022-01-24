@@ -27,7 +27,7 @@ akonadi-notes 21.12.1-1
 akonadi-search 21.12.1-1
 akonadiconsole 21.12.1-1
 akregator 21.12.1-1
-alacritty 0.9.0-3
+alacritty 0.10.0-1
 alembic 1.8.3-2
 alsa-card-profiles 1:0.3.43-5
 alsa-firmware 1.2.4-2
@@ -243,7 +243,7 @@ double-conversion 3.2.0-1
 doxygen 1.9.3-1
 drkonqi 5.23.5-1
 dtc 1.6.1-3
-dune 2.9.1-2
+dune 2.9.2-1
 dvdauthor 0.7.2-11
 dvgrab 3.5-9
 e2fsprogs 1.46.5-1
@@ -265,7 +265,7 @@ elisa 21.12.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.153866-1
+emacs-git 29.0.50.153888-1
 embree 3.13.2-2
 enca 1.19-4
 enchant 2.3.2-1
@@ -286,7 +286,7 @@ faad2 2.10.0-1
 fail2ban 0.11.2-3
 fakeroot 1.27-1
 farstream 0.2.9-3
-faudio 21.12-1
+faudio 22.01-1
 fcitx5 5.0.13-1
 fcitx5-anthy 5.0.8-1
 fcitx5-breeze 1.0.0-1
@@ -543,7 +543,7 @@ jre11-openjdk 11.0.13.u8-1
 jre11-openjdk-headless 11.0.13.u8-1
 jre8-openjdk 8.u312-2
 jre8-openjdk-headless 8.u312-2
-js78 78.15.0-2
+js78 78.15.0-3
 json-c 0.15-2
 json-glib 1.6.6-1
 jsoncpp 1.9.5-1
@@ -826,7 +826,7 @@ lib32-dbus-glib 0.112-1
 lib32-dconf 0.40.0-1
 lib32-e2fsprogs 1.46.5-1
 lib32-expat 2.4.3-1
-lib32-faudio 21.12-1
+lib32-faudio 22.01-1
 lib32-flac 1.3.3-1
 lib32-fluidsynth 2.2.4-1
 lib32-fontconfig 2:2.13.94-1
@@ -1003,7 +1003,7 @@ lib32-vulkan-radeon 21.3.4-1
 lib32-wayland 1.20.0-1
 lib32-xz 5.2.5-2
 lib32-zlib 1.2.11-3
-lib32-zstd 1.5.0-2
+lib32-zstd 1.5.2-1
 libabw 0.1.3-2
 libaccounts-glib 1.25-6
 libaccounts-qt 1.16-3
@@ -1025,7 +1025,7 @@ libblockdev 2.26-3
 libbluray 1.3.0-1
 libbpf 0.6.1-1
 libbs2b 3.1.0-7
-libbsd 0.11.3-1
+libbsd 0.11.4-1
 libburn 1.5.4-1
 libbytesize 2.6-3
 libcaca 0.99.beta20-1
@@ -1161,7 +1161,7 @@ libksysguard 5.23.5-1
 libktorrent 21.12.1-1
 liblangtag 0.6.3-2
 libldac 2.0.2.3-1
-libldap 2.6.0-2
+libldap 2.6.1-1
 liblo 1:0.31-1
 liblouis 3.20.0-2
 liblqr 0.4.2-3
@@ -1225,7 +1225,7 @@ libpeas 1.30.0-3
 libpgm 5.3.128-1
 libphonenumber 8.12.41-1
 libpipeline 1.5.5-1
-libplacebo 4.157.0-1
+libplacebo 4.192.0-1
 libplist 2.2.0-5
 libpng 1.6.37-3
 libpng12 1.2.59-2
@@ -1472,7 +1472,7 @@ mpfr 4.1.0.p13-1
 mpg123 1.29.3-1
 mplayer 38322-2
 mprime 307b9-2
-mpv 1:0.34.1-1
+mpv 1:0.34.1-2
 msgpack-c 4.0.0-1
 msr-tools 1.3-4
 mtdev 1.1.6-1
@@ -1721,7 +1721,7 @@ print-manager 21.12.1-1
 prismatik 5.11.2-3
 prison 5.90.0-1
 procps-ng 3.3.17-1
-protobuf 3.19.2-1
+protobuf 3.19.3-1
 protobuf-c 1.4.0-2
 proton 6.3.4-1
 psmisc 23.4-1
@@ -1745,7 +1745,7 @@ pycharm-community-edition 2021.3.1-1
 pyrit 0.5.0-5
 pyside2 5.15.2.1-1
 pystring 1.1.3.git1-1
-python 3.10.1-2
+python 3.10.2-1
 python-anytree 2.8.0-5
 python-appdirs 1.4.4-6
 python-argcomplete 1.12.3-1
@@ -1802,7 +1802,7 @@ python-jsonrpc-server 0.4.0-5
 python-jupyter_client 7.1.0-5
 python-jupyter_core 4.9.1-3
 python-language-server 0.36.2-5
-python-lxml 4.6.5-1
+python-lxml 4.7.1-1
 python-mako 1.1.6-3
 python-markdown 3.3.6-3
 python-markupsafe 2.0.1-3
@@ -1848,7 +1848,7 @@ python-pyserial 3.5-4
 python-pyte 0.8.0-8
 python-pytz 2021.3-4
 python-pyxdg 0.27-4
-python-pyzmq 22.2.1-3
+python-pyzmq 22.3.0-1
 python-qrcode 7.3.1-1
 python-qtconsole 5.2.1-2
 python-qtpy 1.11.2-3
@@ -1877,20 +1877,20 @@ python-systemd 234-11
 python-sysv_ipc 1.1.0-2
 python-termcolor 1.1.0-12
 python-toml 0.10.2-7
-python-tomli 1.2.3-1
+python-tomli 2.0.0-1
 python-tornado 6.1.0-5
 python-traitlets 5.1.0-3
 python-twisted 21.7.0-4
 python-typing_extensions 4.0.1-1
 python-ujson 5.1.0-1
-python-urllib3 1.26.7-5
+python-urllib3 1.26.8-1
 python-wcwidth 0.2.5-6
 python-webencodings 0.5.1-9
 python-werkzeug 2.0.2-3
 python-wxpython 1:4.0.7.2-3
 python-xlib 0.31-3
 python-yaml 5.4.1.1-4
-python-zipp 3.6.0-3
+python-zipp 3.7.0-1
 python-zope-interface 5.4.0-4
 python2 2.7.18-5
 python2-appdirs 1.4.4-6
@@ -2123,7 +2123,7 @@ suil 0.10.10-2
 suitesparse 5.10.1-2
 sunloginclient 11.0.0.36662-3
 svgpart 21.12.1-1
-svt-av1 0.8.7-1
+svt-av1 0.9.0-1
 svt-hevc 1.5.1-1
 sweeper 21.12.1-1
 swh-plugins 0.4.17-4
@@ -2185,7 +2185,7 @@ traceroute 2.1.0-5
 tracker3 3.2.1-2
 tracker3-miners 3.2.1-2
 trash-cli 0.21.10.24-2
-tree-sitter 0.20.3-1
+tree-sitter 0.20.4-1
 trojan 1.16.0-5
 tslib 1.22-1
 ttf-dejavu 2.37+18+g9b5d1b2f-3
@@ -2229,7 +2229,7 @@ util-linux 2.37.2-5
 util-linux-libs 2.37.2-5
 utools 2.5.2-1
 v2ray 4.44.0-1
-v2ray-domain-list-community 20220121101834-1
+v2ray-domain-list-community 20220122144733-1
 v2ray-geoip 202201200035-1
 v2raya 1.5.5-1
 v4l-utils 1.22.1-1
@@ -2252,7 +2252,7 @@ virtualbox 6.1.32-1
 virtualbox-host-dkms 6.1.32-1
 visual-studio-code-bin 1.63.2-1
 vkd3d 1.2-1
-vlc 3.0.16-6
+vlc 3.0.16-7
 vmaf 1.5.3-1
 volume_key 0.3.12-7
 vte-common 0.66.2-1
@@ -2394,7 +2394,7 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.5-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.2-1
-xray-domain-list-community 20220122144733-1
+xray-domain-list-community 20220123161517-1
 xray-geoip 202201200035-1
 xsel 1.2.0.20190821-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
@@ -2424,6 +2424,6 @@ zita-alsa-pcmi 0.4.0-1
 zita-resampler 1.8.0-1
 zlib 1:1.2.11-5
 zsh 5.8-1
-zstd 1.5.1-2
+zstd 1.5.2-1
 zvbi 0.2.35-4
 zxing-cpp 1.2.0-1
