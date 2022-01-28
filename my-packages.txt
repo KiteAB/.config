@@ -6,7 +6,7 @@ accountsservice 0.6.55-3
 acl 2.3.1-1
 acorn 1:8.7.0-1
 acpi 1.7-3
-acpi_call-lts 1.2.2-12
+acpi_call-lts 1.2.2-13
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-2
@@ -29,7 +29,7 @@ akonadiconsole 21.12.1-1
 akregator 21.12.1-1
 alacritty 0.10.0-2
 alembic 1.8.3-2
-alsa-card-profiles 1:0.3.43-5
+alsa-card-profiles 1:0.3.44-1
 alsa-firmware 1.2.4-2
 alsa-lib 1.2.6.1-1
 alsa-oss 1.1.8-4
@@ -42,6 +42,7 @@ amd-ucode 20220119.0c6a7b3-2
 amdvlk 2022.Q1.1-1
 amtk 5.3.1-1
 analitza 21.12.1-1
+android-studio 2021.1.1.20-1
 android-tools 31.0.3-3
 android-udev 20220102-1
 anthy 9100h-6
@@ -57,8 +58,8 @@ arandr 0.1.10-7
 arc-icon-theme 20161122-3
 arch-install-scripts 24-2
 archlinux-appstream-data 20220107-1
-archlinux-keyring 20220118-1
-archlinuxcn-keyring 20211125-1
+archlinux-keyring 20220125-1
+archlinuxcn-keyring 20220128-1
 arctime 2.4.1-1
 ardour 6.9-4
 arduino 1:1.8.19-1
@@ -257,15 +258,15 @@ efibootmgr 17-2
 efivar 38-2
 egl-wayland 2:1.1.9+r3+g582b2d3-1
 eglexternalplatform 1.1-2
-electron 16.0.7-2
-electron-netease-cloud-music 0.9.32-1
+electron 16.0.8-1
+electron-netease-cloud-music 0.9.33-1
 elementary-icon-theme 6.1.0-1
 elfutils 0.186-2
 elisa 21.12.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.153996-1
+emacs-git 29.0.50.154025-1
 embree 3.13.2-2
 enca 1.19-4
 enchant 2.3.2-1
@@ -296,7 +297,7 @@ fcitx5-configtool 5.0.10-1
 fcitx5-gtk 5.0.11-1
 fcitx5-material-color 0.2.1-1
 fcitx5-pinyin-moegirl 20220114-1
-fcitx5-pinyin-zhwiki 1:0.2.3.20220101-1
+fcitx5-pinyin-zhwiki 1:0.2.3.20220127-1
 fcitx5-qt 5.0.9-1
 fcitx5-rime 5.0.10-1
 fd 8.3.1-1
@@ -314,7 +315,7 @@ filesystem 2021.12.07-1
 filezilla 3.57.0-1
 findutils 4.8.0-1
 fingerprint-gui 1.09-7
-firefox-appmenu 96.0.2-1
+firefox-appmenu 96.0.2-2
 firewalld 1.0.3-2
 flac 1.3.3-3
 flameshot 0.10.2-2
@@ -382,8 +383,8 @@ glew 2.2.0-2
 glew1.10 1.10.0-3
 glfw-wayland 3.3.6-1
 glib-networking 1:2.70.1-1
-glib2 2.70.2-2
-glib2-docs 2.70.2-2
+glib2 2.70.3-1
+glib2-docs 2.70.3-1
 glibc 2.33-5
 glibmm 2.66.2-1
 glm 0.9.9.8-1
@@ -431,8 +432,8 @@ graphviz 2.50.0-2
 grep 3.7-1
 groff 1.22.4-6
 groovy 3.0.9-1
-grpc 1.43.0-3
-grpc-cli 1.43.0-3
+grpc 1.43.2-1
+grpc-cli 1.43.2-1
 grub 2:2.06-4
 grub-btrfs 4.11-1
 grub-customizer 5.1.0-3
@@ -508,6 +509,8 @@ incidenceeditor 21.12.1-1
 iniparser 4.1-4
 inkscape 1.1.1-7
 intellij-idea-community-edition 4:2021.3.1-1
+intellij-idea-ultimate-edition 2021.3-1
+intellij-idea-ultimate-edition-jre 2021.3-1
 intltool 0.51.0-6
 iproute2 5.16.0-1
 iptables-nft 1:1.8.7-1
@@ -839,7 +842,7 @@ lib32-gettext 0.21-1
 lib32-giflib 5.2.1-1
 lib32-glew1.10 1.10.0-4
 lib32-glib-networking 2.70.1-1
-lib32-glib2 2.70.2-1
+lib32-glib2 2.70.3-1
 lib32-glibc 2.33-5
 lib32-glu 9.0.2-2
 lib32-gmp 6.2.1-1
@@ -977,7 +980,7 @@ lib32-p11-kit 0.24.1-1
 lib32-pam 1.5.2-1
 lib32-pango 1:1.50.3-1
 lib32-pcre 8.45-1
-lib32-pipewire 1:0.3.43-4
+lib32-pipewire 1:0.3.44-1
 lib32-pixman 0.40.0-1
 lib32-polkit 0.120-4
 lib32-portaudio 1:19.7.0-1
@@ -1378,8 +1381,8 @@ lilv 0.24.12-4
 linux-api-headers 5.12.3-1
 linux-firmware 20220119.0c6a7b3-2
 linux-firmware-whence 20220119.0c6a7b3-2
-linux-lts 5.15.16-1
-linux-lts-headers 5.15.16-1
+linux-lts 5.15.17-1
+linux-lts-headers 5.15.17-1
 lirc 1:0.10.1-10
 lld 13.0.0-1
 lldb 13.0.0-2
@@ -1398,7 +1401,7 @@ lsb-release 1.4-18
 lsd 0.21.0-1
 lskat 21.12.1-1
 lsof 4.94.0-1
-lua 5.4.3-1
+lua 5.4.4-1
 lua52 5.2.4-5
 lua52-bitop 1.0.2-9
 lua52-expat 1.3.0-5
@@ -1483,6 +1486,7 @@ nano 6.0-1
 nasm 2.15.05-1
 nautilus 41.2-1
 ncurses 6.3-1
+ncurses5-compat-libs 6.2-1
 ndctl 72.1-1
 neofetch 7.1.0-2
 neon 0.32.2-1
@@ -1560,7 +1564,7 @@ nodejs 17.3.0-1
 nodejs-nopt 5.0.0-2
 nodemcu-pyflasher 5.0.0-1
 noto-fonts 20201226-2
-noto-fonts-cjk 20211026-1
+noto-fonts-cjk 20220126-1
 noto-fonts-emoji 20211101-1
 noto-fonts-emoji-blob 1:14.0.1-1
 noto-fonts-extra 20201226-2
@@ -1570,9 +1574,9 @@ nspr 4.33-1
 nss 3.74-1
 ntfs-3g 2021.8.22-1
 numactl 2.0.14-1
-nvidia-lts 1:495.46-12
+nvidia-lts 1:495.46-13
 nvidia-utils 495.46-2
-nvme-cli 1.16-1
+nvme-cli 1.16-2
 oath-toolkit 2.6.7-1
 obs-studio 27.1.3-3
 ocaml 4.13.1-1
@@ -1597,7 +1601,7 @@ opencolorio 2.1.1-2
 opencolorio1 1.1.1-3
 opencore-amr 0.1.5-5
 opencv 4.5.5-1
-openexr 3.1.3-1
+openexr 3.1.4-1
 openimagedenoise 1.4.2-1
 openimageio 2.2.18.0-4
 openjpeg2 2.4.0-1
@@ -1682,7 +1686,7 @@ pim-data-exporter 21.12.1-1
 pim-sieve-editor 21.12.1-1
 pimcommon 21.12.1-1
 pinentry 1.2.0-1
-pipewire 1:0.3.43-5
+pipewire 1:0.3.44-1
 pipewire-media-session 1:0.4.1-1
 pixman 0.40.0-1
 pkgconf 1.8.0-1
@@ -2022,7 +2026,7 @@ rtaudio 5.2.0-1
 rtkit 0.13-1
 rtmpdump 1:2.4.r99.f1b83c1-1
 rttr 0.9.6-3
-rubberband 2.0.1-1
+rubberband 2.0.2-1
 ruby 3.0.3-1
 ruby-diff-lcs 1.4.4-2
 ruby-irb 1.4.1-1
@@ -2184,6 +2188,7 @@ totem-pl-parser 3.26.6-1
 traceroute 2.1.0-5
 tracker3 3.2.1-2
 tracker3-miners 3.2.1-2
+translate-shell 0.9.6.12-2
 trash-cli 0.21.10.24-2
 tree-sitter 0.20.4-1
 trojan 1.16.0-5
@@ -2230,7 +2235,7 @@ util-linux-libs 2.37.3-1
 utools 2.5.2-1
 v2ray 4.44.0-1
 v2ray-domain-list-community 20220124140856-1
-v2ray-geoip 202201200035-1
+v2ray-geoip 202201270031-1
 v2raya 1.5.5-1
 v4l-utils 1.22.1-1
 v4l2loopback-dkms 0.12.5-2

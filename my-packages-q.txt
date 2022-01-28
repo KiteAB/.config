@@ -42,6 +42,7 @@ amd-ucode
 amdvlk
 amtk
 analitza
+android-studio
 android-tools
 android-udev
 anthy
@@ -508,6 +509,8 @@ incidenceeditor
 iniparser
 inkscape
 intellij-idea-community-edition
+intellij-idea-ultimate-edition
+intellij-idea-ultimate-edition-jre
 intltool
 iproute2
 iptables-nft
@@ -1483,6 +1486,7 @@ nano
 nasm
 nautilus
 ncurses
+ncurses5-compat-libs
 ndctl
 neofetch
 neon
@@ -2184,6 +2188,7 @@ totem-pl-parser
 traceroute
 tracker3
 tracker3-miners
+translate-shell
 trash-cli
 tree-sitter
 trojan
