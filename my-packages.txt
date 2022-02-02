@@ -266,7 +266,7 @@ elisa 21.12.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.154121-1
+emacs-git 29.0.50.154143-1
 embree 3.13.2-2
 enca 1.19-4
 enchant 2.3.2-1
@@ -408,7 +408,7 @@ go 2:1.17.6-2
 gobject-introspection 1.70.0-5
 gobject-introspection-runtime 1.70.0-5
 godot 3.4.2-2
-google-chrome 97.0.4692.99-1
+google-chrome 98.0.4758.80-1
 google-glog 0.5.0-2
 gopls 0.7.5-1
 goverlay 0.7.1-1
@@ -1061,6 +1061,7 @@ libdbusmenu-qt5 0.9.3+16.04.20160218-6
 libdc1394 2.2.6-2
 libdca 0.0.7-1
 libde265 1.0.8-1
+libdispatch 5.5.0-1
 libdmtx 0.7.5-2
 libdrm 2.4.109-1
 libdv 1.0.0-9
@@ -1283,7 +1284,7 @@ libtar 1.2.20-6
 libtasn1 4.18.0-1
 libteam 1.31-5
 libtermkey 0.22-2
-libtg_owt 0.git10.6708e0d-2
+libtg_owt 0.git11.1fd131d-1
 libthai 0.1.29-1
 libtheora 1.1.1-5
 libtiff 4.3.0-1
@@ -1552,7 +1553,7 @@ new-session-manager 1.5.3-1
 nftables 1:1.0.1-3
 nginx 1.20.2-1
 nginx-src 1.20.2-1
-ngspice 35-1
+ngspice 36-1
 nilfs-utils 2.2.8-2
 nim 1.4.8-1
 nimble 1:0.13.1-1
@@ -1996,7 +1997,7 @@ rasqal 1:0.9.33-4
 rav1e 0.4.1-1
 rclone 1.57.0-2
 rclone-browser 1.8.0-1
-re2 1:20211101-1
+re2 1:20220201-1
 read-edid 3.0.2-3
 readline 8.1.001-1
 reaper-bin 6.46-1
@@ -2122,7 +2123,7 @@ steam-native-runtime 1.0.0.70-2
 step 21.12.1-1
 stk 4.6.2-1
 subversion 1.14.1-5
-sudo 1.9.8.p2-3
+sudo 1.9.9-1
 suil 0.10.10-2
 suitesparse 5.10.1-2
 sunloginclient 11.0.0.36662-3
@@ -2148,7 +2149,7 @@ tdb 1.4.6-1
 tdlib 0.5.0-4
 teamspeak3 3.5.6-2
 teamspeak3-server 3.13.6-1
-telegram-desktop 3.4.8-1
+telegram-desktop 3.5.0-1
 telepathy-accounts-signon 2.1-2
 telepathy-farstream 0.6.2-7
 telepathy-glib 0.24.2-2
@@ -2236,7 +2237,7 @@ utools 2.5.2-1
 v2ray 4.44.0-1
 v2ray-domain-list-community 20220124140856-1
 v2ray-geoip 202201270031-1
-v2raya 1.5.6.1-1
+v2raya 1.5.6.2-1
 v4l-utils 1.22.1-1
 v4l2loopback-dkms 0.12.5-2
 vala 0.54.6-1
@@ -2399,7 +2400,7 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.5-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.3-1
-xray-domain-list-community 20220124140856-1
+xray-domain-list-community 20220201175515-1
 xray-geoip 202201270031-1
 xsel 1.2.0.20200527-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1

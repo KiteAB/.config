@@ -1061,6 +1061,7 @@ libdbusmenu-qt5
 libdc1394
 libdca
 libde265
+libdispatch
 libdmtx
 libdrm
 libdv
