@@ -1606,6 +1606,7 @@ openexr
 openimagedenoise
 openimageio
 openjpeg2
+openldap
 openmpi
 openresolv
 openrgb
@@ -2054,6 +2055,7 @@ rustup
 samba
 sane
 sbc
+schroedinger
 scons
 scrcpy
 screen
@@ -2226,6 +2228,7 @@ unicode-cldr
 unicode-cldr-annotations
 unicode-emoji
 unityhub
+unixodbc
 unzip
 upower
 usbmuxd
