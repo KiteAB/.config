@@ -6,7 +6,7 @@ accountsservice 22.04.62-2
 acl 2.3.1-2
 acorn 1:8.7.0-1
 acpi 1.7-3
-acpi_call-lts 1.2.2-15
+acpi_call-lts 1.2.2-17
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-2
@@ -76,7 +76,7 @@ asciinema 2.1.0-2
 asio 1.20.0-1
 asp 8-1
 aspell 0.60.8-2
-assimp 5.1.4-1
+assimp 5.2.0-1
 at-spi2-atk 2.38.0-1
 at-spi2-core 2.42.0-1
 atk 2.36.0-1
@@ -147,7 +147,7 @@ bullet 3.21-2
 bzip2 1.0.8-4
 c-ares 1.18.1-1
 ca-certificates 20210603-1
-ca-certificates-mozilla 3.74-1
+ca-certificates-mozilla 3.75-1
 ca-certificates-utils 20210603-1
 cabextract 1.9.1-2
 cairo 1.17.4-5
@@ -232,7 +232,7 @@ dnssec-anchors 20190629-3
 docbook-xml 4.5-9
 docbook-xsl 1.79.2-7
 docker 1:20.10.12-1
-dolphin 21.12.2-1
+dolphin 21.12.2.1-1
 dolphin-plugins 21.12.2-1
 dosbox 0.74.3-2
 dosfstools 4.2-2
@@ -266,7 +266,7 @@ elisa 21.12.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.154233-1
+emacs-git 29.0.50.154264-1
 embree 3.13.2-2
 enca 1.19-4
 enchant 2.3.2-1
@@ -289,17 +289,17 @@ fakeroot 1.27-1
 farstream 0.2.9-3
 faudio 22.01-1
 fcitx5 5.0.14-1
-fcitx5-anthy 5.0.8-1
+fcitx5-anthy 5.0.9-1
 fcitx5-breeze 1.0.0-1
-fcitx5-chewing 5.0.8-1
-fcitx5-chinese-addons 5.0.10-1
-fcitx5-configtool 5.0.10-1
-fcitx5-gtk 5.0.11-1
+fcitx5-chewing 5.0.9-1
+fcitx5-chinese-addons 5.0.11-1
+fcitx5-configtool 5.0.11-1
+fcitx5-gtk 5.0.12-1
 fcitx5-material-color 0.2.1-1
 fcitx5-pinyin-moegirl 20220114-1
 fcitx5-pinyin-zhwiki 1:0.2.3.20220127-1
-fcitx5-qt 5.0.9-1
-fcitx5-rime 5.0.10-1
+fcitx5-qt 5.0.10-1
+fcitx5-rime 5.0.11-1
 fd 8.3.2-1
 feh 3.8-1
 ffmpeg 2:4.4.1-1
@@ -313,7 +313,7 @@ filebrowser-bin 2.20.1-1
 filelight 21.12.2-1
 filesystem 2021.12.07-1
 filezilla 3.57.0-2
-findutils 4.8.0-1
+findutils 4.9.0-1
 fingerprint-gui 1.09-7
 firefox-appmenu 96.0.3-1
 firewalld 1.0.3-2
@@ -335,7 +335,7 @@ freeglut 3.2.1-2
 freeimage 3.18.0-12
 freerdp 2:2.5.0-1
 freetype2 2.11.1-1
-frei0r-plugins 1.7.0-1
+frei0r-plugins 1.7.0-2
 fribidi 1.0.11-1
 frpc 0.38.0-1
 frps 0.38.0-1
@@ -367,7 +367,7 @@ geocode-glib 3.26.2-1
 geoip 1.6.12-2
 geoip-database 20220125-1
 gettext 0.21-1
-gflags 2.2.2-2
+gflags 2.2.2-3
 ghostpcl 9.55.0-4
 ghostscript 9.55.0-4
 ghostxps 9.55.0-4
@@ -375,7 +375,7 @@ giblib 1.2.4-8
 giflib 5.2.1-2
 gimp 2.10.30-1
 git 2.35.1-1
-git-delta-git 0.12.0.20220125-3
+git-delta 0.11.3-1
 git-lfs 3.0.2-1
 github-cli 2.5.0-1
 gl2ps 1.4.2-2
@@ -475,8 +475,8 @@ gv 3.7.4-5
 gvfs 1.48.1-1
 gwenview 21.12.2-1
 gzip 1.11-1
-harfbuzz 3.3.1-1
-harfbuzz-icu 3.3.1-1
+harfbuzz 3.3.2-1
+harfbuzz-icu 3.3.2-1
 harmonyos-sans-git r4.b226381-1
 harvid 0.8.3-2
 hdf5 1.12.1-1
@@ -488,14 +488,14 @@ hiredis 1.0.2-1
 hmcl-bin 3.5.2.218-1
 htop 3.1.2-1
 http-parser 2.9.4-1
-hugo 0.92.0-1
+hugo 0.92.1-1
 hunspell 1.7.0-3
 hwdata 0.355-1
 hwinfo 21.80-1
 hwloc 2.7.0-1
 hyphen 2.8.8-3
 i2c-tools 4.3-3
-i3lock-color-git r900.ac6b471-1
+i3lock-color-git r901.380a10a-1
 iana-etc 20220110-1
 ibam 0.5.2-9
 icoutils 0.32.3-3
@@ -851,7 +851,7 @@ lib32-gst-plugins-base-libs 1.18.4-1
 lib32-gstreamer 1.18.5-1
 lib32-gtk2 2.24.33-1
 lib32-gtk3 3.24.31-1
-lib32-harfbuzz 3.3.1-1
+lib32-harfbuzz 3.3.2-1
 lib32-icu 70.1-1
 lib32-imlib2 1.7.5-1
 lib32-jack2 1.9.20-3
@@ -967,7 +967,7 @@ lib32-mpg123 1.29.3-1
 lib32-ncurses 6.3-1
 lib32-nettle 3.7.3-1
 lib32-nspr 4.33-1
-lib32-nss 3.74-1
+lib32-nss 3.75-1
 lib32-ocl-icd 2.3.1-1
 lib32-openal 1.21.1-2
 lib32-opencl-mesa 21.3.5-1
@@ -1034,8 +1034,8 @@ libbytesize 2.6-3
 libcaca 0.99.beta20-1
 libcacard 2.7.0-2
 libcanberra 0.30+2+gc0620e4-5
-libcap 2.63-1
-libcap-ng 0.8.2-6
+libcap 2.63-2
+libcap-ng 0.8.2-7
 libcddb 1.3.2-6
 libcdio 2.1.0-2
 libcdio-paranoia 10.2+2.0.1-2
@@ -1210,7 +1210,7 @@ libnl 3.5.0-3
 libnm 1.34.0-1
 libnma 1.8.34-1
 libnotify 0.7.9-2
-libnsl 2.0.0-1
+libnsl 2.0.0-2
 libnumbertext 1.0.8-1
 libodfgen 0.1.8-1
 libofa 0.9.3-9
@@ -1223,7 +1223,7 @@ libotr 4.1.1-3
 libp11-kit 0.24.1-1
 libpagemaker 0.0.4-2
 libpaper 1.1.28-1
-libpcap 1.10.1-1
+libpcap 1.10.1-2
 libpciaccess 0.16-2
 libpeas 1.30.0-3
 libpgm 5.3.128-1
@@ -1272,7 +1272,7 @@ libsoxr 0.1.3-2
 libspectre 0.2.9-2
 libspeechd 0.11.1-1
 libspiro 1:20200505-2
-libspnav 0.2.3-3
+libspnav 0.3-1
 libsrtp 1:2.4.2-1
 libssh 0.9.6-1
 libssh2 1.10.0-1
@@ -1382,8 +1382,8 @@ lilv 0.24.12-4
 linux-api-headers 5.12.3-1
 linux-firmware 20220119.0c6a7b3-2
 linux-firmware-whence 20220119.0c6a7b3-2
-linux-lts 5.15.19-1
-linux-lts-headers 5.15.19-1
+linux-lts 5.15.21-1
+linux-lts-headers 5.15.21-1
 lirc 1:0.10.1-10
 lld 13.0.0-1
 lldb 13.0.0-2
@@ -1426,7 +1426,7 @@ mailcommon 21.12.2-1
 mailimporter 21.12.2-1
 make 4.3-3
 mallard-ducktype 1.0.2-8
-man-db 2.9.4-2
+man-db 2.10.0-1
 mangohud 0.6.6.1-1
 mangohud-common 0.6.6.1-1
 marble 21.12.2-1
@@ -1486,8 +1486,8 @@ mypaint-brushes1 1.3.1-1
 nano 6.0-1
 nasm 2.15.05-1
 nautilus 41.2-1
-ncurses 6.3-1
-ncurses5-compat-libs 6.2-1
+ncurses 6.3-2
+ncurses5-compat-libs 6.3-1
 ndctl 72.1-1
 neofetch 7.1.0-2
 neon 0.32.2-1
@@ -1572,10 +1572,10 @@ noto-fonts-extra 20201226-2
 npm 8.4.1-1
 npth 1.6-3
 nspr 4.33-1
-nss 3.74-1
+nss 3.75-1
 ntfs-3g 2021.8.22-1
 numactl 2.0.14-2
-nvidia-lts 1:510.47.03-2
+nvidia-lts 1:510.47.03-4
 nvidia-utils 510.47.03-3
 nvme-cli 1.16-2
 oath-toolkit 2.6.7-1
@@ -1818,7 +1818,7 @@ python-msgpack 1.0.3-1
 python-mypy_extensions 0.4.3-5
 python-nautilus 1.2.3-7
 python-nest-asyncio 1.5.4-2
-python-numpy 1.21.5-2
+python-numpy 1.22.2-1
 python-ordered-set 4.0.2-6
 python-packaging 20.9-7
 python-parso 1:0.8.2-3
@@ -1949,7 +1949,7 @@ qpdf 10.5.0-1
 qqc2-desktop-style 5.90.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
-qt5-3d 5.15.2+kde+r39-2
+qt5-3d 5.15.2+kde+r39-3
 qt5-base 5.15.2+kde+r297-1
 qt5-charts 5.15.2-2
 qt5-datavis3d 5.15.2-2
@@ -2178,7 +2178,7 @@ texinfo 6.8-2
 thefuck 3.32-1
 thin-provisioning-tools 0.9.0-1
 threadweaver 5.90.0-1
-thunderbird-appmenu 91.4.0-8
+thunderbird-appmenu 91.5.1-1
 tigervnc 1.12.0-1
 timeshift 21.09.1-3
 tinyxml 2.6.2-8
@@ -2214,6 +2214,7 @@ ttf-symbola 13.00-10
 ttf-ubuntu-font-family 0.83-7
 ttf-unifont 14.0.01-1
 twolame 0.4.0-2
+typespeed 0.6.5-8
 tzdata 2021e-1
 uchardet 0.0.7-1
 udftools 2.3-1
@@ -2230,7 +2231,7 @@ unicode-emoji 14.0-1
 unityhub 3.0.2-1
 unixodbc 2.3.9-1
 unzip 6.0-16
-upower 0.99.13-1
+upower 0.99.14-1
 usbmuxd 1.1.1-1
 usbredir 0.12.0-1
 usbutils 014-2

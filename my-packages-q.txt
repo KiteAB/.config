@@ -375,7 +375,7 @@ giblib
 giflib
 gimp
 git
-git-delta-git
+git-delta
 git-lfs
 github-cli
 gl2ps
@@ -2214,6 +2214,7 @@ ttf-symbola
 ttf-ubuntu-font-family
 ttf-unifont
 twolame
+typespeed
 tzdata
 uchardet
 udftools
