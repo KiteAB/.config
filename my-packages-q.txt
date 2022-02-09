@@ -637,6 +637,7 @@ keepass
 keepass-plugin-keeagent
 keepassxc
 kemoticons
+kexec-tools
 keyutils
 kfilemetadata
 kfind
@@ -1221,6 +1222,7 @@ libosinfo
 libotf
 libotr
 libp11-kit
+libpackagekit-glib
 libpagemaker
 libpaper
 libpcap
@@ -1379,7 +1381,10 @@ lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 lightly-qt
 lilv
+links
 linux-api-headers
+linux-dump
+linux-dump-headers
 linux-firmware
 linux-firmware-whence
 linux-lts
@@ -1425,6 +1430,7 @@ mailcap
 mailcommon
 mailimporter
 make
+makedumpfile
 mallard-ducktype
 man-db
 mangohud
@@ -1460,6 +1466,7 @@ mixxx
 mjpegtools
 mkinitcpio
 mkinitcpio-busybox
+mlocate
 mlt
 mlt6
 mobile-broadband-provider-info
@@ -1628,7 +1635,10 @@ oxygen
 p11-kit
 p7zip
 package-query
+packagekit
+packagekit-qt5
 pacman
+pacman-contrib
 pacman-mirrorlist
 pacmanlogviewer
 pahole
@@ -1872,6 +1882,7 @@ python-six
 python-snowballstemmer
 python-sphinx
 python-sphinx-alabaster-theme
+python-sphinx_rtd_theme
 python-sphinxcontrib-applehelp
 python-sphinxcontrib-devhelp
 python-sphinxcontrib-htmlhelp
@@ -2349,6 +2360,7 @@ xfsprogs
 xjadeo
 xkeyboard-config
 xmlsec
+xmlto
 xmrig
 xorg-bdftopcf
 xorg-docs
