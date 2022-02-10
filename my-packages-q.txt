@@ -1217,6 +1217,7 @@ libodfgen
 libofa
 libogg
 libomxil-bellagio
+libopenmpt
 liborcus
 libosinfo
 libotf
@@ -1715,6 +1716,7 @@ plasma-sdk
 plasma-systemmonitor
 plasma-thunderbolt
 plasma-vault
+plasma-wayland-session
 plasma-workspace
 plasma-workspace-wallpapers
 polkit
