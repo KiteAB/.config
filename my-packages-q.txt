@@ -197,6 +197,7 @@ ctags
 cups
 cups-filters
 curl
+dash
 dav1d
 davfs2
 db
@@ -1384,8 +1385,6 @@ lightly-qt
 lilv
 links
 linux-api-headers
-linux-dump
-linux-dump-headers
 linux-firmware
 linux-firmware-whence
 linux-lts
