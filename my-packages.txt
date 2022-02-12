@@ -57,7 +57,7 @@ apr-util 1.6.1-9
 arandr 0.1.10-7
 arc-icon-theme 20161122-3
 arch-install-scripts 24-2
-archlinux-appstream-data 20220107-1
+archlinux-appstream-data 20220211-1
 archlinux-keyring 20220125-1
 archlinuxcn-keyring 20220128-1
 arctime 3.1.1-1
@@ -76,7 +76,7 @@ asciinema 2.1.0-2
 asio 1.20.0-1
 asp 8-1
 aspell 0.60.8-2
-assimp 5.2.0-1
+assimp 5.2.1-1
 at-spi2-atk 2.38.0-1
 at-spi2-core 2.42.0-1
 atk 2.36.0-1
@@ -90,7 +90,7 @@ audiocd-kio 21.12.2-1
 audiofile 0.3.6-6
 audit 3.0.7-1
 autoconf 2.71-1
-autoconf-archive 1:2021.02.19-4
+autoconf-archive 1:2022.02.11-1
 automake 1.16.5-1
 avahi 0.8+22+gfd482a7-3
 avogadro-crystals 1.0.1-1
@@ -267,8 +267,8 @@ elisa 21.12.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.154367-1
-embree 3.13.2-2
+emacs-git 29.0.50.154381-1
+embree 3.13.3-1
 enca 1.19-4
 enchant 2.3.2-1
 epherome 0.3.2-1
@@ -302,7 +302,7 @@ fcitx5-pinyin-zhwiki 1:0.2.3.20220127-1
 fcitx5-qt 5.0.10-1
 fcitx5-rime 5.0.11-1
 fd 8.3.2-1
-feh 3.8-1
+feh 3.8-2
 ffmpeg 2:4.4.1-1
 ffmpegthumbs 21.12.2-1
 ffms2 2.40-1
@@ -313,14 +313,14 @@ file 5.41-1
 filebrowser-bin 2.20.1-1
 filelight 21.12.2-1
 filesystem 2021.12.07-1
-filezilla 3.57.0-2
+filezilla 3.58.0-1
 findutils 4.9.0-1
 fingerprint-gui 1.09-7
 firefox-appmenu 96.0.3-2
 firewalld 1.0.3-2
 flac 1.3.3-3
 flameshot 11.0.0-4
-flatpak 1.12.4-1
+flatpak 1.12.5-1
 flex 2.6.4-3
 flite 2.2-1
 fltk 1.3.8-1
@@ -456,11 +456,11 @@ gstreamer 1.20.0-1
 gstreamer-vaapi 1.20.0-1
 gtest 1.11.0-3
 gtk-doc 1.33.2-1
-gtk-update-icon-cache 1:4.6.0-3
+gtk-update-icon-cache 1:4.6.1-1
 gtk-vnc 1.3.0-1
 gtk2 2.24.33-2
-gtk3 1:3.24.31-1
-gtk4 1:4.6.0-3
+gtk3 1:3.24.31-2
+gtk4 1:4.6.1-1
 gtkmm 1:2.24.5-4
 gtkmm3 3.24.5-2
 gtksourceview4 4.8.2-1
@@ -489,7 +489,7 @@ hiredis 1.0.2-1
 hmcl-bin 3.5.2.218-1
 htop 3.1.2-1
 http-parser 2.9.4-1
-hugo 0.92.1-1
+hugo 0.92.2-1
 hunspell 1.7.0-3
 hwdata 0.356-1
 hwinfo 21.80-1
@@ -976,7 +976,7 @@ lib32-opencl-mesa 21.3.5-1
 lib32-opencl-nvidia 510.47.03-1
 lib32-openssl 1:1.1.1.m-1
 lib32-openssl-1.0 1.0.2.u-1
-lib32-opus 1.3.1-1
+lib32-opus 1.3.1-2
 lib32-orc 0.4.32-1
 lib32-p11-kit 0.24.1-1
 lib32-pam 1.5.2-1
@@ -1016,7 +1016,7 @@ libaec 1.0.6-1
 libaio 0.3.112-2
 libakonadi 21.12.2-1
 libappindicator-gtk3 12.10.0.r296-1
-libarchive 3.5.3-2
+libarchive 3.6.0-1
 libass 0.15.2-1
 libassuan 2.5.5-1
 libasyncns 0.8+3+g68cd5af-3
@@ -1183,7 +1183,7 @@ libmfx 21.3.5-2
 libmicrodns 0.2.0-1
 libmicrohttpd 0.9.75-1
 libmikmod 3.3.11.1-4
-libmm-glib 1.18.4-1
+libmm-glib 1.18.6-1
 libmms 0.6.4-3
 libmng 2.0.3-3
 libmnl 1.0.4-3
@@ -1244,7 +1244,7 @@ libpsl 0.21.1-1
 libpulse 15.0-1
 libqaccessibilityclient 0.4.1-2
 libqalculate 3.22.0-1
-libqmi 1.30.2-1
+libqmi 1.30.4-1
 libqrtr-glib 1.2.0-1
 libquicktime 1.2.4-26
 libquvi 0.9.4-6
@@ -1264,7 +1264,7 @@ libsasl 2.1.27-3
 libseccomp 2.5.3-3
 libsecret 0.20.4-1
 libshout 1:2.4.5-1
-libsigc++ 2.10.7-2
+libsigc++ 2.10.8-1
 libsignon-glib 2.1-5
 libslirp 4.6.1-1
 libsm 1.2.3-2
@@ -1470,7 +1470,7 @@ mlocate 0.26.git.20170220-7
 mlt 7.4.0-2
 mlt6 6.26.1-8
 mobile-broadband-provider-info 20210805-1
-modemmanager 1.18.4-1
+modemmanager 1.18.6-1
 modemmanager-qt 5.90.0-1
 molequeue 0.9.0-2
 monero 0.17.3.0-3
@@ -1624,7 +1624,7 @@ openssl-1.0 1.0.2.u-1
 opensubdiv 3.4.4-9
 openvdb 9.0.0-9
 openxr 1.0.22-1
-opus 1.3.1-2
+opus 1.3.1-3
 opusfile 0.12-1
 orc 0.4.32-1
 os-prober 1.79-1
@@ -1962,7 +1962,7 @@ qqc2-desktop-style 5.90.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
 qt5-3d 5.15.2+kde+r39-3
-qt5-base 5.15.2+kde+r297-1
+qt5-base 5.15.2+kde+r297-2
 qt5-charts 5.15.2-2
 qt5-datavis3d 5.15.2-2
 qt5-declarative 5.15.2+kde+r46-1
@@ -1991,7 +1991,7 @@ qt5-x11extras 5.15.2-2
 qt5-xmlpatterns 5.15.2-2
 qt5pas 2.6.2.2.0-1
 qt6-5compat 6.2.3-2
-qt6-base 6.2.3-4
+qt6-base 6.2.3-5
 qt6-declarative 6.2.3-2
 qt6-imageformats 6.2.3-2
 qt6-svg 6.2.3-2
@@ -2013,7 +2013,7 @@ rclone-browser 1.8.0-1
 re2 1:20220201-1
 read-edid 3.0.2-3
 readline 8.1.002-1
-reaper-bin 6.46-1
+reaper-bin 6.47-1
 recode 3.7.11-1
 recordmydesktop 0.4.0-1
 redland 1:1.0.17-8
@@ -2125,7 +2125,7 @@ speex 1.2.0-3
 speexdsp 1.2.0-2
 spglib 1.16.3-1
 spice 0.15.0-1
-spice-gtk 0.39-3
+spice-gtk 0.39-4
 spirv-tools 2021.4-1
 sqlite 3.37.2-1
 sratom 0.6.8-3
@@ -2354,7 +2354,7 @@ xf86-video-qxl 0.1.5.r16.g52c421c-2
 xf86-video-vesa 2.5.0-2
 xf86-video-vmware 13.3.0-3
 xf86-video-voodoo 1.2.5-12
-xfce4-notifyd 0.6.2-2
+xfce4-notifyd 0.6.3-1
 xfce4-power-manager 4.16.0-3
 xfconf 4.16.0-2
 xfsprogs 5.14.2-1
@@ -2417,7 +2417,7 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.5-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.3-1
-xray-domain-list-community 20220211015200-1
+xray-domain-list-community 20220212015800-1
 xray-geoip 202202100032-1
 xsel 1.2.0.20200527-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
