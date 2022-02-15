@@ -135,6 +135,7 @@ botan
 bovo
 box2d
 breeze
+breeze-grub
 breeze-gtk
 breeze-icons
 breezy
@@ -1093,7 +1094,6 @@ libfprint-1
 libfreeaptx
 libfreehand
 libftdi
-libgccjit
 libgcrypt
 libgcrypt15
 libgdiplus
@@ -1416,6 +1416,7 @@ lua52-luajson
 lua52-socket
 lua53
 luajit
+luit
 lutris
 lv2
 lvm2
@@ -1493,6 +1494,7 @@ mypaint-brushes1
 nano
 nasm
 nautilus
+ncompress
 ncurses
 ncurses5-compat-libs
 ndctl
@@ -1591,6 +1593,7 @@ ocaml
 ocaml-compiler-libs
 ocaml-csexp
 ocaml-findlib
+ocaml-pp
 ocaml-result
 ocl-icd
 okular
@@ -1709,6 +1712,7 @@ plasma-disks
 plasma-firewall
 plasma-framework
 plasma-integration
+plasma-meta
 plasma-nm
 plasma-pa
 plasma-sdk
@@ -2320,6 +2324,7 @@ x86_energy_perf_policy
 xapian-core
 xapp
 xaw3d
+xbitmaps
 xboxdrv-git
 xcb-imdkit
 xcb-proto
@@ -2331,6 +2336,7 @@ xcb-util-renderutil
 xcb-util-wm
 xcb-util-xrm
 xclip
+xdelta3
 xdg-dbus-proxy
 xdg-desktop-portal
 xdg-desktop-portal-kde
@@ -2421,6 +2427,7 @@ xray-domain-list-community
 xray-geoip
 xsel
 xtensa-lx106-elf-gcc-bin
+xterm
 xvidcore
 xxhash
 xz
