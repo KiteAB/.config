@@ -18,6 +18,8 @@ zmodule zsh-users/zsh-autosuggestions
 zmodule zsh-users/zsh-completions
 
 # Themes
-#zmodule magicmace
-zmodule gitster
+zmodule magicmace
+#zmodule gitster
+zmodule prompt-pwd
 zmodule zdharma/fast-syntax-highlighting
+#zmodule zsh-users/zsh-syntax-highlighting
