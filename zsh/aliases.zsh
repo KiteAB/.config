@@ -51,3 +51,5 @@ alias chmodesp='sudo chmod 777 /dev/ttyUSB0'
 # alias lt='exa --tree --icons --color=always'
 # alias ll='exa --icons --color=always --long'
 # alias l='exa --icons --color=always --long --all'
+
+alias roll='java -jar /home/kiteab/kotlin/DailyRecommendation/out/artifacts/DailyRecommendation_jar/DailyRecommendation.jar && paru'
