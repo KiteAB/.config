@@ -114,6 +114,7 @@ bashtop
 bat
 bc
 bdf-unifont
+beatoraja-modernchic
 bilibili-live-helper-bin
 binutils
 bison
@@ -348,6 +349,7 @@ fuse2
 fuse3
 fzf
 gamemode
+gamescope
 gavl
 gawk
 gc
@@ -510,6 +512,7 @@ imlib2
 incidenceeditor
 iniparser
 inkscape
+innoextract
 intellij-idea-community-edition
 intellij-idea-ultimate-edition
 intellij-idea-ultimate-edition-jre
@@ -839,6 +842,7 @@ lib32-fontconfig
 lib32-freeglut
 lib32-freetype2
 lib32-fribidi
+lib32-gamemode
 lib32-gcc-libs
 lib32-gdk-pixbuf2
 lib32-gettext
@@ -1039,6 +1043,7 @@ libcacard
 libcanberra
 libcap
 libcap-ng
+libcbor
 libcddb
 libcdio
 libcdio-paranoia
@@ -1087,6 +1092,7 @@ libexttextcat
 libfakekey
 libfdk-aac
 libffi
+libfido2
 libfilezilla
 libfontenc
 libfprint
@@ -1168,6 +1174,7 @@ libktorrent
 liblangtag
 libldac
 libldap
+libliftoff
 liblo
 liblouis
 liblqr
@@ -1340,6 +1347,7 @@ libxaw
 libxcb
 libxcomposite
 libxcrypt
+libxcrypt-compat
 libxcursor
 libxcvt
 libxdamage
@@ -1417,7 +1425,7 @@ lua52-socket
 lua53
 luajit
 luit
-lutris
+lutris-git
 lv2
 lvm2
 lxappearance
@@ -1824,6 +1832,7 @@ python-jupyter_client
 python-jupyter_core
 python-language-server
 python-lxml
+python-magic
 python-mako
 python-markdown
 python-markupsafe
@@ -2093,6 +2102,7 @@ sdl_net
 sdl_sound
 sdl_ttf
 seabios
+seatd
 sed
 semver
 serd
@@ -2306,6 +2316,7 @@ wine-valve
 winetricks
 wireless-regdb
 wl-clipboard
+wlroots
 wmctrl
 woff2
 wol
@@ -2330,6 +2341,7 @@ xcb-imdkit
 xcb-proto
 xcb-util
 xcb-util-cursor
+xcb-util-errors
 xcb-util-image
 xcb-util-keysyms
 xcb-util-renderutil
