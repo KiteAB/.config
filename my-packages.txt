@@ -6,7 +6,7 @@ accountsservice 22.04.62-2
 acl 2.3.1-2
 acorn 1:8.7.0-1
 acpi 1.7-3
-acpi_call-lts 1.2.2-21
+acpi_call-lts 1.2.2-22
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-2
@@ -29,7 +29,7 @@ akonadiconsole 21.12.2-1
 akregator 21.12.2-1
 alacritty 0.10.0-2
 alembic 1.8.3-2
-alsa-card-profiles 1:0.3.45-1
+alsa-card-profiles 1:0.3.46-1
 alsa-firmware 1.2.4-2
 alsa-lib 1.2.6.1-1
 alsa-oss 1.1.8-4
@@ -180,12 +180,12 @@ cmake 3.22.2-1
 cmatrix 2.0-2
 code-server 4.0.2-0
 cogl 1.22.8-1
-colord 1.4.5-4
+colord 1.4.6-1
 com.qq.im.deepin 9.3.2-21
 com.qq.tim.spark 3.3.5.22018spark0-1
 compiler-rt 13.0.1-1
 confuse 3.3-3
-containerd 1.5.9-2
+containerd 1.6.0-2
 convertlit 1.8-10
 coordgen 3.0.0-1
 coreutils 9.0-2
@@ -269,7 +269,7 @@ elisa 21.12.2-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.154454-1
+emacs-git 29.0.50.154470-1
 embree 3.13.3-1
 enca 1.19-4
 enchant 2.3.2-1
@@ -349,7 +349,7 @@ fuse2 2.9.9-4
 fuse3 3.10.5-1
 fzf 0.29.0-1
 gamemode 1.6.1-1
-gamescope 3.11.0beta6-1
+gamescope 3.11.21-1
 gavl 1.4.0-5
 gawk 5.1.1-1
 gc 8.2.0-2
@@ -380,7 +380,7 @@ giflib 5.2.1-2
 gimp 2.10.30-1
 git 2.35.1-1
 git-delta 0.12.0-1
-git-lfs 3.0.2-1
+git-lfs 3.1.2-1
 github-cli 2.5.1-1
 gl2ps 1.4.2-2
 glew 2.2.0-2
@@ -485,7 +485,7 @@ harmonyos-sans-git r4.b226381-1
 harvid 0.8.3-2
 hdf5 1.12.1-1
 hdparm 9.63-2
-help2man 1.48.5-1
+help2man 1.49.1-1
 hicolor-icon-theme 0.17-2
 hidapi 0.11.2-1
 hiredis 1.0.2-1
@@ -506,7 +506,7 @@ icoutils 0.32.3-3
 icu 70.1-1
 id3lib 3.8.3-18
 ijs 0.35-3
-imagemagick 7.1.0.24-1
+imagemagick 7.1.0.25-1
 imath 3.1.4-1
 imlib2 1.8.0-1
 incidenceeditor 21.12.2-1
@@ -534,6 +534,7 @@ jack_utils 0.0.1-1
 jansson 2.14-1
 jasper 2.0.33-1
 java-environment-common 3-3
+java-openjfx 17.0.0.1.u1-1
 java-runtime-common 3-3
 java11-openjfx 11.0.14.u2-1
 java8-openjfx 8.u202-3
@@ -603,7 +604,7 @@ kconfigwidgets 5.91.0-1
 kcontacts 1:5.91.0-1
 kcoreaddons 5.91.0-1
 kcrash 5.91.0-1
-kcron 21.12.2-1
+kcron 21.12.2-2
 kdav 1:5.91.0-1
 kdbusaddons 5.91.0-1
 kde-cli-tools 5.24.1-1
@@ -1053,7 +1054,7 @@ libchewing 0.5.1-4
 libclc 13.0.0-1
 libcloudproviders 0.3.1-2
 libcmis 0.5.2-9
-libcolord 1.4.5-4
+libcolord 1.4.6-1
 libconfig 1.7.3-1
 libcroco 0.6.13-2
 libcue 2.2.1-2
@@ -1374,7 +1375,7 @@ libxrandr 1.5.2-3
 libxrender 0.9.10-4
 libxres 1.2.1-1
 libxshmfence 1.3-2
-libxslt 1.1.34-6
+libxslt 1.1.35-1
 libxss 1.2.3-3
 libxt 1.2.1-1
 libxtst 1.2.3-4
@@ -1395,8 +1396,8 @@ links 2.25-1
 linux-api-headers 5.16.8-1
 linux-firmware 20220209.6342082-1
 linux-firmware-whence 20220209.6342082-1
-linux-lts 5.15.23-2
-linux-lts-headers 5.15.23-2
+linux-lts 5.15.24-1
+linux-lts-headers 5.15.24-1
 lirc 1:0.10.1-12
 lld 13.0.1-1
 lldb 13.0.1-1
@@ -1411,7 +1412,7 @@ lokalize 21.12.2-1
 lolcat 100.0.1-1
 lpsolve 5.5.2.11-1
 lrzsz 0.12.20-8
-lsb-release 1.4-18
+lsb-release 2.0.r48.3cf5103-1
 lsd 0.21.0-1
 lskat 21.12.2-1
 lsof 4.94.0-1
@@ -1425,7 +1426,7 @@ lua52-socket 20200329-1
 lua53 5.3.6-1
 luajit 2.1.0.beta3.r384.g1d7b5029-1
 luit 20210218-1
-lutris-git 0.5.10.beta1.r8.g7453cdb5-1
+lutris-git 0.5.10.beta1.r21.g436e52c6-1
 lv2 1.18.2-1
 lvm2 2.03.15-1
 lxappearance 0.6.3-4
@@ -1578,7 +1579,7 @@ ninja 1.10.2-1
 nm-connection-editor 1.24.0-1
 nmap 7.92-1
 node-gyp 8.4.1-1
-nodejs 17.3.1-1
+nodejs 17.4.0-1
 nodejs-nopt 5.0.0-2
 nodemcu-pyflasher 5.0.0-1
 noto-fonts 20201226-2
@@ -1592,7 +1593,7 @@ nspr 4.33-1
 nss 3.75-1
 ntfs-3g 2021.8.22-1
 numactl 2.0.14-2
-nvidia-lts 1:510.54-1
+nvidia-lts 1:510.54-2
 nvidia-utils 510.54-1
 nvme-cli 1.16-2
 oath-toolkit 2.6.7-1
@@ -1702,14 +1703,14 @@ perl-xml-writer 0.625-7
 phodav 2.5-1
 phonon-qt5 4.11.1-3
 phonon-qt5-gstreamer 4.10.0-3
-php 8.1.2-1
+php 8.1.3-1
 picmi 21.12.2-1
 picom 9.1-2
 pim-data-exporter 21.12.2-1
 pim-sieve-editor 21.12.2-1
 pimcommon 21.12.2-1
 pinentry 1.2.0-1
-pipewire 1:0.3.45-1
+pipewire 1:0.3.46-1
 pipewire-media-session 1:0.4.1-1
 pixman 0.40.0-1
 pkgconf 1.8.0-1
@@ -1883,7 +1884,7 @@ python-qrcode 7.3.1-1
 python-qtconsole 5.2.2-1
 python-qtpy 1.11.2-3
 python-reedsolo 1.5.4-4
-python-requests 2.27.0-1
+python-requests 2.27.1-1
 python-resolvelib 0.5.5-4
 python-retrying 1.3.3-13
 python-setuptools 1:59.3.0-1
@@ -1970,12 +1971,12 @@ qemu-block-iscsi 6.2.0-2
 qemu-block-rbd 6.2.0-2
 qgpgme 1.17.0-2
 qhull 2020.2-4
-qpdf 10.6.1-1
+qpdf 10.6.2-1
 qqc2-desktop-style 5.91.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
 qt5-3d 5.15.2+kde+r39-3
-qt5-base 5.15.2+kde+r298-1
+qt5-base 5.15.2+kde+r300-1
 qt5-charts 5.15.2-2
 qt5-datavis3d 5.15.2-2
 qt5-declarative 5.15.2+kde+r46-1
@@ -2204,7 +2205,7 @@ texinfo 6.8-2
 thefuck 3.32-1
 thin-provisioning-tools 0.9.0-1
 threadweaver 5.91.0-1
-thunderbird-appmenu 91.6.0-2
+thunderbird-appmenu 91.6.0-3
 tigervnc 1.12.0-1
 timeshift 21.09.1-3
 tinyxml 2.6.2-8
@@ -2256,7 +2257,7 @@ unicode-cldr-annotations 38.0-2
 unicode-emoji 14.0-1
 unityhub 3.0.2-1
 unixodbc 2.3.9-1
-unzip 6.0-16
+unzip 6.0-18
 upower 0.99.15-1
 usbmuxd 1.1.1-1
 usbredir 0.12.0-1
@@ -2265,7 +2266,7 @@ util-linux 2.37.4-1
 util-linux-libs 2.37.4-1
 utools 2.5.2-1
 v2ray 4.44.0-1
-v2ray-domain-list-community 20220215015157-1
+v2ray-domain-list-community 20220216081347-1
 v2ray-geoip 202202100032-1
 v2raya 1.5.6.2-1
 v4l-utils 1.22.1-1
@@ -2435,8 +2436,8 @@ xorg-xwud 1.0.5-2
 xorgproto 2021.5-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.3-1
-xray-domain-list-community 20220215015157-1
-xray-geoip 202202100032-1
+xray-domain-list-community 20220216081347-1
+xray-geoip 202202170030-1
 xsel 1.2.0.20200527-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
 xterm 370-2

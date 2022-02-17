@@ -534,6 +534,7 @@ jack_utils
 jansson
 jasper
 java-environment-common
+java-openjfx
 java-runtime-common
 java11-openjfx
 java8-openjfx
