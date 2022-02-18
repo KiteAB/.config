@@ -245,6 +245,7 @@ dotnet-sdk
 dotnet-targeting-pack
 double-conversion
 doxygen
+draco
 drkonqi
 dtc
 dune
@@ -306,6 +307,7 @@ fcitx5-rime
 fd
 feh
 ffmpeg
+ffmpeg4.4
 ffmpegthumbs
 ffms2
 ffnvcodec-headers
