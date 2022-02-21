@@ -244,10 +244,12 @@ dotnet-runtime
 dotnet-sdk
 dotnet-targeting-pack
 double-conversion
+downgrade
 doxygen
 draco
 drkonqi
 dtc
+duf
 dune
 dvdauthor
 dvgrab
@@ -414,6 +416,7 @@ go
 gobject-introspection
 gobject-introspection-runtime
 godot
+golly
 google-chrome
 google-glog
 gopls
@@ -1350,7 +1353,6 @@ libxaw
 libxcb
 libxcomposite
 libxcrypt
-libxcrypt-compat
 libxcursor
 libxcvt
 libxdamage
@@ -2029,7 +2031,6 @@ rclone-browser
 re2
 read-edid
 readline
-reaper-bin
 recode
 recordmydesktop
 redland
@@ -2157,7 +2158,6 @@ subversion
 sudo
 suil
 suitesparse
-sunloginclient
 svgpart
 svt-av1
 svt-hevc
@@ -2330,6 +2330,7 @@ wqy-microhei
 wqy-microhei-lite
 wqy-zenhei
 wxgtk-common
+wxgtk2
 wxgtk3
 x11vnc
 x264
