@@ -1,6 +1,6 @@
 # My .config
 
-#### Hello, there are my config file. (I'm a Colemak user.)
+#### Hello, there are my config file. (I'm a Colemak user.) **Based On [Repo](https://github.com/theniceboy/.config)**
 
 #### Effect ([dwm](https://github.com/KiteAB/dwm) and [nvim](https://github.com/KiteAB/nvim)):
 
