@@ -6,11 +6,7 @@ git:
   skiphookprefix: WIP
   paging:
     colorArg: always
-    pager: delta --dark --paging=never --24-bit-color=never --theme="OneHalfDark"
-  commitPrefixes:
-    my_project: # This is repository folder name
-      pattern: "^\\w+\\/(\\w+-\\w+)"
-      replace: "[$1] "
+    pager: delta --dark --paging=never --24-bit-color=never --syntax-theme="OneHalfDark"
 gui:
   commitlength:
     show: true
@@ -35,6 +31,7 @@ splashupdatesindex: 0
 startuppopupversion: 1
 keybinding:
   universal:
+    quit-alt1: '<esc>'
     prevItem-alt: 'u'
     nextItem-alt: 'e'
     prevBlock-alt: 'n'
