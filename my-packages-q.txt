@@ -101,6 +101,7 @@ avr-binutils
 avr-gcc
 avr-libc
 avrdude
+awesome
 awesome-terminal-fonts
 axel
 babl
@@ -143,6 +144,7 @@ breezy
 bridge-utils
 brltty
 brotli
+bspwm
 btrfs-progs
 bubblewrap
 bullet
@@ -154,6 +156,7 @@ ca-certificates-utils
 cabextract
 cairo
 cairomm
+calcurse
 calendarsupport
 cantarell-fonts
 cantor
@@ -178,6 +181,7 @@ clutter-gst
 clutter-gtk
 cmake
 cmatrix
+cmus
 code-server
 cogl
 colord
@@ -185,6 +189,7 @@ com.qq.im.deepin
 com.qq.tim.spark
 compiler-rt
 confuse
+connman
 containerd
 convertlit
 coordgen
@@ -218,6 +223,7 @@ deepin-wine5-i386
 desktop-file-utils
 device-mapper
 devtools
+dex
 dhcp
 dhcpcd
 diffutils
@@ -254,6 +260,7 @@ dune
 dvdauthor
 dvgrab
 e2fsprogs
+easy-rsa
 ebook-tools
 eclipse-ecj
 eclipse-emf
@@ -488,6 +495,7 @@ harfbuzz
 harfbuzz-icu
 harmonyos-sans-git
 harvid
+hddtemp
 hdf5
 hdparm
 help2man
@@ -1026,6 +1034,7 @@ libaccounts-qt
 libaec
 libaio
 libakonadi
+libao
 libappindicator-gtk3
 libarchive
 libass
@@ -1075,6 +1084,7 @@ libdbusmenu-qt5
 libdc1394
 libdca
 libde265
+libdiscid
 libdispatch
 libdmtx
 libdrm
@@ -1204,6 +1214,7 @@ libmodplug
 libmp4v2
 libmpc
 libmpcdec
+libmpdclient
 libmpeg2
 libmspub
 libmsym
@@ -1428,6 +1439,7 @@ lua52-lpeg
 lua52-luajson
 lua52-socket
 lua53
+lua53-lgi
 luajit
 luit
 lutris-git
@@ -1493,6 +1505,7 @@ mono
 mono-msbuild
 motrix-git
 movit
+mpc
 mpfr
 mpg123
 mplayer
@@ -1570,6 +1583,7 @@ netstandard-targeting-pack
 nettle
 network-manager-applet
 networkmanager
+networkmanager-openvpn
 networkmanager-qt
 new-session-manager
 nftables
@@ -1639,6 +1653,7 @@ openssl
 openssl-1.0
 opensubdiv
 openvdb
+openvpn
 openxr
 opus
 opusfile
@@ -1661,6 +1676,7 @@ pahole
 palapeli
 pam
 pambase
+pamixer
 pango
 pangomm
 paper
@@ -1717,6 +1733,7 @@ pinentry
 pipewire
 pipewire-media-session
 pixman
+pkcs11-helper
 pkgconf
 pkgfile
 plasma-browser-integration
@@ -1735,6 +1752,7 @@ plasma-vault
 plasma-wayland-session
 plasma-workspace
 plasma-workspace-wallpapers
+playerctl
 polkit
 polkit-kde-agent
 polkit-qt5
@@ -2048,6 +2066,7 @@ rime-prelude
 rime-stroke
 rime-terra-pinyin
 ripgrep
+rlwrap
 rnnoise
 rocs
 rofi
@@ -2145,6 +2164,7 @@ spglib
 spice
 spice-gtk
 spirv-tools
+spotifyd
 sqlite
 sratom
 srt
@@ -2163,6 +2183,7 @@ svt-av1
 svt-hevc
 sweeper
 swh-plugins
+sxhkd
 syndication
 syntax-highlighting
 sysfsutils
@@ -2221,6 +2242,7 @@ traceroute
 tracker3
 tracker3-miners
 translate-shell
+transmission-remote-gtk
 trash-cli
 tree-sitter
 trojan
@@ -2275,10 +2297,12 @@ v4l-utils
 v4l2loopback-dkms
 vala
 vamp-plugin-sdk
+vcdimager
 vde2
 vdpauinfo
 ventoy-bin
 vi
+vicious
 vid.stab
 vim
 vim-runtime
@@ -2318,6 +2342,7 @@ wine-mono
 wine-valve
 winetricks
 wireless-regdb
+wireless_tools
 wl-clipboard
 wlroots
 wmctrl
@@ -2358,6 +2383,7 @@ xdg-desktop-portal
 xdg-desktop-portal-kde
 xdg-user-dirs
 xdg-utils
+xdo
 xdotool
 xerces-c
 xf86-input-evdev
@@ -2380,6 +2406,7 @@ xfce4-notifyd
 xfce4-power-manager
 xfconf
 xfsprogs
+xine-lib
 xjadeo
 xkeyboard-config
 xmlsec

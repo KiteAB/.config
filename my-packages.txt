@@ -101,6 +101,7 @@ avr-binutils 2.37-1
 avr-gcc 11.2.0-1
 avr-libc 2.1.0-1
 avrdude 1:6.4-1
+awesome 4.3-3
 awesome-terminal-fonts 1.1.0-4
 axel 2.17.11-1
 babl 0.1.88-2
@@ -143,6 +144,7 @@ breezy 3.2.1-1
 bridge-utils 1.7.1-1
 brltty 6.4-9
 brotli 1.0.9-7
+bspwm 0.9.10-1
 btrfs-progs 5.16.2-1
 bubblewrap 0.5.0-1
 bullet 3.21-2
@@ -154,6 +156,7 @@ ca-certificates-utils 20210603-1
 cabextract 1.9.1-2
 cairo 1.17.4-5
 cairomm 1.14.3-2
+calcurse 4.7.1-1
 calendarsupport 21.12.2-1
 cantarell-fonts 1:0.303.1-1
 cantor 21.12.2-1
@@ -178,6 +181,7 @@ clutter-gst 3.0.27-3
 clutter-gtk 1.8.4-2
 cmake 3.22.2-1
 cmatrix 2.0-2
+cmus 2.9.1-2
 code-server 4.0.2-0
 cogl 1.22.8-1
 colord 1.4.6-1
@@ -185,6 +189,7 @@ com.qq.im.deepin 9.3.2-21
 com.qq.tim.spark 3.3.5.22018spark0-1
 compiler-rt 13.0.1-1
 confuse 3.3-3
+connman 1.41-1
 containerd 1.6.0-2
 convertlit 1.8-10
 coordgen 3.0.0-1
@@ -218,6 +223,7 @@ deepin-wine5-i386 5.0.16-1
 desktop-file-utils 0.26-1
 device-mapper 2.03.15-1
 devtools 20220126-1
+dex 0.9.0-1
 dhcp 4.4.2.P1-4
 dhcpcd 9.4.1-1
 diffutils 3.8-1
@@ -254,6 +260,7 @@ dune 3.0.1-1
 dvdauthor 0.7.2-11
 dvgrab 3.5-12
 e2fsprogs 1.46.5-3
+easy-rsa 3.0.8-2
 ebook-tools 0.2.2-7
 eclipse-ecj 4.22-1
 eclipse-emf 2.19-2
@@ -488,6 +495,7 @@ harfbuzz 3.4.0-1
 harfbuzz-icu 3.4.0-1
 harmonyos-sans-git r4.b226381-1
 harvid 0.8.3-3
+hddtemp 0.3.beta15.53-3
 hdf5 1.12.1-1
 hdparm 9.63-2
 help2man 1.49.1-1
@@ -1026,6 +1034,7 @@ libaccounts-qt 1.16-3
 libaec 1.0.6-1
 libaio 0.3.112-2
 libakonadi 21.12.2-1
+libao 1.2.2-5
 libappindicator-gtk3 12.10.0.r296-1
 libarchive 3.6.0-1
 libass 0.15.2-1
@@ -1075,6 +1084,7 @@ libdbusmenu-qt5 0.9.3+16.04.20160218-6
 libdc1394 2.2.6-2
 libdca 0.0.7-1
 libde265 1.0.8-2
+libdiscid 0.6.2-3
 libdispatch 5.5.0-1
 libdmtx 0.7.5-2
 libdrm 2.4.110-1
@@ -1204,6 +1214,7 @@ libmodplug 0.8.9.0-3
 libmp4v2 5.0.1-1
 libmpc 1.2.1-2
 libmpcdec 1:0.1+r475-3
+libmpdclient 2.20-1
 libmpeg2 0.5.1-7
 libmspub 0.1.4-11
 libmsym 0.2.3-7
@@ -1428,6 +1439,7 @@ lua52-lpeg 1.0.2-4
 lua52-luajson 1.3.4-3
 lua52-socket 20200329-1
 lua53 5.3.6-1
+lua53-lgi 0.9.2-7
 luajit 2.1.0.beta3.r384.g1d7b5029-1
 luit 20210218-1
 lutris-git 0.5.10.beta1.r58.g4c7d4b2b-1
@@ -1493,6 +1505,7 @@ mono 6.12.0.122-1
 mono-msbuild 16.10.1.xamarinxplat.2021.05.26.14.00-1
 motrix-git 1.5.15.r68.g0cd1ed1-1
 movit 1.6.3-2
+mpc 0.34-1
 mpfr 4.1.0.p13-2
 mpg123 1.29.3-1
 mplayer 38322-3
@@ -1570,6 +1583,7 @@ netstandard-targeting-pack 6.0.2.sdk102-1
 nettle 3.7.3-1
 network-manager-applet 1.24.0-1
 networkmanager 1.34.0-1
+networkmanager-openvpn 1.8.16-1
 networkmanager-qt 5.91.0-1
 new-session-manager 1.5.3-1
 nftables 1:1.0.1-3
@@ -1639,6 +1653,7 @@ openssl 1.1.1.m-1
 openssl-1.0 1.0.2.u-1
 opensubdiv 3.4.4-9
 openvdb 9.0.0-9
+openvpn 2.5.5-1
 openxr 1.0.22-1
 opus 1.3.1-3
 opusfile 0.12-1
@@ -1661,6 +1676,7 @@ pahole 1.23-1
 palapeli 21.12.2-1
 pam 1.5.2-1
 pambase 20211210-1
+pamixer 1.5-3
 pango 1:1.50.4-1
 pangomm 2.46.2-1
 paper 2.3-2
@@ -1717,6 +1733,7 @@ pinentry 1.2.0-1
 pipewire 1:0.3.47-2
 pipewire-media-session 1:0.4.1-1
 pixman 0.40.0-1
+pkcs11-helper 1.28.0-1
 pkgconf 1.8.0-1
 pkgfile 21-2
 plasma-browser-integration 5.24.1-1
@@ -1735,6 +1752,7 @@ plasma-vault 5.24.1-1
 plasma-wayland-session 5.24.1-1
 plasma-workspace 5.24.1-1
 plasma-workspace-wallpapers 5.24.1-1
+playerctl 2.4.1-1
 polkit 0.120-4
 polkit-kde-agent 5.24.1-1
 polkit-qt5 0.114.0-1
@@ -2048,6 +2066,7 @@ rime-prelude 0.0.0.20210627-1
 rime-stroke 0.0.0.20191221-2
 rime-terra-pinyin 0.0.0.20210805-1
 ripgrep 13.0.0-2
+rlwrap 0.45.2-1
 rnnoise 0.4.1-1
 rocs 21.12.2-1
 rofi 1.7.3-1
@@ -2145,6 +2164,7 @@ spglib 1.16.3-1
 spice 0.15.0-1
 spice-gtk 0.40-1
 spirv-tools 2021.4-1
+spotifyd 0.3.3-1
 sqlite 3.37.2-1
 sratom 0.6.8-3
 srt 1.4.4-1
@@ -2163,6 +2183,7 @@ svt-av1 0.9.0-1
 svt-hevc 1.5.1-1
 sweeper 21.12.2-1
 swh-plugins 0.4.17-4
+sxhkd 0.6.2-1
 syndication 5.91.0-1
 syntax-highlighting 5.91.0-1
 sysfsutils 2.1.1-1
@@ -2221,6 +2242,7 @@ traceroute 2.1.0-5
 tracker3 3.2.1-2
 tracker3-miners 3.2.1-2
 translate-shell 0.9.6.12-2
+transmission-remote-gtk 1.4.2-1
 trash-cli 0.21.10.24-3
 tree-sitter 0.20.4-1
 trojan 1.16.0-5
@@ -2275,10 +2297,12 @@ v4l-utils 1.22.1-1
 v4l2loopback-dkms 0.12.5-2
 vala 0.54.7-1
 vamp-plugin-sdk 2.10.0-1
+vcdimager 2.0.1-4
 vde2 2.3.2-20
 vdpauinfo 1.4-1
 ventoy-bin 1.0.70-1
 vi 1:070224-5
+vicious 2.5.0-1
 vid.stab 1.1-3
 vim 8.2.4106-1
 vim-runtime 8.2.4106-1
@@ -2318,6 +2342,7 @@ wine-mono 7.1.1-1
 wine-valve 2:6.3.8c-2
 winetricks 20210825-1
 wireless-regdb 2021.08.28-1
+wireless_tools 30.pre9-3
 wl-clipboard 1:2.0.0-3
 wlroots 0.15.1-2
 wmctrl 1.07-6
@@ -2358,6 +2383,7 @@ xdg-desktop-portal 1.12.1-1
 xdg-desktop-portal-kde 5.24.1-1
 xdg-user-dirs 0.17-3
 xdg-utils 1.1.3+19+g9816ebb-1
+xdo 0.5.7-2
 xdotool 3.20211022.1-1
 xerces-c 3.2.3-5
 xf86-input-evdev 2.10.6-3
@@ -2380,6 +2406,7 @@ xfce4-notifyd 0.6.3-1
 xfce4-power-manager 4.16.0-3
 xfconf 4.16.0-2
 xfsprogs 5.14.2-1
+xine-lib 1.2.11-7
 xjadeo 0.8.10-4
 xkeyboard-config 2.35.1-1
 xmlsec 1.2.33-1
