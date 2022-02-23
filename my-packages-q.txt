@@ -1725,7 +1725,7 @@ phonon-qt5
 phonon-qt5-gstreamer
 php
 picmi
-picom
+picom-git
 pim-data-exporter
 pim-sieve-editor
 pimcommon
@@ -2140,6 +2140,7 @@ signon-ui
 signond
 sl
 slang
+slock
 smartmontools
 smbclient
 smpeg
