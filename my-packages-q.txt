@@ -2239,6 +2239,7 @@ tlp
 tlp-rdw
 tmux
 totem-pl-parser
+tpm2-tss
 traceroute
 tracker3
 tracker3-miners
