@@ -171,6 +171,8 @@ celt
 ceph-libs
 cervisia
 cfitsio
+chaotic-keyring
+chaotic-mirrorlist
 cheese
 chromaprint
 chrpath
@@ -1695,6 +1697,7 @@ pixman
 pkcs11-helper
 pkgconf
 pkgfile
+pkgstats
 plasma-browser-integration
 plasma-desktop
 plasma-disks
@@ -2442,6 +2445,7 @@ yajl
 yakuake
 yaml-cpp
 yaourt
+yapf
 yarn
 yasm
 yelp-tools
