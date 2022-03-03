@@ -1169,6 +1169,7 @@ libinput_gestures_qt
 libinstpatch
 libiptcdata
 libiscsi
+libisl
 libisoburn
 libisofs
 libixion
