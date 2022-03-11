@@ -260,7 +260,6 @@ drkonqi
 dtc
 duf
 dune
-dunst
 dvdauthor
 dvgrab
 e2fsprogs
@@ -359,7 +358,6 @@ fribidi
 frpc
 frps
 fstrm
-fuckmemory
 fuse-common
 fuse2
 fuse3
@@ -544,6 +542,7 @@ iso-codes
 itinerary
 itstool
 iw
+iwbtg
 jack2
 jack2-dbus
 jack_capture
@@ -653,6 +652,7 @@ kdf
 kdiagram
 kdialog
 kdiamond
+kdiff3
 kdnssd
 kdoctools
 kdsoap
@@ -988,6 +988,7 @@ lib32-llvm
 lib32-llvm-libs
 lib32-lm_sensors
 lib32-lz4
+lib32-lzo
 lib32-mesa
 lib32-mesa-vdpau
 lib32-mpg123
