@@ -259,7 +259,7 @@ draco 1.5.1-2
 drkonqi 5.24.3-1
 dtc 1.6.1-4
 duf 0.8.1-1
-dune 3.0.3-1
+dune 3.0.3-2
 dvdauthor 0.7.2-11
 dvgrab 3.5-12
 e2fsprogs 1.46.5-3
@@ -282,7 +282,7 @@ elisa 21.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.154871-1
+emacs-git 29.0.50.154879-1
 embree 3.13.3-1
 enca 1.19-4
 enchant 2.3.2-1
@@ -303,7 +303,7 @@ faad2 2.10.0-1
 fail2ban 0.11.2-3
 fakeroot 1.28-1
 farstream 0.2.9-3
-faudio 22.02-1
+faudio 22.03-1
 fcitx5 5.0.15-1
 fcitx5-anthy 5.0.10-1
 fcitx5-breeze 1.0.0-1
@@ -313,7 +313,7 @@ fcitx5-configtool 5.0.12-1
 fcitx5-gtk 5.0.13-1
 fcitx5-material-color 0.2.1-1
 fcitx5-pinyin-moegirl 20220218-1
-fcitx5-pinyin-zhwiki 1:0.2.3.20220226-1
+fcitx5-pinyin-zhwiki 1:0.2.3.20220312-1
 fcitx5-qt 5.0.11-1
 fcitx5-rime 5.0.12-1
 fd 8.3.2-1
@@ -332,7 +332,7 @@ filesystem 2021.12.07-1
 filezilla 3.58.0-1
 findutils 4.9.0-1
 fingerprint-gui 1.09-7
-firefox-appmenu 97.0.1-3
+firefox-appmenu 98.0-1
 firewalld 1.0.3-3
 flac 1.3.4-2
 flameshot 11.0.0-4
@@ -355,8 +355,8 @@ freerdp 2:2.6.1-1
 freetype2 2.11.1-1
 frei0r-plugins 1.7.0-2
 fribidi 1.0.11-1
-frpc 0.39.1-2
-frps 0.39.1-2
+frpc 0.40.0-1
+frps 0.40.0-1
 fstrm 0.6.1-1
 fuse-common 3.10.5-1
 fuse2 2.9.9-4
@@ -431,7 +431,7 @@ golly 4.1-2
 google-chrome 99.0.4844.51-1
 google-glog 0.5.0-2
 gopls 0.8.0-1
-goverlay 0.8-1
+goverlay 0.8.1-1
 gpart 0.3-4
 gparted 1.3.1-1
 gperf 3.1-3
@@ -495,8 +495,8 @@ gv 3.7.4-5
 gvfs 1.48.1-3
 gwenview 21.12.3-1
 gzip 1.11-1
-harfbuzz 4.0.0-1
-harfbuzz-icu 4.0.0-1
+harfbuzz 4.0.1-1
+harfbuzz-icu 4.0.1-1
 harmonyos-sans-git r38.d0f1203-1
 harvid 0.8.3-3
 hddtemp 0.3.beta15.53-3
@@ -855,7 +855,7 @@ lib32-dbus-glib 0.112-2
 lib32-dconf 0.40.0-2
 lib32-e2fsprogs 1.46.5-1
 lib32-expat 2.4.7-1
-lib32-faudio 22.01-1
+lib32-faudio 22.03-1
 lib32-flac 1.3.4-2
 lib32-fluidsynth 2.2.5-1
 lib32-fontconfig 2:2.13.96-1
@@ -878,7 +878,7 @@ lib32-gst-plugins-base-libs 1.20.0-1
 lib32-gstreamer 1.20.0-1
 lib32-gtk2 2.24.33-1
 lib32-gtk3 3.24.31-1
-lib32-harfbuzz 4.0.0-1
+lib32-harfbuzz 4.0.1-1
 lib32-icu 70.1-1
 lib32-imlib2 1.8.0-1
 lib32-jack2 1.9.20-3
@@ -935,7 +935,7 @@ lib32-libpng12 1.2.59-2
 lib32-libproxy 0.4.17-2
 lib32-libpsl 0.21.1-2
 lib32-libpulse 15.0-2
-lib32-librsvg 2:2.52.6-1
+lib32-librsvg 2:2.52.7-1
 lib32-librtmp0 2.4-4
 lib32-libsamplerate 0.2.2-1
 lib32-libsm 1.2.3-1
@@ -1291,7 +1291,7 @@ libreoffice-fresh 7.3.1-1
 librevenge 0.0.4-3
 librime 1:1.7.3-7
 librime-data 0.0.0.20211023-1
-librsvg 2:2.52.6-1
+librsvg 2:2.52.7-1
 librtmp0 2.4-5
 libsamplerate 0.2.2-1
 libsasl 2.1.27-3
@@ -1392,7 +1392,7 @@ libxkbcommon-x11 1.4.0-1
 libxkbfile 1.1.0-2
 libxklavier 5.4-3
 libxml2 2.9.13-1
-libxmlb 0.3.6-1
+libxmlb 0.3.7-1
 libxmu 1.1.3-2
 libxnvctrl 510.54-2
 libxpm 3.5.13-2
@@ -1546,7 +1546,7 @@ netstandard-targeting-pack 6.0.2.sdk102-1
 nettle 3.7.3-1
 network-manager-applet 1.24.0-1
 networkmanager 1.36.2-1
-networkmanager-openvpn 1.8.16-1
+networkmanager-openvpn 1.8.18-1
 networkmanager-qt 5.91.0-1
 new-session-manager 1.5.3-1
 nftables 1:1.0.1-3
@@ -1594,7 +1594,7 @@ openal 1.21.1-3
 openbabel 3.1.1-3
 opencascade 1:7.5.3-2
 opencc 1.1.2-3
-opencl-headers 2:2021.04.29-1
+opencl-headers 2:2022.01.04-1
 opencl-mesa 21.3.7-2
 opencl-nvidia 510.54-1
 opencollada 1:1.6.68-2
@@ -1765,7 +1765,7 @@ python 3.10.2-1
 python-anytree 2.8.0-5
 python-appdirs 1.4.4-6
 python-argcomplete 1.12.3-1
-python-asn1crypto 1.4.0-6
+python-asn1crypto 1.5.0-1
 python-asttokens 2.0.5-2
 python-attrs 21.4.0-1
 python-aubio 0.4.9-13
@@ -2188,7 +2188,7 @@ telepathy-logger-qt 17.09.0-1
 telepathy-mission-control 5.16.6-1
 telepathy-qt 0.9.8-2
 tepl 6.00.0-3
-terraria-server 1.4.3.5-36
+terraria-server 1.4.3.6-37
 tevent 1:0.11.0-3
 texinfo 6.8-2
 thefuck 3.32-1
@@ -2268,7 +2268,7 @@ vamp-plugin-sdk 2.10.0-1
 vcdimager 2.0.1-4
 vde2 2.3.2-20
 vdpauinfo 1.4-2
-ventoy-bin 1.0.70-1
+ventoy-bin 1.0.71-1
 vi 1:070224-5
 vicious 2.5.0-1
 vid.stab 1.1-3
@@ -2289,8 +2289,8 @@ volume_key 0.3.12-7
 vte-common 0.66.2-1
 vte3 0.66.2-1
 vtk 9.1.0-10
-vulkan-headers 1:1.3.206-1
-vulkan-icd-loader 1.2.203-1
+vulkan-headers 1:1.3.207-1
+vulkan-icd-loader 1.3.207-1
 vulkan-radeon 21.3.7-2
 vulkan-tools 1.2.203-2
 w3m 0.5.3.git20210102_6-1
