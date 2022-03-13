@@ -262,6 +262,7 @@ duf
 dune
 dvdauthor
 dvgrab
+dxvk-bin
 e2fsprogs
 easy-rsa
 ebook-tools
@@ -1030,6 +1031,7 @@ lib32-util-linux
 lib32-v4l-utils
 lib32-vkd3d
 lib32-vulkan-icd-loader
+lib32-vulkan-mesa-layers
 lib32-vulkan-radeon
 lib32-wayland
 lib32-xz
@@ -1330,6 +1332,7 @@ libtiff4
 libtirpc
 libtommath
 libtool
+libtorrent-rasterbar
 libudev0-shim
 libunistring
 libunwind
@@ -1949,6 +1952,7 @@ python2-toml
 python2-urllib3
 python2-webencodings
 python2-zipp
+qbittorrent
 qca-qt5
 qemu
 qemu-arch-extra
@@ -2289,10 +2293,15 @@ volume_key
 vte-common
 vte3
 vtk
+vulkan-extra-layers
+vulkan-extra-tools
 vulkan-headers
+vulkan-html-docs
 vulkan-icd-loader
+vulkan-mesa-layers
 vulkan-radeon
 vulkan-tools
+vulkan-validation-layers
 w3m
 wavpack
 wayland
