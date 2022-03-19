@@ -283,7 +283,7 @@ elisa 21.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.155024-1
+emacs-git 29.0.50.155036-1
 embree 3.13.3-1
 enca 1.19-4
 enchant 2.3.2-1
@@ -377,14 +377,14 @@ gd 2.3.3-3
 gdb 11.2-1
 gdb-common 11.2-1
 gdbm 1.23-1
-gdk-pixbuf2 2.42.6-2
+gdk-pixbuf2 2.42.8-1
 gdl 3.40.0-1
 gedit 41.0-1
 gegl 0.4.36-1
 geoclue 2.6.0-2
 geocode-glib 3.26.2+r9+g6047da3-1
 geoip 1.6.12-2
-geoip-database 20220222-1
+geoip-database 20220315-1
 gettext 0.21-2
 gflags 2.2.2-4
 ghostpcl 9.55.0-4
@@ -409,7 +409,7 @@ glibmm 2.66.2-1
 glm 0.9.9.8-1
 glslang 11.8.0-2
 glu 9.0.2-2
-glusterfs 1:10.0-3
+glusterfs 1:10.1-1
 gmic 3.0.2-1
 gmp 6.2.1-1
 gn-m85 0.1792.7d7e8dee-1
@@ -665,7 +665,7 @@ keepassxc 2.6.6-1
 kemoticons 5.92.0-1
 kexec-tools 2.0.23-1
 keyutils 1.6.3-1
-kfilemetadata 5.92.0-1
+kfilemetadata 5.92.0-2
 kfind 21.12.3-1
 kfloppy 21.12.3-1
 kfourinline 21.12.3-1
@@ -865,7 +865,7 @@ lib32-freetype2 2.11.1-1
 lib32-fribidi 1.0.11-1
 lib32-gamemode 1.6.1-2
 lib32-gcc-libs 11.2.0-4
-lib32-gdk-pixbuf2 2.42.6-2
+lib32-gdk-pixbuf2 2.42.8-1
 lib32-gettext 0.21-1
 lib32-giflib 5.2.1-1
 lib32-glew1.10 1.10.0-5
@@ -1563,7 +1563,7 @@ ninja 1.10.2-1
 nm-connection-editor 1.24.0-1
 nmap 7.92-1
 node-gyp 9.0.0-1
-nodejs 17.7.1-1
+nodejs 17.7.2-1
 nodejs-nopt 5.0.0-2
 nodemcu-pyflasher 5.0.0-1
 noto-fonts 20201226-2
@@ -1571,7 +1571,7 @@ noto-fonts-cjk 20220126-1
 noto-fonts-emoji 20211101-1
 noto-fonts-emoji-blob 1:14.0.1-1
 noto-fonts-extra 20201226-2
-npm 8.5.4-1
+npm 8.5.5-1
 npth 1.6-3
 nspr 4.33-1
 nss 3.76-1
@@ -1596,7 +1596,7 @@ opam 2.1.2-1
 openal 1.21.1-3
 openbabel 3.1.1-3
 opencascade 1:7.5.3-2
-opencc 1.1.2-3
+opencc 1.1.3-1
 opencl-headers 2:2022.01.04-1
 opencl-mesa 21.3.7-2
 opencl-nvidia 510.54-1
@@ -1665,7 +1665,7 @@ perl-clone 0.45-3
 perl-encode-locale 1.05-8
 perl-error 0.17029-3
 perl-file-listing 6.14-2
-perl-html-parser 3.76-2
+perl-html-parser 3.77-1
 perl-html-tagset 3.20-11
 perl-http-cookies 6.10-2
 perl-http-daemon 6.13-1
@@ -1760,7 +1760,7 @@ pulseaudio-zeroconf 15.0-4
 pulsemixer 1.5.1-3
 purpose 5.92.0-1
 pybind11 2.9.1-1
-pycharm-community-edition 2021.3.2-1
+pycharm-community-edition 2021.3.3-1
 pyrit 0.5.0-5
 pyside2 5.15.3-1
 pystring 1.1.3.git1-1
@@ -1768,7 +1768,7 @@ python 3.10.2-1
 python-anytree 2.8.0-5
 python-appdirs 1.4.4-6
 python-argcomplete 1.12.3-1
-python-asn1crypto 1.5.0-1
+python-asn1crypto 1.5.1-1
 python-asttokens 2.0.5-2
 python-attrs 21.4.0-1
 python-aubio 0.4.9-13
@@ -1928,7 +1928,7 @@ qqc2-desktop-style 5.92.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
 qt5-3d 5.15.3+kde+r18-1
-qt5-base 5.15.3+kde+r136-1
+qt5-base 5.15.3+kde+r137-1
 qt5-charts 5.15.3+kde+r0-1
 qt5-datavis3d 5.15.3+kde+r0-1
 qt5-declarative 5.15.3+kde+r20-1
@@ -2119,10 +2119,10 @@ sxhkd 0.6.2-1
 syndication 5.92.0-1
 syntax-highlighting 5.92.0-1
 sysfsutils 2.1.1-1
-systemd 250.4-1
-systemd-libs 250.4-1
+systemd 250.4-2
+systemd-libs 250.4-2
 systemd-swap 4.4.0-2
-systemd-sysvcompat 250.4-1
+systemd-sysvcompat 250.4-2
 systemsettings 5.24.3-1
 taglib 1.12-1
 talloc 2.3.3-3
@@ -2225,7 +2225,7 @@ util-linux-libs 2.37.4-1
 utools 2.5.2-1
 v2ray 4.44.0-1
 v2ray-domain-list-community 20220313173740-1
-v2ray-geoip 202203100039-1
+v2ray-geoip 202203170039-1
 v2raya 1.5.6.2-1
 v4l-utils 1.22.1-1
 v4l2loopback-dkms 0.12.5-2
