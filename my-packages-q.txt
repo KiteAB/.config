@@ -1360,6 +1360,7 @@ libva
 libva-mesa-driver
 libva-utils
 libvdpau
+libvdpau-va-gl
 libvirt
 libvirt-glib
 libvirt-python
@@ -2070,6 +2071,7 @@ qt6-wayland
 qtkeychain-qt5
 quazip-qt5
 radeontool
+radeontop
 ragel
 rainbarf-git
 ranger
