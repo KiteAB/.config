@@ -266,7 +266,7 @@ duf 0.8.1-1
 dune 3.0.3-2
 dvdauthor 0.7.2-11
 dvgrab 3.5-12
-dxvk-bin 1.10-1
+dxvk-bin 1.10.1-1
 e2fsprogs 1.46.5-3
 easy-rsa 3.0.8-2
 ebook-tools 0.2.2-7
@@ -288,7 +288,7 @@ elisa 21.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.155210-1
+emacs-git 29.0.50.155237-1
 embree 3.13.3-1
 enca 1.19-4
 enchant 2.3.2-1
@@ -302,6 +302,7 @@ exa 0.10.1-5
 exempi 2.6.1-1
 exfatprogs 1.1.3-1
 exiv2 0.27.5-1
+expac 10-5
 expat 2.4.7-1
 extra-cmake-modules 5.92.0-1
 f2fs-tools 1.14.0-3
@@ -346,6 +347,8 @@ flac 1.3.4-2
 flameshot 11.0.0-4
 flatpak 1:1.12.7-1
 flex 2.6.4-3
+flightgear 2020.3.11-2
+flightgear-data 2020.3.11-2
 flite 2.2-1
 fltk 1.3.8-1
 fluidsynth 2.2.6-1
@@ -356,6 +359,7 @@ fpc 3.2.2-4
 fpc-src 3.2.2-2
 fprintd 1.94.2-1
 frameworkintegration 5.92.0-1
+freealut 1.1.0-8
 freecell-solver 6.6.0-1
 freeglut 3.2.2-1
 freeimage 3.18.0-12
@@ -381,6 +385,7 @@ gcc-libs 11.2.0-4
 gconf 3.2.6+11+g07808097-11
 gcr 3.41.0-1
 gd 2.3.3-3
+gdal 3.4.0-5
 gdb 11.2-1
 gdb-common 11.2-1
 gdbm 1.23-1
@@ -392,6 +397,7 @@ geoclue 2.6.0-2
 geocode-glib 3.26.2+r9+g6047da3-1
 geoip 1.6.12-2
 geoip-database 20220315-1
+geos 3.9.1-1
 gettext 0.21-2
 gflags 2.2.2-4
 ghostpcl 9.55.0-4
@@ -743,7 +749,7 @@ kmouth 21.12.3-1
 kmplot 21.12.3-1
 knavalbattle 21.12.3-1
 knetwalk 21.12.3-1
-knewstuff 5.92.0-1
+knewstuff 5.92.0-2
 knights 21.12.3-1
 knotes 21.12.3-1
 knotifications 5.92.0-1
@@ -1118,7 +1124,7 @@ libepoxy 1.5.10-1
 libepubgen 0.1.1-2
 libetonyek 0.1.10-1
 libev 4.33-1
-libevdev 1.12.0-1
+libevdev 1.12.1-1
 libevent 2.1.12-1
 libexif 0.6.24-1
 libexttextcat 3.4.6-1
@@ -1132,11 +1138,13 @@ libfprint 1.94.3-1
 libfprint-1 1.0-1
 libfreeaptx 0.1.1-1
 libfreehand 0.1.2-3
+libfreexl 1.0.6-2
 libftdi 1.5-4
 libgcrypt 1.9.4-1
 libgcrypt15 1.5.6-6
 libgdiplus 5.6.1-3
 libgee 0.20.5-1
+libgeotiff 1.6.0-3
 libgexiv2 0.14.0-3
 libgig 4.3.0-3
 libgit2 1:1.4.2-1
@@ -1162,6 +1170,7 @@ libheif 1.12.0-3
 libibus 1.5.25-5
 libical 3.0.14-1
 libice 1.0.10-3
+libicns 0.8.1-7
 libid3tag 0.15.1b-11
 libidn 1.38-1
 libidn11 1.33-2
@@ -1304,6 +1313,7 @@ librime 1:1.7.3-7
 librime-data 0.0.0.20211023-1
 librsvg 2:2.54.0-1
 librtmp0 2.4-5
+librttopo 1.1.0-3
 libsamplerate 0.2.2-1
 libsasl 2.1.27-3
 libseccomp 2.5.3-3
@@ -1319,6 +1329,7 @@ libsodium 1.0.18-2
 libsoup 2.74.2-2
 libsoup3 3.0.5-1
 libsoxr 0.1.3-2
+libspatialite 5.0.1-1
 libspectre 0.2.10-1
 libspeechd 0.11.1-2
 libspiro 1:20200505-2
@@ -1371,7 +1382,7 @@ libvorbis 1.3.7-3
 libvpx 1.11.0-2
 libvpx1.3 1.3.0-3
 libvterm 0.2-1
-libwacom 2.1.0-1
+libwacom 2.2.0-1
 libwebp 1.2.2-1
 libwebsockets 4.3.1-1
 libwmf 0.2.12-2
@@ -1466,7 +1477,7 @@ lua52-luajson 1.3.4-3
 lua52-socket 1:3.0.0-1
 lua53 5.3.6-1
 lua53-lgi 0.9.2-7
-luajit 2.1.0.beta3.r391.g8b8304f1-1
+luajit 2.1.0.beta3.r395.ge2c312e0-1
 luit 20210218-1
 lutris-git 0.5.10.beta2.r88.g6c9471b4-1
 lv2 1.18.2-1
@@ -1509,6 +1520,7 @@ meson 0.62.0-1
 messagelib 21.12.3-2
 metis 5.1.0.p10-2
 milou 5.24.3-1
+mindustry-bin 1:7.0_135-1
 minecraft-launcher 928-1
 minicom 2.8-1
 miniupnpc 2.2.2-2
@@ -1557,6 +1569,7 @@ nerd-fonts-complete 2.1.0-4
 net-snmp 5.9.1-3
 net-tools 2.10-1
 netbeans 13-1
+netcdf 4.8.1-2
 netpbm 10.73.37-1
 netstandard-targeting-pack 6.0.2.sdk102-1
 nettle 3.7.3-1
@@ -1626,6 +1639,7 @@ openldap 2.6.1-1
 openmpi 4.1.2-1
 openresolv 3.12.0-1
 openrgb 0.7-6
+openscenegraph 3.6.5-11
 openshadinglanguage 1.11.17.0-2
 openssh 8.9p1-1
 openssl 1.1.1.n-1
@@ -1837,6 +1851,7 @@ popt 1.18-3
 portaudio 1:19.7.0-1
 portmidi 236-1
 portsmf 234-2
+postgresql-libs 13.6-1
 potrace 1.16-2
 powerdevil 5.24.3-1
 poxml 21.12.3-1
@@ -1845,6 +1860,7 @@ print-manager 21.12.3-1
 prismatik 5.11.2-3
 prison 5.92.0-1
 procps-ng 3.3.17-1
+proj 8.2.0-1
 protobuf 3.19.4-1
 protobuf-c 1.4.0-2
 proton 1:7.0.1-6
@@ -1921,7 +1937,7 @@ python-incremental 21.3.0-5
 python-ipykernel 6.9.2-2
 python-itsdangerous 2.1.0-1
 python-jedi 0.18.1-1
-python-jinja 3.1.0-1
+python-jinja 1:3.0.3-1
 python-jsonrpc-server 0.4.0-5
 python-jupyter_client 7.1.2-1
 python-jupyter_core 4.9.2-1
@@ -2175,6 +2191,7 @@ signon-plugin-oauth2 0.25-1
 signon-ui 0.17+20171022-3
 signond 8.61-1
 siji-ttf r22.14e7da9-1
+simgear 2020.3.11-2
 sl 5.05-2
 slang 2.3.2-2
 slock 1.4-6
@@ -2304,7 +2321,7 @@ ttf-monaco 6.1-6
 ttf-ms-fonts 2.0-12
 ttf-nerd-fonts-symbols 2.1.0+36+gd0bf73a1-4
 ttf-opensans 1.101-2
-ttf-sarasa-gothic 0.36.1-1
+ttf-sarasa-gothic 0.36.2-1
 ttf-symbola 13.00-10
 ttf-ubuntu-font-family 0.83-8
 ttf-unifont 14.0.02-1
@@ -2314,6 +2331,7 @@ tzdata 2022a-1
 uchardet 0.0.7-1
 udftools 2.3-1
 udisks2 2.9.4-1
+udns 0.4-5
 ueberzug 18.1.9-3
 ufw 0.36.1-1
 umbrello 21.12.3-1
@@ -2334,7 +2352,7 @@ util-linux 2.37.4-1
 util-linux-libs 2.37.4-1
 utools 2.5.2-1
 v2ray 4.44.0-1
-v2ray-domain-list-community 20220325093002-1
+v2ray-domain-list-community 20220325131800-1
 v2ray-geoip 202203250919-1
 v2raya 1.5.6.2-1
 v4l-utils 1.22.1-1
@@ -2344,7 +2362,7 @@ vamp-plugin-sdk 2.10.0-1
 vcdimager 2.0.1-4
 vde2 2.3.2-20
 vdpauinfo 1.4-2
-ventoy-bin 1.0.71-1
+ventoy-bin 1.0.72-1
 vi 1:070224-5
 vicious 2.5.0-1
 vid.stab 1.1-3

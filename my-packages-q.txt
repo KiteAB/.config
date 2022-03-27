@@ -302,6 +302,7 @@ exa
 exempi
 exfatprogs
 exiv2
+expac
 expat
 extra-cmake-modules
 f2fs-tools
@@ -346,6 +347,8 @@ flac
 flameshot
 flatpak
 flex
+flightgear
+flightgear-data
 flite
 fltk
 fluidsynth
@@ -356,6 +359,7 @@ fpc
 fpc-src
 fprintd
 frameworkintegration
+freealut
 freecell-solver
 freeglut
 freeimage
@@ -381,6 +385,7 @@ gcc-libs
 gconf
 gcr
 gd
+gdal
 gdb
 gdb-common
 gdbm
@@ -392,6 +397,7 @@ geoclue
 geocode-glib
 geoip
 geoip-database
+geos
 gettext
 gflags
 ghostpcl
@@ -1132,11 +1138,13 @@ libfprint
 libfprint-1
 libfreeaptx
 libfreehand
+libfreexl
 libftdi
 libgcrypt
 libgcrypt15
 libgdiplus
 libgee
+libgeotiff
 libgexiv2
 libgig
 libgit2
@@ -1162,6 +1170,7 @@ libheif
 libibus
 libical
 libice
+libicns
 libid3tag
 libidn
 libidn11
@@ -1304,6 +1313,7 @@ librime
 librime-data
 librsvg
 librtmp0
+librttopo
 libsamplerate
 libsasl
 libseccomp
@@ -1319,6 +1329,7 @@ libsodium
 libsoup
 libsoup3
 libsoxr
+libspatialite
 libspectre
 libspeechd
 libspiro
@@ -1509,6 +1520,7 @@ meson
 messagelib
 metis
 milou
+mindustry-bin
 minecraft-launcher
 minicom
 miniupnpc
@@ -1557,6 +1569,7 @@ nerd-fonts-complete
 net-snmp
 net-tools
 netbeans
+netcdf
 netpbm
 netstandard-targeting-pack
 nettle
@@ -1626,6 +1639,7 @@ openldap
 openmpi
 openresolv
 openrgb
+openscenegraph
 openshadinglanguage
 openssh
 openssl
@@ -1837,6 +1851,7 @@ popt
 portaudio
 portmidi
 portsmf
+postgresql-libs
 potrace
 powerdevil
 poxml
@@ -1845,6 +1860,7 @@ print-manager
 prismatik
 prison
 procps-ng
+proj
 protobuf
 protobuf-c
 proton
@@ -2175,6 +2191,7 @@ signon-plugin-oauth2
 signon-ui
 signond
 siji-ttf
+simgear
 sl
 slang
 slock
@@ -2314,6 +2331,7 @@ tzdata
 uchardet
 udftools
 udisks2
+udns
 ueberzug
 ufw
 umbrello
