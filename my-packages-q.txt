@@ -126,6 +126,7 @@ bison
 black-hole-solver
 blas
 blender
+bless
 blinken
 blosc
 bluedevil
@@ -400,6 +401,7 @@ geoip-database
 geos
 gettext
 gflags
+ghex
 ghostpcl
 ghostscript
 ghostxps
@@ -490,6 +492,7 @@ gstreamer
 gstreamer-vaapi
 gtest
 gtk-doc
+gtk-sharp-2
 gtk-update-icon-cache
 gtk-vnc
 gtk2
@@ -1615,6 +1618,7 @@ ocaml-findlib
 ocaml-pp
 ocaml-result
 ocl-icd
+okteta
 okular
 onefetch
 oniguruma
