@@ -8,7 +8,7 @@ accountsservice 22.08.8-1
 acl 2.3.1-2
 acorn 1:8.7.0-1
 acpi 1.7-3
-acpi_call-lts 1.2.2-31
+acpi_call-lts 1.2.2-32
 acpilight 1.2-2
 acpitool 0.5.1-7
 adapta-gtk-theme 3.95.0.11-2
@@ -123,7 +123,7 @@ biber 1:2.17-1
 bilibili-live-helper-bin 2.2.2-1
 binutils 2.38-3
 bison 3.8.2-3
-black-hole-solver 1.10.1-1
+black-hole-solver 1.12.0-1
 blas 3.10.0-1
 blender 17:3.1.0-2
 bless 0.6.3-1
@@ -289,7 +289,7 @@ elisa 21.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.155244-1
+emacs-git 29.0.50.155247-1
 embree 3.13.3-1
 enca 1.19-4
 enchant 2.3.2-1
@@ -448,9 +448,9 @@ golly 4.1-2
 google-chrome 99.0.4844.84-1
 google-glog 0.5.0-2
 gopls 0.8.1-1
-goverlay 0.8.1-1
+goverlay 0.8.1-2
 gpart 0.3-4
-gparted 1.3.1-1
+gparted 1.4.0-1
 gperf 3.1-3
 gperftools 2.9.1-1
 gpgme 1.17.1-1
@@ -471,7 +471,7 @@ groff 1.22.4-6
 groovy 3.0.9-1
 grpc 1.45.0-1
 grpc-cli 1.45.0-1
-grub 2:2.06-4
+grub 2:2.06-5
 grub-btrfs 4.11-2
 grub-customizer 5.1.0-3
 gsettings-desktop-schemas 41.0-1
@@ -527,7 +527,7 @@ hiredis 1.0.2-1
 hmcl-bin 3.5.2.218-1
 htop 3.1.2-1
 http-parser 2.9.4-1
-hugo 0.95.0-1
+hugo 0.96.0-1
 hunspell 1.7.0-3
 hwdata 0.357-1
 hwinfo 21.80-1
@@ -841,7 +841,7 @@ l-smash 2.14.5-2
 ladspa 1.17-1
 lame 3.100-3
 lapack 3.10.0-1
-latte-dock-git 0.10.8.r5876.a42bc678-1
+latte-dock-git 0.10.8.r5878.d43f3d5a-1
 layer-shell-qt 5.24.3-1
 lazarus 2.2.0-2
 lazydocker 0.12-1
@@ -1044,7 +1044,7 @@ lib32-smpeg 0.4.5-3
 lib32-sqlite 3.38.1-1
 lib32-systemd 250.4-1
 lib32-tdb 1.4.5-1
-lib32-util-linux 2.37.4-1
+lib32-util-linux 2.38-1
 lib32-v4l-utils 1.22.1-1
 lib32-vkd3d 1.3-1
 lib32-vulkan-icd-loader 1.3.208-1
@@ -1451,8 +1451,8 @@ links 2.25-1
 linux-api-headers 5.16.8-1
 linux-firmware 20220309.cd01f85-1
 linux-firmware-whence 20220309.cd01f85-1
-linux-lts 5.15.31-1
-linux-lts-headers 5.15.31-1
+linux-lts 5.15.32-1
+linux-lts-headers 5.15.32-1
 lirc 1:0.10.1-12
 lld 13.0.1-1
 lldb 13.0.1-1
@@ -1474,7 +1474,7 @@ lsof 4.94.0-1
 lua 5.4.4-1
 lua52 5.2.4-5
 lua52-bitop 1.0.2-9
-lua52-expat 1.3.0-5
+lua52-expat 1.4.0-1
 lua52-lpeg 1.0.2-4
 lua52-luajson 1.3.4-3
 lua52-socket 1:3.0.0-1
@@ -1482,7 +1482,7 @@ lua53 5.3.6-1
 lua53-lgi 0.9.2-7
 luajit 2.1.0.beta3.r395.ge2c312e0-1
 luit 20210218-1
-lutris-git 0.5.10.beta2.r88.g6c9471b4-1
+lutris-git 0.5.10.beta2.r89.g53848943-1
 lv2 1.18.2-1
 lvm2 2.03.15-1
 lxappearance 0.6.3-4
@@ -1606,7 +1606,7 @@ nspr 4.33-1
 nss 3.76-1
 ntfs-3g 2021.8.22-1
 numactl 2.0.14-2
-nvidia-lts 1:510.54-11
+nvidia-lts 1:510.54-12
 nvidia-utils 510.54-1
 nvme-cli 1.16-2
 oath-toolkit 2.6.7-1
@@ -1902,12 +1902,12 @@ python-babel 2.9.1-3
 python-backcall 0.2.0-6
 python-beaker 1.11.0-8
 python-bitstring 3.1.9-3
-python-black 22.1.0-2
+python-black 22.3.0-1
 python-cachecontrol 1:0.12.6-4
 python-cairo 1.21.0-1
 python-cffi 1.15.0-3
 python-chardet 4.0.0-5
-python-click 8.0.4-1
+python-click 8.1.0-1
 python-colorama 0.4.4-6
 python-configobj 5.0.6.r110.g3e2f4cc-3
 python-constantly 15.1.0-11
@@ -1927,7 +1927,7 @@ python-epc 0.0.5-3
 python-evdev 1.4.0-3
 python-executing 0.8.3-1
 python-feedparser 6.0.3-1
-python-flask 2.0.3-1
+python-flask 2.1.0-1
 python-future 0.18.2-7
 python-gobject 3.42.0-3
 python-grip 4.6.0-1
@@ -1938,7 +1938,7 @@ python-idna 3.3-4
 python-imagesize 1.3.0-3
 python-importlib-metadata 4.8.1-3
 python-incremental 21.3.0-5
-python-ipykernel 6.9.2-2
+python-ipykernel 6.10.0-2
 python-itsdangerous 2.1.0-1
 python-jedi 0.18.1-1
 python-jinja 1:3.0.3-1
@@ -2032,7 +2032,7 @@ python-ujson 5.1.0-2
 python-urllib3 1.26.9-1
 python-wcwidth 0.2.5-6
 python-webencodings 0.5.1-9
-python-werkzeug 2.0.3-1
+python-werkzeug 2.1.0-1
 python-wxpython 1:4.0.7.2-3
 python-xlib 0.31-3
 python-yaml 6.0-1
@@ -2189,7 +2189,7 @@ serf 1.3.9-5
 sfml 2.5.1-2
 shaderc 2022.1-2
 shadow 4.11.1-1
-shared-mime-info 2.0+115+gd74a913-1
+shared-mime-info 2.0+144+g13695c7-1
 signon-kwallet-extension 21.12.3-1
 signon-plugin-oauth2 0.25-1
 signon-ui 0.17+20171022-3
@@ -2224,7 +2224,7 @@ spice 0.15.0-1
 spice-gtk 0.40-1
 spirv-tools 2022.1-1
 spotifyd 0.3.3-1
-sqlite 3.38.1-1
+sqlite 3.38.2-1
 sratom 0.6.8-3
 srt 1.4.4-1
 sshfs 3.7.2-2
@@ -2352,8 +2352,8 @@ upower 0.99.17-1
 usbmuxd 1.1.1-1
 usbredir 0.12.0-1
 usbutils 014-2
-util-linux 2.37.4-1
-util-linux-libs 2.37.4-1
+util-linux 2.38-1
+util-linux-libs 2.38-1
 utools 2.6.1-1
 v2ray 4.44.0-1
 v2ray-domain-list-community 20220325131800-1
@@ -2366,7 +2366,7 @@ vamp-plugin-sdk 2.10.0-1
 vcdimager 2.0.1-4
 vde2 2.3.2-20
 vdpauinfo 1.4-2
-ventoy-bin 1.0.72-1
+ventoy-bin 1.0.72-2
 vi 1:070224-5
 vicious 2.5.0-1
 vid.stab 1.1-3
@@ -2411,7 +2411,7 @@ whois 5.5.12-1
 wildmidi 0.4.4-1
 wine-mono 7.1.1-1
 wine-valve 3:7.0.1b-1
-winetricks 20210825-1
+winetricks 20220328-1
 wireless-regdb 2022.02.18-1
 wireless_tools 30.pre9-3
 wl-clipboard 1:2.1.0-1
