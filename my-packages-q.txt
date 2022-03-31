@@ -1267,6 +1267,7 @@ libnice
 libnl
 libnm
 libnma
+libnma-common
 libnotify
 libnsl
 libnumbertext
