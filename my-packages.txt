@@ -4,7 +4,7 @@ a52dec 0.7.4-11
 aalib 1.4rc5-14
 abseil-cpp 20211102.0-2
 accounts-qml-module 0.7-4
-accountsservice 22.08.8-1
+accountsservice 22.08.8-2
 acl 2.3.1-2
 acorn 1:8.7.0-1
 acpi 1.7-3
@@ -125,7 +125,7 @@ binutils 2.38-3
 bison 3.8.2-3
 black-hole-solver 1.12.0-1
 blas 3.10.0-1
-blender 17:3.1.1-1
+blender 17:3.1.2-1
 bless 0.6.3-1
 blinken 21.12.3-1
 blosc 1.21.1-2
@@ -156,7 +156,7 @@ bullet 3.21-2
 bzip2 1.0.8-4
 c-ares 1.18.1-1
 ca-certificates 20210603-1
-ca-certificates-mozilla 3.76.1-1
+ca-certificates-mozilla 3.77-1
 ca-certificates-utils 20210603-1
 cabextract 1.9.1-2
 cairo 1.17.6-1
@@ -183,14 +183,14 @@ chrpath 0.16-3
 cifs-utils 6.14-1
 clang 13.0.1-2
 clucene 2.3.3.4-11
-clutter 1.26.4-1
+clutter 1.26.4-2
 clutter-gst 3.0.27-3
-clutter-gtk 1.8.4-2
+clutter-gtk 1.8.4-3
 cmake 3.23.0-1
 cmatrix 2.0-2
 cmus 2.9.1-2
 code-server 4.2.0-0
-cogl 1.22.8-1
+cogl 1.22.8-2
 colord 1.4.6-1
 com.qq.im.deepin 9.3.2-21
 com.qq.tim.spark 3.3.5.22018spark0-1
@@ -289,7 +289,7 @@ elisa 21.12.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.155303-1
+emacs-git 29.0.50.155319-1
 embree 3.13.3-1
 enca 1.19-4
 enchant 2.3.2-1
@@ -312,7 +312,7 @@ faad2 2.10.0-1
 fail2ban 0.11.2-3
 fakeroot 1.28-1
 farstream 0.2.9-3
-faudio 22.03-1
+faudio 22.04-1
 fcitx5 5.0.15-1
 fcitx5-anthy 5.0.10-1
 fcitx5-breeze 1.0.0-1
@@ -365,7 +365,7 @@ freecell-solver 6.6.0-1
 freeglut 3.2.2-1
 freeimage 3.18.0-12
 freerdp 2:2.6.1-1
-freetype2 2.11.1-1
+freetype2 2.12.0-1
 frei0r-plugins 1.7.0-2
 fribidi 1.0.11-1
 frpc 0.41.0-1
@@ -429,7 +429,7 @@ glusterfs 1:10.1-1
 gmic 3.0.2-1
 gmp 6.2.1-1
 gn-m85 0.1792.7d7e8dee-1
-gnome-autoar 0.4.3-1
+gnome-autoar 0.4.3-2
 gnome-clocks 41.0-1
 gnome-common 3.18.0-4
 gnome-desktop 1:41.5-1
@@ -479,7 +479,7 @@ gsfonts 20200910-2
 gsl 2.7.1-1
 gsm 1.0.19-1
 gsmartcontrol 1.1.4-1
-gsound 1.0.3-1
+gsound 1.0.3-2
 gspell 1.8.4-1
 gssdp 1.4.0.1-1
 gst-libav 1.20.1-1
@@ -878,7 +878,7 @@ lib32-flac 1.3.4-2
 lib32-fluidsynth 2.2.6-1
 lib32-fontconfig 2:2.14.0-1
 lib32-freeglut 3.2.1-1
-lib32-freetype2 2.11.1-1
+lib32-freetype2 2.12.0-1
 lib32-fribidi 1.0.11-1
 lib32-gamemode 1.6.1-2
 lib32-gcc-libs 11.2.0-4
@@ -953,7 +953,7 @@ lib32-libpng12 1.2.59-2
 lib32-libproxy 0.4.17-2
 lib32-libpsl 0.21.1-2
 lib32-libpulse 15.0-2
-lib32-librsvg 2:2.54.0-1
+lib32-librsvg 2:2.54.0-2
 lib32-librtmp0 2.4-4
 lib32-libsamplerate 0.2.2-1
 lib32-libsm 1.2.3-1
@@ -1013,11 +1013,11 @@ lib32-mpg123 1.29.3-1
 lib32-ncurses 6.3-1
 lib32-nettle 3.7.3-1
 lib32-nspr 4.33-1
-lib32-nss 3.76.1-1
+lib32-nss 3.77-1
 lib32-ocl-icd 2.3.1-1
 lib32-openal 1.21.1-2
 lib32-opencl-mesa 22.0.0-1
-lib32-opencl-nvidia 510.54-1
+lib32-opencl-nvidia 510.60.02-1
 lib32-openssl 1:1.1.1.n-1
 lib32-openssl-1.0 1.0.2.u-2
 lib32-opus 1.3.1-2
@@ -1050,7 +1050,7 @@ lib32-vkd3d 1.3-1
 lib32-vulkan-icd-loader 1.3.208-1
 lib32-vulkan-mesa-layers 22.0.0-1
 lib32-vulkan-radeon 22.0.0-1
-lib32-wayland 1.20.0-1
+lib32-wayland 1.20.0-2
 lib32-xz 5.2.5-2
 lib32-zlib 1.2.11-3
 lib32-zstd 1.5.2-1
@@ -1135,7 +1135,7 @@ libfakekey 0.3-2
 libfdk-aac 2.0.2-1
 libffi 3.4.2-4
 libfido2 1.10.0-1
-libfilezilla 0.36.0-1
+libfilezilla 1:0.36.0-1
 libfontenc 1.1.4-3
 libfprint 1.94.3-1
 libfprint-1 1.0-1
@@ -1154,7 +1154,7 @@ libgit2 1:1.4.2-1
 libglvnd 1.4.0-1
 libgme 0.6.3-1
 libgnome-games-support 1.8.2-2
-libgnomekbd 3.26.1+2+g8d02ebd-2
+libgnomekbd 1:3.26.1+r5+g54da436-1
 libgovirt 0.3.8-1
 libgpg-error 1.44-1
 libgphoto2 2.5.29-1
@@ -1186,7 +1186,7 @@ libimobiledevice 1.3.0-5
 libindicator-gtk2 12.10.1-9
 libindicator-gtk3 12.10.1-9
 libinih 53-2
-libinput 1.20.0-1
+libinput 1.20.0-2
 libinput-gestures 2.72-1
 libinput_gestures_qt 0.3.2+7+g0868859-1
 libinstpatch 1.1.6-1
@@ -1270,7 +1270,7 @@ libnma 1.8.36-3
 libnma-common 1.8.36-3
 libnotify 0.7.9-2
 libnsl 2.0.0-2
-libnumbertext 1.0.8-1
+libnumbertext 1.0.9-1
 libodfgen 0.1.8-1
 libofa 0.9.3-9
 libogg 1.3.5-1
@@ -1303,7 +1303,7 @@ libqaccessibilityclient 0.4.1-2
 libqalculate 4.1.0-1
 libqmi 1.30.4-1
 libqrtr-glib 1.2.2-1
-libquicktime 1.2.4-26
+libquicktime 1.2.4-27
 libquvi 0.9.4-6
 libquvi-scripts 0.9.20131130-5
 libqxp 0.0.2-7
@@ -1315,7 +1315,7 @@ libreoffice-fresh-zh-cn 7.3.2-1
 librevenge 0.0.4-3
 librime 1:1.7.3-7
 librime-data 0.0.0.20211023-1
-librsvg 2:2.54.0-1
+librsvg 2:2.54.0-2
 librtmp0 2.4-5
 librttopo 1.1.0-3
 libsamplerate 0.2.2-1
@@ -1376,7 +1376,7 @@ libva-mesa-driver 22.0.0-1
 libva-utils 2.14.0-1
 libvdpau 1.5-1
 libvdpau-va-gl 0.4.2-3
-libvirt 1:8.2.0-1
+libvirt 1:8.2.0-3
 libvirt-glib 4.0.0-1
 libvirt-python 1:8.2.0-1
 libvisio 0.1.7-6
@@ -1423,9 +1423,9 @@ libxkbcommon-x11 1.4.0-1
 libxkbfile 1.1.0-2
 libxklavier 5.4-3
 libxml2 2.9.13-1
-libxmlb 0.3.7-1
+libxmlb 0.3.8-1
 libxmu 1.1.3-2
-libxnvctrl 510.54-2
+libxnvctrl 510.60.02-1
 libxpm 3.5.13-2
 libxrandr 1.5.2-3
 libxrender 0.9.10-4
@@ -1604,11 +1604,11 @@ noto-fonts-extra 20201226-2
 npm 8.5.5-1
 npth 1.6-3
 nspr 4.33-1
-nss 3.76.1-1
+nss 3.77-1
 ntfs-3g 2021.8.22-1
 numactl 2.0.14-2
-nvidia-lts 1:510.54-12
-nvidia-utils 510.54-1
+nvidia-lts 1:510.60.02-1
+nvidia-utils 510.60.02-1
 nvme-cli 1.16-2
 oath-toolkit 2.6.7-1
 obs-studio 27.2.3-1
@@ -1630,7 +1630,7 @@ opencascade 1:7.5.3-2
 opencc 1.1.3-1
 opencl-headers 2:2022.01.04-1
 opencl-mesa 22.0.0-1
-opencl-nvidia 510.54-1
+opencl-nvidia 510.60.02-1
 opencollada 1:1.6.68-2
 opencolorio 2.1.1-2
 opencolorio1 1.1.1-3
@@ -1735,7 +1735,7 @@ perl-file-sharedir-install 0.13-5
 perl-file-slurp-tiny 0.004-7
 perl-file-slurper 0.012-5
 perl-file-which 1.27-1
-perl-html-parser 3.77-1
+perl-html-parser 3.78-1
 perl-html-tagset 3.20-11
 perl-http-cookies 6.10-2
 perl-http-daemon 6.13-1
@@ -1840,8 +1840,8 @@ plasma-sdk 5.24.4-1
 plasma-systemmonitor 5.24.4-1
 plasma-thunderbolt 5.24.4-1
 plasma-vault 5.24.4-1
-plasma-wayland-session 5.24.4-1
-plasma-workspace 5.24.4-1
+plasma-wayland-session 5.24.4-2
+plasma-workspace 5.24.4-2
 plasma-workspace-wallpapers 5.24.4-1
 playerctl 2.4.1-2
 polkit 0.120-5
@@ -1925,7 +1925,7 @@ python-docutils 1:0.16-2
 python-ecdsa 0.17.0-3
 python-entrypoints 0.4-1
 python-epc 0.0.5-3
-python-evdev 1.4.0-3
+python-evdev 1.5.0-1
 python-executing 0.8.3-1
 python-feedparser 6.0.3-1
 python-flask 2.1.1-1
@@ -1957,7 +1957,7 @@ python-more-itertools 8.12.0-1
 python-msgpack 1.0.3-1
 python-mypy_extensions 0.4.3-5
 python-nautilus 1.2.3-7
-python-nest-asyncio 1.5.4-2
+python-nest-asyncio 1.5.5-1
 python-numpy 1.22.3-1
 python-ordered-set 4.0.2-6
 python-packaging 20.9-7
@@ -1996,7 +1996,7 @@ python-pytz 2022.1-1
 python-pyxdg 0.27-4
 python-pyzmq 22.3.0-1
 python-qrcode 7.3.1-1
-python-qtconsole 5.2.2-1
+python-qtconsole 5.3.0-1
 python-qtpy 2.0.1-1
 python-reedsolo 1.5.4-4
 python-requests 2.27.1-1
@@ -2033,7 +2033,7 @@ python-ujson 5.1.0-2
 python-urllib3 1.26.9-1
 python-wcwidth 0.2.5-6
 python-webencodings 0.5.1-9
-python-werkzeug 2.1.0-2
+python-werkzeug 2.1.1-1
 python-wxpython 1:4.0.7.2-3
 python-xlib 0.31-3
 python-yaml 6.0-1
@@ -2357,7 +2357,7 @@ util-linux 2.38-1
 util-linux-libs 2.38-1
 utools 2.6.2-1
 v2ray 4.44.0-1
-v2ray-domain-list-community 20220331092027-1
+v2ray-domain-list-community 20220402053639-1
 v2ray-geoip 202203310042-1
 v2raya 1.5.6.2-1
 v4l-utils 1.22.1-1
@@ -2399,7 +2399,7 @@ vulkan-tools 1.3.207-1
 vulkan-validation-layers 1.3.204.1-1
 w3m 0.5.3.git20210102_6-1
 wavpack 5.4.0-1
-wayland 1.20.0-1
+wayland 1.20.0-2
 wayland-protocols 1.25-1
 wayland-utils 1.0.0-2
 webkit2gtk 2.36.0-2
@@ -2540,7 +2540,7 @@ xorgproto 2021.5-1
 xournalpp 1.1.1-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.4-1
-xray-domain-list-community 20220402025922-1
+xray-domain-list-community 20220402053639-1
 xray-geoip 202203310042-1
 xsel 1.2.0.20200527-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
@@ -2562,7 +2562,7 @@ yubico-c 1.13-6
 yubico-c-client 2.15-5
 yubikey-personalization 1.20.0-3
 zbar 0.23.1-9
-zenity 3.41.0-1
+zenity 3.42.0-1
 zeroconf-ioslave 21.12.3-1
 zeromq 4.3.4-2
 zile 2.6.2-1
