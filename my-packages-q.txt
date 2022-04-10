@@ -205,7 +205,6 @@ coreutils
 cowsay
 cpio
 cpupower
-crda
 cronie
 cryptsetup
 ctags
@@ -433,6 +432,8 @@ gnome-autoar
 gnome-clocks
 gnome-common
 gnome-desktop
+gnome-desktop-4
+gnome-desktop-common
 gnome-icon-theme
 gnome-icon-theme-symbolic
 gnome-mines
@@ -1057,6 +1058,7 @@ lib32-zstd
 libabw
 libaccounts-glib
 libaccounts-qt
+libadwaita
 libaec
 libaio
 libakonadi
@@ -1166,6 +1168,7 @@ libgtop
 libgudev
 libgusb
 libgweather
+libgweather-4
 libgxps
 libhandy
 libharu
