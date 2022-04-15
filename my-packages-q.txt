@@ -282,6 +282,7 @@ egl-wayland
 eglexternalplatform
 electron
 electron-netease-cloud-music
+electron17
 elementary-icon-theme
 elfutils
 elisa
