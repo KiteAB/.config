@@ -1390,6 +1390,7 @@ libvorbis
 libvpx
 libvpx1.3
 libvterm
+libvterm01
 libwacom
 libwebp
 libwebsockets
