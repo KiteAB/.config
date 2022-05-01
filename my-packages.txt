@@ -6,7 +6,7 @@ abseil-cpp 20211102.0-2
 accounts-qml-module 0.7-4
 accountsservice 22.08.8-2
 acl 2.3.1-2
-acorn 1:8.7.0-1
+acorn 1:8.7.1-1
 acpi 1.7-3
 acpi_call-lts 1.2.2-36
 acpilight 1.2-2
@@ -180,7 +180,7 @@ chaotic-mirrorlist 20220301-1
 cheese 41.1-2
 chromaprint 1.5.1-3
 chrpath 0.16-3
-cifs-utils 6.14-1
+cifs-utils 6.15-1
 clang 13.0.1-2
 clucene 2.3.3.4-11
 clutter 1.26.4-2
@@ -280,16 +280,16 @@ efibootmgr 17-2
 efivar 38-2
 egl-wayland 2:1.1.9+r3+g582b2d3-1
 eglexternalplatform 1.1-2
-electron 18.0.3-2
+electron 18.2.0-1
 electron-netease-cloud-music 0.9.34-2
 electron17 17.4.0-2
 elementary-icon-theme 7.0.0-1
-elfutils 0.186-5
+elfutils 0.187-1
 elisa 22.04.0-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.155994-1
+emacs-git 29.0.50.156025-1
 embree 3.13.3-1
 enca 1.19-4
 enchant 2.3.2-2
@@ -440,7 +440,7 @@ gnome-icon-theme-symbolic 3.12.0-6
 gnome-mines 40.1-1
 gnome-video-effects 0.5.0+4+g9554041-2
 gnugo 3.8-7
-gnupg 2.2.32-2
+gnupg 2.2.35-1
 gnutls 3.7.4-2
 go 2:1.18.1-1
 gobject-introspection 1.72.0-1
@@ -475,7 +475,7 @@ grpc 1.45.2-3
 grpc-cli 1.45.2-3
 grub 2:2.06-5
 grub-btrfs 4.11-2
-grub-customizer 5.1.0-3
+grub-customizer 5.2.1-1
 gsettings-desktop-schemas 42.0-1
 gsfonts 20200910-2
 gsl 2.7.1-1
@@ -922,7 +922,7 @@ lib32-libdbusmenu-glib 16.04.0-4
 lib32-libdbusmenu-gtk2 16.04.0-4
 lib32-libdbusmenu-gtk3 16.04.0-4
 lib32-libdrm 2.4.110-1
-lib32-libelf 0.186-3
+lib32-libelf 0.187-1
 lib32-libepoxy 1.5.10-1
 lib32-libffi 3.4.2-4
 lib32-libgcrypt 1.10.1-1
@@ -1125,7 +1125,7 @@ libe-book 0.1.3-11
 libebml 1.4.2-2
 libebur128 1.2.6-1
 libedit 20210910_3.1-1
-libelf 0.186-5
+libelf 0.187-1
 libepoxy 1.5.10-1
 libepubgen 0.1.1-2
 libetonyek 0.1.10-1
@@ -1339,7 +1339,7 @@ libsoup3 3.0.6-1
 libsoxr 0.1.3-2
 libspatialite 5.0.1-2
 libspectre 0.2.10-1
-libspeechd 0.11.1-2
+libspeechd 0.11.1-3
 libspiro 1:20200505-2
 libspnav 1.0-1
 libsrtp 1:2.4.2-1
@@ -1546,8 +1546,8 @@ mobile-broadband-provider-info 20220315-1
 modemmanager 1.18.8-1
 modemmanager-qt 5.93.0-1
 molequeue 0.9.0-2
-monero 0.17.3.0-4
-monero-gui 0.17.3.1-2
+monero 0.17.3.2-1
+monero-gui 0.17.3.2-1
 mono 6.12.0.177-1
 mono-msbuild 16.10.1.xamarinxplat.2021.05.26.14.00-2
 motrix-git 1.5.15.r68.g0cd1ed1-1
@@ -1568,7 +1568,7 @@ nano 6.3-1
 nasm 2.15.05-1
 nautilus 42.1.1-1
 ncompress 5.0-2
-ncurses 6.3-2
+ncurses 6.3-3
 ncurses5-compat-libs 6.3-1
 ndctl 72.1-1
 neofetch 7.1.0-2
@@ -1831,7 +1831,7 @@ pixman 0.40.0-1
 pkcs11-helper 1.29.0-1
 pkgconf 1.8.0-1
 pkgfile 21-2
-pkgstats 3.2.1-1
+pkgstats 3.2.2-1
 plasma-browser-integration 5.24.4-1
 plasma-desktop 5.24.4-1
 plasma-disks 5.24.4-1
@@ -1933,7 +1933,7 @@ python-epc 0.0.5-3
 python-evdev 1.5.0-1
 python-executing 0.8.3-1
 python-feedparser 6.0.3-1
-python-flask 2.1.1-1
+python-flask 2.1.2-1
 python-future 0.18.2-7
 python-gobject 3.42.1-1
 python-grip 4.6.1-1
@@ -2208,7 +2208,7 @@ slock 1.4-6
 smartmontools 7.3-1
 smbclient 4.16.0-6
 smpeg 0.4.5-5
-snapper 0.10.0-1
+snapper 0.10.1-1
 snappy 1.1.9-2
 sndio 1.8.1-2
 snes9x-gtk 1.60-8
@@ -2362,8 +2362,8 @@ util-linux 2.38-1
 util-linux-libs 2.38-1
 utools 2.6.3-1
 v2ray 4.44.0-1
-v2ray-domain-list-community 20220426014354-1
-v2ray-geoip 202204210050-1
+v2ray-domain-list-community 20220429034939-1
+v2ray-geoip 202204280105-1
 v2raya 1.5.7-2
 v4l-utils 1.22.1-1
 v4l2loopback-dkms 0.12.5-2
