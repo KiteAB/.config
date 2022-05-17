@@ -21,5 +21,6 @@ zmodule zsh-users/zsh-completions
 zmodule magicmace
 #zmodule gitster
 zmodule prompt-pwd
-zmodule zdharma/fast-syntax-highlighting
+#zmodule zdharma/fast-syntax-highlighting
 #zmodule zsh-users/zsh-syntax-highlighting
+zmodule z-shell/F-Sy-H
