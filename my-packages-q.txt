@@ -1595,7 +1595,6 @@ nginx-src
 ngspice
 nilfs-utils
 nim
-nimble
 ninja
 nm-connection-editor
 nmap
@@ -1947,6 +1946,7 @@ python-imagesize
 python-importlib-metadata
 python-incremental
 python-ipykernel
+python-ipython-genutils
 python-itsdangerous
 python-jedi
 python-jinja
@@ -2489,6 +2489,7 @@ wlroots
 wmctrl
 woff2
 wol
+wolfssl
 wpa_supplicant
 wpebackend-fdo
 wqy-bitmapfont
@@ -2642,6 +2643,7 @@ zita-resampler
 zlib
 zsh
 zstd
+zulu-jre-fx-bin
 zvbi
 zxing-cpp
 zziplib
