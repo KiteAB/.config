@@ -24,3 +24,4 @@ See [my-packages.txt](my-packages.txt)
 
 - [scripts](https://github.com/KiteAB/scripts)
 - [dwm](https://github.com/KiteAB/dwm)
+Hi，I'm from bilibi.
