@@ -527,7 +527,7 @@ help2man
 hicolor-icon-theme
 hidapi
 hiredis
-hmcl-bin
+hmcl
 htop
 http-parser
 hugo
@@ -977,6 +977,7 @@ lib32-libva
 lib32-libva-mesa-driver
 lib32-libvdpau
 lib32-libvorbis
+lib32-libvpx
 lib32-libvpx1.3
 lib32-libwebp
 lib32-libwrap
@@ -1381,6 +1382,7 @@ libva-mesa-driver
 libva-utils
 libvdpau
 libvdpau-va-gl
+libverto
 libvirt
 libvirt-glib
 libvirt-python
@@ -1648,6 +1650,7 @@ openimageio
 openjpeg2
 openldap
 openmpi
+openpmix
 openresolv
 openrgb
 openscenegraph
@@ -1910,6 +1913,7 @@ python-backcall
 python-beaker
 python-bitstring
 python-black
+python-build
 python-cachecontrol
 python-cairo
 python-cffi
@@ -1933,8 +1937,10 @@ python-entrypoints
 python-epc
 python-evdev
 python-executing
+python-fastbencode
 python-feedparser
 python-flask
+python-fs
 python-future
 python-gobject
 python-grip
@@ -1945,14 +1951,21 @@ python-idna
 python-imagesize
 python-importlib-metadata
 python-incremental
+python-installer
 python-ipykernel
 python-ipython-genutils
 python-itsdangerous
+python-jaraco.context
+python-jaraco.functools
+python-jaraco.text
 python-jedi
+python-jeepney
 python-jinja
 python-jsonrpc-server
 python-jupyter_client
 python-jupyter_core
+python-keyring
+python-keyrings-alt
 python-language-server
 python-lxml
 python-magic
@@ -1965,6 +1978,7 @@ python-msgpack
 python-mypy_extensions
 python-nautilus
 python-nest-asyncio
+python-nspektr
 python-numpy
 python-ordered-set
 python-packaging
@@ -2010,6 +2024,7 @@ python-reedsolo
 python-requests
 python-resolvelib
 python-retrying
+python-secretstorage
 python-setuptools
 python-sexpdata
 python-sgmllib3k
@@ -2035,13 +2050,16 @@ python-toml
 python-tomli
 python-tornado
 python-traitlets
+python-trove-classifiers
 python-twisted
 python-typing_extensions
 python-ujson
 python-urllib3
+python-validate-pyproject
 python-wcwidth
 python-webencodings
 python-werkzeug
+python-wheel
 python-wxpython
 python-xlib
 python-yaml
