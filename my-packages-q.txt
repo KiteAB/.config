@@ -19,6 +19,7 @@ adobe-source-han-sans-otc-fonts
 adobe-source-han-serif-cn-fonts
 adwaita-icon-theme
 aegisub
+aha
 akonadi
 akonadi-calendar
 akonadi-calendar-tools
@@ -141,6 +142,7 @@ boost-libs
 botan
 bovo
 box2d
+bpm-tools
 breeze
 breeze-grub
 breeze-gtk
@@ -166,6 +168,7 @@ calendarsupport
 cantarell-fonts
 cantor
 capnproto
+catch2
 catimg
 cblas
 ccls
@@ -347,6 +350,7 @@ firefox-appmenu
 firewalld
 flac
 flameshot
+flashrom
 flatpak
 flex
 flightgear
@@ -375,6 +379,8 @@ fstrm
 fuse-common
 fuse2
 fuse3
+fwupd
+fwupd-efi
 fzf
 gamemode
 gamescope
@@ -832,7 +838,6 @@ kwalletmanager
 kwave
 kwayland
 kwayland-integration
-kwayland-server
 kwidgetsaddons
 kwin
 kwindowsystem
@@ -1202,6 +1207,7 @@ libisl
 libisoburn
 libisofs
 libixion
+libjcat
 libjpeg-turbo
 libjpeg6-turbo
 libkate
@@ -1334,6 +1340,7 @@ libsignon-glib
 libsigsegv
 libslirp
 libsm
+libsmbios
 libsndfile
 libsodium
 libsoup
@@ -1670,6 +1677,7 @@ osinfo-db
 ossp
 ostree
 oxygen
+oxygen-sounds
 p11-kit
 p7zip
 package-query
@@ -2292,6 +2300,7 @@ smbclient
 smpeg
 snapper
 snappy
+sndcpy-bin
 sndio
 snes9x-gtk
 socat
@@ -2342,6 +2351,7 @@ systemsettings
 t1lib
 taglib
 talloc
+taptempo
 tar
 tbb
 tcl
