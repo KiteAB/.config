@@ -266,6 +266,7 @@ draco
 drkonqi
 dtc
 duf
+duktape
 dune
 dvdauthor
 dvgrab
@@ -546,6 +547,7 @@ i2c-tools
 i3lock-color-git
 iana-etc
 ibam
+icon-naming-utils
 icoutils
 icu
 id3lib
@@ -1826,6 +1828,8 @@ perl-xml-namespacesupport
 perl-xml-parser
 perl-xml-sax
 perl-xml-sax-base
+perl-xml-sax-expat
+perl-xml-simple
 perl-xml-writer
 phodav
 phonon-qt5
