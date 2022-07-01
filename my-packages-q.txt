@@ -228,8 +228,12 @@ deepin-udis86
 deepin-wine-helper
 deepin-wine-plugin
 deepin-wine-plugin-virtual
+deepin-wine-wechat
 deepin-wine5
 deepin-wine5-i386
+deepin-wine6-stable
+deepin-wine6-stable-amd64
+deepin-wine6-stable-i386
 desktop-file-utils
 device-mapper
 devtools
@@ -534,7 +538,7 @@ help2man
 hicolor-icon-theme
 hidapi
 hiredis
-hmcl
+hmcl-bin
 htop
 http-parser
 hugo
@@ -1500,6 +1504,7 @@ lua53
 lua53-lgi
 luajit
 luit
+lunar-client
 lutris-git
 lv2
 lvm2
@@ -1618,6 +1623,7 @@ noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts-emoji-blob
 noto-fonts-extra
+noto-fonts-sc
 npm
 npth
 nspr
@@ -1928,10 +1934,12 @@ python-black
 python-build
 python-cachecontrol
 python-cairo
+python-certifi
 python-cffi
 python-chardet
 python-click
 python-colorama
+python-commonmark
 python-configobj
 python-constantly
 python-contextlib2
@@ -2036,6 +2044,7 @@ python-reedsolo
 python-requests
 python-resolvelib
 python-retrying
+python-rich
 python-secretstorage
 python-setuptools
 python-sexpdata
@@ -2057,6 +2066,7 @@ python-sphinxcontrib-serializinghtml
 python-stack-data
 python-systemd
 python-sysv_ipc
+python-tenacity
 python-termcolor
 python-toml
 python-tomli
