@@ -406,6 +406,7 @@ gdk-pixbuf2
 gdl
 gedit
 gegl
+gendesk
 geoclue
 geocode-glib
 geoip
@@ -535,6 +536,7 @@ hddtemp
 hdf5
 hdparm
 help2man
+hexo-cli
 hicolor-icon-theme
 hidapi
 hiredis
@@ -2162,6 +2164,7 @@ qpdf
 qqc2-desktop-style
 qrencode
 qt-gstreamer
+qt4
 qt5-3d
 qt5-base
 qt5-charts
@@ -2199,6 +2202,7 @@ qt6-svg
 qt6-translations
 qt6-wayland
 qtkeychain-qt5
+qtwebkit
 quazip-qt5
 radeontool
 radeontop
@@ -2330,6 +2334,7 @@ spectacle
 speedtest-cli
 speex
 speexdsp
+spflashtool5-bin
 spglib
 spice
 spice-gtk
@@ -2522,8 +2527,8 @@ wget
 which
 whois
 wildmidi
+wine
 wine-mono
-wine-valve
 winetricks
 wireless-regdb
 wireless_tools
