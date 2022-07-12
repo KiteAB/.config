@@ -43,7 +43,7 @@ alsa-topology-conf
 alsa-ucm-conf
 alsa-utils
 amd-ucode
-amdvlk
+amf-headers
 amtk
 analitza
 android-studio
@@ -197,6 +197,7 @@ cogl
 colord
 com.qq.im.deepin
 com.qq.tim.spark
+comgr
 compiler-rt
 confuse
 connman
@@ -241,6 +242,7 @@ dex
 dhcp
 dhcpcd
 diffutils
+directx-headers
 discord
 discount
 discover
@@ -287,8 +289,6 @@ edk2-armvirt
 edk2-ovmf
 efibootmgr
 efivar
-egl-wayland
-eglexternalplatform
 electron
 electron-netease-cloud-music
 electron17
@@ -1034,7 +1034,6 @@ lib32-nss
 lib32-ocl-icd
 lib32-openal
 lib32-opencl-mesa
-lib32-opencl-nvidia
 lib32-openssl
 lib32-openssl-1.0
 lib32-opus
@@ -1067,6 +1066,7 @@ lib32-vkd3d
 lib32-vulkan-icd-loader
 lib32-vulkan-mesa-layers
 lib32-vulkan-radeon
+lib32-vulkan-validation-layers
 lib32-wayland
 lib32-xz
 lib32-zlib
@@ -1632,8 +1632,6 @@ nspr
 nss
 ntfs-3g
 numactl
-nvidia-lts
-nvidia-utils
 nvme-cli
 oath-toolkit
 obs-studio
@@ -1655,7 +1653,6 @@ opencascade
 opencc
 opencl-headers
 opencl-mesa
-opencl-nvidia
 opencollada
 opencolorio
 opencolorio1
@@ -1964,6 +1961,7 @@ python-feedparser
 python-flask
 python-fs
 python-future
+python-glfw
 python-gobject
 python-grip
 python-html5lib
@@ -2238,6 +2236,7 @@ rime-terra-pinyin
 ripgrep
 rlwrap
 rnnoise
+rocm-device-libs
 rocs
 rofi
 rpcbind
@@ -2378,7 +2377,7 @@ tdb
 tdlib
 teamspeak3
 teamspeak3-server
-telegram-desktop
+telegram-desktop-megumifox
 telepathy-accounts-signon
 telepathy-farstream
 telepathy-glib
@@ -2497,7 +2496,8 @@ virtio-win
 virtualbox
 virtualbox-host-dkms
 visual-studio-code-bin
-vkd3d
+vkd3d-valve
+vkmark
 vlc
 vmaf
 volume_key
@@ -2511,9 +2511,11 @@ vulkan-html-docs
 vulkan-icd-loader
 vulkan-mesa-layers
 vulkan-radeon
+vulkan-swrast
 vulkan-tools
 vulkan-validation-layers
 w3m
+wakatime
 wavpack
 wayland
 wayland-protocols
