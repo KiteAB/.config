@@ -119,7 +119,6 @@ bashtop
 bat
 bc
 bdf-unifont
-beatoraja-modernchic
 biber
 bilibili-live-helper-bin
 binutils
@@ -178,8 +177,6 @@ celt
 ceph-libs
 cervisia
 cfitsio
-chaotic-keyring
-chaotic-mirrorlist
 cheese
 chromaprint
 chrpath
@@ -192,10 +189,8 @@ clutter-gtk
 cmake
 cmatrix
 cmus
-code-server
 cogl
 colord
-com.qq.im.deepin
 com.qq.tim.spark
 comgr
 compiler-rt
@@ -303,7 +298,6 @@ embree
 enca
 enchant
 enet
-epherome
 esp8266-nonos-sdk
 esptool
 ethtool
@@ -441,7 +435,6 @@ glu
 glusterfs
 gmic
 gmp
-gn-m85
 gnome-autoar
 gnome-clocks
 gnome-common
@@ -553,6 +546,7 @@ i2c-tools
 i3lock-color-git
 iana-etc
 ibam
+icalingua++
 icon-naming-utils
 icoutils
 icu
@@ -620,7 +614,6 @@ kactivitymanagerd
 kaddressbook
 kajongg
 kalarm
-kalarmcal
 kalgebra
 kalzium
 kamera
@@ -737,7 +730,6 @@ kio
 kio-extras
 kio-fuse
 kio-gdrive
-kipi-plugins
 kirigami-gallery
 kirigami2
 kiriki
@@ -810,7 +802,6 @@ krfb
 krita
 krita-plugin-gmic
 kross
-kross-interpreters
 kruler
 krunner
 kscreen
@@ -1218,6 +1209,7 @@ libixion
 libjcat
 libjpeg-turbo
 libjpeg6-turbo
+libjxl
 libkate
 libkcddb
 libkcompactdisc
@@ -1228,7 +1220,6 @@ libkeduvocdocument
 libkexiv2
 libkeybinder3
 libkgapi
-libkipi
 libkleo
 libkmahjongg
 libkolabxml
@@ -1873,6 +1864,7 @@ playerctl
 polkit
 polkit-kde-agent
 polkit-qt5
+polymc
 ponysay
 poppler
 poppler-data
@@ -1981,12 +1973,10 @@ python-jaraco.text
 python-jedi
 python-jeepney
 python-jinja
-python-jsonrpc-server
 python-jupyter_client
 python-jupyter_core
 python-keyring
 python-keyrings-alt
-python-language-server
 python-lxml
 python-magic
 python-mako
@@ -2012,7 +2002,6 @@ python-pickleshare
 python-pillow
 python-pip
 python-platformdirs
-python-pluggy
 python-ply
 python-prettytable
 python-progress
@@ -2075,7 +2064,6 @@ python-traitlets
 python-trove-classifiers
 python-twisted
 python-typing_extensions
-python-ujson
 python-urllib3
 python-validate-pyproject
 python-wcwidth
@@ -2219,6 +2207,7 @@ read-edid
 readline
 recode
 recordmydesktop
+redis
 redland
 reflector
 reiserfsprogs
@@ -2496,6 +2485,7 @@ virtio-win
 virtualbox
 virtualbox-host-dkms
 visual-studio-code-bin
+visualvm
 vkd3d-valve
 vkmark
 vlc
@@ -2557,7 +2547,6 @@ xapian-core
 xapp
 xaw3d
 xbitmaps
-xboxdrv-git
 xcb-imdkit
 xcb-proto
 xcb-util
