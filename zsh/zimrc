@@ -16,6 +16,7 @@ zmodule supercrabtree/k
 zmodule hlissner/zsh-autopair
 zmodule zsh-users/zsh-autosuggestions
 zmodule zsh-users/zsh-completions
+zmodule pacman
 
 # Themes
 zmodule magicmace
