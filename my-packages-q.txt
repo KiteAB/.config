@@ -8,7 +8,7 @@ accountsservice
 acl
 acorn
 acpi
-acpi_call-lts
+acpi_call-dkms
 acpilight
 acpitool
 adapta-gtk-theme
@@ -1468,6 +1468,8 @@ linux-firmware
 linux-firmware-whence
 linux-lts
 linux-lts-headers
+linux-zen
+linux-zen-headers
 lirc
 lld
 lldb
