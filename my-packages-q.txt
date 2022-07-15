@@ -452,7 +452,6 @@ go
 gobject-introspection
 gobject-introspection-runtime
 godot
-golly
 google-chrome
 google-glog
 gopls
@@ -1259,6 +1258,7 @@ libmpc
 libmpcdec
 libmpdclient
 libmpeg2
+libmspack
 libmspub
 libmsym
 libmtp
@@ -2538,9 +2538,8 @@ wqy-bitmapfont
 wqy-microhei
 wqy-microhei-lite
 wqy-zenhei
-wxgtk-common
-wxgtk2
-wxgtk3
+wxwidgets-common
+wxwidgets-gtk3
 x11vnc
 x264
 x265
