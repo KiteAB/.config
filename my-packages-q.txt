@@ -856,6 +856,7 @@ lcms2
 ldb
 ldns
 lensfun
+leptonica
 less
 leveldb
 lf
@@ -1244,6 +1245,7 @@ libmanette
 libmatroska
 libmbim
 libmd
+libmediainfo
 libmfx
 libmicrodns
 libmicrohttpd
@@ -1337,6 +1339,7 @@ libshout
 libsigc++
 libsignon-glib
 libsigsegv
+libsixel
 libslirp
 libsm
 libsmbios
@@ -1441,6 +1444,7 @@ libxmlb
 libxmu
 libxnvctrl
 libxpm
+libxpresent
 libxrandr
 libxrender
 libxres
@@ -1454,6 +1458,7 @@ libxvmc
 libxxf86vm
 libyaml
 libyuv
+libzen
 libzip
 libzmf
 licenses
@@ -1532,6 +1537,7 @@ mbox-importer
 md4c
 mdadm
 media-player-info
+mediainfo
 mercurial
 mesa
 mesa-demos
@@ -2390,6 +2396,9 @@ telepathy-mission-control
 telepathy-qt
 tepl
 terraria-server
+tesseract
+tesseract-data-afr
+tesseract-data-osd
 tevent
 texinfo
 texlive-bin
@@ -2402,6 +2411,7 @@ thunderbird-appmenu
 tigervnc
 timeshift
 tinyxml
+tinyxml2
 tk
 tldr
 tlp
@@ -2470,6 +2480,7 @@ v4l-utils
 v4l2loopback-dkms
 vala
 vamp-plugin-sdk
+vapoursynth
 vcdimager
 vde2
 vdpauinfo
