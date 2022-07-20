@@ -160,6 +160,7 @@ ca-certificates
 ca-certificates-mozilla
 ca-certificates-utils
 cabextract
+caddy
 cairo
 cairomm
 calcurse
@@ -2706,6 +2707,7 @@ zita-resampler
 zlib
 zsh
 zstd
+zulu-17-bin
 zulu-jre-fx-bin
 zvbi
 zxing-cpp

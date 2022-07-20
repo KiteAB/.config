@@ -33,7 +33,7 @@ akregator 22.04.3-1
 alacritty 0.10.1-2
 alembic 1.8.3-3
 alibaba-puhuiti 2.0-1
-alsa-card-profiles 1:0.3.55-2
+alsa-card-profiles 1:0.3.56-1
 alsa-firmware 1.2.4-2
 alsa-lib 1.2.7.2-1
 alsa-oss 1.1.8-4
@@ -160,6 +160,7 @@ ca-certificates 20210603-1
 ca-certificates-mozilla 3.80-1
 ca-certificates-utils 20210603-1
 cabextract 1.9.1-2
+caddy 2.5.2-1
 cairo 1.17.6-2
 cairomm 1.14.3-2
 calcurse 4.8.0-1
@@ -173,7 +174,7 @@ cblas 3.10.1-1
 ccls 0.20210330-7
 cdparanoia 10.2-8
 cdrtools 3.02a09-5
-celt 0.11.3-4
+celt 0.11.3-5
 ceph-libs 15.2.14-6
 cervisia 22.04.3-1
 cfitsio 1:4.1.0-1
@@ -199,7 +200,7 @@ connman 1.41-1
 containerd 1.6.6-1
 convertlit 1.8-10
 coordgen 3.0.0-1
-copyq 6.2.0-1
+copyq 6.2.0-2
 coreutils 9.1-1
 cowsay 3.04-2
 cpio 2.13-2
@@ -293,7 +294,7 @@ elisa 22.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.158262-1
+emacs-git 29.0.50.158290-1
 embree 3.13.4-1
 enca 1.19-4
 enchant 2.3.3-1
@@ -339,14 +340,14 @@ ffnvcodec-headers 11.1.5.1-2
 fftw 3.3.10-3
 figlet 2.2.5-4
 file 5.42-1
-filebrowser-bin 2.22.3-1
+filebrowser-bin 2.22.4-1
 filelight 22.04.3-1
 filesystem 2021.12.07-1
 filezilla 3.60.1-2
 findutils 4.9.0-1
 fingerprint-gui 1.09-7
 fio 3.29-1
-firefox-appmenu 101.0-1
+firefox-appmenu 102.0.1-1
 firewalld 1.1.1-1
 flac 1.3.4-3
 flameshot 12.1.0-1
@@ -387,7 +388,7 @@ gamescope 3.11.32-1
 gavl 1.4.0-6
 gawk 5.1.1-1
 gc 8.2.0-3
-gcab 1.4-1
+gcab 1.4-2
 gcc 12.1.0-2
 gcc-libs 12.1.0-2
 gconf 3.2.6+11+g07808097-11
@@ -449,13 +450,13 @@ gnome-video-effects 0.5.0+4+g9554041-2
 gnugo 3.8-7
 gnupg 2.2.36-1
 gnutls 3.7.6-1
-go 2:1.18.3-1
+go 2:1.18.4-1
 gobject-introspection 1.72.0-1
 gobject-introspection-runtime 1.72.0-1
 godot 3.4.4-2
-google-chrome 103.0.5060.114-1
+google-chrome 103.0.5060.134-1
 google-glog 0.6.0-1
-gopls 0.9.0-1
+gopls 0.9.1-1
 goverlay 0.8.1-2
 gpart 0.3-4
 gparted 1.4.0-1
@@ -473,7 +474,7 @@ grantleetheme 22.04.3-1
 graphene 1.10.8-1
 graphicsmagick 1.3.38-3
 graphite 1:1.3.14-2
-graphviz 4.0.0-1
+graphviz 5.0.0-1
 grep 3.7-1
 groff 1.22.4-7
 groovy 4.0.3-1
@@ -498,7 +499,7 @@ gst-plugins-base-libs 1.20.3-1
 gst-plugins-good 1.20.3-1
 gstreamer 1.20.3-1
 gstreamer-vaapi 1.20.3-1
-gtest 1.12.0-2
+gtest 1.12.1-1
 gtk-doc 1.33.2-1
 gtk-sharp-2 2.12.45-4
 gtk-update-icon-cache 1:4.6.6-1
@@ -539,7 +540,7 @@ http-parser 2.9.4-1
 hugo 0.101.0-1
 hunspell 1.7.0-4
 hwdata 0.361-1
-hwinfo 21.81-1
+hwinfo 21.82-1
 hwloc 2.7.1-1
 hyphen 2.8.8-4
 i2c-tools 4.3-3
@@ -559,9 +560,9 @@ incidenceeditor 22.04.3-1
 iniparser 4.1-4
 inkscape 1.2.1-1
 innoextract 1.9-6
-intellij-idea-community-edition 4:2022.1.3-1
-intellij-idea-ultimate-edition 2022.1.3-1
-intellij-idea-ultimate-edition-jre 2022.1.3-1
+intellij-idea-community-edition 4:2022.1.4-1
+intellij-idea-ultimate-edition 2022.1.4-1
+intellij-idea-ultimate-edition-jre 2022.1.4-1
 intltool 0.51.0-6
 iproute2 5.18.0-1
 iptables-nft 1:1.8.8-1
@@ -579,7 +580,7 @@ jack_delay 0.4.2-1
 jack_mixer 17-2
 jack_utils 0.0.1-1
 jansson 2.14-2
-jasper 3.0.4-1
+jasper 3.0.6-1
 java-environment-common 3-3
 java-openjfx 18.0.1.u2-1
 java-runtime-common 3-3
@@ -949,7 +950,7 @@ lib32-libjpeg-turbo 2.1.3-1
 lib32-libjpeg6-turbo 1.5.3-2
 lib32-libldap 2.6.3-1
 lib32-libltdl 2.4.7-2
-lib32-libmikmod 3.3.11.1-5
+lib32-libmikmod 3.3.11.1-6
 lib32-libmodplug 0.8.9.0-4
 lib32-libnl 3.7.0-1
 lib32-libnm 1.38.2-1
@@ -1019,7 +1020,7 @@ lib32-lz4 1.9.3-1
 lib32-lzo 2.10-3
 lib32-mesa 22.1.3-1
 lib32-mesa-vdpau 22.1.3-1
-lib32-mpg123 1.29.3-1
+lib32-mpg123 1.30.1-1
 lib32-ncurses 6.3-1
 lib32-nettle 3.8-1
 lib32-nspr 4.34-1
@@ -1035,7 +1036,7 @@ lib32-p11-kit 0.24.1-1
 lib32-pam 1.5.2-1
 lib32-pango 1:1.50.8-1
 lib32-pcre 8.45-1
-lib32-pipewire 1:0.3.55-2
+lib32-pipewire 1:0.3.56-1
 lib32-pixman 0.40.0-1
 lib32-polkit 121-1
 lib32-portaudio 1:19.7.0-1
@@ -1086,7 +1087,7 @@ libb2 0.98.1-2
 libblockdev 2.27-1
 libbluray 1.3.1-1
 libbpf 0.8.0-1
-libbs2b 3.1.0-7
+libbs2b 3.1.0-8
 libbsd 0.11.6-2
 libburn 1.5.4-1
 libbytesize 2.7-1
@@ -1192,7 +1193,7 @@ libidn11 1.33-2
 libidn2 2.3.3-1
 libiec61883 1.2.0-6
 libieee1284 0.2.11-13
-libimagequant 2.17.0-3
+libimagequant 4.0.0-1
 libime 1.0.13-2
 libimobiledevice 1.3.0-5
 libindicator-gtk2 12.10.1-10
@@ -1251,7 +1252,7 @@ libmediainfo 22.06-1
 libmfx 22.4.4-1
 libmicrodns 0.2.0-1
 libmicrohttpd 0.9.75-1
-libmikmod 3.3.11.1-4
+libmikmod 3.3.11.1-6
 libmm-glib 1.18.10-1
 libmms 0.6.4-3
 libmng 2.0.3-3
@@ -1266,7 +1267,7 @@ libmspack 1:0.10.1alpha-3
 libmspub 0.1.4-12
 libmsym 0.2.3-7
 libmtp 1.1.20-1
-libmusicbrainz5 5.1.0-4
+libmusicbrainz5 5.1.0-5
 libmwaw 0.3.21-2
 libmypaint 1.6.1-1
 libnautilus-extension 42.2-1
@@ -1506,7 +1507,7 @@ lua53-lgi 0.9.2-7
 luajit 2.1.0.beta3.r422.g4c2441c1-1
 luit 20220111-1
 lunar-client 2.12.6-1
-lutris-git 0.5.10.1.r119.g703a613e-1
+lutris-git 0.5.10.1.r121.g01fd5b46-1
 lv2 1.18.4-2
 lvm2 2.03.16-1
 lxappearance 0.6.3-4
@@ -1573,7 +1574,7 @@ motrix-git 1.5.15.r68.g0cd1ed1-1
 movit 1.6.3-2
 mpc 0.34-2
 mpfr 4.1.0.p13-2
-mpg123 1.29.3-2
+mpg123 1.30.1-1
 mplayer 38359-1
 mprime 307b9-2
 mpv 1:0.34.1-4
@@ -1841,12 +1842,12 @@ phonon-qt5 4.11.1-3
 phonon-qt5-gstreamer 4.10.0-3
 php 8.1.8-1
 picmi 22.04.3-1
-picom-git 1713_9.rc1.35.gdb6f116_2022.07.17-1
+picom-git 1714_9.rc1.36.g896acab_2022.07.18-1
 pim-data-exporter 22.04.3-1
 pim-sieve-editor 22.04.3-1
 pimcommon 22.04.3-1
 pinentry 1.2.0-1
-pipewire 1:0.3.55-2
+pipewire 1:0.3.56-1
 pipewire-media-session 1:0.4.1-2
 pixman 0.40.0-2
 pkcs11-helper 1.29.0-1
@@ -1894,7 +1895,7 @@ prison 5.96.0-1
 procps-ng 3.3.17-1
 proj 8.2.0-1
 protobuf 21.2-1
-protobuf-c 1.4.0-4
+protobuf-c 1.4.1-1
 proton 1:7.0.3-5
 psmisc 23.5-1
 psutils 2.05-1
@@ -1989,7 +1990,7 @@ python-keyrings-alt 1:4.1.0-3
 python-lxml 4.9.1-1
 python-magic 1:0.4.27-1
 python-mako 1.1.6-3
-python-markdown 3.3.7-1
+python-markdown 3.4.1-1
 python-markupsafe 2.1.1-1
 python-matplotlib-inline 0.1.3-3
 python-more-itertools 8.13.0-2
@@ -2216,7 +2217,7 @@ read-edid 3.0.2-3
 readline 8.1.002-1
 recode 3.7.12-1
 recordmydesktop 0.4.0-2
-redis 7.0.3-1
+redis 7.0.4-1
 redland 1:1.0.17-8
 reflector 2021.11-5
 reiserfsprogs 3.6.27-3
@@ -2240,7 +2241,7 @@ rofi 1.7.3-1
 rpcbind 1.2.6-2
 rsync 3.2.4-1
 rtaudio 5.2.0-1
-rtkit 0.13-1
+rtkit 0.13-2
 rtmpdump 1:2.4.r99.f1b83c1-2
 rttr 0.9.6-4
 rubberband 2.0.2-1
@@ -2276,7 +2277,7 @@ run-parts 5.5-1
 runc 1.1.3-1
 rustdesk-bin 1.1.9-2
 rustup 1.25.1-1
-samba 4.16.2-1
+samba 4.16.3-1
 sane 1.1.1-1
 sbc 2.0-1
 schroedinger 1.0.11-6
@@ -2320,7 +2321,7 @@ sl 5.05-3
 slang 2.3.2-2
 slock 1.4-6
 smartmontools 7.3-1
-smbclient 4.16.2-1
+smbclient 4.16.3-1
 smpeg 0.4.5-5
 snapper 0.10.2-2
 snappy 1.1.9-2
@@ -2485,7 +2486,7 @@ util-linux 2.38-1
 util-linux-libs 2.38-1
 utools 2.6.3-1
 v2ray 4.45.2-1
-v2ray-domain-list-community 20220717025946-1
+v2ray-domain-list-community 20220719055203-1
 v2ray-geoip 202207140057-1
 v2raya 1.5.8.1-1
 v4l-utils 1.22.1-1
@@ -2509,7 +2510,7 @@ virt-viewer 11.0-1
 virtio-win 0.1.217.2-1
 virtualbox 6.1.34-4
 virtualbox-host-dkms 6.1.34-4
-visual-studio-code-bin 1.69.1-1
+visual-studio-code-bin 1.69.2-1
 visualvm 2.1.3-1
 vkd3d-valve 1.1-2
 vkmark 20220318-1
@@ -2552,7 +2553,7 @@ wireless_tools 30.pre9-3
 wl-clipboard 1:2.1.0-2
 wlroots 0.15.1-6
 wmctrl 1.07-6
-woff2 1.0.2-3
+woff2 1.0.2-4
 wol 0.7.1-9
 wolfssl 5.3.0-1
 wpa_supplicant 2:2.10-4
@@ -2561,14 +2562,14 @@ wqy-bitmapfont 1.0.0RC1-5
 wqy-microhei 0.2.0_beta-11
 wqy-microhei-lite 0.2.0_beta-10
 wqy-zenhei 0.9.45-9
-wxwidgets-common 3.2.0-3
-wxwidgets-gtk3 3.2.0-3
+wxwidgets-common 3.2.0-4
+wxwidgets-gtk3 3.2.0-4
 x11vnc 1:0.9.16-5
 x264 3:0.164.r3081.19856cc-2
 x265 3.5-3
 x86_energy_perf_policy 5.18-1
 xapian-core 1:1.4.19-2
-xapp 2.2.12-1
+xapp 2.2.13-1
 xaw3d 1.6.3-3
 xbitmaps 1.1.2-3
 xcb-imdkit 1.0.3-1
@@ -2584,7 +2585,7 @@ xcb-util-xrm 1.3-2
 xclip 0.13-3
 xdelta3 3.1.0-3
 xdg-dbus-proxy 0.1.4-1
-xdg-desktop-portal 1.14.4-1
+xdg-desktop-portal 1.14.5-1
 xdg-desktop-portal-kde 5.25.3-1
 xdg-user-dirs 0.17-3
 xdg-utils 1.1.3+21+g1a58bc2-1
@@ -2673,7 +2674,7 @@ xorgproto 2022.1-1
 xournalpp 1.1.1-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.9-1
-xray-domain-list-community 20220717025946-1
+xray-domain-list-community 20220719055203-1
 xray-geoip 202207140057-1
 xsel 1.2.0.20200527-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
@@ -2701,11 +2702,12 @@ zeromq 4.3.4-2
 zile 2.6.2-2
 zimg 3.0.4-1
 zip 3.0-10
-zita-alsa-pcmi 0.4.0-1
+zita-alsa-pcmi 0.5.1-1
 zita-resampler 1.8.0-1
 zlib 1:1.2.12-2
 zsh 5.9-1
 zstd 1.5.2-7
+zulu-17-bin 17.0.3-1
 zulu-jre-fx-bin 17.0.3-2
 zvbi 0.2.35-4
 zxing-cpp 1.4.0-1
