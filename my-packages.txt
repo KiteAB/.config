@@ -194,7 +194,7 @@ cmus 2.10.0-2
 cogl 1.22.8-2
 colord 1.4.6-1
 com.qq.tim.spark 3.3.5.22018spark0-1
-comgr 5.2.0-1
+comgr 5.2.1-1
 compiler-rt 14.0.6-1
 confuse 3.3-3
 connman 1.41-1
@@ -207,6 +207,7 @@ cowsay 3.04-2
 cpio 2.13-2
 cpupower 5.18-1
 cronie 1.6.1-1
+crypto++ 8.6.0-2
 cryptsetup 2.4.3-2
 ctags 1:5.9.20210905.0-1
 cups 1:2.4.2-3
@@ -286,7 +287,7 @@ edk2-armvirt 202205-1
 edk2-ovmf 202205-1
 efibootmgr 18-1
 efivar 38-2
-electron 19.0.8-1
+electron 19.0.9-1
 electron-netease-cloud-music 0.9.35-1
 electron17 17.4.10-1
 elementary-icon-theme 7.0.0-1
@@ -295,7 +296,7 @@ elisa 22.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.158359-1
+emacs-git 29.0.50.158379-1
 embree 3.13.4-1
 enca 1.19-4
 enchant 2.3.3-1
@@ -344,7 +345,7 @@ file 5.42-1
 filebrowser-bin 2.22.4-1
 filelight 22.04.3-1
 filesystem 2021.12.07-1
-filezilla 3.60.1-3
+filezilla 3.60.2-1
 findutils 4.9.0-1
 fingerprint-gui 1.09-7
 fio 3.29-1
@@ -381,7 +382,7 @@ fstrm 0.6.1-1
 fuse-common 3.11.0-1
 fuse2 2.9.9-4
 fuse3 3.11.0-1
-fwupd 1.8.2-2
+fwupd 1.8.3-1
 fwupd-efi 1.3-1
 fzf 0.30.0-3
 gamemode 1.6.1-2
@@ -395,7 +396,7 @@ gcc-libs 12.1.0-2
 gconf 3.2.6+11+g07808097-11
 gcr 3.41.1-1
 gd 2.3.3-4
-gdal 3.4.3-3
+gdal 3.5.0-4
 gdb 12.1-1
 gdb-common 12.1-1
 gdbm 1.23-1
@@ -425,7 +426,7 @@ github-cli 2.13.0-1
 gl2ps 1.4.2-2
 glew 2.2.0-3
 glew1.10 1.10.0-3
-glfw-wayland 3.3.7-1
+glfw-wayland 3.3.8-1
 glib-networking 1:2.72.1-1
 glib2 2.72.3-1
 glib2-docs 2.72.3-1
@@ -583,9 +584,9 @@ jack_utils 0.0.1-1
 jansson 2.14-2
 jasper 3.0.6-1
 java-environment-common 3-3
-java-openjfx 18.0.1.u2-1
+java-openjfx 18.0.2.u2-1
 java-runtime-common 3-3
-java11-openjfx 11.0.15.u2-1
+java11-openjfx 11.0.16.u2-1
 java8-openjfx 8.u202-4
 jbig2dec 0.19-1
 jbigkit 2.1-6
@@ -844,7 +845,7 @@ l-smash 2.14.5-2
 ladspa 1.17-1
 lame 3.100-3
 lapack 3.10.1-1
-latte-dock-git 0.10.8.r5961.d404ca52-1
+latte-dock-git 0.10.8.r5962.7c4ab407-1
 layer-shell-qt 5.25.3-1
 lazarus 2.2.2-1
 lazydocker 0.18.1-1
@@ -1116,6 +1117,7 @@ libdbusmenu-qt5 0.9.3+16.04.20160218-6
 libdc1394 2.2.6-2
 libdca 0.0.7-1
 libde265 1.0.8-2
+libdeflate 1.11-1
 libdiscid 0.6.2-3
 libdispatch 5.5.0-1
 libdmtx 0.7.7-1
@@ -1153,7 +1155,7 @@ libgcrypt 1.10.1-1
 libgcrypt15 1.5.6-6
 libgdiplus 5.6.1-3
 libgee 0.20.5-2
-libgeotiff 1.6.0-4
+libgeotiff 1.7.1-1
 libgexiv2 0.14.0-3
 libgig 4.3.0-3
 libgit2 1:1.4.4-1
@@ -1346,7 +1348,7 @@ libsodium 1.0.18-2
 libsoup 2.74.2-2
 libsoup3 3.0.7-1
 libsoxr 0.1.3-2
-libspatialite 5.0.1-2
+libspatialite 5.0.1-3
 libspectre 0.2.10-1
 libspeechd 0.11.1-3
 libspiro 1:20200505-2
@@ -1470,8 +1472,8 @@ linux-firmware 20220708.be7798e-1
 linux-firmware-whence 20220708.be7798e-1
 linux-lts 5.15.55-1
 linux-lts-headers 5.15.55-1
-linux-zen 5.18.12.zen1-1
-linux-zen-headers 5.18.12.zen1-1
+linux-zen 5.18.13.zen1-1
+linux-zen-headers 5.18.13.zen1-1
 lirc 1:0.10.1-12
 lld 14.0.6-1
 lldb 14.0.6-1
@@ -1501,7 +1503,7 @@ lua53 5.3.6-1
 lua53-lgi 0.9.2-7
 luajit 2.1.0.beta3.r431.g5677985d-1
 luit 20220111-1
-lunar-client 2.12.6-1
+lunar-client 2.12.7-1
 lutris-git 0.5.10.1.r121.g01fd5b46-1
 lv2 1.18.4-2
 lvm2 2.03.16-1
@@ -1663,7 +1665,7 @@ openmpi 4.1.4-1
 openpmix 4.1.2-1
 openresolv 3.12.0-1
 openrgb 0.7-7
-openscenegraph 3.6.5-13
+openscenegraph 3.6.5-14
 openshadinglanguage 1.11.17.0-4
 openssh 9.0p1-1
 openssl 1.1.1.q-1
@@ -1678,7 +1680,7 @@ orc 0.4.32-1
 os-prober 1.80-1
 osinfo-db 20220516-1
 ossp 1.3.2+11+g9e94d67-3
-ostree 2022.4-1
+ostree 2022.5-1
 oxygen 5.25.3-1
 oxygen-sounds 5.25.3-1
 p11-kit 0.24.1-1
@@ -1888,7 +1890,7 @@ print-manager 22.04.3-1
 prismatik 5.11.2-3
 prison 5.96.0-2
 procps-ng 3.3.17-1
-proj 8.2.0-1
+proj 9.0.1-1
 protobuf 21.2-1
 protobuf-c 1.4.1-1
 proton 1:7.0.3-5
@@ -2066,7 +2068,7 @@ python-toml 0.10.2-7
 python-tomli 2.0.1-1
 python-tornado 6.1.0-5
 python-traitlets 5.3.0-1
-python-trove-classifiers 2022.6.26-1
+python-trove-classifiers 2022.7.22-1
 python-twisted 21.7.0-4
 python-typing_extensions 4.2.0-1
 python-urllib3 1.26.9-1
@@ -2230,7 +2232,7 @@ rime-terra-pinyin 0.0.0.20210805-1
 ripgrep 13.0.0-2
 rlwrap 0.45.2-1
 rnnoise 0.4.1-1
-rocm-device-libs 5.2.0-1
+rocm-device-libs 5.2.1-1
 rocs 22.04.3-1
 rofi 1.7.3-1
 rpcbind 1.2.6-2
@@ -2282,7 +2284,7 @@ screen 4.9.0-1
 screenfetch 3.9.1-1
 screenkey 1.5-1
 scrot 1.7-1
-sd 0.7.6-1
+sd 0.7.6-2
 sddm 0.19.0-8
 sddm-kcm 5.25.3-1
 sddm-sugar-light 1.0-2
@@ -2515,7 +2517,7 @@ vmaf 2.3.1-1
 volume_key 0.3.12-7
 vte-common 0.68.0-2
 vte3 0.68.0-2
-vtk 9.1.0-18
+vtk 9.1.0-19
 vulkan-extra-layers 1.3.216.0-1
 vulkan-extra-tools 1.3.216.0-1
 vulkan-headers 1:1.3.221-1
@@ -2565,7 +2567,7 @@ x264 3:0.164.r3081.19856cc-2
 x265 3.5-3
 x86_energy_perf_policy 5.18-1
 xapian-core 1:1.4.19-2
-xapp 2.2.13-1
+xapp 2.2.14-1
 xaw3d 1.6.3-3
 xbitmaps 1.1.2-3
 xcb-imdkit 1.0.3-1
@@ -2691,7 +2693,7 @@ you-get 0.4.1620-1
 yubico-c 1.13-6
 yubico-c-client 2.15-5
 yubikey-personalization 1.20.0-3
-yuzu-git r21702.6e36f4d230-1
+yuzu-git r21708.d60b0e8655-1
 zbar 0.23.1-9
 zenity 3.43.0-1
 zeroconf-ioslave 22.04.3-1

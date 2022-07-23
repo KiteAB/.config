@@ -207,6 +207,7 @@ cowsay
 cpio
 cpupower
 cronie
+crypto++
 cryptsetup
 ctags
 cups
@@ -1116,6 +1117,7 @@ libdbusmenu-qt5
 libdc1394
 libdca
 libde265
+libdeflate
 libdiscid
 libdispatch
 libdmtx
