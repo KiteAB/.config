@@ -38,6 +38,12 @@ Name=pinyin
 # Layout
 Layout=
 
+[Groups/1/Items/2]
+# Name
+Name=zrm
+# Layout
+Layout=
+
 [GroupOrder]
 0=Default
 1=Japanese
