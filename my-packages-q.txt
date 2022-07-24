@@ -168,7 +168,6 @@ calcurse
 calendarsupport
 cantarell-fonts
 cantor
-capnproto
 catch2
 catimg
 cblas
@@ -326,11 +325,16 @@ fcitx5-chewing
 fcitx5-chinese-addons
 fcitx5-configtool
 fcitx5-gtk
+fcitx5-lua
+fcitx5-m17n
 fcitx5-material-color
+fcitx5-nord
 fcitx5-pinyin-moegirl
 fcitx5-pinyin-zhwiki
 fcitx5-qt
-fcitx5-rime
+fcitx5-skin-fluentdark-git
+fcitx5-table-extra
+fcitx5-table-other
 fd
 feh
 ffcall
@@ -411,7 +415,6 @@ geoip
 geoip-database
 geos
 gettext
-gflags
 ghex
 ghostpcl
 ghostscript
@@ -457,7 +460,6 @@ gobject-introspection
 gobject-introspection-runtime
 godot
 google-chrome
-google-glog
 gopls
 goverlay
 gpart
@@ -856,7 +858,6 @@ ldns
 lensfun
 leptonica
 less
-leveldb
 lf
 lib2geom
 lib32-acl
@@ -1326,8 +1327,6 @@ libraw1394
 libreoffice-fresh
 libreoffice-fresh-zh-cn
 librevenge
-librime
-librime-data
 librsvg
 librtmp0
 librttopo
@@ -2221,14 +2220,7 @@ reiserfsprogs
 remmina
 rest
 rhash
-rime-bopomofo
-rime-cangjie
 rime-emoji
-rime-essay
-rime-luna-pinyin
-rime-prelude
-rime-stroke
-rime-terra-pinyin
 ripgrep
 rlwrap
 rnnoise

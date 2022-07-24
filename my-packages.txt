@@ -158,7 +158,7 @@ bullet 3.24-2
 bzip2 1.0.8-4
 c-ares 1.18.1-1
 ca-certificates 20210603-1
-ca-certificates-mozilla 3.80-1
+ca-certificates-mozilla 3.81-1
 ca-certificates-utils 20210603-1
 cabextract 1.9.1-2
 caddy 2.5.2-1
@@ -168,7 +168,6 @@ calcurse 4.8.0-1
 calendarsupport 22.04.3-1
 cantarell-fonts 1:0.303.1-1
 cantor 22.04.3-1
-capnproto 0.10.1-1
 catch2 2.13.9-1
 catimg 2.7.0-1
 cblas 3.10.1-1
@@ -224,7 +223,7 @@ dconf 0.40.0-1
 ddcutil 1.2.2-2
 debtap 3.5.1-1
 deepin-udis86 1.72_4-1
-deepin-wine-helper 5.1.41_1-1
+deepin-wine-helper 5.1.42_1-1
 deepin-wine-plugin 5.1.13-1
 deepin-wine-plugin-virtual 5.1.13-1
 deepin-wine-wechat 3.7.5.23-1
@@ -296,7 +295,7 @@ elisa 22.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.158379-1
+emacs-git 29.0.50.158403-1
 embree 3.13.4-1
 enca 1.19-4
 enchant 2.3.3-1
@@ -326,11 +325,16 @@ fcitx5-chewing 5.0.12-1
 fcitx5-chinese-addons 5.0.14-1
 fcitx5-configtool 5.0.14-1
 fcitx5-gtk 5.0.16-1
+fcitx5-lua 5.0.9-1
+fcitx5-m17n 5.0.10-1
 fcitx5-material-color 0.2.1-1
+fcitx5-nord 0.0.0.20210116-1
 fcitx5-pinyin-moegirl 20220714-1
 fcitx5-pinyin-zhwiki 1:0.2.4.20220722-1
 fcitx5-qt 5.0.14-1
-fcitx5-rime 5.0.14-1
+fcitx5-skin-fluentdark-git v0.3.0.r0.g7755620-2
+fcitx5-table-extra 5.0.11-1
+fcitx5-table-other 5.0.10-1
 fd 8.4.0-1
 feh 3.9-1
 ffcall 2.4-2
@@ -384,7 +388,7 @@ fuse2 2.9.9-4
 fuse3 3.11.0-1
 fwupd 1.8.3-1
 fwupd-efi 1.3-1
-fzf 0.30.0-3
+fzf 0.31.0-1
 gamemode 1.6.1-2
 gamescope 3.11.32-1
 gavl 1.4.0-6
@@ -411,7 +415,6 @@ geoip 1.6.12-2
 geoip-database 20220621-1
 geos 3.11.0-1
 gettext 0.21-2
-gflags 2.2.2-4
 ghex 42.3-1
 ghostpcl 9.56.1-1
 ghostscript 9.56.1-1
@@ -457,9 +460,8 @@ gobject-introspection 1.72.0-1
 gobject-introspection-runtime 1.72.0-1
 godot 3.4.4-2
 google-chrome 103.0.5060.134-1
-google-glog 0.6.0-1
 gopls 0.9.1-1
-goverlay 0.8.1-2
+goverlay 0.9.0-1
 gpart 0.3-4
 gparted 1.4.0-1
 gperf 3.1-3
@@ -843,7 +845,7 @@ kwrited 5.25.3-1
 kxmlgui 5.96.0-1
 l-smash 2.14.5-2
 ladspa 1.17-1
-lame 3.100-3
+lame 3.100-4
 lapack 3.10.1-1
 latte-dock-git 0.10.8.r5962.7c4ab407-1
 layer-shell-qt 5.25.3-1
@@ -856,7 +858,6 @@ ldns 1.8.1-1
 lensfun 1:0.3.3-1
 leptonica 1.82.0-2
 less 1:590-1
-leveldb 1.23-3
 lf 27-1
 lib2geom 1.1-2
 lib32-acl 2.3.1-1
@@ -1019,7 +1020,7 @@ lib32-mpg123 1.30.1-1
 lib32-ncurses 6.3-1
 lib32-nettle 3.8-1
 lib32-nspr 4.34-1
-lib32-nss 3.80-1
+lib32-nss 3.81-1
 lib32-ocl-icd 2.3.1-1
 lib32-openal 1.22.2-1
 lib32-opencl-mesa 22.1.3-1
@@ -1326,8 +1327,6 @@ libraw1394 2.1.2-3
 libreoffice-fresh 7.3.4-2
 libreoffice-fresh-zh-cn 7.3.4-1
 librevenge 0.0.4-4
-librime 1:1.7.3-11
-librime-data 0.0.0.20220409-1
 librsvg 2:2.54.4-1
 librtmp0 2.4-5
 librttopo 1.1.0-5
@@ -1627,7 +1626,7 @@ noto-fonts-sc 2:20210430-2
 npm 8.14.0-1
 npth 1.6-3
 nspr 4.34-1
-nss 3.80-1
+nss 3.81-1
 ntfs-3g 2022.5.17-1
 numactl 2.0.14-3
 nvme-cli 2.0-3
@@ -2041,7 +2040,7 @@ python-requests 2.27.1-1
 python-resolvelib 0.8.1-1
 python-retrying 1.3.3-13
 python-rich 12.5.1-1
-python-secretstorage 3.3.1-3
+python-secretstorage 3.3.2-1
 python-setuptools 1:61.3.1-1
 python-sexpdata 0.0.3-4
 python-sgmllib3k 1.0.0-4
@@ -2221,14 +2220,7 @@ reiserfsprogs 3.6.27-3
 remmina 1:1.4.27-1
 rest 0.8.1+r4+ge5ee6ef-1
 rhash 1.4.2-1
-rime-bopomofo 0.0.0.20210131-1
-rime-cangjie 0.0.0.20210223-1
 rime-emoji 0.0.0.20220315-1
-rime-essay 0.0.0.20210805-1
-rime-luna-pinyin 0.0.0.20210805-1
-rime-prelude 0.0.0.20220409-1
-rime-stroke 0.0.0.20191221-2
-rime-terra-pinyin 0.0.0.20210805-1
 ripgrep 13.0.0-2
 rlwrap 0.45.2-1
 rnnoise 0.4.1-1
@@ -2672,7 +2664,7 @@ xorgproto 2022.1-1
 xournalpp 1.1.1-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.9-1
-xray-domain-list-community 20220722024527-1
+xray-domain-list-community 20220723102424-1
 xray-geoip 202207210057-1
 xsel 1.2.0.20200527-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
@@ -2693,7 +2685,7 @@ you-get 0.4.1620-1
 yubico-c 1.13-6
 yubico-c-client 2.15-5
 yubikey-personalization 1.20.0-3
-yuzu-git r21708.d60b0e8655-1
+yuzu-git r21722.97729fd8e9-1
 zbar 0.23.1-9
 zenity 3.43.0-1
 zeroconf-ioslave 22.04.3-1
