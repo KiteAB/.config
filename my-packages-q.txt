@@ -317,6 +317,7 @@ faad2
 fail2ban
 fakeroot
 farstream
+fastfetch-git
 faudio
 fcitx5
 fcitx5-anthy
@@ -1332,6 +1333,7 @@ librtmp0
 librttopo
 libsamplerate
 libsasl
+libsbsms
 libseccomp
 libsecret
 libshout
