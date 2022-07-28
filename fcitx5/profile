@@ -24,7 +24,7 @@ Name=Default
 # Layout
 Default Layout=us-colemak
 # Default Input Method
-DefaultIM=shuangpin
+DefaultIM=pinyin
 
 [Groups/1/Items/0]
 # Name
