@@ -1,48 +1,48 @@
 [Groups/0]
 # Group Name
-Name=Japanese
-# Layout
-Default Layout=gb-colemak
-# Default Input Method
-DefaultIM=anthy
-
-[Groups/0/Items/0]
-# Name
-Name=keyboard-gb-colemak
-# Layout
-Layout=
-
-[Groups/0/Items/1]
-# Name
-Name=anthy
-# Layout
-Layout=gb-colemak
-
-[Groups/1]
-# Group Name
 Name=Default
 # Layout
 Default Layout=us-colemak
 # Default Input Method
 DefaultIM=pinyin
 
-[Groups/1/Items/0]
+[Groups/0/Items/0]
 # Name
 Name=keyboard-us-colemak
 # Layout
 Layout=
 
-[Groups/1/Items/1]
+[Groups/0/Items/1]
 # Name
 Name=pinyin
 # Layout
 Layout=
 
-[Groups/1/Items/2]
+[Groups/0/Items/2]
 # Name
 Name=shuangpin
 # Layout
 Layout=
+
+[Groups/1]
+# Group Name
+Name=Japanese
+# Layout
+Default Layout=gb-colemak
+# Default Input Method
+DefaultIM=anthy
+
+[Groups/1/Items/0]
+# Name
+Name=keyboard-gb-colemak
+# Layout
+Layout=
+
+[Groups/1/Items/1]
+# Name
+Name=anthy
+# Layout
+Layout=gb-colemak
 
 [GroupOrder]
 0=Default
