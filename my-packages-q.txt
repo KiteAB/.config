@@ -194,7 +194,6 @@ cmatrix
 cmus
 cogl
 colord
-com.qq.tim.spark
 comgr
 compiler-rt
 confuse
@@ -229,8 +228,6 @@ deepin-wine-helper
 deepin-wine-plugin
 deepin-wine-plugin-virtual
 deepin-wine-wechat
-deepin-wine5
-deepin-wine5-i386
 deepin-wine6-stable
 deepin-wine6-stable-amd64
 deepin-wine6-stable-i386
@@ -2505,7 +2502,7 @@ unicode-character-database
 unicode-cldr
 unicode-cldr-annotations
 unicode-emoji
-unityhub
+unityhub-cn
 unixodbc
 unzip
 upower
