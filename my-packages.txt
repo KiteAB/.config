@@ -207,6 +207,7 @@ cowsay 3.04-2
 cpio 2.13-2
 cpupower 5.18-1
 cronie 1.6.1-1
+crow-translate 2.9.8-2
 crypto++ 8.6.0-2
 cryptsetup 2.5.0-1
 ctags 1:5.9.20210905.0-1
@@ -294,7 +295,7 @@ elisa 22.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.158578-1
+emacs-git 29.0.50.158627-1
 embree 3.13.4-1
 enca 1.19-4
 enchant 2.3.3-1
@@ -316,7 +317,7 @@ faad2 2.10.0-1
 fail2ban 0.11.2-3
 fakeroot 1.29-1
 farstream 0.2.9-3
-fastfetch-git r922.d4c836f-1
+fastfetch-git r927.bc2e292-1
 faudio 22.07-1
 fcitx5 5.0.18-2
 fcitx5-anthy 5.0.12-1
@@ -486,7 +487,7 @@ grpc 1.48.0-1
 grpc-cli 1.48.0-1
 grub 2:2.06.r261.g2f4430cc0-1
 grub-btrfs 4.11-2
-grub-customizer 5.2.1-1
+grub-customizer 5.2.2-1
 gsettings-desktop-schemas 42.0-1
 gsfonts 20200910-2
 gsl 2.7.1-1
@@ -526,8 +527,8 @@ gv 3.7.4-5
 gvfs 1.50.2-1
 gwenview 22.04.3-1
 gzip 1.12-1
-harfbuzz 5.0.1-1
-harfbuzz-icu 5.0.1-1
+harfbuzz 5.1.0-1
+harfbuzz-icu 5.1.0-1
 harmonyos-sans-git r75.0d79cad-1
 harvid 0.9.0-1
 hddtemp 0.3.beta15.53-3
@@ -557,7 +558,7 @@ icoutils 0.32.3-3
 icu 71.1-1
 id3lib 3.8.3-18
 ijs 0.35-4
-imagemagick 7.1.0.44-1
+imagemagick 7.1.0.45-1
 imath 3.1.5-2
 imlib2 1.9.1-1
 incidenceeditor 22.04.3-1
@@ -569,7 +570,7 @@ intellij-idea-ultimate-edition 2022.2-1
 intellij-idea-ultimate-edition-jre 2022.2-1
 intltool 0.51.0-6
 iproute2 5.18.0-1
-iptables-nft 1:1.8.8-1
+iptables-nft 1:1.8.8-2
 iputils 20211215-1
 ipython 8.4.0-1
 iso-codes 4.11.0-1
@@ -902,7 +903,7 @@ lib32-gst-plugins-base-libs 1.20.3-1
 lib32-gstreamer 1.20.3-1
 lib32-gtk2 2.24.33-1
 lib32-gtk3 3.24.34-1
-lib32-harfbuzz 5.0.1-1
+lib32-harfbuzz 5.1.0-1
 lib32-icu 71.1-1
 lib32-imlib2 1.9.1-1
 lib32-jack2 1.9.21-1
@@ -969,7 +970,7 @@ lib32-libssh2 1.10.0-1
 lib32-libtasn1 4.18.0-1
 lib32-libthai 0.1.29-1
 lib32-libtheora 1.1.1-13
-lib32-libtiff 4.4.0-1
+lib32-libtiff 4.4.0-3
 lib32-libtiff4 3.9.7-5
 lib32-libtirpc 1.3.2-2
 lib32-libudev0-shim 1-5
@@ -1368,7 +1369,7 @@ libtermkey 0.22-2
 libtg_owt 0.git14.10d5f4b-2
 libthai 0.1.29-1
 libtheora 1.1.1-5
-libtiff 4.4.0-1
+libtiff 4.4.0-3
 libtiff4 3.9.7-5
 libtirpc 1.3.2-1
 libtommath 1.2.0-3
@@ -1638,7 +1639,7 @@ obs-studio 27.2.4-2
 ocaml 4.13.1-3
 ocaml-compiler-libs 4.13.1-3
 ocaml-csexp 1.5.1-4
-ocaml-findlib 1.9.1-4
+ocaml-findlib 1.9.5-1
 ocaml-pp 1.1.2-2
 ocaml-result 1.5-6
 ocl-icd 2.3.1-1
@@ -1772,7 +1773,7 @@ perl-io-html 1.004-3
 perl-io-socket-ssl 2.074-3
 perl-io-string 1.08-12
 perl-ipc-run3 0.048-10
-perl-libwww 6.60-2
+perl-libwww 6.67-1
 perl-lingua-translit 0.28-7
 perl-list-allutils 0.19-1
 perl-list-moreutils 0.430-3
@@ -2026,8 +2027,8 @@ python-pep517 0.12.0-4
 python-pexpect 4.8.0-6
 python-pickleshare 0.7.5-8
 python-pillow 9.2.0-1
-python-pip 22.2-1
-python-platformdirs 2.5.1-1
+python-pip 22.2.1-1
+python-platformdirs 2.5.2-1
 python-ply 3.11-10
 python-prettytable 3.3.0-1
 python-progress 1.6-5
@@ -2234,6 +2235,8 @@ qt6-webengine 6.3.1-1
 qtkeychain-qt5 0.13.2-1
 qtwebkit 2.3.4-7
 quazip-qt5 1.3-1
+radeon-profile-daemon-git 20190603.r0.g7923bd6-1
+radeon-profile-git 20200824.r26.g0d632ba-1
 radeontool 1.6.3-4
 radeontop 1.4-1
 ragel 6.10-3
@@ -2258,6 +2261,7 @@ reiserfsprogs 3.6.27-3
 remmina 1:1.4.27-1
 rest 0.8.1+r4+ge5ee6ef-1
 rhash 1.4.2-1
+rider 1:2022.1.2-1
 rime-emoji 0.0.0.20220315-1
 ripgrep 13.0.0-2
 rlwrap 0.45.2-1
@@ -2309,7 +2313,7 @@ sane 1.1.1-1
 sbc 2.0-1
 schroedinger 1.0.11-6
 scons 4.3.0-3
-scrcpy 1.23-2
+scrcpy 1.24-1
 screen 4.9.0-1
 screenfetch 3.9.1-1
 screenkey 1.5-1
@@ -2513,7 +2517,7 @@ util-linux 2.38-1
 util-linux-libs 2.38-1
 utools 2.6.3-1
 v2ray 4.45.2-1
-v2ray-domain-list-community 20220728161132-1
+v2ray-domain-list-community 20220730021420-1
 v2ray-geoip 202207280056-1
 v2raya 1.5.8.1-1
 v4l-utils 1.22.1-1
@@ -2560,7 +2564,7 @@ vulkan-tools 1.3.217-1
 vulkan-validation-layers 1.3.216.0-1
 w3m 0.5.3.git20220409_1-1
 wakatime 1:1.48.1-1
-wavpack 5.4.0-1
+wavpack 5.5.0-1
 wayland 1.21.0-1
 wayland-protocols 1.25-1
 wayland-utils 1.0.0-2
@@ -2728,7 +2732,7 @@ zbar 0.23.1-9
 zenity 3.43.0-1
 zeroconf-ioslave 22.04.3-1
 zeromq 4.3.4-2
-zerotier-gui-git 1.3.0.r83.a8be982-1
+zerotier-gui-git 1.3.0.r84.44626a5-1
 zerotier-one 1.10.1-1
 zile 2.6.2-2
 zimg 3.0.4-1

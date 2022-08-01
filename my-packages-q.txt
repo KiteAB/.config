@@ -207,6 +207,7 @@ cowsay
 cpio
 cpupower
 cronie
+crow-translate
 crypto++
 cryptsetup
 ctags
@@ -2234,6 +2235,8 @@ qt6-webengine
 qtkeychain-qt5
 qtwebkit
 quazip-qt5
+radeon-profile-daemon-git
+radeon-profile-git
 radeontool
 radeontop
 ragel
@@ -2258,6 +2261,7 @@ reiserfsprogs
 remmina
 rest
 rhash
+rider
 rime-emoji
 ripgrep
 rlwrap
