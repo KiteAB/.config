@@ -44,3 +44,4 @@ ranger/plugins/devicons_linemode.pyo
 /pudb/*
 !/pudb/pudb.cfg
 !/screenshots/
+!/kdeglobals
