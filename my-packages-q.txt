@@ -185,6 +185,7 @@ chromaprint
 chrpath
 cifs-utils
 clang
+clion
 clucene
 clutter
 clutter-gst
@@ -2306,8 +2307,8 @@ ruby-tins
 rubygems
 run-parts
 runc
+rust
 rustdesk-bin
-rustup
 samba
 sane
 sbc
