@@ -384,7 +384,6 @@ frei0r-plugins 1.8.0-2
 fribidi 1.0.12-1
 frpc 0.42.0-1
 frps 0.42.0-1
-fstrm 0.6.1-1
 fuse-common 3.11.0-1
 fuse2 2.9.9-4
 fuse3 3.11.0-1
@@ -539,7 +538,6 @@ help2man 1.49.2-1
 hexo-cli 4.3.0-6
 hicolor-icon-theme 0.17-2
 hidapi 0.12.0-1
-hiredis 1.0.2-1
 hmcl-bin 3.5.3.221-1
 htop 3.2.1-1
 http-parser 2.9.4-1
@@ -578,7 +576,6 @@ iso-codes 4.11.0-1
 itinerary 22.04.3-1
 itstool 1:2.0.7-1
 iw 5.19-1
-iwbtg 1.0.0-1
 jack2 1.9.21-1
 jack2-dbus 1.9.21-1
 jack_capture 0.9.73-8
@@ -1567,8 +1564,6 @@ mobile-broadband-provider-info 20220725-1
 modemmanager 1.18.10-2
 modemmanager-qt 5.96.0-1
 molequeue 0.9.0-2
-monero 0.18.0.0-1
-monero-gui 0.18.0.0-1
 mono 6.12.0.177-1
 mono-msbuild 16.10.1.xamarinxplat.2021.05.26.14.00-2
 motrix-git 1.5.15.r68.g0cd1ed1-1
@@ -1896,6 +1891,7 @@ print-manager 22.04.3-1
 prismatik 5.11.2-3
 prison 5.96.0-2
 procps-ng 3.3.17-1
+progress 0.16-1
 proj 9.0.1-1
 protobuf 21.4-1
 protobuf-c 1.4.1-1
@@ -2501,7 +2497,6 @@ udns 0.4-5
 ueberzug 18.1.9-3
 ufw 0.36.1-1
 umbrello 22.04.3-1
-unbound 1.16.2-1
 unibilium 2.1.1-1
 unicode-character-database 14.0.0-1
 unicode-cldr 38.0-2

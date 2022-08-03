@@ -384,7 +384,6 @@ frei0r-plugins
 fribidi
 frpc
 frps
-fstrm
 fuse-common
 fuse2
 fuse3
@@ -539,7 +538,6 @@ help2man
 hexo-cli
 hicolor-icon-theme
 hidapi
-hiredis
 hmcl-bin
 htop
 http-parser
@@ -578,7 +576,6 @@ iso-codes
 itinerary
 itstool
 iw
-iwbtg
 jack2
 jack2-dbus
 jack_capture
@@ -1567,8 +1564,6 @@ mobile-broadband-provider-info
 modemmanager
 modemmanager-qt
 molequeue
-monero
-monero-gui
 mono
 mono-msbuild
 motrix-git
@@ -1896,6 +1891,7 @@ print-manager
 prismatik
 prison
 procps-ng
+progress
 proj
 protobuf
 protobuf-c
@@ -2501,7 +2497,6 @@ udns
 ueberzug
 ufw
 umbrello
-unbound
 unibilium
 unicode-character-database
 unicode-cldr
