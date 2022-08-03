@@ -1,26 +1,11 @@
-# My .config
+# `.config`
 
-#### Hello, there are my config file. (I'm a Colemak user.) **Based On [Repo](https://github.com/theniceboy/.config)**
+If you want to use some configuration files I removed, maybe you'll be interested in [this repository](https://github.com/theniceboy/.config)
 
-#### Effect ([dwm](https://github.com/KiteAB/dwm) and [nvim](https://github.com/KiteAB/nvim)):
-
-![](./screenshots/1.png)
-
----
-
-Continue, Use your linux!
-
-##### Hint: My system is [Arch Linux](https://www.archlinux.org), if your system is [ubuntu](https://www.ubuntu.com) or other, you maybe can't use this config.
+Hint: My operating system is [Arch Linux](https://archlinux.org), if your system is others such as [Ubuntu](https://www.ubuntu.com), you may can't use this config.
 
 ---
 
 ## My Arch Linux packages
 
 See [my-packages.txt](my-packages.txt)
-
----
-
-## Related repositories
-
-- [scripts](https://github.com/KiteAB/scripts)
-- [dwm](https://github.com/KiteAB/dwm)
