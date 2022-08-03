@@ -1,1 +1,0 @@
-/home/kiteab/.fzf/shell/key-bindings.fish
