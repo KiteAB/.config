@@ -30,7 +30,6 @@ akonadi-notes
 akonadi-search
 akonadiconsole
 akregator
-alacritty
 alembic
 alibaba-puhuiti
 alsa-card-profiles
@@ -123,7 +122,6 @@ biber
 bilibili-live-helper-bin
 binutils
 bison
-bitwarden
 black-hole-solver
 blas
 blender
@@ -519,7 +517,6 @@ gtkspell3
 gtop
 gts
 guile
-gumbo-parser
 gupnp
 gupnp-dlna
 gupnp-igd
@@ -1282,7 +1279,6 @@ libnma
 libnma-common
 libnotify
 libnsl
-libnss_nis
 libnumbertext
 libodfgen
 libofa
@@ -1477,7 +1473,6 @@ linux-zen-headers
 lirc
 lld
 lldb
-llpp
 llvm
 llvm-libs
 lm_sensors
@@ -1882,7 +1877,6 @@ popt
 portaudio
 portmidi
 portsmf
-postgresql-libs
 potrace
 powerdevil
 poxml
@@ -2345,7 +2339,6 @@ signon-ui
 signond
 siji-ttf
 simgear
-sl
 slang
 slock
 smartmontools
@@ -2521,7 +2514,6 @@ v4l2loopback-dkms
 vala
 vamp-plugin-sdk
 vapoursynth
-vaultwarden
 vcdimager
 vde2
 vdpauinfo
