@@ -269,10 +269,10 @@ drkonqi 5.25.4-1
 dtc 1.6.1-4
 duf 0.8.1-2
 duktape 2.7.0-4
-dune 3.3.1-1
+dune 3.4.1-1
 dvdauthor 0.7.2-11
 dvgrab 3.5-12
-dxvk-bin 1.10.2-1
+dxvk-bin 1.10.3-1
 e2fsprogs 1.46.5-4
 easy-rsa 3.1.0-1
 ebook-tools 0.2.2-7
@@ -294,7 +294,7 @@ elisa 22.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.158807-1
+emacs-git 29.0.50.158854-1
 embree 3.13.4-1
 enca 1.19-4
 enchant 2.3.3-1
@@ -429,7 +429,7 @@ gl2ps 1.4.2-2
 glew 2.2.0-3
 glew1.10 1.10.0-3
 glfw-wayland 3.3.8-1
-glib-networking 1:2.72.1-1
+glib-networking 1:2.72.2-1
 glib2 2.72.3-1
 glib2-docs 2.72.3-1
 glibc 2.36-1
@@ -457,7 +457,7 @@ gnutls 3.7.6-1
 go 2:1.19-1
 gobject-introspection 1.72.0-1
 gobject-introspection-runtime 1.72.0-1
-godot 3.4.5-1
+godot 3.5-1
 google-chrome 104.0.5112.79-1
 gopls 0.9.1-1
 goverlay 0.9.0-1
@@ -541,7 +541,7 @@ http-parser 2.9.4-1
 hugo 0.101.0-1
 hunspell 1.7.0-4
 hwdata 0.361-1
-hwinfo 21.82-1
+hwinfo 22.0-1
 hwloc 2.8.0-1
 hyphen 2.8.8-4
 i2c-tools 4.3-3
@@ -888,7 +888,7 @@ lib32-gdk-pixbuf2 2.42.8-1
 lib32-gettext 0.21-1
 lib32-giflib 5.2.1-1
 lib32-glew1.10 1.10.0-5
-lib32-glib-networking 2.72.1-1
+lib32-glib-networking 2.72.2-1
 lib32-glib2 2.72.3-1
 lib32-glibc 2.36-1
 lib32-glu 9.0.2-3
@@ -1060,7 +1060,7 @@ lib32-zstd 1.5.2-1
 libabw 0.1.3-3
 libaccounts-glib 1.25-7
 libaccounts-qt 1.16-3
-libadwaita 1:1.1.3-1
+libadwaita 1:1.1.4-1
 libaec 1.0.6-1
 libaio 0.3.113-1
 libakonadi 22.04.3-1
@@ -1832,7 +1832,7 @@ perl-xml-writer 0.900-1
 phodav 2.5-2
 phonon-qt5 4.11.1-3
 phonon-qt5-gstreamer 4.10.0-3
-php 8.1.8-1
+php 8.1.9-1
 picmi 22.04.3-1
 picom-git 1714_9.rc1.36.g896acab_2022.07.18-1
 pim-data-exporter 22.04.3-1
@@ -1840,12 +1840,13 @@ pim-sieve-editor 22.04.3-1
 pimcommon 22.04.3-1
 pinentry 1.2.0-1
 pipewire 1:0.3.56-1
-pipewire-media-session 1:0.4.1-2
+pipewire-alsa 1:0.3.56-1
+pipewire-pulse 1:0.3.56-1
 pixman 0.40.0-2
 pkcs11-helper 1.29.0-1
 pkgconf 1.8.0-1
 pkgfile 21-2
-pkgstats 3.2.2-1
+pkgstats 3.2.3-1
 plasma-browser-integration 5.25.4-1
 plasma-desktop 5.25.4-1
 plasma-disks 5.25.4-1
@@ -1894,16 +1895,9 @@ psmisc 23.5-1
 psutils 2.09-1
 ptex 2.4.1-3
 pugixml 1.12.1-1
-pulseaudio 16.1-1
 pulseaudio-alsa 1:1.2.7.1-1
-pulseaudio-bluetooth 16.1-1
-pulseaudio-equalizer 16.1-1
 pulseaudio-equalizer-ladspa 3.0.2-5
-pulseaudio-jack 16.1-1
-pulseaudio-lirc 16.1-1
 pulseaudio-qt 1.3-1
-pulseaudio-rtp 16.1-1
-pulseaudio-zeroconf 16.1-1
 pulsemixer 1.5.1-3
 purpose 5.96.0-1
 pybind11 2.10.0-1
@@ -1946,7 +1940,7 @@ python-cryptography 37.0.4-1
 python-css-parser 1.0.7-1
 python-cssselect 1.1.0-9
 python-dateutil 2.8.2-4
-python-debugpy 1.6.2-1
+python-debugpy 1.6.2-2
 python-decorator 5.1.1-1
 python-distlib 0.3.5-1
 python-distro 1.7.0-1
@@ -2524,8 +2518,8 @@ vid.stab 1.1-3
 vim 9.0.0135-1
 vim-runtime 9.0.0135-1
 virglrenderer 0.9.1-1
-virt-install 4.0.0-1
-virt-manager 4.0.0-1
+virt-install 4.1.0-1
+virt-manager 4.1.0-1
 virt-viewer 11.0-1
 virtio-win 0.1.221.1-1
 virtualbox 6.1.36-1
@@ -2570,6 +2564,7 @@ wine-mono 7.3.0-1
 winetricks 20220411-1
 wireless-regdb 2022.06.06-1
 wireless_tools 30.pre9-3
+wireplumber 0.4.11-2
 wl-clipboard 1:2.1.0-2
 wlroots 0.15.1-6
 wmctrl 1.07-6
@@ -2694,7 +2689,7 @@ xorgproto 2022.1-1
 xournalpp 1.1.1-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.9-1
-xray-domain-list-community 20220804151436-1
+xray-domain-list-community 20220805165429-1
 xray-geoip 202208040058-1
 xsel 1.2.0.20200527-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
@@ -2715,7 +2710,7 @@ you-get 0.4.1620-1
 yubico-c 1.13-6
 yubico-c-client 2.15-5
 yubikey-personalization 1.20.0-3
-yuzu-git r21814.1f7e62e86e-1
+yuzu-git r21815.cd5bbf0f04-1
 zbar 0.23.1-9
 zenity 3.43.0-1
 zeroconf-ioslave 22.04.3-1

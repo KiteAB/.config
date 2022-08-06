@@ -1840,7 +1840,8 @@ pim-sieve-editor
 pimcommon
 pinentry
 pipewire
-pipewire-media-session
+pipewire-alsa
+pipewire-pulse
 pixman
 pkcs11-helper
 pkgconf
@@ -1894,16 +1895,9 @@ psmisc
 psutils
 ptex
 pugixml
-pulseaudio
 pulseaudio-alsa
-pulseaudio-bluetooth
-pulseaudio-equalizer
 pulseaudio-equalizer-ladspa
-pulseaudio-jack
-pulseaudio-lirc
 pulseaudio-qt
-pulseaudio-rtp
-pulseaudio-zeroconf
 pulsemixer
 purpose
 pybind11
@@ -2570,6 +2564,7 @@ wine-mono
 winetricks
 wireless-regdb
 wireless_tools
+wireplumber
 wl-clipboard
 wlroots
 wmctrl
