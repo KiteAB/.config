@@ -322,15 +322,15 @@ show-barcode=none,,Show Barcode…
 show-on-mouse-pos=none,Meta+V,Open Klipper at Mouse Position
 
 [mediacontrol]
-_k_friendly_name=Media Controller
-mediavolumedown=none,,Media volume down
-mediavolumeup=none,,Media volume up
-nextmedia=Media Next,Media Next,Media playback next
-pausemedia=Media Pause,Media Pause,Pause media playback
-playmedia=none,,Play media playback
-playpausemedia=Media Play,Media Play,Play/Pause media playback
-previousmedia=Media Previous,Media Previous,Media playback previous
-stopmedia=Media Stop,Media Stop,Stop media playback
+_k_friendly_name=媒体控制器
+mediavolumedown=none,none,媒体音量降低
+mediavolumeup=none,none,媒体音量提高
+nextmedia=Media Next,Media Next,播放下一首媒体
+pausemedia=Media Pause,Media Pause,暂停媒体播放
+playmedia=none,none,播放媒体
+playpausemedia=Media Play,Media Play,播放/暂停媒体播放
+previousmedia=Media Previous,Media Previous,播放上一首媒体
+stopmedia=Media Stop,Media Stop,停止媒体播放
 
 [org.flameshot.flameshot.desktop]
 _k_friendly_name=Flameshot
@@ -356,14 +356,14 @@ _k_friendly_name=Emoji Selector
 _launch=Meta+.,Meta+.,Emoji Selector
 
 [org.kde.spectacle.desktop]
-ActiveWindowScreenShot=Ctrl+Shift+Print,Meta+Print,Capture Active Window
-CurrentMonitorScreenShot=Print,none,Capture Current Monitor
-FullScreenScreenShot=none,Shift+Print,Capture Entire Desktop
-OpenWithoutScreenshot=none,none,Launch Spectacle without capturing
-RectangularRegionScreenShot=Ctrl+F1,Meta+Shift+Print,Capture Rectangular Region
-WindowUnderCursorScreenShot=none,Meta+Ctrl+Print,Capture Window Under Cursor
-_k_friendly_name=Spectacle
-_launch=Meta+Print,Print,Launch Spectacle
+ActiveWindowScreenShot=Ctrl+Shift+Print,Meta+Print,截取活动窗口
+CurrentMonitorScreenShot=Print,none,截取当前显示器
+FullScreenScreenShot=none,Shift+Print,截取整个桌面
+OpenWithoutScreenshot=none,none,启动 Spectacle，但不截图
+RectangularRegionScreenShot=Ctrl+F1,Meta+Shift+Print,截取矩形区域
+WindowUnderCursorScreenShot=none,Meta+Ctrl+Print,截取光标所在窗口
+_k_friendly_name=Spectacle 截图工具
+_launch=Meta+Print,Print,启动 Spectacle
 
 [org_kde_powerdevil]
 Decrease Keyboard Brightness=Keyboard Brightness Down,Keyboard Brightness Down,Decrease Keyboard Brightness
