@@ -1,5 +1,3 @@
-0ad
-0ad-data
 a52dec
 aalib
 abseil-cpp
@@ -184,6 +182,7 @@ chrpath
 cifs-utils
 clang
 clion
+cloc
 clucene
 clutter
 clutter-gst
@@ -298,7 +297,6 @@ emacs-git
 embree
 enca
 enchant
-enet
 esp8266-nonos-sdk
 esptool
 ethtool
@@ -435,7 +433,6 @@ glib2-docs
 glibc
 glibmm
 glm
-gloox
 glslang
 glu
 glusterfs
@@ -1710,6 +1707,7 @@ pcre2
 pcsclite
 perf
 perl
+perl-algorithm-diff
 perl-alien-build
 perl-alien-libxml2
 perl-autovivification
@@ -1724,6 +1722,7 @@ perl-class-data-inheritable
 perl-class-factory-util
 perl-class-inspector
 perl-class-load
+perl-class-method-modifiers
 perl-class-singleton
 perl-clone
 perl-data-compare
@@ -1736,6 +1735,7 @@ perl-datetime-format-builder
 perl-datetime-format-strptime
 perl-datetime-locale
 perl-datetime-timezone
+perl-devel-globaldestruction
 perl-devel-stacktrace
 perl-dist-checkconflicts
 perl-encode-locale
@@ -1759,6 +1759,7 @@ perl-http-daemon
 perl-http-date
 perl-http-message
 perl-http-negotiate
+perl-import-into
 perl-inc-latest
 perl-io-html
 perl-io-socket-ssl
@@ -1781,6 +1782,7 @@ perl-mime-charset
 perl-module-build
 perl-module-implementation
 perl-module-runtime
+perl-moo
 perl-mozilla-ca
 perl-mro-compat
 perl-namespace-autoclean
@@ -1791,6 +1793,7 @@ perl-number-compare
 perl-package-deprecationmanager
 perl-package-stash
 perl-package-stash-xs
+perl-parallel-forkmanager
 perl-params-util
 perl-params-validate
 perl-params-validationcompiler
@@ -1807,6 +1810,7 @@ perl-sub-exporter-progressive
 perl-sub-identify
 perl-sub-install
 perl-sub-name
+perl-sub-quote
 perl-test-fatal
 perl-text-bibtex
 perl-text-csv

@@ -1,5 +1,3 @@
-0ad a25.b-6
-0ad-data a25.b-1
 a52dec 0.7.4-11
 aalib 1.4rc5-14
 abseil-cpp 20220623.0-1
@@ -18,7 +16,7 @@ adobe-source-han-sans-cn-fonts 2.004-1
 adobe-source-han-sans-otc-fonts 2.004-1
 adobe-source-han-serif-cn-fonts 2.001-1
 adwaita-icon-theme 42.0+r1+gc144c3d75-1
-aegisub 3.2.2-52
+aegisub 3.3.3-1
 aha 0.5.1-2
 akonadi 22.04.3-1
 akonadi-calendar 22.04.3-1
@@ -147,7 +145,7 @@ breeze-gtk 5.25.4-1
 breeze-icons 5.96.0-1
 breezy 3.2.2-2
 bridge-utils 1.7.1-1
-brltty 6.5-1
+brltty 6.5-2
 brotli 1.0.9-8
 bspwm 0.9.10-2
 btrfs-progs 5.18.1-1
@@ -184,6 +182,7 @@ chrpath 0.16-3
 cifs-utils 6.15-1
 clang 14.0.6-2
 clion 1:2022.2-1
+cloc 1.94-1
 clucene 2.3.3.4-12
 clutter 1.26.4-2
 clutter-gst 3.0.27-4
@@ -197,7 +196,7 @@ comgr 5.2.1-1
 compiler-rt 14.0.6-1
 confuse 3.3-3
 connman 1.41-1
-containerd 1.6.6-1
+containerd 1.6.8-1
 convertlit 1.8-10
 coordgen 3.0.0-1
 copyq 6.2.0-2
@@ -207,7 +206,7 @@ cpio 2.13-2
 cpupower 5.19-1
 cronie 1.6.1-1
 crow-translate 2.9.10-1
-crypto++ 8.6.0-2
+crypto++ 8.7.0-1
 cryptsetup 2.5.0-1
 ctags 1:5.9.20210905.0-1
 cups 1:2.4.2-3
@@ -257,10 +256,10 @@ dolphin 22.04.3-1
 dolphin-plugins 22.04.3-1
 dosbox 0.74.3-2
 dosfstools 4.2-2
-dotnet-host 6.0.6.sdk106-1
-dotnet-runtime 6.0.6.sdk106-1
-dotnet-sdk 6.0.6.sdk106-1
-dotnet-targeting-pack 6.0.6.sdk106-1
+dotnet-host 6.0.7.sdk107-1
+dotnet-runtime 6.0.7.sdk107-1
+dotnet-sdk 6.0.7.sdk107-1
+dotnet-targeting-pack 6.0.7.sdk107-1
 double-conversion 3.2.1-1
 downgrade 11.2.1-1
 doxygen 1.9.3-1
@@ -269,7 +268,7 @@ drkonqi 5.25.4-1
 dtc 1.6.1-4
 duf 0.8.1-2
 duktape 2.7.0-4
-dune 3.4.1-1
+dune 3.4.1-2
 dvdauthor 0.7.2-11
 dvgrab 3.5-12
 dxvk-bin 1.10.3-1
@@ -294,11 +293,10 @@ elisa 22.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.158946-1
+emacs-git 29.0.50.158989-1
 embree 3.13.4-1
 enca 1.19-4
 enchant 2.3.3-1
-enet 1.3.17-1
 esp8266-nonos-sdk 3.0.4-1
 esptool 4.2-1
 ethtool 1:5.18-1
@@ -387,8 +385,8 @@ fuse2 2.9.9-4
 fuse3 3.11.0-1
 fwupd 1.8.3-1
 fwupd-efi 1.3-1
-fzf 0.32.0-1
-gamemode 1.6.1-2
+fzf 0.32.1-1
+gamemode 1.7-1
 gamescope 3.11.32-1
 gavl 1.4.0-6
 gawk 5.1.1-1
@@ -403,7 +401,7 @@ gdal 3.5.1-1
 gdb 12.1-1
 gdb-common 12.1-1
 gdbm 1.23-1
-gdk-pixbuf2 2.42.8-1
+gdk-pixbuf2 2.42.9-1
 gdl 3.40.0-1
 gedit 42.2-1
 gegl 0.4.38-1
@@ -435,7 +433,6 @@ glib2-docs 2.72.3-1
 glibc 2.36-1
 glibmm 2.66.4-1
 glm 0.9.9.8-1
-gloox 1.0.24-2
 glslang 11.10.0-1
 glu 9.0.2-3
 glusterfs 1:10.1-1
@@ -477,7 +474,7 @@ grantleetheme 22.04.3-1
 graphene 1.10.8-1
 graphicsmagick 1.3.38-3
 graphite 1:1.3.14-2
-graphviz 5.0.0-1
+graphviz 5.0.0-2
 grep 3.7-1
 groff 1.22.4-7
 groovy 4.0.3-1
@@ -855,7 +852,7 @@ lensfun 1:0.3.3-1
 leptonica 1.82.0-2
 less 1:590-1
 lf 27-1
-lib2geom 1.2-1
+lib2geom 1.2-2
 lib32-acl 2.3.1-1
 lib32-alsa-lib 1.2.7.2-1
 lib32-alsa-plugins 1.2.7.1-1
@@ -882,9 +879,9 @@ lib32-fontconfig 2:2.14.0-1
 lib32-freeglut 3.2.2-2
 lib32-freetype2 2.12.1-1
 lib32-fribidi 1.0.12-1
-lib32-gamemode 1.6.1-2
+lib32-gamemode 1.7-1
 lib32-gcc-libs 12.1.1-4
-lib32-gdk-pixbuf2 2.42.8-1
+lib32-gdk-pixbuf2 2.42.9-1
 lib32-gettext 0.21-1
 lib32-giflib 5.2.1-1
 lib32-glew1.10 1.10.0-5
@@ -1044,7 +1041,7 @@ lib32-sdl_mixer 1.2.12-4
 lib32-sdl_ttf 2.0.11-6
 lib32-smpeg 0.4.5-3
 lib32-sqlite 3.39.0-1
-lib32-systemd 251.3-1
+lib32-systemd 251.4-1
 lib32-tdb 1.4.7-1
 lib32-util-linux 2.38.1-1
 lib32-v4l-utils 1.22.1-1
@@ -1592,7 +1589,7 @@ net-tools 2.10-1
 netbeans 14-1
 netcdf 4.9.0-3
 netpbm 10.73.37-1
-netstandard-targeting-pack 6.0.6.sdk106-1
+netstandard-targeting-pack 6.0.7.sdk107-1
 nettle 3.8.1-1
 network-manager-applet 1.28.0-1
 networkmanager 1.38.2-2
@@ -1627,12 +1624,12 @@ numactl 2.0.14-3
 nvme-cli 2.0-3
 oath-toolkit 2.6.7-1
 obs-studio 27.2.4-2
-ocaml 4.13.1-3
-ocaml-compiler-libs 4.13.1-3
-ocaml-csexp 1.5.1-4
-ocaml-findlib 1.9.5-1
-ocaml-pp 1.1.2-2
-ocaml-result 1.5-6
+ocaml 4.14.0-1
+ocaml-compiler-libs 4.14.0-1
+ocaml-csexp 1.5.1-5
+ocaml-findlib 1.9.5-2
+ocaml-pp 1.1.2-3
+ocaml-result 1.5-7
 ocl-icd 2.3.1-1
 okteta 1:0.26.8-1
 okular 22.04.3-1
@@ -1710,6 +1707,7 @@ pcre2 10.40-1
 pcsclite 1.9.8-1
 perf 5.19-1
 perl 5.36.0-1
+perl-algorithm-diff 1:1.201-3
 perl-alien-build 2.51-1
 perl-alien-libxml2 0.17-3
 perl-autovivification 0.18-8
@@ -1724,6 +1722,7 @@ perl-class-data-inheritable 0.09-2
 perl-class-factory-util 1.7-10
 perl-class-inspector 1.36-5
 perl-class-load 0.25-2
+perl-class-method-modifiers 2.13-3
 perl-class-singleton 1.6-1
 perl-clone 0.45-4
 perl-data-compare 1.27-1
@@ -1736,6 +1735,7 @@ perl-datetime-format-builder 1:0.83-3
 perl-datetime-format-strptime 1.79-1
 perl-datetime-locale 1.35-1
 perl-datetime-timezone 2.52-1
+perl-devel-globaldestruction 0.14-8
 perl-devel-stacktrace 2.04-2
 perl-dist-checkconflicts 0.11-8
 perl-encode-locale 1.05-9
@@ -1759,6 +1759,7 @@ perl-http-daemon 6.14-2
 perl-http-date 6.05-5
 perl-http-message 6.37-1
 perl-http-negotiate 6.01-10
+perl-import-into 1.002005-8
 perl-inc-latest 0.500-9
 perl-io-html 1.004-3
 perl-io-socket-ssl 2.074-3
@@ -1781,6 +1782,7 @@ perl-mime-charset 1.012.2-9
 perl-module-build 0.4231-7
 perl-module-implementation 0.09-8
 perl-module-runtime 0.016-2
+perl-moo 2.005004-3
 perl-mozilla-ca 20211001-1
 perl-mro-compat 0.15-1
 perl-namespace-autoclean 0.29-4
@@ -1791,6 +1793,7 @@ perl-number-compare 0.03-12
 perl-package-deprecationmanager 0.17-8
 perl-package-stash 0.40-2
 perl-package-stash-xs 0.30-1
+perl-parallel-forkmanager 2.02-4
 perl-params-util 1.102-3
 perl-params-validate 1.30-3
 perl-params-validationcompiler 0.30-5
@@ -1807,6 +1810,7 @@ perl-sub-exporter-progressive 0.001013-8
 perl-sub-identify 0.14-10
 perl-sub-install 0.928-8
 perl-sub-name 0.26-4
+perl-sub-quote 1:2.006_007-2
 perl-test-fatal 0.016-3
 perl-text-bibtex 0.88-1
 perl-text-csv 2.01-1
@@ -2232,7 +2236,7 @@ raptor 2.0.15-19
 rar 6.12.0-1
 rasqal 1:0.9.33-5
 rav1e 0.4.1-2
-rclone 1.59.0-1
+rclone 1.59.1-1
 rclone-browser 1.8.0-1
 re2 1:20220601-1
 read-edid 3.0.2-3
@@ -2389,10 +2393,10 @@ sxhkd 0.6.2-2
 syndication 5.96.0-1
 syntax-highlighting 5.96.0-1
 sysfsutils 2.1.1-1
-systemd 251.3-1
-systemd-libs 251.3-1
+systemd 251.4-1
+systemd-libs 251.4-1
 systemd-swap 4.4.0-2
-systemd-sysvcompat 251.3-1
+systemd-sysvcompat 251.4-1
 systemsettings 5.25.4-1
 t1lib 5.1.2-8
 taglib 1.12-1
@@ -2453,7 +2457,7 @@ tmux 3.3_a-2
 totem-pl-parser 3.26.6-1
 tpm2-tss 3.2.0-1
 traceroute 2.1.0-5
-tracker3 3.3.2-1
+tracker3 3.3.3-1
 tracker3-miners 3.3.1-1
 translate-shell 0.9.6.12-3
 transmission-remote-gtk 1.5.1-1
@@ -2499,7 +2503,7 @@ unixodbc 2.3.11-1
 unzip 6.0-18
 upower 0.99.20-1
 usbmuxd 1.1.1-1
-usbredir 0.12.0-1
+usbredir 0.13.0-1
 usbutils 014-2
 util-linux 2.38.1-1
 util-linux-libs 2.38.1-1
@@ -2516,7 +2520,7 @@ vapoursynth R59-1
 vcdimager 2.0.1-4
 vde2 2.3.3-1
 vdpauinfo 1.4-2
-ventoy-bin 1.0.79-2
+ventoy-bin 1.0.79-3
 vi 1:070224-5
 vicious 2.5.0-1
 vid.stab 1.1-3
@@ -2570,7 +2574,7 @@ winetricks 20220411-1
 wireguard-tools 1.0.20210914-1
 wireless-regdb 2022.06.06-1
 wireless_tools 30.pre9-3
-wireplumber 0.4.11-2
+wireplumber 0.4.11-3
 wl-clipboard 1:2.1.0-2
 wlroots 0.15.1-6
 wmctrl 1.07-6
@@ -2578,7 +2582,7 @@ woff2 1.0.2-4
 wol 0.7.1-9
 wolfssl 5.3.0-1
 wpa_supplicant 2:2.10-5
-wpebackend-fdo 1.12.0-2
+wpebackend-fdo 1.12.1-1
 wqy-bitmapfont 1.0.0RC1-5
 wqy-microhei 0.2.0_beta-11
 wqy-microhei-lite 0.2.0_beta-10
@@ -2608,7 +2612,7 @@ xdelta3 3.1.0-3
 xdg-dbus-proxy 0.1.4-1
 xdg-desktop-portal 1.14.6-1
 xdg-desktop-portal-kde 5.25.4-1
-xdg-user-dirs 0.17-3
+xdg-user-dirs 0.18-1
 xdg-utils 1.1.3+21+g1a58bc2-1
 xdo 0.5.7-2
 xdotool 3.20211022.1-1
@@ -2695,7 +2699,7 @@ xorgproto 2022.1-1
 xournalpp 1.1.1-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.9-1
-xray-domain-list-community 20220808014309-1
+xray-domain-list-community 20220809072217-1
 xray-geoip 202208040058-1
 xsel 1.2.0.20200527-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
