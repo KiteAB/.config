@@ -2258,6 +2258,7 @@ rnnoise
 rocm-device-libs
 rocs
 rofi
+rp-pppoe
 rpcbind
 rsync
 rtaudio
