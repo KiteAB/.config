@@ -558,7 +558,6 @@ incidenceeditor
 iniparser
 inkscape
 innoextract
-intellij-idea-community-edition
 intellij-idea-ultimate-edition
 intellij-idea-ultimate-edition-jre
 intltool
