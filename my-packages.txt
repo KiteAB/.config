@@ -115,10 +115,12 @@ bash-language-server 3.0.5-2
 bashtop 0.9.25-1
 bat 0.21.0-2
 bc 1.07.1-4
+bcg729 1.1.1-1
 bdf-unifont 14.0.04-1
 biber 1:2.17-2
 bilibili-live-helper-bin 2.2.2-1
 binutils 2.39-2
+bird 2.0.10-1
 bison 3.8.2-4
 black-hole-solver 1.12.0-1
 blas 3.10.1-1
@@ -127,8 +129,8 @@ bless 0.6.3-1
 blinken 22.04.3-1
 blosc 1.21.1-2
 bluedevil 1:5.25.4-1
-bluez 5.65-1
-bluez-libs 5.65-1
+bluez 5.65-2
+bluez-libs 5.65-2
 bluez-qt 5.96.0-1
 boinc 7.20.2-1
 bolt 0.9.2-1
@@ -162,7 +164,7 @@ cairo 1.17.6-2
 cairomm 1.14.3-2
 calcurse 4.8.0-1
 calendarsupport 22.04.3-1
-calibre 6.2.1-1
+calibre 6.3.0-1
 cantarell-fonts 1:0.303.1-1
 cantor 22.04.3-1
 catch2 2.13.9-1
@@ -205,7 +207,7 @@ cowsay 3.04-2
 cpio 2.13-2
 cpupower 5.19-1
 cronie 1.6.1-1
-crow-translate 2.9.11-1
+crow-translate 2.9.12-1
 crypto++ 8.7.0-1
 cryptsetup 2.5.0-1
 ctags 1:5.9.20210905.0-1
@@ -263,7 +265,7 @@ dotnet-targeting-pack 6.0.8.sdk108-1
 double-conversion 3.2.1-1
 downgrade 11.2.1-1
 doxygen 1.9.3-1
-draco 1.5.1-2
+draco 1.5.3-1
 drkonqi 5.25.4-1
 dtc 1.6.1-4
 duf 0.8.1-2
@@ -293,7 +295,7 @@ elisa 22.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.159030-1
+emacs-git 29.0.50.159063-1
 embree 3.13.4-1
 enca 1.19-4
 enchant 2.3.3-1
@@ -314,8 +316,8 @@ faad2 2.10.0-1
 fail2ban 0.11.2-3
 fakeroot 1.29-1
 farstream 0.2.9-3
-fastfetch-git r937.2fe7476-1
-faudio 22.07-1
+fastfetch-git r942.d7c8482-1
+faudio 22.08-1
 fcitx5 5.0.18-2
 fcitx5-anthy 5.0.12-1
 fcitx5-breeze 2.0.0-1
@@ -395,7 +397,7 @@ gcab 1.5-1
 gcc 12.1.1-4
 gcc-libs 12.1.1-4
 gconf 3.2.6+11+g07808097-11
-gcr 3.41.1-1
+gcr 3.41.1-2
 gd 2.3.3-4
 gdal 3.5.1-1
 gdb 12.1-1
@@ -410,6 +412,7 @@ geoclue 2.6.0-2
 geocode-glib 3.26.4-1
 geoip 1.6.12-2
 geoip-database 20220802-1
+geoipupdate 4.9.0-3
 geos 3.11.0-1
 gettext 0.21-2
 ghex 42.3-1
@@ -419,7 +422,7 @@ ghostxps 9.56.1-1
 giblib 1.2.4-9
 giflib 5.2.1-2
 gimp 2.10.32-1
-git 2.37.1-1
+git 2.37.2-1
 git-delta 0.13.0-1
 git-lfs 3.2.0-1
 github-cli 2.14.4-1
@@ -433,7 +436,7 @@ glib2-docs 2.72.3-1
 glibc 2.36-1
 glibmm 2.66.4-1
 glm 0.9.9.8-1
-glslang 11.10.0-1
+glslang 11.11.0-1
 glu 9.0.2-3
 glusterfs 1:10.1-1
 gmic 3.1.5-1
@@ -456,7 +459,7 @@ gobject-introspection 1.72.0-1
 gobject-introspection-runtime 1.72.0-1
 godot 3.5-1
 google-chrome 104.0.5112.79-1
-gopls 0.9.1-1
+gopls 0.9.2-1
 goverlay 0.9.0-1
 gpart 0.3-4
 gparted 1.4.0-1
@@ -871,7 +874,7 @@ lib32-dbus-glib 0.112-2
 lib32-dconf 0.40.0-2
 lib32-e2fsprogs 1.46.5-1
 lib32-expat 2.4.8-1
-lib32-faudio 22.07-1
+lib32-faudio 22.08-1
 lib32-flac 1.3.4-3
 lib32-fluidsynth 2.2.8-1
 lib32-fontconfig 2:2.14.0-1
@@ -1235,6 +1238,7 @@ libluv 1.44.2_0-1
 libmad 0.15.1b-9
 libmanette 0.2.6-3
 libmatroska 1.6.3-2
+libmaxminddb 1.6.0-3
 libmbim 1.26.4-1
 libmd 1.0.4-1
 libmediainfo 22.06-1
@@ -1537,6 +1541,7 @@ mesa-vdpau 22.1.6-1
 meson 0.63.0-1
 messagelib 22.04.3-1
 metis 5.1.0.p10-2
+microsoft-gsl 4.0.0-1
 milou 5.25.4-1
 mindustry-bin 1:7.0_137-1
 minecraft-launcher 1:1.0.1221-1
@@ -1837,7 +1842,7 @@ phonon-qt5 4.11.1-3
 phonon-qt5-gstreamer 4.10.0-3
 php 8.1.9-1
 picmi 22.04.3-1
-picom-git 1714_9.rc1.36.g896acab_2022.07.18-1
+picom-git 1715_9.rc1.37.gec9243c_2022.08.12-1
 pim-data-exporter 22.04.3-1
 pim-sieve-editor 22.04.3-1
 pimcommon 22.04.3-1
@@ -1896,7 +1901,7 @@ protobuf-c 1.4.1-1
 proton 1:7.0.3-5
 psmisc 23.5-1
 psutils 2.09-1
-ptex 2.4.1-3
+ptex 2.4.2-1
 pugixml 1.12.1-1
 pulseaudio-alsa 1:1.2.7.1-1
 pulseaudio-equalizer-ladspa 3.0.2-5
@@ -2027,7 +2032,7 @@ python-pure-eval 0.2.2-1
 python-py7zr 0.19.0-1
 python-pyaes 1.6.1-9
 python-pyalsa 1.2.7-1
-python-pybcj 0.6.1-1
+python-pybcj 1.0.1-1
 python-pychm 0.8.6-6
 python-pycparser 2.21-3
 python-pycryptodome 3.15.0-1
@@ -2038,7 +2043,7 @@ python-pyinotify 0.9.6-11
 python-pynput 1.7.6-2
 python-pyopenssl 22.0.0-1
 python-pyparsing 3.0.9-1
-python-pyppmd 0.18.2-1
+python-pyppmd 0.18.3-1
 python-pyqt5 5.15.7-1
 python-pyqt5-sip 12.11.0-1
 python-pyqt5-webengine 5.15.6-1
@@ -2050,7 +2055,7 @@ python-pyte 0.8.1-1
 python-pytz 2022.1-1
 python-pyxdg 0.28-1
 python-pyzmq 23.2.0-2
-python-pyzstd 0.15.2-1
+python-pyzstd 0.15.3-1
 python-qrcode 7.3.1-1
 python-qtconsole 5.3.1-1
 python-qtpy 2.1.0-1
@@ -2093,7 +2098,7 @@ python-trove-classifiers 2022.8.7-1
 python-twisted 21.7.0-4
 python-typing_extensions 4.2.0-1
 python-unrardll 0.1.5-1
-python-urllib3 1.26.10-1
+python-urllib3 1.26.11-1
 python-validate-pyproject 0.9-1
 python-wcwidth 0.2.5-6
 python-webencodings 0.5.1-9
@@ -2229,6 +2234,7 @@ radeontool 1.6.3-4
 radeontop 1.4-1
 ragel 6.10-3
 rainbarf-git 20140404-1
+range-v3 0.12.0-1
 ranger 1.9.3-4
 rapidjson 1.1.0-5
 raptor 2.0.15-19
@@ -2409,7 +2415,7 @@ tdb 1.4.7-1
 tdlib 0.5.0-4
 teamspeak3 3.5.6-2
 teamspeak3-server 3.13.7-1
-telegram-desktop-megumifox 4.0.2-2
+telegram-desktop-megumifox 4.1.0-1
 telepathy-accounts-signon 2.1-2
 telepathy-farstream 0.6.2-7
 telepathy-glib 0.24.2-2
@@ -2450,6 +2456,7 @@ timeshift 22.06.5-1
 tinyxml 2.6.2-9
 tinyxml2 9.0.0-1
 tk 8.6.12-1
+tl-expected 1.0.0-1
 tldr 3.1.0-2
 tlp 1.5.0-5
 tlp-rdw 1.5.0-5
@@ -2509,8 +2516,8 @@ util-linux 2.38.1-1
 util-linux-libs 2.38.1-1
 utools 3.0.1-1
 v2ray 4.45.2-1
-v2ray-domain-list-community 20220809072217-1
-v2ray-geoip 202208040058-1
+v2ray-domain-list-community 20220813040114-1
+v2ray-geoip 202208110837-1
 v2raya 1.5.9.1698.1-1
 v4l-utils 1.22.1-1
 v4l2loopback-dkms 0.12.5-2
@@ -2522,7 +2529,7 @@ vde2 2.3.3-1
 vdpauinfo 1.4-2
 ventoy-bin 1.0.79-3
 vi 1:070224-5
-vicious 2.5.0-1
+vicious 2.5.1-1
 vid.stab 1.1-3
 vim 9.0.0135-1
 vim-runtime 9.0.0135-1
@@ -2575,6 +2582,8 @@ wireguard-tools 1.0.20210914-1
 wireless-regdb 2022.06.06-1
 wireless_tools 30.pre9-3
 wireplumber 0.4.11-3
+wireshark-cli 3.6.7-1
+wireshark-qt 3.6.7-1
 wl-clipboard 1:2.1.0-2
 wlroots 0.15.1-6
 wmctrl 1.07-6
@@ -2699,7 +2708,7 @@ xorgproto 2022.1-1
 xournalpp 1.1.1-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.9-1
-xray-domain-list-community 20220812031526-1
+xray-domain-list-community 20220813040114-1
 xray-geoip 202208110837-1
 xsel 1.2.0.20200527-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
@@ -2720,7 +2729,7 @@ you-get 0.4.1620-1
 yubico-c 1.13-6
 yubico-c-client 2.15-5
 yubikey-personalization 1.20.0-3
-yuzu-git r21848.72bf844110-1
+yuzu-git r21865.411e58de28-1
 zbar 0.23.1-9
 zenity 3.43.0-1
 zeroconf-ioslave 22.04.3-1
