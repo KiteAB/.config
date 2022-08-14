@@ -44,7 +44,7 @@ amf-headers 1.4.24-2
 amtk 5.5.1-1
 analitza 22.04.3-1
 android-studio 2021.2.1.16-1
-android-tools 31.0.3-6
+android-tools 31.0.3-7
 android-udev 20220611-1
 anthy 9100h-6
 aom 3.4.0-1
@@ -295,7 +295,7 @@ elisa 22.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.159063-1
+emacs-git 29.0.50.159083-1
 embree 3.13.4-1
 enca 1.19-4
 enchant 2.3.3-1
@@ -399,7 +399,7 @@ gcc-libs 12.1.1-4
 gconf 3.2.6+11+g07808097-11
 gcr 3.41.1-2
 gd 2.3.3-4
-gdal 3.5.1-1
+gdal 3.5.1-2
 gdb 12.1-1
 gdb-common 12.1-1
 gdbm 1.23-1
@@ -433,7 +433,7 @@ glfw-wayland 3.3.8-1
 glib-networking 1:2.72.2-1
 glib2 2.72.3-1
 glib2-docs 2.72.3-1
-glibc 2.36-1
+glibc 2.36-2
 glibmm 2.66.4-1
 glm 0.9.9.8-1
 glslang 11.11.0-1
@@ -541,7 +541,7 @@ http-parser 2.9.4-1
 hugo 0.101.0-1
 hunspell 1.7.0-4
 hwdata 0.361-1
-hwinfo 22.0-1
+hwinfo 22.1-1
 hwloc 2.8.0-1
 hyphen 2.8.8-4
 i2c-tools 4.3-3
@@ -559,7 +559,7 @@ imath 3.1.5-2
 imlib2 1.9.1-1
 incidenceeditor 22.04.3-1
 iniparser 4.1-4
-inkscape 1.2.1-1
+inkscape 1.2.1-2
 innoextract 1.9-6
 intellij-idea-ultimate-edition 2022.2-1
 intellij-idea-ultimate-edition-jre 2022.2-1
@@ -730,7 +730,7 @@ kiriki 22.04.3-1
 kitemmodels 5.96.0-1
 kitemviews 5.96.0-1
 kiten 22.04.3-1
-kitinerary 22.04.3-2
+kitinerary 22.04.3-3
 kjobwidgets 5.96.0-1
 kjs 5.96.0-1
 kjumpingcube 22.04.3-1
@@ -889,7 +889,7 @@ lib32-giflib 5.2.1-1
 lib32-glew1.10 1.10.0-5
 lib32-glib-networking 2.72.2-1
 lib32-glib2 2.72.3-1
-lib32-glibc 2.36-1
+lib32-glibc 2.36-2
 lib32-glu 9.0.2-3
 lib32-gmp 6.2.1-1
 lib32-gnutls 3.7.6-1
@@ -1042,7 +1042,7 @@ lib32-sdl_image 1.2.12-7
 lib32-sdl_mixer 1.2.12-4
 lib32-sdl_ttf 2.0.11-6
 lib32-smpeg 0.4.5-4
-lib32-sqlite 3.39.0-1
+lib32-sqlite 3.39.2-2
 lib32-systemd 251.4-1
 lib32-tdb 1.4.7-1
 lib32-util-linux 2.38.1-1
@@ -1096,7 +1096,7 @@ libcheese 41.1-2
 libchewing 0.5.1-4
 libclc 14.0.6-1
 libcloudproviders 0.3.1-2
-libcmis 0.5.2-10
+libcmis 0.5.2-11
 libcolord 1.4.6-1
 libconfig 1.7.3-1
 libcroco 0.6.13-2
@@ -1319,7 +1319,7 @@ libqxp 0.0.2-8
 libraqm 0.9.0-1
 libraw 0.20.2-2
 libraw1394 2.1.2-3
-libreoffice-fresh 7.3.5-1
+libreoffice-fresh 7.3.5-3
 libreoffice-fresh-zh-cn 7.3.5-1
 librevenge 0.0.4-4
 librsvg 2:2.54.4-1
@@ -1365,7 +1365,7 @@ libthai 0.1.29-1
 libtheora 1.1.1-5
 libtiff 4.4.0-3
 libtiff4 3.9.7-5
-libtirpc 1.3.2-1
+libtirpc 1.3.3-1
 libtommath 1.2.0-3
 libtool 2.4.7-3
 libtorrent-rasterbar 1:2.0.7-1
@@ -1468,8 +1468,8 @@ linux-firmware 20220708.be7798e-1
 linux-firmware-whence 20220708.be7798e-1
 linux-lts 5.15.60-1
 linux-lts-headers 5.15.60-1
-linux-zen 5.18.16.zen1-1
-linux-zen-headers 5.18.16.zen1-1
+linux-zen 5.19.1.zen1-1
+linux-zen-headers 5.19.1.zen1-1
 lirc 1:0.10.1-12
 lld 14.0.6-1
 lldb 14.0.6-1
@@ -1538,7 +1538,7 @@ mesa 22.1.6-1
 mesa-demos 8.5.0-2
 mesa-utils 8.5.0-2
 mesa-vdpau 22.1.6-1
-meson 0.63.0-1
+meson 0.63.1-1
 messagelib 22.04.3-1
 metis 5.1.0.p10-2
 microsoft-gsl 4.0.0-1
@@ -1639,7 +1639,7 @@ okteta 1:0.26.8-1
 okular 22.04.3-1
 onefetch 2.12.0-1
 oniguruma 6.9.8-1
-opam 2.1.2-1
+opam 2.1.3-1
 openal 1.22.2-1
 openbabel 3.1.1-4
 opencascade 1:7.5.3-3
@@ -1878,10 +1878,10 @@ polkit-kde-agent 5.25.4-1
 polkit-qt5 0.114.0-1
 polymc 1.4.1-1
 ponysay 3.0.3-4
-poppler 22.07.0-1
+poppler 22.08.0-1
 poppler-data 0.4.11-1
-poppler-glib 22.07.0-1
-poppler-qt5 22.07.0-1
+poppler-glib 22.08.0-1
+poppler-qt5 22.08.0-1
 popt 1.18-3
 portaudio 1:19.7.0-1
 portmidi 236-1
@@ -1919,7 +1919,7 @@ python-appdirs 1.4.4-6
 python-apsw 3.38.5-1
 python-argcomplete 2.0.0-1
 python-asn1crypto 1.5.1-1
-python-asttokens 2.0.5-2
+python-asttokens 2.0.7-1
 python-attrs 21.4.0-1
 python-aubio 0.4.9-14
 python-automat 20.2.0-9
@@ -1959,7 +1959,7 @@ python-ecdsa 0.17.0-3
 python-entrypoints 0.4-2
 python-epc 0.0.5-4
 python-evdev 1.6.0-1
-python-executing 0.9.1-1
+python-executing 0.10.0-1
 python-fastbencode 0.0.9-1
 python-feedparser 6.0.10-1
 python-flask 2.1.3-1
@@ -2084,7 +2084,7 @@ python-sphinxcontrib-htmlhelp 2.0.0-3
 python-sphinxcontrib-jsmath 1.0.1-11
 python-sphinxcontrib-qthelp 1.0.3-8
 python-sphinxcontrib-serializinghtml 1.1.5-3
-python-stack-data 0.3.0-1
+python-stack-data 0.4.0-1
 python-systemd 234-11
 python-sysv_ipc 1.1.0-2
 python-tenacity 8.0.1-3
@@ -2377,7 +2377,7 @@ spice 0.15.0-1
 spice-gtk 0.41-2
 spirv-tools 2022.1-1
 spotifyd 0.3.3-1
-sqlite 3.39.2-1
+sqlite 3.39.2-2
 sratom 0.6.12-1
 srt 1.5.0-1
 sshfs 3.7.3-1
@@ -2492,7 +2492,7 @@ ttf-ubuntu-font-family 0.83-8
 ttf-unifont 14.0.04-1
 twolame 0.4.0-2
 typespeed 0.6.5-9
-tzdata 2022a-1
+tzdata 2022b-1
 uchardet 0.0.7-1
 udftools 2.3-1
 udisks2 2.9.4-1
@@ -2581,7 +2581,7 @@ winetricks 20220411-1
 wireguard-tools 1.0.20210914-1
 wireless-regdb 2022.06.06-1
 wireless_tools 30.pre9-3
-wireplumber 0.4.11-3
+wireplumber 0.4.11-4
 wireshark-cli 3.6.7-1
 wireshark-qt 3.6.7-1
 wl-clipboard 1:2.1.0-2
@@ -2619,7 +2619,7 @@ xcb-util-xrm 1.3-2
 xclip 0.13-3
 xdelta3 3.1.0-3
 xdg-dbus-proxy 0.1.4-1
-xdg-desktop-portal 1.14.6-1
+xdg-desktop-portal 1.15.0-1
 xdg-desktop-portal-kde 5.25.4-1
 xdg-user-dirs 0.18-1
 xdg-utils 1.1.3+21+g1a58bc2-1
@@ -2704,11 +2704,11 @@ xorg-xwayland 22.1.3-1
 xorg-xwd 1.0.8-1
 xorg-xwininfo 1.1.5-3
 xorg-xwud 1.0.6-1
-xorgproto 2022.1-1
+xorgproto 2022.2-1
 xournalpp 1.1.1-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.9-1
-xray-domain-list-community 20220813040114-1
+xray-domain-list-community 20220813112132-1
 xray-geoip 202208110837-1
 xsel 1.2.0.20200527-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
