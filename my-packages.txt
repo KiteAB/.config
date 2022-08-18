@@ -1,4 +1,4 @@
-64gram-desktop 1:1.0.42-3
+64gram-desktop 1:1.0.44-1
 a52dec 0.7.4-11
 aalib 1.4rc5-14
 abseil-cpp 20220623.0-1
@@ -41,7 +41,7 @@ alsa-topology-conf 1.2.5.1-1
 alsa-ucm-conf 1.2.7.2-1
 alsa-utils 1.2.7-1
 amd-ucode 20220708.be7798e-1
-amf-headers 1.4.24-2
+amf-headers 1.4.26-1
 amtk 5.5.1-1
 analitza 22.04.3-1
 android-studio 2021.2.1.16-1
@@ -151,7 +151,7 @@ bridge-utils 1.7.1-1
 brltty 6.5-2
 brotli 1.0.9-8
 bspwm 0.9.10-2
-btrfs-progs 5.18.1-1
+btrfs-progs 5.19-1
 bubblewrap 0.6.2-1
 bullet 3.24-2
 bzip2 1.0.8-4
@@ -190,7 +190,7 @@ clucene 2.3.3.4-12
 clutter 1.26.4-2
 clutter-gst 3.0.27-4
 clutter-gtk 1.8.4-3
-cmake 3.24.0-1
+cmake 3.24.1-1
 cmatrix 2.0-2
 cmus 2.10.0-2
 cogl 1.22.8-2
@@ -231,7 +231,7 @@ deepin-udis86 1.72_4-1
 deepin-wine-helper 5.1.42_1-1
 deepin-wine-plugin 5.1.13-1
 deepin-wine-plugin-virtual 5.1.13-1
-deepin-wine-wechat 3.7.5.23-1
+deepin-wine-wechat 3.7.5.31-1
 deepin-wine6-stable 6.0.0.24-1
 deepin-wine6-stable-amd64 6.0.0.24-1
 deepin-wine6-stable-i386 6.0.0.24-1
@@ -290,7 +290,7 @@ edk2-ovmf 202205-2
 efibootmgr 18-1
 efivar 38-2
 electron 20.0.0-1
-electron-netease-cloud-music 0.9.35-1
+electron-netease-cloud-music 0.9.36-1
 electron17 17.4.10-1
 elementary-icon-theme 7.0.0-1
 elfutils 0.187-2
@@ -298,7 +298,7 @@ elisa 22.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.159163-1
+emacs-git 29.0.50.159183-1
 embree 3.13.4-1
 enca 1.19-4
 enchant 2.3.3-1
@@ -319,7 +319,7 @@ faad2 2.10.0-1
 fail2ban 0.11.2-3
 fakeroot 1.29-1
 farstream 0.2.9-3
-fastfetch-git r942.d7c8482-1
+fastfetch-git r944.f9562d7-1
 faudio 22.08-1
 fcitx5 5.0.18-2
 fcitx5-anthy 5.0.12-1
@@ -392,7 +392,7 @@ fwupd 1.8.3-1
 fwupd-efi 1.3-1
 fzf 0.32.1-1
 gamemode 1.7-1
-gamescope 3.11.32-1
+gamescope 3.11.36-2
 gavl 1.4.0-6
 gawk 5.1.1-1
 gc 8.2.0-3
@@ -430,7 +430,7 @@ git-delta 0.13.0-1
 git-lfs 3.2.0-1
 github-cli 2.14.4-1
 gl2ps 1.4.2-2
-glew 2.2.0-3
+glew 2.2.0-4
 glew1.10 1.10.0-3
 glfw-wayland 3.3.8-1
 glib-networking 1:2.72.2-1
@@ -456,7 +456,7 @@ gnome-mines 40.1-1
 gnome-video-effects 0.5.0+4+g9554041-2
 gnugo 3.8-7
 gnupg 2.2.36-1
-gnutls 3.7.7-1
+gnutls 3.7.7-3
 go 2:1.19-1
 gobject-introspection 1.72.0-1
 gobject-introspection-runtime 1.72.0-1
@@ -508,11 +508,11 @@ gstreamer-vaapi 1.20.3-1
 gtest 1.12.1-1
 gtk-doc 1.33.2-1
 gtk-sharp-2 2.12.45-4
-gtk-update-icon-cache 1:4.6.6-1
+gtk-update-icon-cache 1:4.6.7-1
 gtk-vnc 1.3.1-1
 gtk2 2.24.33-2
 gtk3 1:3.24.34-1
-gtk4 1:4.6.6-1
+gtk4 1:4.6.7-1
 gtkmm 1:2.24.5-4
 gtkmm3 3.24.6-1
 gtksourceview4 4.8.3-1
@@ -564,8 +564,8 @@ incidenceeditor 22.04.3-1
 iniparser 4.1-4
 inkscape 1.2.1-2
 innoextract 1.9-6
-intellij-idea-ultimate-edition 2022.2-1
-intellij-idea-ultimate-edition-jre 2022.2-1
+intellij-idea-ultimate-edition 2022.2.1-1
+intellij-idea-ultimate-edition-jre 2022.2.1-1
 intltool 0.51.0-6
 iproute2 5.19.0-1
 iptables-nft 1:1.8.8-2
@@ -947,7 +947,7 @@ lib32-libltdl 2.4.7-2
 lib32-libmikmod 3.3.11.1-6
 lib32-libmodplug 0.8.9.0-4
 lib32-libnl 3.7.0-1
-lib32-libnm 1.38.2-1
+lib32-libnm 1.38.4-3
 lib32-libnsl 2.0.0-1
 lib32-libogg 1.3.5-1
 lib32-libpcap 1.10.1-1
@@ -969,7 +969,7 @@ lib32-libthai 0.1.29-1
 lib32-libtheora 1.1.1-13
 lib32-libtiff 4.4.0-3
 lib32-libtiff4 3.9.7-5
-lib32-libtirpc 1.3.2-2
+lib32-libtirpc 1.3.3-1
 lib32-libudev0-shim 1-5
 lib32-libunistring 1.0-1
 lib32-libunwind 1.6.2-1
@@ -1038,7 +1038,7 @@ lib32-readline 8.1.002-1
 lib32-rest 0.8.1-4
 lib32-sdl12-compat 1.2.52-3
 lib32-sdl2 2.0.22-1
-lib32-sdl2_image 2.6.0-1
+lib32-sdl2_image 2.6.1-1
 lib32-sdl2_mixer 2.6.1-1
 lib32-sdl2_ttf 2.20.0-1
 lib32-sdl_image 1.2.12-7
@@ -1161,7 +1161,7 @@ libgit2 1:1.4.4-1
 libglvnd 1.4.0-3
 libgme 0.6.3-1
 libgnome-games-support 1.8.2-2
-libgnomekbd 1:3.26.1+r5+g54da436-1
+libgnomekbd 1:3.28.0-1
 libgovirt 0.3.8-1
 libgpg-error 1.45-2
 libgphoto2 2.5.30-1
@@ -1231,7 +1231,7 @@ libktorrent 22.04.3-1
 liblangtag 0.6.4-1
 libldac 2.0.2.3-1
 libldap 2.6.3-1
-libliftoff 0.2.0-2
+libliftoff 0.3.0-1
 liblo 1:0.31-2
 liblouis 3.22.0-1
 liblqr 0.4.2-3
@@ -1469,10 +1469,10 @@ links 2.27-1
 linux-api-headers 5.18.15-1
 linux-firmware 20220708.be7798e-1
 linux-firmware-whence 20220708.be7798e-1
-linux-lts 5.15.60-1
-linux-lts-headers 5.15.60-1
-linux-zen 5.19.1.zen1-1
-linux-zen-headers 5.19.1.zen1-1
+linux-lts 5.15.61-1
+linux-lts-headers 5.15.61-1
+linux-zen 5.19.2.zen1-1
+linux-zen-headers 5.19.2.zen1-1
 lirc 1:0.10.1-12
 lld 14.0.6-1
 lldb 14.0.6-1
@@ -1622,7 +1622,7 @@ noto-fonts-emoji 20211101-1
 noto-fonts-emoji-blob 1:14.0.1-1
 noto-fonts-extra 20220607-1
 noto-fonts-sc 2:20210430-2
-npm 8.17.0-1
+npm 8.18.0-1
 npth 1.6-3
 nspr 4.34.1-1
 nss 3.81-1
@@ -1845,7 +1845,7 @@ phonon-qt5 4.11.1-3
 phonon-qt5-gstreamer 4.10.0-3
 php 8.1.9-1
 picmi 22.04.3-1
-picom-git 1715_9.rc1.37.gec9243c_2022.08.12-1
+picom-git 1716_9.rc1.38.gaffe408_2022.08.17-1
 pim-data-exporter 22.04.3-1
 pim-sieve-editor 22.04.3-1
 pimcommon 22.04.3-1
@@ -2043,7 +2043,7 @@ python-pycparser 2.21-3
 python-pycryptodome 3.15.0-1
 python-pycryptodomex 3.12.0-1
 python-pydantic 1.9.2-1
-python-pygments 2.12.0-1
+python-pygments 2.13.0-1
 python-pyhamcrest 1.10.1-3
 python-pyinotify 0.9.6-11
 python-pynput 1.7.6-2
@@ -2497,7 +2497,7 @@ ttf-ubuntu-font-family 0.83-8
 ttf-unifont 14.0.04-1
 twolame 0.4.0-2
 typespeed 0.6.5-9
-tzdata 2022b-1
+tzdata 2022c-1
 uchardet 0.0.7-1
 udftools 2.3-1
 udisks2 2.9.4-1
@@ -2519,7 +2519,7 @@ usbredir 0.13.0-1
 usbutils 014-2
 util-linux 2.38.1-1
 util-linux-libs 2.38.1-1
-utools 3.0.1-1
+utools 3.0.2-1
 v2ray 4.45.2-1
 v2ray-domain-list-community 20220815063900-1
 v2ray-geoip 202208110837-1
@@ -2545,7 +2545,7 @@ virt-viewer 11.0-1
 virtio-win 0.1.221.1-1
 virtualbox 6.1.36-1
 virtualbox-host-dkms 6.1.36-1
-visual-studio-code-bin 1.70.1-1
+visual-studio-code-bin 1.70.2-1
 visualvm 2.1.3-1
 vkd3d-valve 1.1-2
 vkmark 20220318-1
@@ -2573,6 +2573,7 @@ wayland-protocols 1.26-1
 wayland-utils 1.0.0-2
 webkit2gtk 2.36.6-1
 webkit2gtk-4.1 2.36.6-1
+webkit2gtk-5.0 2.36.6-1
 webp-pixbuf-loader 0.0.6-1
 webrtc-audio-processing 0.3.1-3
 weechat 3.6-1
@@ -2584,7 +2585,7 @@ wine 7.15-1
 wine-mono 7.3.0-1
 winetricks 20220411-1
 wireguard-tools 1.0.20210914-1
-wireless-regdb 2022.06.06-1
+wireless-regdb 2022.08.12-1
 wireless_tools 30.pre9-3
 wireplumber 0.4.11-4
 wireshark-cli 3.6.7-1
@@ -2713,8 +2714,8 @@ xorgproto 2022.2-1
 xournalpp 1.1.1-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.9-1
-xray-domain-list-community 20220817033833-1
-xray-geoip 202208110837-1
+xray-domain-list-community 20220817093737-1
+xray-geoip 202208180100-1
 xsel 1.2.0.20200527-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
 xterm 372-2

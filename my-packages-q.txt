@@ -2573,6 +2573,7 @@ wayland-protocols
 wayland-utils
 webkit2gtk
 webkit2gtk-4.1
+webkit2gtk-5.0
 webp-pixbuf-loader
 webrtc-audio-processing
 weechat
