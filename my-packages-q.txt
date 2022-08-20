@@ -165,6 +165,7 @@ cairo
 cairomm
 calcurse
 calendarsupport
+calf
 calibre
 cantarell-fonts
 cantor
@@ -279,6 +280,7 @@ dvgrab
 dxvk-bin
 e2fsprogs
 easy-rsa
+easyeffects
 ebook-tools
 eclipse-ecj
 eclipse-emf
@@ -535,6 +537,7 @@ hddtemp
 hdf5
 hdparm
 help2man
+helvum
 hexo-cli
 hicolor-icon-theme
 hidapi
@@ -575,8 +578,6 @@ iso-codes
 itinerary
 itstool
 iw
-jack2
-jack2-dbus
 jack_capture
 jack_delay
 jack_mixer
@@ -903,7 +904,6 @@ lib32-gtk3
 lib32-harfbuzz
 lib32-icu
 lib32-imlib2
-lib32-jack2
 lib32-jansson
 lib32-json-glib
 lib32-keyutils
@@ -1031,6 +1031,7 @@ lib32-pam
 lib32-pango
 lib32-pcre
 lib32-pipewire
+lib32-pipewire-jack
 lib32-pixman
 lib32-polkit
 lib32-portaudio
@@ -1335,6 +1336,7 @@ libseccomp
 libsecret
 libshout
 libsigc++
+libsigc++-3.0
 libsignon-glib
 libsigsegv
 libsixel
@@ -1490,6 +1492,7 @@ lsb-release
 lsd
 lskat
 lsof
+lsp-plugins
 lua
 lua52
 lua52-bitop
@@ -1852,6 +1855,7 @@ pimcommon
 pinentry
 pipewire
 pipewire-alsa
+pipewire-jack
 pipewire-pulse
 pixman
 pkcs11-helper
@@ -2278,10 +2282,20 @@ rtmpdump
 rttr
 rubberband
 ruby
+ruby-abbrev
+ruby-base64
+ruby-benchmark
+ruby-bigdecimal
 ruby-bundledgems
 ruby-bundler
+ruby-cgi
+ruby-csv
 ruby-date
+ruby-delegate
+ruby-did_you_mean
 ruby-diff-lcs
+ruby-digest
+ruby-drb
 ruby-irb
 ruby-json
 ruby-manpages
@@ -2302,6 +2316,7 @@ ruby-rspec-core
 ruby-rspec-expectations
 ruby-rspec-mocks
 ruby-rspec-support
+ruby-ruby2_keywords
 ruby-stdlib
 ruby-stringio
 ruby-term-ansicolor
@@ -2746,6 +2761,7 @@ zile
 zimg
 zip
 zita-alsa-pcmi
+zita-convolver
 zita-resampler
 zlib
 zsh
