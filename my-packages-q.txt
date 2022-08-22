@@ -47,6 +47,7 @@ analitza
 android-studio
 android-tools
 android-udev
+animdustry
 anthy
 aom
 apache
@@ -1550,6 +1551,7 @@ metis
 microsoft-gsl
 milou
 mindustry-bin
+mindustry-server-bin
 minecraft-launcher
 minicom
 miniupnpc

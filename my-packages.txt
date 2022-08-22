@@ -47,6 +47,7 @@ analitza 22.04.3-1
 android-studio 2021.2.1.16-1
 android-tools 31.0.3-7
 android-udev 20220611-1
+animdustry 1.1-1
 anthy 9100h-6
 aom 3.4.0-1
 apache 2.4.54-1
@@ -100,7 +101,7 @@ avogadro-molecules 1.0.0-1
 avogadrolibs 1.97.0-1
 avogadrolibs-qt5 1.97.0-1
 avr-binutils 2.39-1
-avr-gcc 12.1.0-1
+avr-gcc 12.2.0-1
 avr-libc 2.1.0-1
 avrdude 1:7.0-2
 awesome 4.3-3
@@ -120,7 +121,7 @@ bcg729 1.1.1-1
 bdf-unifont 14.0.04-1
 biber 1:2.17-2
 bilibili-live-helper-bin 2.2.2-1
-binutils 2.39-2
+binutils 2.39-3
 bird 2.0.10-1
 bison 3.8.2-4
 black-hole-solver 1.12.0-1
@@ -157,7 +158,7 @@ bullet 3.24-2
 bzip2 1.0.8-4
 c-ares 1.18.1-1
 ca-certificates 20210603-1
-ca-certificates-mozilla 3.81-1
+ca-certificates-mozilla 3.82-1
 ca-certificates-utils 20210603-1
 cabextract 1.9.1-2
 caddy 2.5.2-2
@@ -196,7 +197,7 @@ cmatrix 2.0-2
 cmus 2.10.0-2
 cogl 1.22.8-2
 colord 1.4.6-1
-comgr 5.2.1-1
+comgr 5.2.3-1
 compiler-rt 14.0.6-1
 confuse 3.3-3
 connman 1.41-1
@@ -217,7 +218,7 @@ ctags 1:5.9.20210905.0-1
 cups 1:2.4.2-3
 cups-filters 1.28.15-2
 curl 7.84.0-2
-cython 0.29.32-1
+cython 0.29.32-2
 dash 0.5.11.5-1
 dav1d 1.0.0-1
 davfs2 1.6.1-1
@@ -232,7 +233,7 @@ deepin-udis86 1.72_4-1
 deepin-wine-helper 5.1.42_1-1
 deepin-wine-plugin 5.1.13-1
 deepin-wine-plugin-virtual 5.1.13-1
-deepin-wine-wechat 3.7.5.31-1
+deepin-wine-wechat 3.7.6.24-1
 deepin-wine6-stable 6.0.0.24-1
 deepin-wine6-stable-amd64 6.0.0.24-1
 deepin-wine6-stable-i386 6.0.0.24-1
@@ -291,16 +292,16 @@ edk2-armvirt 202205-2
 edk2-ovmf 202205-2
 efibootmgr 18-1
 efivar 38-2
-electron 20.0.0-1
+electron 20.0.3-1
 electron-netease-cloud-music 0.9.36-1
-electron17 17.4.10-2
+electron17 17.4.11-1
 elementary-icon-theme 7.0.0-1
 elfutils 0.187-2
 elisa 22.04.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.159248-1
+emacs-git 29.0.50.159274-1
 embree 3.13.4-1
 enca 1.19-4
 enchant 2.3.3-1
@@ -321,7 +322,7 @@ faad2 2.10.0-1
 fail2ban 0.11.2-3
 fakeroot 1.29-1
 farstream 0.2.9-3
-fastfetch-git r950.112e83b-1
+fastfetch-git r952.11809e3-1
 faudio 22.08-1
 fcitx5 5.0.18-2
 fcitx5-anthy 5.0.12-1
@@ -363,7 +364,7 @@ firewalld 1.2.0-1
 flac 1.3.4-3
 flameshot 12.1.0-1
 flashrom 1.2-4
-flatpak 1:1.12.7-1
+flatpak 1:1.12.7-3
 flex 2.6.4-3
 flightgear 2020.3.13-1
 flightgear-data 2020.3.13-1
@@ -399,8 +400,8 @@ gavl 1.4.0-6
 gawk 5.1.1-1
 gc 8.2.0-3
 gcab 1.5-1
-gcc 12.1.1-4
-gcc-libs 12.1.1-4
+gcc 12.2.0-1
+gcc-libs 12.2.0-1
 gconf 3.2.6+11+g07808097-11
 gcr 3.41.1-2
 gd 2.3.3-4
@@ -438,7 +439,7 @@ glfw-wayland 3.3.8-1
 glib-networking 1:2.72.2-1
 glib2 2.72.3-1
 glib2-docs 2.72.3-1
-glibc 2.36-2
+glibc 2.36-3
 glibmm 2.66.4-1
 glm 0.9.9.8-1
 glslang 11.11.0-1
@@ -541,7 +542,7 @@ helvum 0.3.4-1
 hexo-cli 4.3.0-6
 hicolor-icon-theme 0.17-2
 hidapi 0.12.0-1
-hmcl-bin 3.5.3.221-1
+hmcl-bin 3.5.3.222-1
 htop 3.2.1-1
 http-parser 2.9.4-1
 hugo 0.101.0-1
@@ -886,14 +887,14 @@ lib32-freeglut 3.2.2-2
 lib32-freetype2 2.12.1-1
 lib32-fribidi 1.0.12-1
 lib32-gamemode 1.7-1
-lib32-gcc-libs 12.1.1-4
+lib32-gcc-libs 12.2.0-1
 lib32-gdk-pixbuf2 2.42.9-1
 lib32-gettext 0.21-1
 lib32-giflib 5.2.1-1
 lib32-glew1.10 1.10.0-5
 lib32-glib-networking 2.72.2-1
 lib32-glib2 2.72.3-1
-lib32-glibc 2.36-2
+lib32-glibc 2.36-3
 lib32-glu 9.0.2-3
 lib32-gmp 6.2.1-1
 lib32-gnutls 3.7.6-1
@@ -940,7 +941,7 @@ lib32-libidn2 2.3.3-1
 lib32-libindicator-gtk2 12.10.1-9
 lib32-libindicator-gtk3 12.10.1-9
 lib32-libinstpatch 1.1.6-1
-lib32-libjpeg-turbo 2.1.3-1
+lib32-libjpeg-turbo 2.1.4-2
 lib32-libjpeg6-turbo 1.5.3-2
 lib32-libldap 2.6.3-1
 lib32-libltdl 2.4.7-2
@@ -1001,7 +1002,7 @@ lib32-libxmu 1.1.3-2
 lib32-libxrandr 1.5.2-2
 lib32-libxrender 0.9.10-3
 lib32-libxshmfence 1.3-2
-lib32-libxslt 1.1.35-1
+lib32-libxslt 1.1.36-1
 lib32-libxss 1.2.3-2
 lib32-libxt 1.2.1-1
 lib32-libxtst 1.2.3-3
@@ -1018,7 +1019,7 @@ lib32-mpg123 1.30.2-1
 lib32-ncurses 6.3-1
 lib32-nettle 3.8-1
 lib32-nspr 4.34.1-1
-lib32-nss 3.81-1
+lib32-nss 3.82-1
 lib32-ocl-icd 2.3.1-1
 lib32-openal 1.22.2-1
 lib32-opencl-mesa 22.1.6-1
@@ -1206,7 +1207,7 @@ libisoburn 1.5.4-2
 libisofs 1.5.4-1
 libixion 0.17.0-2
 libjcat 0.1.11-1
-libjpeg-turbo 2.1.3-2
+libjpeg-turbo 2.1.4-2
 libjpeg6-turbo 1.5.3-2
 libjxl 0.6.1-3
 libkate 0.4.1-8
@@ -1372,7 +1373,7 @@ libtiff 4.4.0-3
 libtiff4 3.9.7-5
 libtirpc 1.3.3-1
 libtommath 1.2.0-3
-libtool 2.4.7-3
+libtool 2.4.7-5
 libtorrent-rasterbar 1:2.0.7-1
 libudev0-shim 1-4
 libunistring 1.0-1
@@ -1449,7 +1450,7 @@ libxrandr 1.5.2-4
 libxrender 0.9.10-5
 libxres 1.2.1-1
 libxshmfence 1.3-3
-libxslt 1.1.35-1
+libxslt 1.1.36-1
 libxss 1.2.3-4
 libxt 1.2.1-1
 libxtst 1.2.3-5
@@ -1471,10 +1472,10 @@ links 2.27-1
 linux-api-headers 5.18.15-1
 linux-firmware 20220708.be7798e-1
 linux-firmware-whence 20220708.be7798e-1
-linux-lts 5.15.61-1
-linux-lts-headers 5.15.61-1
-linux-zen 5.19.2.zen1-1
-linux-zen-headers 5.19.2.zen1-1
+linux-lts 5.15.62-1
+linux-lts-headers 5.15.62-1
+linux-zen 5.19.2.zen1-2
+linux-zen-headers 5.19.2.zen1-2
 lirc 1:0.10.1-12
 lld 14.0.6-1
 lldb 14.0.6-1
@@ -1505,7 +1506,7 @@ lua53-lgi 0.9.2-7
 luajit 2.1.0.beta3.r439.g633f265f-1
 luit 20220111-1
 lunar-client 2.12.7-1
-lutris-git 0.5.11.beta1.r41.g35fe9232-1
+lutris-git 0.5.11.beta1.r42.g3aa2cbe7-1
 lv2 1.18.8-1
 lvm2 2.03.16-2
 lxappearance 0.6.3-4
@@ -1550,6 +1551,7 @@ metis 5.1.0.p10-2
 microsoft-gsl 4.0.0-1
 milou 5.25.4-1
 mindustry-bin 1:7.0_137-1
+mindustry-server-bin 1:7.0_137-1
 minecraft-launcher 1:1.0.1221-1
 minicom 2.8-1
 miniupnpc 2.2.3-1
@@ -1628,7 +1630,7 @@ noto-fonts-sc 2:20210430-2
 npm 8.18.0-1
 npth 1.6-3
 nspr 4.34.1-1
-nss 3.81-1
+nss 3.82-1
 ntfs-3g 2022.5.17-1
 numactl 2.0.14-3
 nvme-cli 2.0-3
@@ -1682,7 +1684,7 @@ orc 0.4.32-1
 os-prober 1.80-1
 osinfo-db 20220727-1
 ossp 1.3.2+11+g9e94d67-3
-ostree 2022.5-2
+ostree 2022.5-4
 oxygen 5.25.4-1
 oxygen-sounds 5.25.4-1
 p11-kit 0.24.1-1
@@ -1848,7 +1850,7 @@ phonon-qt5 4.11.1-3
 phonon-qt5-gstreamer 4.10.0-3
 php 8.1.9-1
 picmi 22.04.3-1
-picom-git 1716_9.rc1.38.gaffe408_2022.08.17-1
+picom-git 1735_9.rc1.57.g5d6326a_2022.08.21-1
 pim-data-exporter 22.04.3-1
 pim-sieve-editor 22.04.3-1
 pimcommon 22.04.3-1
@@ -2270,9 +2272,9 @@ rime-emoji 0.0.0.20220315-1
 ripgrep 13.0.0-2
 rlwrap 0.45.2-1
 rnnoise 0.4.1-1
-rocm-device-libs 5.2.1-1
+rocm-device-libs 5.2.3-1
 rocs 22.04.3-1
-rofi 1.7.4-1
+rofi 1.7.5-1
 rp-pppoe 3.15-2
 rpcbind 1.2.6-2
 rsync 3.2.5-2
@@ -2536,7 +2538,7 @@ util-linux 2.38.1-1
 util-linux-libs 2.38.1-1
 utools 3.0.2-1
 v2ray 4.45.2-1
-v2ray-domain-list-community 20220818075119-1
+v2ray-domain-list-community 20220821065410-1
 v2ray-geoip 202208180100-1
 v2raya 1.5.9.1698.1-1
 v4l-utils 1.22.1-1
@@ -2729,7 +2731,7 @@ xorgproto 2022.2-1
 xournalpp 1.1.1-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.9-1
-xray-domain-list-community 20220819070517-1
+xray-domain-list-community 20220821143051-1
 xray-geoip 202208180100-1
 xsel 1.2.0.20200527-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
@@ -2750,7 +2752,7 @@ you-get 0.4.1620-1
 yubico-c 1.13-6
 yubico-c-client 2.15-5
 yubikey-personalization 1.20.0-3
-yuzu-git r21882.2e58491c38-1
+yuzu-git r21903.7fab7b829c-1
 zbar 0.23.1-9
 zenity 3.43.0-1
 zeroconf-ioslave 22.04.3-1
@@ -2769,7 +2771,7 @@ zstd 1.5.2-7
 zulu-11-bin 11.0.16-1
 zulu-18-bin 18.0.2-1
 zulu-8-bin 8.0.342-1
-zulu-jre-fx-bin 17.0.3-2
+zulu-jre-fx-bin 17.0.4-1
 zvbi 0.2.35-4
 zxing-cpp 1.4.0-1
 zziplib 0.13.72-1
