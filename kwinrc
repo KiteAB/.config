@@ -66,6 +66,7 @@ kwin4_effect_dimscreenEnabled=true
 kwin4_effect_eyeonscreenEnabled=true
 kwin4_effect_squashEnabled=false
 kwin4_effect_windowapertureEnabled=false
+lattewindowcolorsEnabled=false
 magiclampEnabled=true
 max2NewVirtualDesktopEnabled=false
 minimizeallEnabled=false
