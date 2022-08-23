@@ -669,7 +669,7 @@ kdenlive
 kdepim-addons
 kdepim-runtime
 kdeplasma-addons
-kdesdk-kioslaves
+kdesdk-kio
 kdesdk-thumbnailers
 kdesu
 kdevelop
@@ -729,6 +729,7 @@ kio
 kio-extras
 kio-fuse
 kio-gdrive
+kio-zeroconf
 kirigami-gallery
 kirigami2
 kiriki
@@ -803,6 +804,7 @@ krita-plugin-gmic
 kross
 kruler
 krunner
+ksanecore
 kscreen
 kscreenlocker
 kseexpr
@@ -840,7 +842,6 @@ kwidgetsaddons
 kwin
 kwindowsystem
 kwordquiz
-kwrite
 kwrited
 kxmlgui
 l-smash
@@ -2755,7 +2756,6 @@ yubikey-personalization
 yuzu-git
 zbar
 zenity
-zeroconf-ioslave
 zeromq
 zerotier-gui-git
 zerotier-one
