@@ -2703,7 +2703,9 @@ xorg-xcmsdb
 xorg-xcursorgen
 xorg-xdpyinfo
 xorg-xdriinfo
+xorg-xedit
 xorg-xev
+xorg-xeyes
 xorg-xgamma
 xorg-xhost
 xorg-xinit
