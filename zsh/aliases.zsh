@@ -1,3 +1,4 @@
+alias hs='systemctl hybrid-sleep'
 alias c='clear'
 alias cs='cowsay'
 alias cdiff='colordiff'
