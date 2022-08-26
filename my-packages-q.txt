@@ -119,6 +119,7 @@ bat
 bc
 bcg729
 bdf-unifont
+besttrace
 biber
 bilibili-live-helper-bin
 binutils
