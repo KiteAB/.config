@@ -302,7 +302,7 @@ elisa 22.08.0-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.159361-1
+emacs-git 29.0.50.159382-1
 embree 3.13.4-1
 enca 1.19-4
 enchant 2.3.3-1
@@ -323,7 +323,7 @@ faad2 2.10.0-1
 fail2ban 0.11.2-3
 fakeroot 1.29-1
 farstream 0.2.9-3
-fastfetch-git r959.50d3d4c-1
+fastfetch-git r960.f4ee866-1
 faudio 22.08-1
 fcitx5 5.0.18-2
 fcitx5-anthy 5.0.12-1
@@ -365,7 +365,7 @@ firewalld 1.2.0-1
 flac 1.3.4-3
 flameshot 12.1.0-1
 flashrom 1.2-4
-flatpak 1:1.12.7-3
+flatpak 1:1.14.0-1
 flex 2.6.4-3
 flightgear 2020.3.13-1
 flightgear-data 2020.3.13-1
@@ -396,7 +396,7 @@ fwupd 1.8.3-1
 fwupd-efi 1.3-1
 fzf 0.32.1-1
 gamemode 1.7-1
-gamescope 3.11.42-1
+gamescope 3.11.43-1
 gavl 1.4.0-6
 gawk 5.1.1-1
 gc 8.2.0-3
@@ -800,7 +800,7 @@ krb5 1.19.3-3
 krdc 22.08.0-1
 kreversi 22.08.0-1
 krfb 22.08.0-1
-krita 5.0.8-1
+krita 5.1.0-1
 krita-plugin-gmic 3.1.4.3-1
 kross 5.97.0-1
 kruler 22.08.0-1
@@ -960,7 +960,7 @@ lib32-libpng12 1.2.59-2
 lib32-libproxy 0.4.18-1
 lib32-libpsl 0.21.1-2
 lib32-libpulse 16.1-1
-lib32-librsvg 2:2.54.4-1
+lib32-librsvg 2:2.54.5-1
 lib32-librtmp0 2.4-4
 lib32-libsamplerate 0.2.2-1
 lib32-libsm 1.2.3-1
@@ -978,7 +978,7 @@ lib32-libunistring 1.0-1
 lib32-libunwind 1.6.2-1
 lib32-libusb 1.0.26-1
 lib32-libva 2.15.0-2
-lib32-libva-mesa-driver 22.1.6-1
+lib32-libva-mesa-driver 22.1.7-1
 lib32-libvdpau 1.5-1
 lib32-libvorbis 1.3.7-1
 lib32-libvpx 1.12.0-1
@@ -1015,8 +1015,8 @@ lib32-llvm-libs 14.0.6-2
 lib32-lm_sensors 1:3.6.0.r41.g31d1f125-1
 lib32-lz4 1.9.3-1
 lib32-lzo 2.10-3
-lib32-mesa 22.1.6-1
-lib32-mesa-vdpau 22.1.6-1
+lib32-mesa 22.1.7-1
+lib32-mesa-vdpau 22.1.7-1
 lib32-mpg123 1.30.2-1
 lib32-ncurses 6.3-1
 lib32-nettle 3.8-1
@@ -1024,7 +1024,7 @@ lib32-nspr 4.34.1-1
 lib32-nss 3.82-1
 lib32-ocl-icd 2.3.1-1
 lib32-openal 1.22.2-1
-lib32-opencl-mesa 22.1.6-1
+lib32-opencl-mesa 22.1.7-1
 lib32-openssl 1:1.1.1.q-1
 lib32-openssl-1.0 1.0.2.u-2
 lib32-opus 1.3.1-2
@@ -1056,8 +1056,8 @@ lib32-util-linux 2.38.1-1
 lib32-v4l-utils 1.22.1-1
 lib32-vkd3d 1.4-1
 lib32-vulkan-icd-loader 1.3.221-1
-lib32-vulkan-mesa-layers 22.1.6-1
-lib32-vulkan-radeon 22.1.6-1
+lib32-vulkan-mesa-layers 22.1.7-1
+lib32-vulkan-radeon 22.1.7-1
 lib32-vulkan-validation-layers 1.3.216.0-1
 lib32-wayland 1.21.0-1
 lib32-xz 5.2.5-2
@@ -1243,6 +1243,7 @@ liblrdf 0.6.1-4
 libltc 1.3.1-3
 libluv 1.44.2_0-1
 libmad 0.15.1b-9
+libmalcontent 0.10.5-1
 libmanette 0.2.6-3
 libmatroska 1.6.3-2
 libmaxminddb 1.6.0-3
@@ -1329,7 +1330,7 @@ libraw1394 2.1.2-3
 libreoffice-fresh 7.4.0-2
 libreoffice-fresh-zh-cn 7.4.0-1
 librevenge 0.0.4-4
-librsvg 2:2.54.4-1
+librsvg 2:2.54.5-1
 librtmp0 2.4-5
 librttopo 1.1.0-5
 libsamplerate 0.2.2-1
@@ -1353,11 +1354,11 @@ libsoup3 3.0.7-1
 libsoxr 0.1.3-2
 libspatialite 5.0.1-3
 libspectre 0.2.10-1
-libspeechd 0.11.1-3
+libspeechd 0.11.2-1
 libspiro 1:20220722-1
 libspnav 1.0-1
 libsrtp 1:2.4.2-1
-libssh 0.9.6-1
+libssh 0.10.0-1
 libssh2 1.10.0-1
 libstaroffice 0.0.7-2
 libstdc++5 3.3.6-9
@@ -1391,7 +1392,7 @@ libutempter 1.2.1-3
 libutf8proc 2.7.0-2
 libuv 1.44.2-1
 libva 2.15.0-2
-libva-mesa-driver 22.1.6-1
+libva-mesa-driver 22.1.7-1
 libva-utils 2.15.0-1
 libvdpau 1.5-1
 libvdpau-va-gl 0.4.2-3
@@ -1476,8 +1477,8 @@ linux-firmware 20220708.be7798e-1
 linux-firmware-whence 20220708.be7798e-1
 linux-lts 5.15.63-1
 linux-lts-headers 5.15.63-1
-linux-zen 5.19.3.zen1-1
-linux-zen-headers 5.19.3.zen1-1
+linux-zen 5.19.4.zen1-1
+linux-zen-headers 5.19.4.zen1-1
 lirc 1:0.10.1-12
 lld 14.0.6-1
 lldb 14.0.6-1
@@ -1529,9 +1530,9 @@ mangohud 0.6.7-1
 mangohud-common 0.6.7-1
 marble 22.08.0-1
 marble-common 22.08.0-1
-mariadb 10.8.4-1
-mariadb-clients 10.8.4-1
-mariadb-libs 10.8.4-1
+mariadb 10.9.2-1
+mariadb-clients 10.9.2-1
+mariadb-libs 10.9.2-1
 marisa 0.2.6-9
 markdownpart 22.08.0-1
 mathjax 3.2.2-1
@@ -1543,10 +1544,10 @@ mdadm 4.2-2
 media-player-info 24-2
 mediainfo 22.06-2
 mercurial 6.2.1-1
-mesa 22.1.6-1
+mesa 22.1.7-1
 mesa-demos 8.5.0-2
 mesa-utils 8.5.0-2
-mesa-vdpau 22.1.6-1
+mesa-vdpau 22.1.7-1
 meson 0.63.1-2
 messagelib 22.08.0-1
 metis 5.1.0.p10-2
@@ -1597,7 +1598,7 @@ ndctl 74-1
 neofetch 7.1.0-2
 neon 0.32.2-1
 neovim 0.7.2-3
-nerd-fonts-complete 2.1.0-4
+nerd-fonts-complete 2.2.0-1
 net-snmp 5.9.1-4
 net-tools 2.10-1
 netbeans 14-1
@@ -1655,7 +1656,7 @@ openbabel 3.1.1-4
 opencascade 1:7.5.3-3
 opencc 1.1.4-1
 opencl-headers 2:2022.05.18-1
-opencl-mesa 22.1.6-1
+opencl-mesa 22.1.7-1
 opencollada 1:1.6.68-2
 opencolorio 2.1.2-1
 opencolorio1 1.1.1-3
@@ -1920,7 +1921,7 @@ pulseaudio-qt 1.3-1
 pulsemixer 1.5.1-3
 purpose 5.97.0-1
 pybind11 2.10.0-1
-pycharm-community-edition 2022.1.4-1
+pycharm-community-edition 2022.1.4-2
 pyrit 0.5.0-5
 pyside2 5.15.5-3
 pystring 1.1.3.git1-1
@@ -1988,7 +1989,7 @@ python-hyperlink 21.0.0-4
 python-idna 3.3-4
 python-ifaddr 0.2.0-1
 python-imagesize 1.4.1-1
-python-importlib-metadata 4.8.1-3
+python-importlib-metadata 4.8.2-1
 python-incremental 21.3.0-5
 python-inflate64 0.1.3-1
 python-inflect 6.0.0-1
@@ -2080,7 +2081,7 @@ python-resolvelib 0.8.1-1
 python-retrying 1.3.3-13
 python-rich 12.5.1-1
 python-secretstorage 3.3.2-1
-python-setuptools 1:62.1.0-1
+python-setuptools 1:62.2.0-1
 python-sexpdata 0.0.3-4
 python-sgmllib3k 1.0.0-4
 python-shiboken2 5.15.5-3
@@ -2112,7 +2113,7 @@ python-trove-classifiers 2022.8.7-1
 python-twisted 21.7.0-4
 python-typing_extensions 4.3.0-1
 python-unrardll 0.1.5-1
-python-urllib3 1.26.11-1
+python-urllib3 1.26.12-1
 python-validate-pyproject 0.9-1
 python-wcwidth 0.2.5-6
 python-webencodings 0.5.1-9
@@ -2201,7 +2202,7 @@ qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
 qt4 4.8.7-36
 qt5-3d 5.15.5+kde+r15-1
-qt5-base 5.15.5+kde+r174-1
+qt5-base 5.15.5+kde+r178-1
 qt5-charts 5.15.5+kde+r1-1
 qt5-datavis3d 5.15.5+kde+r0-1
 qt5-declarative 5.15.5+kde+r19-1
@@ -2538,7 +2539,7 @@ usbredir 0.13.0-1
 usbutils 014-2
 util-linux 2.38.1-1
 util-linux-libs 2.38.1-1
-utools 3.0.2-1
+utools 3.0.3-1
 v2ray 4.45.2-1
 v2ray-domain-list-community 20220826043629-1
 v2ray-geoip 202208250104-1
@@ -2579,13 +2580,13 @@ vulkan-extra-tools 1.3.216.0-1
 vulkan-headers 1:1.3.221-1
 vulkan-html-docs 1:1.3.221-1
 vulkan-icd-loader 1.3.221-1
-vulkan-mesa-layers 22.1.6-1
-vulkan-radeon 22.1.6-1
-vulkan-swrast 22.1.6-1
+vulkan-mesa-layers 22.1.7-1
+vulkan-radeon 22.1.7-1
+vulkan-swrast 22.1.7-1
 vulkan-tools 1.3.217-1
 vulkan-validation-layers 1.3.216.0-1
 w3m 0.5.3.git20220409_1-1
-wakatime 1:1.48.1-1
+wakatime 1:1.54.0-1
 wavpack 5.5.0-1
 wayland 1.21.0-1
 wayland-protocols 1.26-1
@@ -2735,7 +2736,7 @@ xorgproto 2022.2-1
 xournalpp 1.1.1-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.9-1
-xray-domain-list-community 20220824065843-1
+xray-domain-list-community 20220826120058-1
 xray-geoip 202208250104-1
 xsel 1.2.0.20200527-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1

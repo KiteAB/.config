@@ -1243,6 +1243,7 @@ liblrdf
 libltc
 libluv
 libmad
+libmalcontent
 libmanette
 libmatroska
 libmaxminddb
