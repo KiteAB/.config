@@ -171,6 +171,8 @@ calf
 calibre
 cantarell-fonts
 cantor
+cataclysm-dda
+cataclysm-dda-tiles
 catch2
 catimg
 cblas
@@ -181,6 +183,8 @@ celt
 ceph-libs
 cervisia
 cfitsio
+chaotic-keyring
+chaotic-mirrorlist
 cheese
 chmlib
 chromaprint
@@ -467,7 +471,7 @@ gobject-introspection-runtime
 godot
 google-chrome
 gopls
-goverlay
+goverlay-git
 gpart
 gparted
 gperf
@@ -553,7 +557,6 @@ hwinfo
 hwloc
 hyphen
 i2c-tools
-i3lock-color-git
 iana-etc
 ibam
 icalingua++
@@ -770,7 +773,7 @@ knotifyconfig
 kolf
 kollision
 kolourpaint
-komorebi-bin
+komorebi
 kompare
 konqueror
 konquest
@@ -1553,8 +1556,8 @@ messagelib
 metis
 microsoft-gsl
 milou
-mindustry-bin
-mindustry-server-bin
+mindustry
+mindustry-server
 minecraft-launcher
 minicom
 miniupnpc
@@ -1573,13 +1576,11 @@ modemmanager-qt
 molequeue
 mono
 mono-msbuild
-motrix-git
 movit
 mpc
 mpfr
 mpg123
 mplayer
-mprime
 mpv
 msgpack-c
 msr-tools
