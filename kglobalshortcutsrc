@@ -37,7 +37,7 @@ Toggle Touchpad=Touchpad Toggle,Touchpad Toggle,Toggle Touchpad
 _k_friendly_name=Touchpad
 
 [kded5]
-Show System Activity=none,Ctrl+Esc,Show System Activity
+Show System Activity=Ctrl+Esc,Ctrl+Esc,Show System Activity
 _k_friendly_name=KDE Daemon
 display=Display\tMeta+P,Display\tMeta+P,Switch Display
 
@@ -77,7 +77,7 @@ Lock Session=Meta+L,Meta+L\tScreensaver,Lock Session
 Log Out=none,Ctrl+Alt+Del,Log Out
 Log Out Without Confirmation=none,,Log Out Without Confirmation
 Reboot Without Confirmation=Ctrl+Alt+Shift+PgUp,,Reboot Without Confirmation
-_k_friendly_name=ksmserver
+_k_friendly_name=Session Management
 
 [kwin]
 Activate Window Demanding Attention=none,Meta+Ctrl+A,Activate Window Demanding Attention
