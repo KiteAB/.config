@@ -192,6 +192,9 @@ Dialog Size=600,480
 [PreviewSettings]
 MaximumRemoteSize=0
 
+[Shortcuts]
+Close=Ctrl+W
+
 [WM]
 activeBackground=49,54,59
 activeBlend=252,252,252
