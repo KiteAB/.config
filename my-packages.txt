@@ -306,7 +306,7 @@ elisa 22.08.0-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.159413-1
+emacs-git 29.0.50.159426-1
 embree 3.13.4-1
 enca 1.19-4
 enchant 2.3.3-1
@@ -363,8 +363,8 @@ filesystem 2021.12.07-1
 filezilla 3.60.2-1
 findutils 4.9.0-1
 fingerprint-gui 1.09-7
-fio 3.31-1
-firefox-appmenu 104.0-1
+fio 3.32-1
+firefox-appmenu 104.0-2
 firewalld 1.2.0-1
 flac 1.3.4-3
 flameshot 12.1.0-1
@@ -433,7 +433,7 @@ ghostxps 9.56.1-1
 giblib 1.2.4-9
 giflib 5.2.1-2
 gimp 2.10.32-1
-git 2.37.2-1
+git 2.37.3-1
 git-delta 0.13.0-2
 git-lfs 3.2.0-1
 github-cli 2.14.7-1
@@ -469,7 +469,7 @@ go 2:1.19-1
 gobject-introspection 1.72.0-1
 gobject-introspection-runtime 1.72.0-1
 godot 3.5-1
-google-chrome 104.0.5112.101-1
+google-chrome 105.0.5195.52-1
 gopls 0.9.4-1
 goverlay-git 0.9.r12.g1ab728d-1
 gpart 0.3-4
@@ -494,7 +494,7 @@ groff 1.22.4-7
 groovy 4.0.3-1
 grpc 1.48.0-1
 grpc-cli 1.48.0-1
-grub 2:2.06.r322.gd9b4638c5-1
+grub 2:2.06.r322.gd9b4638c5-3
 grub-btrfs 4.11-2
 grub-customizer 5.2.2-1
 gsettings-desktop-schemas 42.0-1
@@ -570,7 +570,7 @@ imath 3.1.5-2
 imlib2 1.9.1-1
 incidenceeditor 22.08.0-1
 iniparser 4.1-4
-inkscape 1.2.1-2
+inkscape 1.2.1-3
 innoextract 1.9-6
 intellij-idea-ultimate-edition 2022.2.1-1
 intellij-idea-ultimate-edition-jre 2022.2.1-1
@@ -913,7 +913,7 @@ lib32-imlib2 1.9.1-1
 lib32-jansson 2.14-1
 lib32-json-glib 1.6.6-2
 lib32-keyutils 1.6.3-1
-lib32-krb5 1.19.3-2
+lib32-krb5 1.20-1
 lib32-l-smash 2.14.5-2
 lib32-lcms2 2.13.1-1
 lib32-libappindicator-gtk2 12.10.0-13
@@ -1080,7 +1080,7 @@ libass 0.16.0-1
 libassuan 2.5.5-1
 libasyncns 1:0.8+r3+g68cd5af-1
 libatasmart 0.19-5
-libatomic_ops 7.6.12-1
+libatomic_ops 7.6.14-1
 libavc1394 0.5.4-4
 libavif 0.10.1-2
 libavtp 0.2.0-1
@@ -1282,7 +1282,7 @@ libnewt 0.52.21-8
 libnfnetlink 1.0.2-1
 libnfs 5.0.2-1
 libnftnl 1.2.3-1
-libnghttp2 1.48.0-1
+libnghttp2 1.49.0-1
 libnice 0.1.19-1
 libnl 3.7.0-1
 libnm 1.40.0-1
@@ -1361,7 +1361,7 @@ libspeechd 0.11.2-1
 libspiro 1:20220722-1
 libspnav 1.0-1
 libsrtp 1:2.4.2-1
-libssh 0.10.0-1
+libssh 0.10.1-1
 libssh2 1.10.0-1
 libstaroffice 0.0.7-2
 libstdc++5 3.3.6-9
@@ -1618,7 +1618,7 @@ nginx-src 1.22.0-2
 ngspice 37-2
 nilfs-utils 2.2.9-1
 nim 1.6.6-1
-ninja 1.11.0-1
+ninja 1.11.1-1
 nm-connection-editor 1.28.0-1
 nmap 7.92-1
 node-gyp 9.1.0-1
@@ -1973,7 +1973,7 @@ python-ecdsa 0.18.0-1
 python-entrypoints 0.4-2
 python-epc 0.0.5-4
 python-evdev 1.6.0-1
-python-executing 0.10.0-1
+python-executing 1.0.0-1
 python-fastbencode 0.0.9-1
 python-feedparser 6.0.10-1
 python-flask 2.1.3-1
@@ -2016,7 +2016,7 @@ python-markupsafe 2.1.1-1
 python-matplotlib-inline 0.1.6-1
 python-mechanize 1:0.4.8-1
 python-more-itertools 8.13.0-2
-python-msgpack 1.0.3-1
+python-msgpack 1.0.4-1
 python-multivolumefile 0.2.3-3
 python-mypy_extensions 0.4.3-5
 python-nautilus 1.2.3-7
@@ -2100,7 +2100,7 @@ python-sphinxcontrib-htmlhelp 2.0.0-3
 python-sphinxcontrib-jsmath 1.0.1-11
 python-sphinxcontrib-qthelp 1.0.3-8
 python-sphinxcontrib-serializinghtml 1.1.5-3
-python-stack-data 0.4.0-1
+python-stack-data 0.5.0-1
 python-systemd 234-11
 python-sysv_ipc 1.1.0-2
 python-tenacity 8.0.1-3
@@ -2127,7 +2127,7 @@ python-zeroconf 0.38.7-1
 python-zipp 3.8.1-1
 python-zope-interface 5.4.0-4
 python2 2.7.18-5
-qbittorrent 4.4.4-1
+qbittorrent 4.4.5-1
 qca-qt5 2.3.4-3
 qemu-audio-alsa 7.0.0-12
 qemu-audio-dbus 7.0.0-12
@@ -2583,7 +2583,7 @@ virtio-win 0.1.221.1-1
 virtualbox 6.1.36-1
 virtualbox-host-dkms 6.1.36-1
 visual-studio-code-bin 1.70.2-1
-visualvm 2.1.3-1
+visualvm 2.1.4-1
 vkd3d-valve 1.1-2
 vkmark 20220318-1
 vlc 3.0.17.4-7
@@ -2753,7 +2753,7 @@ xorgproto 2022.2-1
 xournalpp 1.1.1-1
 xplane-sdk-devel 3.0.3-1
 xray 1.5.10-1
-xray-domain-list-community 20220829045350-1
+xray-domain-list-community 20220830153036-1
 xray-geoip 202208250104-1
 xsel 1.2.0.20200527-1
 xtensa-lx106-elf-gcc-bin 8.4.0-1
