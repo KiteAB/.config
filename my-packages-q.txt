@@ -171,6 +171,7 @@ calf
 calibre
 cantarell-fonts
 cantor
+capstone
 cataclysm-dda
 cataclysm-dda-tiles
 catch2
@@ -240,8 +241,6 @@ deepin-wine-plugin
 deepin-wine-plugin-virtual
 deepin-wine-wechat
 deepin-wine6-stable
-deepin-wine6-stable-amd64
-deepin-wine6-stable-i386
 desktop-file-utils
 device-mapper
 devtools
@@ -2169,6 +2168,7 @@ qemu-system-arm
 qemu-system-avr
 qemu-system-cris
 qemu-system-hppa
+qemu-system-loongarch64
 qemu-system-m68k
 qemu-system-microblaze
 qemu-system-mips
