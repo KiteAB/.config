@@ -132,6 +132,7 @@ bless
 blinken
 blosc
 bluedevil
+blueman
 bluez
 bluez-libs
 bluez-qt
@@ -314,7 +315,6 @@ esptool
 ethtool
 eventviews
 exa
-exempi
 exfatprogs
 exiv2
 expac
@@ -451,7 +451,6 @@ glu
 glusterfs
 gmic
 gmp
-gnome-autoar
 gnome-clocks
 gnome-common
 gnome-desktop
@@ -528,10 +527,8 @@ gtop
 gts
 guile
 gupnp
-gupnp-dlna
 gupnp-igd
 gv
-gvfs
 gwenview
 gzip
 harfbuzz
@@ -546,6 +543,7 @@ helvum
 hexo-cli
 hicolor-icon-theme
 hidapi
+highway
 hmcl-bin
 htop
 http-parser
@@ -559,6 +557,7 @@ i2c-tools
 iana-etc
 ibam
 icalingua++
+icoextract
 icon-naming-utils
 icoutils
 icu
@@ -604,6 +603,7 @@ js78
 json-c
 json-glib
 jsoncpp
+jstest-gtk-git
 juk
 jxrlib
 k3b
@@ -1035,6 +1035,7 @@ lib32-p11-kit
 lib32-pam
 lib32-pango
 lib32-pcre
+lib32-pcre2
 lib32-pipewire
 lib32-pipewire-jack
 lib32-pixman
@@ -1109,7 +1110,6 @@ libcmis
 libcolord
 libconfig
 libcroco
-libcue
 libcups
 libcurl-compat
 libcurl-gnutls
@@ -1172,16 +1172,12 @@ libgovirt
 libgpg-error
 libgphoto2
 libgravatar
-libgrss
-libgsf
 libgssglue
 libgtop
 libgudev
 libgusb
 libgweather
 libgweather-4
-libgxps
-libhandy
 libharu
 libheif
 libibus
@@ -1204,7 +1200,6 @@ libinput
 libinput-gestures
 libinput_gestures_qt
 libinstpatch
-libiptcdata
 libiscsi
 libisl
 libisoburn
@@ -1274,7 +1269,6 @@ libmusicbrainz5
 libmwaw
 libmypaint
 libnatpmp
-libnautilus-extension
 libndp
 libnetfilter_conntrack
 libnewt
@@ -1313,8 +1307,6 @@ libplacebo
 libplist
 libpng
 libpng12
-libportal
-libportal-gtk3
 libproxy
 libpsl
 libpulse
@@ -1590,7 +1582,6 @@ multipath-tools
 mypaint-brushes1
 nano
 nasm
-nautilus
 ncompress
 ncurses
 ncurses5-compat-libs
@@ -2019,7 +2010,6 @@ python-more-itertools
 python-msgpack
 python-multivolumefile
 python-mypy_extensions
-python-nautilus
 python-nest-asyncio
 python-netifaces
 python-nspektr
@@ -2031,6 +2021,7 @@ python-path-and-address
 python-pathspec
 python-patiencediff
 python-pdftotext
+python-pefile
 python-pep517
 python-pexpect
 python-pickleshare
@@ -2504,11 +2495,9 @@ tldr
 tlp
 tlp-rdw
 tmux
-totem-pl-parser
 tpm2-tss
 traceroute
 tracker3
-tracker3-miners
 translate-shell
 transmission-remote-gtk
 trash-cli
@@ -2558,10 +2547,6 @@ usbutils
 util-linux
 util-linux-libs
 utools
-v2ray
-v2ray-domain-list-community
-v2ray-geoip
-v2raya
 v4l-utils
 v4l2loopback-dkms
 vala
@@ -2753,9 +2738,6 @@ xorg-xwud
 xorgproto
 xournalpp
 xplane-sdk-devel
-xray
-xray-domain-list-community
-xray-geoip
 xsel
 xtensa-lx106-elf-gcc-bin
 xterm
