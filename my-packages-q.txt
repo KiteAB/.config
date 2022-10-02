@@ -80,9 +80,7 @@ asio
 asp
 aspell
 assimp
-at-spi2-atk
 at-spi2-core
-atk
 atkmm
 atop
 attica
@@ -328,6 +326,7 @@ fakeroot
 farstream
 fastfetch-git
 faudio
+fceux
 fcitx5
 fcitx5-anthy
 fcitx5-breeze
@@ -385,7 +384,6 @@ frameworkintegration
 freealut
 freecell-solver
 freeglut
-freeimage
 freerdp
 freetype2
 frei0r-plugins
@@ -436,7 +434,6 @@ git
 git-delta
 git-lfs
 github-cli
-gl2ps
 glew
 glew1.10
 glfw-wayland
@@ -445,7 +442,6 @@ glib2
 glib2-docs
 glibc
 glibmm
-glm
 glslang
 glu
 glusterfs
@@ -712,9 +708,7 @@ kholidays
 khotkeys
 khtml
 ki18n
-kicad
 kicad-library
-kicad-library-3d
 kiconthemes
 kidentitymanagement
 kidletime
@@ -868,9 +862,7 @@ lib32-acl
 lib32-alsa-lib
 lib32-alsa-plugins
 lib32-amdvlk
-lib32-at-spi2-atk
 lib32-at-spi2-core
-lib32-atk
 lib32-attr
 lib32-brotli
 lib32-bzip2
@@ -1323,6 +1315,8 @@ libraw
 libraw1394
 libreoffice-fresh
 libreoffice-fresh-zh-cn
+libretro-core-info
+libretro-mesen
 librevenge
 librsvg
 librtmp0
@@ -1605,7 +1599,6 @@ new-session-manager
 nftables
 nginx
 nginx-src
-ngspice
 nilfs-utils
 nim
 ninja
@@ -1644,7 +1637,6 @@ oniguruma
 opam
 openal
 openbabel
-opencascade
 opencc
 opencl-headers
 opencl-mesa
@@ -1843,6 +1835,7 @@ phodav
 phonon-qt5
 phonon-qt5-gstreamer
 php
+physfs
 picmi
 picom-git
 pim-data-exporter
@@ -1989,6 +1982,7 @@ python-installer
 python-ipykernel
 python-ipython-genutils
 python-itsdangerous
+python-jaraco.classes
 python-jaraco.context
 python-jaraco.functools
 python-jaraco.text
@@ -2155,24 +2149,32 @@ qemu-img
 qemu-pr-helper
 qemu-system-aarch64
 qemu-system-alpha
+qemu-system-alpha-firmware
 qemu-system-arm
+qemu-system-arm-firmware
 qemu-system-avr
 qemu-system-cris
 qemu-system-hppa
+qemu-system-hppa-firmware
 qemu-system-loongarch64
 qemu-system-m68k
 qemu-system-microblaze
+qemu-system-microblaze-firmware
 qemu-system-mips
 qemu-system-nios2
 qemu-system-or1k
 qemu-system-ppc
+qemu-system-ppc-firmware
 qemu-system-riscv
+qemu-system-riscv-firmware
 qemu-system-rx
 qemu-system-s390x
 qemu-system-sh4
 qemu-system-sparc
+qemu-system-sparc-firmware
 qemu-system-tricore
 qemu-system-x86
+qemu-system-x86-firmware
 qemu-system-xtensa
 qemu-tests
 qemu-tools
@@ -2262,6 +2264,9 @@ reflector
 reiserfsprogs
 remmina
 rest
+retroarch
+retroarch-assets-ozone
+retroarch-assets-xmb
 rhash
 rider
 rime-emoji
@@ -2425,6 +2430,8 @@ subversion
 sudo
 suil
 suitesparse
+supertux
+supertuxkart
 svgpart
 svt-av1
 svt-hevc
@@ -2517,6 +2524,7 @@ ttf-misans
 ttf-monaco
 ttf-ms-fonts
 ttf-nerd-fonts-symbols-2048-em
+ttf-nerd-fonts-symbols-common
 ttf-opensans
 ttf-sarasa-gothic
 ttf-symbola
