@@ -161,7 +161,7 @@ ca-certificates 20220905-1
 ca-certificates-mozilla 3.83-1
 ca-certificates-utils 20220905-1
 cabextract 1.9.1-2
-caddy 2.5.2-2
+caddy 2.6.1-1
 cairo 1.17.6-2
 cairomm 1.14.3-2
 calcurse 4.8.0-1
@@ -304,7 +304,7 @@ elisa 22.08.1-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.160266-1
+emacs-git 29.0.50.160286-1
 embree 3.13.5-1
 enca 1.19-4
 enchant 2.3.3-1
@@ -395,7 +395,7 @@ fuse2 2.9.9-4
 fuse3 3.12.0-1
 fwupd 1.8.5-1
 fwupd-efi 1.3-1
-fzf 0.33.0-1
+fzf 0.34.0-1
 gamemode 1.7-1
 gamescope 3.11.47-1
 gavl 1.4.0-6
@@ -482,7 +482,7 @@ grantleetheme 22.08.1-1
 graphene 1.10.8-1
 graphicsmagick 1.3.38-4
 graphite 1:1.3.14-2
-graphviz 5.0.1-3
+graphviz 6.0.1-1
 grep 3.8-2
 groff 1.22.4-7
 groovy 4.0.3-1
@@ -564,7 +564,7 @@ imath 3.1.5-3
 imlib2 1.9.1-2
 incidenceeditor 22.08.1-1
 iniparser 4.1-4
-inkscape 1.2.1-6
+inkscape 1.2.1-7
 innoextract 1.9-7
 intellij-idea-ultimate-edition 2022.2.2-2
 intellij-idea-ultimate-edition-jre 2022.2.2-2
@@ -792,7 +792,7 @@ kpty 5.98.0-1
 kpublictransport 22.08.1-1
 kqtquickcharts 22.08.1-1
 kquickcharts 5.98.0-1
-krb5 1.19.3-3
+krb5 1.20-1
 krdc 22.08.1-1
 kreversi 22.08.1-1
 krfb 22.08.1-1
@@ -1035,7 +1035,7 @@ lib32-polkit 121-1
 lib32-portaudio 1:19.7.0-1
 lib32-readline 8.1.002-1
 lib32-rest 0.8.1-4
-lib32-sdl12-compat 1.2.52-3
+lib32-sdl12-compat 1.2.56-1
 lib32-sdl2 2.0.22-1
 lib32-sdl2_image 2.6.1-1
 lib32-sdl2_mixer 2.6.1-1
@@ -1118,7 +1118,7 @@ libdeflate 1.14-1
 libdiscid 0.6.2-3
 libdispatch 5.5.0-1
 libdmtx 0.7.7-1
-libdrm 2.4.113-2
+libdrm 2.4.113-3
 libdv 1.0.0-9
 libdvbpsi 1:1.3.3-2
 libdvdnav 6.1.1-1
@@ -1497,7 +1497,7 @@ lua53-lgi 0.9.2-7
 luajit 2.1.0.beta3.r449.gdad04f17-1
 luit 20220111-1
 lunar-client 2.12.8-1
-lutris-git 0.5.11.r78.g9db9c3a3-1
+lutris-git 0.5.11.r85.gf8374dbc-1
 lv2 1.18.10-1
 lvm2 2.03.16-2
 lxappearance 0.6.3-4
@@ -1660,6 +1660,9 @@ openssh 9.0p1-1
 openssl 1.1.1.q-1
 openssl-1.0 1.0.2.u-1
 opensubdiv 3.5.0-1
+openttd 12.2-3
+openttd-opengfx 7.1-1
+openttd-opensfx 1.0.3-1
 openvdb 9.1.0-2
 openvpn 2.5.7-1
 openxr 1.0.25-1
@@ -1732,7 +1735,7 @@ perl-datetime-calendar-julian 0.107-1
 perl-datetime-format-builder 1:0.83-3
 perl-datetime-format-strptime 1.79-1
 perl-datetime-locale 1.36-1
-perl-datetime-timezone 2.53-1
+perl-datetime-timezone 2.54-1
 perl-devel-globaldestruction 0.14-8
 perl-devel-stacktrace 2.04-2
 perl-dist-checkconflicts 0.11-8
@@ -1841,7 +1844,7 @@ picom-git 1770_9.rc1.92.g7107241_2022.09.30-1
 pim-data-exporter 22.08.1-1
 pim-sieve-editor 22.08.1-1
 pimcommon 22.08.1-1
-pinentry 1.2.0-1
+pinentry 1.2.1-1
 pipewire 1:0.3.58-1
 pipewire-alsa 1:0.3.58-1
 pipewire-jack 1:0.3.58-1
@@ -1892,7 +1895,7 @@ prison 5.98.0-1
 procps-ng 3.3.17-1
 progress 0.16-1
 proj 9.0.1-1
-protobuf 21.6-1
+protobuf 21.7-1
 protobuf-c 1.4.1-1
 proton 1:7.0.3-5
 psmisc 23.5-1
@@ -2058,14 +2061,14 @@ python-pyxdg 0.28-1
 python-pyzmq 23.2.0-2
 python-pyzstd 0.15.3-1
 python-qrcode 7.3.1-1
-python-qtconsole 5.3.1-1
+python-qtconsole 5.3.2-1
 python-qtpy 2.1.0-1
 python-reedsolo 1.5.4-4
 python-regex 2022.8.17-1
 python-requests 2.28.1-1
 python-resolvelib 0.8.1-1
 python-retrying 1.3.3-13
-python-rich 12.5.1-1
+python-rich 12.6.0-1
 python-secretstorage 3.3.3-1
 python-setuptools 1:63.0.0-1
 python-sexpdata 0.0.3-4
@@ -2191,7 +2194,7 @@ qemu-vhost-user-gpu 7.1.0-6
 qemu-virtiofsd 7.1.0-6
 qgpgme 1.18.0-1
 qhull 2020.2-4
-qpdf 11.1.0-1
+qpdf 11.1.1-1
 qqc2-desktop-style 5.98.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
@@ -2417,7 +2420,7 @@ spice 0.15.0-1
 spice-gtk 0.41-2
 spirv-tools 2022.1-1
 spotifyd 0.3.3-1
-sqlite 3.39.3-1
+sqlite 3.39.4-1
 sratom 0.6.14-1
 srt 1.5.1-1
 sshfs 3.7.3-1
@@ -2765,7 +2768,7 @@ you-get 0.4.1620-1
 yubico-c 1.13-6
 yubico-c-client 2.15-5
 yubikey-personalization 1.20.0-3
-yuzu-git r22082.188932768e-1
+yuzu-git r22085.80a3a73123-1
 zbar 0.23.90-1
 zenity 3.43.0-1
 zeromq 4.3.4-2

@@ -1660,6 +1660,9 @@ openssh
 openssl
 openssl-1.0
 opensubdiv
+openttd
+openttd-opengfx
+openttd-opensfx
 openvdb
 openvpn
 openxr
