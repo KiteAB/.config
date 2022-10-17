@@ -137,7 +137,7 @@ ForegroundVisited=155,89,182
 
 [DirSelect Dialog]
 DirSelectDialog Size=867,598
-History Items[$e]=file:$HOME/Pictures/wallpapers,file:$HOME/Pictures/wallpapers
+History Items[$e]=file:$HOME,file:$HOME/Pictures/wallpapers,file:$HOME/Pictures/wallpapers
 
 [General]
 BrowserApplication=userapp-Firefox-9I7AC1.desktop
