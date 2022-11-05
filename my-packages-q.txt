@@ -191,6 +191,7 @@ chromaprint
 chrpath
 cifs-utils
 clang
+clash
 clion
 cloc
 clucene
@@ -250,6 +251,7 @@ dex
 dhcp
 dhcpcd
 diffutils
+dingtalk-bin
 directx-headers
 discord
 discount
@@ -411,6 +413,7 @@ gcc
 gcc-libs
 gconf
 gcr
+gcr-4
 gd
 gdal
 gdb
@@ -423,6 +426,8 @@ gegl
 gendesk
 geoclue
 geocode-glib
+geocode-glib-2
+geocode-glib-common
 geoip
 geoip-database
 geoipupdate
@@ -602,6 +607,8 @@ jdk8-graalvm-bin
 jemalloc
 jfsutils
 jq
+jre-openjdk
+jre-openjdk-headless
 jre11-openjdk-headless
 js78
 json-c
@@ -1095,8 +1102,11 @@ libbs2b
 libbsd
 libburn
 libbytesize
+libc++
+libc++abi
 libcaca
 libcacard
+libcamera
 libcanberra
 libcap
 libcap-ng
@@ -1242,6 +1252,7 @@ liblqr
 liblrdf
 libltc
 libluv
+liblzf
 libmad
 libmalcontent
 libmanette
@@ -1329,6 +1340,7 @@ libraw1394
 librdkafka
 libreoffice-fresh
 libreoffice-fresh-zh-cn
+librest
 libretro-core-info
 libretro-mesen
 librevenge
@@ -1380,6 +1392,7 @@ libtirpc
 libtommath
 libtool
 libtorrent-rasterbar
+libtpms
 libudev0-shim
 libunistring
 libunrar
@@ -1673,6 +1686,7 @@ openshadinglanguage
 openssh
 openssl
 openssl-1.0
+openssl-1.1
 opensubdiv
 openttd
 openttd-opengfx
@@ -1890,7 +1904,6 @@ podofo
 polkit
 polkit-kde-agent
 polkit-qt5
-polymc
 ponysay
 poppler
 poppler-data
@@ -1906,6 +1919,7 @@ poxml
 ppp
 print-manager
 prismatik
+prismlauncher-git
 prison
 procps-ng
 progress
@@ -1917,7 +1931,6 @@ psmisc
 psutils
 ptex
 pugixml
-pulseaudio-alsa
 pulseaudio-equalizer-ladspa
 pulseaudio-qt
 pulsemixer
@@ -1986,6 +1999,7 @@ python-elasticsearch
 python-entrypoints
 python-epc
 python-evdev
+python-exceptiongroup
 python-executing
 python-fastbencode
 python-feedparser
@@ -2319,6 +2333,7 @@ qt6-webengine
 qtkeychain-qt5
 qtwebkit
 quazip-qt5
+quazip-qt6
 rabbitmq
 radeon-profile-daemon-git
 radeon-profile-git
@@ -2693,6 +2708,7 @@ webkit2gtk-5.0
 webp-pixbuf-loader
 webrtc-audio-processing
 weechat
+wemeet-bin
 wget
 which
 whois
@@ -2838,6 +2854,7 @@ xterm
 xvidcore
 xxhash
 xz
+yacd
 yajl
 yakuake
 yaml-cpp
