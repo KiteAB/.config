@@ -88,6 +88,7 @@ Decrease Opacity=none,,Decrease Opacity of Active Window by 5 %
 Expose=none,Ctrl+F9,Toggle Present Windows (Current desktop)
 ExposeAll=Meta+Tab,Ctrl+F10\tLaunch (C),Toggle Present Windows (All desktops)
 ExposeClass=none,Ctrl+F7,Toggle Present Windows (Window class)
+ExposeClassCurrentDesktop=none,none,Toggle Present Windows (Window class on current desktop)
 FlipSwitchAll=none,none,Toggle Flip Switch (All desktops)
 FlipSwitchCurrent=none,none,Toggle Flip Switch (Current desktop)
 Increase Opacity=none,,Increase Opacity of Active Window by 5 %
@@ -132,7 +133,7 @@ MoveZoomUp=none,none,Move Zoomed Area Upwards
 Overview=Meta+Shift+Tab,Meta+W,Toggle Overview
 Remove Desktop=Meta+Alt+_,none,DESKTOPS: Remove current desktop and move its windows to the next.
 Setup Window Shortcut=none,,Setup Window Shortcut
-Show Desktop=Meta+D,Meta+D,Show Desktop
+Show Desktop=Meta+D,Meta+D,Peek at Desktop
 ShowDesktopGrid=none,Meta+F8,Show Desktop Grid
 Suspend Compositing=Alt+Shift+F12,Alt+Shift+F12,Suspend Compositing
 Swap with Above Desktop=Meta+Alt+Shift+Up,none,DESKTOPS: Swap current desktop with one above.
@@ -256,6 +257,7 @@ Window to Next Desktop=Meta+Shift+I,,Window to Next Desktop
 Window to Next Screen=none,Meta+Shift+Right,Window to Next Screen
 Window to Previous Desktop=Meta+Shift+N,,Window to Previous Desktop
 Window to Previous Screen=none,Meta+Shift+Left,Window to Previous Screen
+Window to Screen %1=none,none,Switch to Screen 7
 Window to Screen 0=none,,Window to Screen 0
 Window to Screen 1=none,,Window to Screen 1
 Window to Screen 2=none,,Window to Screen 2
@@ -266,7 +268,7 @@ Window to Screen 6=none,,Window to Screen 6
 Window to Screen 7=none,,Window to Screen 7
 _k_friendly_name=KWin
 view_actual_size=none,Meta+0,Zoom to Actual Size
-view_zoom_in=Meta+=,Meta+=,Zoom In
+view_zoom_in=Meta+=,Meta++,Zoom In
 view_zoom_out=Meta+-,Meta+-,Zoom Out
 
 [lattedock]
@@ -323,11 +325,11 @@ show-on-mouse-pos=none,Meta+V,Open Klipper at Mouse Position
 
 [mediacontrol]
 _k_friendly_name=Media Controller
-mediavolumedown=none,none,Media volume down
-mediavolumeup=none,none,Media volume up
+mediavolumedown=none,,Media volume down
+mediavolumeup=none,,Media volume up
 nextmedia=Media Next,Media Next,Media playback next
 pausemedia=Media Pause,Media Pause,Pause media playback
-playmedia=none,none,Play media playback
+playmedia=none,,Play media playback
 playpausemedia=Media Play,Media Play,Play/Pause media playback
 previousmedia=Media Previous,Media Previous,Media playback previous
 stopmedia=Media Stop,Media Stop,Stop media playback
