@@ -191,7 +191,6 @@ chromaprint
 chrpath
 cifs-utils
 clang
-clash
 clion
 cloc
 clucene
@@ -302,7 +301,6 @@ efibootmgr
 efivar
 electron
 electron-netease-cloud-music
-electron17
 elementary-icon-theme
 elfutils
 elisa
@@ -452,6 +450,7 @@ glib2
 glib2-docs
 glibc
 glibmm
+glibmm-2.68
 glslang
 glu
 glusterfs
@@ -1039,6 +1038,7 @@ lib32-openal
 lib32-opencl-mesa
 lib32-openssl
 lib32-openssl-1.0
+lib32-openssl-1.1
 lib32-opus
 lib32-orc
 lib32-p11-kit
@@ -1569,11 +1569,11 @@ metis
 microsoft-gsl
 milou
 mindustry
-mindustry-server
 minecraft-launcher
 minicom
 miniupnpc
 minizip
+minizip-ng
 minuet
 mixxx
 mjpegtools
@@ -1588,6 +1588,7 @@ modemmanager-qt
 molequeue
 mono
 mono-msbuild
+moreutils
 movit
 mpc
 mpfr
@@ -1793,6 +1794,8 @@ perl-inc-latest
 perl-io-html
 perl-io-socket-ssl
 perl-io-string
+perl-io-tty
+perl-ipc-run
 perl-ipc-run3
 perl-libwww
 perl-lingua-translit
@@ -1846,6 +1849,7 @@ perl-text-csv
 perl-text-glob
 perl-text-roman
 perl-tie-cycle
+perl-time-duration
 perl-timedate
 perl-try-tiny
 perl-unicode-linebreak
@@ -2446,6 +2450,7 @@ run-parts
 runc
 rust
 rustdesk-bin
+ryujinx-git
 samba
 sane
 sbc
@@ -2854,7 +2859,6 @@ xterm
 xvidcore
 xxhash
 xz
-yacd
 yajl
 yakuake
 yaml-cpp
