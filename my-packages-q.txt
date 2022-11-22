@@ -1980,6 +1980,7 @@ python-cheroot
 python-cherrypy
 python-click
 python-colorama
+python-comm
 python-commonmark
 python-configobj
 python-constantly

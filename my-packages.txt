@@ -197,7 +197,7 @@ clucene 2.3.3.4-12
 clutter 1.26.4-2
 clutter-gst 3.0.27-4
 clutter-gtk 1.8.4-3
-cmake 3.24.3-1
+cmake 3.25.0-1
 cmatrix 2.0-2
 cmus 2.10.0-3
 coffeescript 2.7.0-1
@@ -307,7 +307,7 @@ elisa 22.08.3-1
 emacs-ctable 0.1.2-3
 emacs-deferred 0.5.1-2
 emacs-epc 0.1.1-4
-emacs-git 29.0.50.162082-2
+emacs-git 29.0.50.162420-1
 embree 3.13.5-1
 enca 1.19-4
 enchant 2.3.3-2
@@ -495,8 +495,8 @@ graphviz 7.0.2-1
 grep 3.8-2
 groff 1.22.4-7
 groovy 4.0.6-1
-grpc 1.50.1-2
-grpc-cli 1.50.1-2
+grpc 1.51.0-1
+grpc-cli 1.51.0-1
 grub 2:2.06.r380.g151467888-1
 grub-btrfs 4.11-2
 grub-customizer 5.2.2-2
@@ -861,7 +861,7 @@ l-smash 2.14.5-2
 ladspa 1.17-1
 lame 3.100-4
 lapack 3.11.0-1
-latte-dock-git 0.10.8.r5994.42fedafc-1
+latte-dock-git 0.10.8.r5995.4ec72572-1
 layer-shell-qt 5.26.3-1
 lazarus 2.2.4-1
 lazydocker 0.18.1-1
@@ -966,7 +966,7 @@ lib32-libnsl 2.0.0-1
 lib32-libogg 1.3.5-1
 lib32-libpcap 1.10.1-1
 lib32-libpciaccess 0.17-1
-lib32-libpng 1.6.38-2
+lib32-libpng 1.6.39-1
 lib32-libpng12 1.2.59-2
 lib32-libproxy 0.4.18-1
 lib32-libpsl 0.21.1-3
@@ -1000,7 +1000,7 @@ lib32-libx11 1.8.2-2
 lib32-libxau 1.0.10-3
 lib32-libxcb 1.15-1
 lib32-libxcomposite 0.4.5-2
-lib32-libxcrypt 4.4.31-1
+lib32-libxcrypt 4.4.33-1
 lib32-libxcursor 1.2.1-2
 lib32-libxdamage 1.1.5-3
 lib32-libxdmcp 1.1.3-2
@@ -1320,7 +1320,7 @@ libphonenumber 1:8.13.0-1
 libpipeline 1.5.7-1
 libplacebo 4.208.0-1
 libplist 2.2.0-5
-libpng 1.6.38-2
+libpng 1.6.39-1
 libpng12 1.2.59-2
 libproxy 0.4.18-1
 libpsl 0.21.1-3
@@ -1440,7 +1440,7 @@ libxau 1.0.10-2
 libxaw 1.0.14-1
 libxcb 1.15-2
 libxcomposite 0.4.5-4
-libxcrypt 4.4.31-1
+libxcrypt 4.4.33-1
 libxcursor 1.2.1-2
 libxcvt 0.1.2-1
 libxdamage 1.1.5-5
@@ -1524,7 +1524,7 @@ lua53-lgi 0.9.2-7
 luajit 2.1.0.beta3.r449.gdad04f17-1
 luit 20221028-1
 lunar-client 2.14.0-1
-lutris-git 0.5.12.beta1.r26.gdfbfb262-1
+lutris-git 0.5.12.beta1.r27.g25b8cde0-1
 lv2 1.18.10-1
 lvm2 2.03.17-1
 lxappearance 0.6.3-4
@@ -1591,7 +1591,7 @@ mono-msbuild 16.10.1.xamarinxplat.2021.05.26.14.00-4
 moreutils 0.67-4
 movit 1.6.3-2
 mpc 0.34-2
-mpfr 4.1.0.p13-3
+mpfr 4.1.1-1
 mpg123 1.31.1-1
 mplayer 38359-1
 mpv 1:0.35.0-2
@@ -1694,7 +1694,7 @@ openttd-opengfx 7.1-1
 openttd-opensfx 1.0.3-1
 openvdb 10.0.0-1
 openvpn 2.5.8-2
-openxr 1.0.25-1
+openxr 1.0.26-1
 optipng 0.7.7-2
 opus 1.3.1-3
 opusfile 0.12-3
@@ -1872,7 +1872,7 @@ phonon-qt5-gstreamer 4.10.0-3
 php 8.1.12-2
 physfs 3.2.0-1
 picmi 22.08.3-1
-picom-git 1785_9.rc1.107.gec02fc6_2022.11.18-1
+picom-git 1786_9.rc1.108.ga9db7ab_2022.11.21-1
 pim-data-exporter 22.08.3-1
 pim-sieve-editor 22.08.3-1
 pimcommon 22.08.3-1
@@ -1923,7 +1923,7 @@ poxml 22.08.3-1
 ppp 2.4.9-3
 print-manager 22.08.3-1
 prismatik 5.11.2-3
-prismlauncher-git 5.0.r392.g30607c34-1
+prismlauncher-git 5.0.r407.g68b7aa0a-1
 prison 5.100.0-1
 procps-ng 3.3.17-1
 progress 0.16-1
@@ -1940,7 +1940,7 @@ pulseaudio-qt 1.3-1
 pulsemixer 1.5.1-3
 purpose 5.100.0-1
 pybind11 2.10.1-1
-pycharm-community-edition 2022.2.3-1
+pycharm-community-edition 2022.2.4-1
 pyrit 0.5.0-5
 pyside2 5.15.7-1
 pystring 1.1.3.git1-1
@@ -1980,6 +1980,7 @@ python-cheroot 8.6.0-2
 python-cherrypy 18.8.0-1
 python-click 8.1.3-1
 python-colorama 0.4.6-1
+python-comm 0.1.0-1
 python-commonmark 0.9.1-6
 python-configobj 5.0.6.r110.g3e2f4cc-3
 python-constantly 15.1.0-11
@@ -2020,7 +2021,7 @@ python-google-auth 2.10.0-1
 python-google-auth-httplib2 0.1.0-3
 python-googleapis-common-protos 1.56.4-1
 python-grip 4.6.1-1
-python-grpcio 1.50.1-2
+python-grpcio 1.51.0-1
 python-html2text 2020.1.16-5
 python-html5-parser 0.4.10-4
 python-html5lib 1.1-11
@@ -2035,7 +2036,7 @@ python-inflate64 0.3.1-1
 python-inflect 6.0.2-1
 python-iniconfig 1.1.1-5
 python-installer 0.5.1-2
-python-ipykernel 6.17.1-1
+python-ipykernel 6.18.0-1
 python-ipython-genutils 0.2.0-1
 python-isodate 0.6.1-2
 python-isort 5.10.1-6
@@ -2044,7 +2045,7 @@ python-jaraco.classes 3.2.3-1
 python-jaraco.collections 3.5.2-1
 python-jaraco.context 4.1.2-1
 python-jaraco.functools 3.5.2-1
-python-jaraco.text 3.10.0-1
+python-jaraco.text 3.11.0-1
 python-jedi 0.18.1-1
 python-jeepney 0.8.0-1
 python-jinja 1:3.1.2-2
@@ -2153,11 +2154,11 @@ python-rsa 4.9-1
 python-scikit-learn 1.1.3-1
 python-scipy 1.9.3-1
 python-secretstorage 3.3.3-1
-python-setuptools 1:65.5.0-1
+python-setuptools 1:65.5.1-1
 python-sexpdata 0.0.3-4
 python-sgmllib3k 1.0.0-4
 python-shiboken2 5.15.7-1
-python-shtab 1.5.7-1
+python-shtab 1.5.8-1
 python-sip4 4.19.25-3
 python-six 1.16.0-6
 python-snowballstemmer 2.2.0-3
@@ -2359,7 +2360,7 @@ read-edid 3.0.2-4
 readline 8.2.001-1
 recode 3.7.12-1
 recordmydesktop 0.4.0-2
-redis 7.0.5-2
+redis 7.0.5-3
 redland 1:1.0.17-8
 reflector 2021.11-5
 reiserfsprogs 3.6.27-3
@@ -2450,7 +2451,7 @@ run-parts 5.5-1
 runc 1.1.4-1
 rust 1:1.65.0-1
 rustdesk-bin 1.1.9-3
-ryujinx-git r2352.905a191e28-1
+ryujinx-git r2353.f088c3d344-1
 samba 4.17.3-1
 sane 1.1.1-1
 sbc 2.0-1
@@ -2545,10 +2546,10 @@ sxhkd 0.6.2-2
 syndication 5.100.0-1
 syntax-highlighting 5.100.0-1
 sysfsutils 2.1.1-1
-systemd 252.1-1
-systemd-libs 252.1-1
+systemd 252.1-2
+systemd-libs 252.1-2
 systemd-swap 4.4.0-2
-systemd-sysvcompat 252.1-1
+systemd-sysvcompat 252.1-2
 systemsettings 5.26.3-1
 t1lib 5.1.2-8
 taglib 1.13-1
@@ -2872,7 +2873,7 @@ you-get 0.4.1620-1
 yubico-c 1.13-6
 yubico-c-client 2.15-5
 yubikey-personalization 1.20.0-3
-yuzu-early-access 3141-1
+yuzu-early-access 3142-1
 zbar 0.23.90-1
 zenity 3.43.0-1
 zeromq 4.3.4-2
