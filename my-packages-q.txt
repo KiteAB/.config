@@ -16,6 +16,7 @@ adobe-source-han-mono-cn-fonts
 adobe-source-han-sans-cn-fonts
 adobe-source-han-sans-otc-fonts
 adobe-source-han-serif-cn-fonts
+adwaita-cursors
 adwaita-icon-theme
 aegisub
 aha
@@ -51,6 +52,7 @@ animdustry
 anthy
 aom
 apache
+apache-orc
 appmenu-gtk-module
 appstream
 appstream-glib
@@ -74,6 +76,7 @@ argon2
 aria2
 aribb24
 ark
+arrow
 artikulate
 asciinema
 asio
@@ -176,6 +179,7 @@ cataclysm-dda-tiles
 catch2
 catimg
 cblas
+ccid
 ccls
 cdparanoia
 cdrtools
@@ -243,6 +247,7 @@ deepin-wine-plugin
 deepin-wine-plugin-virtual
 deepin-wine-wechat
 deepin-wine6-stable
+default-cursors
 desktop-file-utils
 device-mapper
 devtools
@@ -295,7 +300,8 @@ eclipse-emf
 eclipse-platform
 ed
 editorconfig-core-c
-edk2-armvirt
+edk2-aarch64
+edk2-arm
 edk2-ovmf
 efibootmgr
 efivar
@@ -431,6 +437,7 @@ geoip-database
 geoipupdate
 geos
 gettext
+gflags
 ghex
 ghostpcl
 ghostscript
@@ -446,6 +453,7 @@ glew
 glew1.10
 glfw-wayland
 glib-networking
+glib-perl
 glib2
 glib2-docs
 glibc
@@ -473,6 +481,7 @@ gobject-introspection
 gobject-introspection-runtime
 godot
 google-chrome
+google-glog
 gopls
 goverlay-git
 gpart
@@ -1426,6 +1435,7 @@ libvterm01
 libwacom
 libwebp
 libwebsockets
+libwireplumber
 libwmf
 libwpd
 libwpe
@@ -1734,6 +1744,8 @@ pavucontrol
 pciutils
 pcre
 pcre2
+pcsc-perl
+pcsc-tools
 pcsclite
 perf
 perl
@@ -1917,6 +1929,7 @@ popt
 portaudio
 portmidi
 portsmf
+postgresql-libs
 potrace
 powerdevil
 poxml
@@ -2008,6 +2021,7 @@ python-exceptiongroup
 python-executing
 python-fastbencode
 python-feedparser
+python-fido2
 python-filelock
 python-flask
 python-flask-restful
@@ -2123,6 +2137,7 @@ python-pyjwt
 python-pylint
 python-pynput
 python-pyopenssl
+python-pyotherside
 python-pyparsing
 python-pyppmd
 python-pyqt5
@@ -2131,6 +2146,7 @@ python-pyqt5-webengine
 python-pyqt6
 python-pyqt6-sip
 python-pyqt6-webengine
+python-pyscard
 python-pyserial
 python-pyte
 python-pytest
@@ -2596,6 +2612,7 @@ texlive-latexextra
 thefuck
 thin-provisioning-tools
 threadweaver
+thrift
 thunderbird-appmenu
 tigervnc
 timeshift
@@ -2654,6 +2671,7 @@ unityhub-cn
 unixodbc
 unzip
 upower
+uriparser
 usbmuxd
 usbredir
 usbutils
@@ -2855,6 +2873,7 @@ xorgproto
 xournalpp
 xplane-sdk-devel
 xsel
+xsimd
 xtensa-lx106-elf-gcc-bin
 xterm
 xvidcore
@@ -2872,6 +2891,8 @@ yelp-xsl
 you-get
 yubico-c
 yubico-c-client
+yubikey-manager
+yubikey-manager-qt
 yubikey-personalization
 yuzu-early-access
 zbar
