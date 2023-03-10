@@ -51,7 +51,7 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=
 
 [Containments][1][Applets][121][Configuration]
-PreloadWeight=5
+PreloadWeight=10
 activityId=
 formfactor=0
 immutability=1
@@ -78,7 +78,7 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=
 
 [Containments][1][Applets][122][Configuration]
-PreloadWeight=25
+PreloadWeight=9
 activityId=
 formfactor=0
 immutability=1
@@ -104,7 +104,7 @@ PreloadWeight=0
 
 [Containments][1][Applets][2][Configuration][General]
 isInLatteDock=true
-launchers59=applications:org.kde.dolphin.desktop,applications:systemsettings.desktop,applications:st.desktop,applications:firefox.desktop,applications:emacs.desktop,applications:jetbrains-idea.desktop,applications:org.gnome.clocks.desktop,applications:steam-native.desktop,applications:net.lutris.Lutris.desktop,applications:hmcl-bin.desktop,applications:telegramdesktop.desktop,file:///usr/share/applications/discord.desktop,applications:com.qq.weixin.deepin.desktop,applications:unityhub.desktop,applications:virtualbox.desktop,applications:com.obsproject.Studio.desktop,applications:org.kde.kdenlive.desktop,applications:aegisub.desktop,applications:org.inkscape.Inkscape.desktop,applications:electron-netease-cloud-music.desktop,applications:gimp.desktop,applications:org.kde.krita.desktop,file:///latte-separator1.desktop
+launchers59=applications:org.kde.dolphin.desktop,applications:systemsettings.desktop,applications:st.desktop,applications:firefox.desktop,applications:emacs.desktop,applications:jetbrains-idea.desktop,applications:org.gnome.clocks.desktop,applications:steam-native.desktop,applications:net.lutris.Lutris.desktop,applications:hmcl-bin.desktop,file:///usr/share/applications/discord.desktop,applications:com.qq.weixin.deepin.desktop,applications:unityhub.desktop,applications:virtualbox.desktop,applications:com.obsproject.Studio.desktop,applications:org.kde.kdenlive.desktop,applications:aegisub.desktop,applications:org.inkscape.Inkscape.desktop,applications:electron-netease-cloud-music.desktop,applications:gimp.desktop,applications:org.kde.krita.desktop,file:///latte-separator1.desktop
 
 [Containments][1][Applets][49]
 immutability=1
@@ -182,45 +182,49 @@ PreloadWeight=0
 
 [Containments][15][Applets][123]
 immutability=1
-plugin=org.kde.plasma.mediacontroller
-
-[Containments][15][Applets][123][Configuration]
-PreloadWeight=0
-
-[Containments][15][Applets][124]
-immutability=1
-plugin=org.kde.plasma.mediacontroller_plus
-
-[Containments][15][Applets][124][Configuration]
-PreloadWeight=0
+plugin=org.kde.kscreen
 
 [Containments][15][Applets][125]
 immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][15][Applets][125][Configuration]
-PreloadWeight=100
+PreloadWeight=92
+
+[Containments][15][Applets][126]
+immutability=1
+plugin=org.kde.plasma.mediacontroller_plus
+
+[Containments][15][Applets][126][Configuration]
+PreloadWeight=0
+
+[Containments][15][Applets][127]
+immutability=1
+plugin=org.kde.plasma.mediacontroller
+
+[Containments][15][Applets][127][Configuration]
+PreloadWeight=0
 
 [Containments][15][Applets][16]
 immutability=1
 plugin=org.kde.kdeconnect
 
 [Containments][15][Applets][16][Configuration]
-PreloadWeight=61
+PreloadWeight=53
 
 [Containments][15][Applets][17]
 immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][15][Applets][17][Configuration]
-PreloadWeight=84
+PreloadWeight=100
 
 [Containments][15][Applets][18]
 immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][15][Applets][18][Configuration]
-PreloadWeight=56
+PreloadWeight=48
 
 [Containments][15][Applets][19]
 immutability=1
@@ -250,6 +254,9 @@ PreloadWeight=100
 [Containments][15][Applets][28][Configuration][ConfigDialog]
 DialogHeight=540
 DialogWidth=720
+
+[Containments][15][Applets][28][Configuration][General]
+migrated=true
 
 [Containments][15][Applets][29]
 immutability=1
@@ -284,7 +291,7 @@ immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][15][Applets][34][Configuration]
-PreloadWeight=5
+PreloadWeight=0
 
 [Containments][15][Applets][34][Configuration][ConfigDialog]
 DialogHeight=540
@@ -312,9 +319,9 @@ DialogHeight=558
 DialogWidth=720
 
 [Containments][15][General]
-extraItems=org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.networkmanagement,org.kde.plasma.mediacontroller,org.kde.plasma.devicenotifier,org.kde.kdeconnect,org.kde.plasma.printmanager,org.kde.plasma.bluetooth,org.kde.plasma.keyboardindicator,org.kde.plasma.vault,org.kde.plasma.nightcolorcontrol,org.kde.plasma.volume,org.kde.plasma.mediacontroller_plus,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.notifications
+extraItems=org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.networkmanagement,org.kde.plasma.mediacontroller,org.kde.plasma.devicenotifier,org.kde.kdeconnect,org.kde.plasma.printmanager,org.kde.plasma.bluetooth,org.kde.plasma.keyboardindicator,org.kde.plasma.vault,org.kde.plasma.nightcolorcontrol,org.kde.plasma.volume,org.kde.plasma.mediacontroller_plus,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.notifications,org.kde.kscreen
 hiddenItems=KMix,org.kde.plasma.notifications
-knownItems=org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.mediacontroller,org.kde.plasma.devicenotifier,org.kde.kdeconnect,org.kde.plasma.printmanager,org.kde.plasma.bluetooth,org.kde.plasma.keyboardindicator,org.kde.plasma.vault,org.kde.ktp-contactlist,org.kde.plasma.nightcolorcontrol,org.kde.plasma.volume,org.kde.plasma.mediacontroller_plus,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod
+knownItems=org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.mediacontroller,org.kde.plasma.devicenotifier,org.kde.kdeconnect,org.kde.plasma.printmanager,org.kde.plasma.bluetooth,org.kde.plasma.keyboardindicator,org.kde.plasma.vault,org.kde.ktp-contactlist,org.kde.plasma.nightcolorcontrol,org.kde.plasma.volume,org.kde.plasma.mediacontroller_plus,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.kscreen
 scaleIconsToFit=true
 shownItems=org.kde.plasma.bluetooth
 
@@ -345,7 +352,7 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][4][Applets][12][Configuration]
-PreloadWeight=9
+PreloadWeight=1
 
 [Containments][4][Applets][12][Configuration][Appearance]
 customDateFormat=M-dd
