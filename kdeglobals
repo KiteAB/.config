@@ -141,7 +141,7 @@ History Items[$e]=file:$HOME,file:$HOME/Pictures/wallpapers,file:$HOME/Pictures/
 
 [General]
 BrowserApplication=userapp-Firefox-9I7AC1.desktop
-ColorSchemeHash=78952f1103f6f2c59b78c6ed5fa382c3f5ec18e7
+ColorSchemeHash=7e27a66e6ec46638e4fb9d9f6caa72c4f044c338
 Name=Breeze Light
 Name[zh_CN]=Breeze 微风亮色
 XftHintStyle=hintslight
