@@ -1,4 +1,3 @@
-64gram-desktop
 a52dec
 aalib
 abseil-cpp
@@ -108,6 +107,7 @@ avrdude
 awesome
 awesome-terminal-fonts
 axel
+ayatana-ido
 babl
 baloo
 baloo-widgets
@@ -195,6 +195,7 @@ chromaprint
 chrpath
 cifs-utils
 clang
+clinfo
 clion
 cloc
 clucene
@@ -202,6 +203,7 @@ clutter
 clutter-gst
 clutter-gtk
 cmake
+cmark
 cmatrix
 cmus
 coffeescript
@@ -219,12 +221,14 @@ coreutils
 cowsay
 cpeditor
 cpio
+cpp-httplib
 cpupower
 cronie
 crow-translate
 crypto++
 cryptsetup
 ctags
+cubeb
 cunit
 cups
 cups-filters
@@ -234,6 +238,7 @@ dash
 dav1d
 davfs2
 db
+db5.3
 dbus
 dbus-glib
 dbus-python
@@ -258,6 +263,7 @@ diffutils
 dingtalk-bin
 directx-headers
 discord
+discord-rpc-git
 discount
 discover
 distorm
@@ -291,6 +297,7 @@ dune
 dvdauthor
 dvgrab
 dxvk-bin
+dynarmic
 e2fsprogs
 easy-rsa
 easyeffects
@@ -305,6 +312,7 @@ edk2-arm
 edk2-ovmf
 efibootmgr
 efivar
+eigen
 electron
 electron-netease-cloud-music
 elementary-icon-theme
@@ -317,6 +325,7 @@ emacs-git
 embree
 enca
 enchant
+enet
 erlang-nox
 esp8266-nonos-sdk
 esptool
@@ -585,6 +594,11 @@ inetutils
 iniparser
 inkscape
 innoextract
+intel-oneapi-common
+intel-oneapi-compiler-dpcpp-cpp-runtime
+intel-oneapi-compiler-shared-runtime
+intel-oneapi-openmp
+intel-oneapi-tbb
 intellij-idea-ultimate-edition
 intellij-idea-ultimate-edition-jre
 intltool
@@ -612,12 +626,15 @@ jbig2dec
 jbigkit
 jdk17-dragonwell-bin
 jdk8-graalvm-bin
+jdk8-openjdk
 jemalloc
 jfsutils
 jq
 jre-openjdk
 jre-openjdk-headless
 jre11-openjdk-headless
+jre8-openjdk
+jre8-openjdk-headless
 js78
 json-c
 json-glib
@@ -881,6 +898,7 @@ ldns
 lensfun
 leptonica
 less
+level-zero-loader
 leveldb
 lf
 lib2geom
@@ -975,6 +993,7 @@ lib32-libnsl
 lib32-libogg
 lib32-libpcap
 lib32-libpciaccess
+lib32-libpipewire
 lib32-libpng
 lib32-libpng12
 lib32-libproxy
@@ -1074,6 +1093,7 @@ lib32-smpeg
 lib32-sqlite
 lib32-systemd
 lib32-tdb
+lib32-udis86-git
 lib32-util-linux
 lib32-v4l-utils
 lib32-vkd3d
@@ -1103,6 +1123,8 @@ libatomic_ops
 libavc1394
 libavif
 libavtp
+libayatana-appindicator
+libayatana-indicator
 libb2
 libblockdev
 libbluray
@@ -1252,6 +1274,7 @@ libksieve
 libksysguard
 libktorrent
 liblangtag
+liblc3
 libldac
 libldap
 libliftoff
@@ -1259,6 +1282,7 @@ liblo
 liblouis
 liblqr
 liblrdf
+liblsp-r3d-glx-lib
 libltc
 libluv
 liblzf
@@ -1291,6 +1315,7 @@ libmtp
 libmusicbrainz5
 libmwaw
 libmypaint
+libmysofa
 libnatpmp
 libndp
 libnet
@@ -1327,6 +1352,7 @@ libpeas
 libpgm
 libphonenumber
 libpipeline
+libpipewire
 libplacebo
 libplist
 libpng
@@ -1347,6 +1373,7 @@ libraqm
 libraw
 libraw1394
 librdkafka
+libre-trainsim-bin
 libreoffice-fresh
 libreoffice-fresh-zh-cn
 librest
@@ -1380,6 +1407,7 @@ libspectre
 libspeechd
 libspiro
 libspnav
+libsquish
 libsrtp
 libssh
 libssh2
@@ -1433,6 +1461,7 @@ libvpx1.3
 libvterm
 libvterm01
 libwacom
+libwbclient
 libwebp
 libwebsockets
 libwireplumber
@@ -1451,6 +1480,7 @@ libxaw
 libxcb
 libxcomposite
 libxcrypt
+libxcrypt-compat
 libxcursor
 libxcvt
 libxdamage
@@ -1522,6 +1552,11 @@ lsd
 lskat
 lsof
 lsp-plugins
+lsp-plugins-clap
+lsp-plugins-ladspa
+lsp-plugins-lv2
+lsp-plugins-standalone
+lsp-plugins-vst
 lua
 lua52
 lua52-bitop
@@ -1675,6 +1710,7 @@ oniguruma
 opam
 openal
 openbabel
+openbve
 opencc
 opencl-headers
 opencl-mesa
@@ -1689,6 +1725,7 @@ openimageio
 openjpeg2
 openldap
 openmpi
+openpgl
 openpmix
 openresolv
 openrgb
@@ -1727,11 +1764,11 @@ pacmanlogviewer
 pahole
 palapeli
 pam
+pam-u2f
 pambase
 pamixer
 pango
 pangomm
-paper
 papirus-icon-theme
 parley
 parted
@@ -1913,6 +1950,7 @@ plasma-systemmonitor
 plasma-thunderbolt
 plasma-vault
 plasma-wayland-session
+plasma-welcome
 plasma-workspace
 plasma-workspace-wallpapers
 playerctl
@@ -1985,6 +2023,7 @@ python-build
 python-cachecontrol
 python-cachetools
 python-cairo
+python-capng
 python-cchardet
 python-certifi
 python-cffi
@@ -2020,6 +2059,7 @@ python-evdev
 python-exceptiongroup
 python-executing
 python-fastbencode
+python-fastjsonschema
 python-feedparser
 python-fido2
 python-filelock
@@ -2064,8 +2104,8 @@ python-jedi
 python-jeepney
 python-jinja
 python-joblib
-python-jupyter_client
-python-jupyter_core
+python-jupyter-client
+python-jupyter-core
 python-keyring
 python-keyrings-alt
 python-lazy-object-proxy
@@ -2074,9 +2114,11 @@ python-lxml
 python-magic
 python-mako
 python-markdown
+python-markdown-it-py
 python-markupsafe
 python-matplotlib-inline
 python-mccabe
+python-mdurl
 python-mechanize
 python-merge3
 python-mock
@@ -2108,6 +2150,7 @@ python-pkgconfig
 python-platformdirs
 python-pluggy
 python-ply
+python-pooch
 python-portend
 python-prettytable
 python-progress
@@ -2139,7 +2182,9 @@ python-pynput
 python-pyopenssl
 python-pyotherside
 python-pyparsing
+python-pypng
 python-pyppmd
+python-pyproject-hooks
 python-pyqt5
 python-pyqt5-sip
 python-pyqt5-webengine
@@ -2204,6 +2249,7 @@ python-traitlets
 python-trove-classifiers
 python-twisted
 python-typing_extensions
+python-uc-micro-py
 python-unrardll
 python-uritemplate
 python-urllib3
@@ -2352,6 +2398,7 @@ qt6-wayland
 qt6-webchannel
 qt6-webengine
 qtkeychain-qt5
+qtractor
 qtwebkit
 quazip-qt5
 quazip-qt6
@@ -2536,6 +2583,8 @@ spflashtool5-bin
 spglib
 spice
 spice-gtk
+spice-protocol
+spirv-llvm-translator
 spirv-tools
 spotifyd
 sqlite
@@ -2558,6 +2607,7 @@ svt-av1
 svt-hevc
 sweeper
 swh-plugins
+swig
 sxhkd
 syndication
 syntax-highlighting
@@ -2578,6 +2628,7 @@ tdb
 tdlib
 teamspeak3
 teamspeak3-server
+telegram-desktop-megumifox
 telepathy-accounts-signon
 telepathy-farstream
 telepathy-glib
@@ -2616,6 +2667,7 @@ thrift
 thunderbird-appmenu
 tigervnc
 timeshift
+tinycompress
 tinyxml
 tinyxml2
 tk
@@ -2624,6 +2676,7 @@ tldr
 tlp
 tlp-rdw
 tmux
+tomlplusplus
 tpm2-tss
 traceroute
 tracker3
@@ -2915,4 +2968,6 @@ zulu-8-bin
 zulu-jre-fx-bin
 zvbi
 zxing-cpp
+zycore-c
+zydis
 zziplib
