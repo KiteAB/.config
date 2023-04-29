@@ -48,6 +48,7 @@ android-studio
 android-tools
 android-udev
 animdustry
+ant
 anthy
 aom
 apache
@@ -77,6 +78,7 @@ aribb24
 ark
 arrow
 artikulate
+asciidoc
 asciinema
 asio
 asp
@@ -323,6 +325,7 @@ emacs-deferred
 emacs-epc
 emacs-git
 embree
+embree3
 enca
 enchant
 enet
@@ -596,7 +599,10 @@ inkscape
 innoextract
 intel-oneapi-common
 intel-oneapi-compiler-dpcpp-cpp-runtime
+intel-oneapi-compiler-dpcpp-cpp-runtime-libs
+intel-oneapi-compiler-shared-opencl-cpu
 intel-oneapi-compiler-shared-runtime
+intel-oneapi-compiler-shared-runtime-libs
 intel-oneapi-openmp
 intel-oneapi-tbb
 intellij-idea-ultimate-edition
@@ -768,6 +774,7 @@ kio-extras
 kio-fuse
 kio-gdrive
 kio-zeroconf
+kirigami-addons
 kirigami-gallery
 kirigami2
 kiriki
@@ -860,6 +867,7 @@ ksysguard
 ksystemlog
 ksystemstats
 kteatime
+ktextaddons
 ktexteditor
 ktextwidgets
 ktimer
@@ -1138,6 +1146,7 @@ libc++abi
 libcaca
 libcacard
 libcamera
+libcamera-ipa
 libcanberra
 libcap
 libcap-ng
@@ -1166,6 +1175,7 @@ libdbusmenu-qt5
 libdc1394
 libdca
 libde265
+libdecor
 libdeflate
 libdiscid
 libdispatch
@@ -1207,6 +1217,7 @@ libgee
 libgeotiff
 libgexiv2
 libgig
+libgirepository
 libgit2
 libglvnd
 libgme
@@ -1430,6 +1441,8 @@ libtommath
 libtool
 libtorrent-rasterbar
 libtpms
+libtraceevent
+libtracefs
 libudev0-shim
 libunistring
 libunrar
@@ -1706,6 +1719,7 @@ ocl-icd
 okteta
 okular
 onefetch
+onetbb
 oniguruma
 opam
 openal
@@ -2051,6 +2065,7 @@ python-distro
 python-dnspython
 python-docopt
 python-docutils
+python-dulwich
 python-ecdsa
 python-elasticsearch
 python-entrypoints
@@ -2230,6 +2245,7 @@ python-sphinx_rtd_theme
 python-sphinxcontrib-applehelp
 python-sphinxcontrib-devhelp
 python-sphinxcontrib-htmlhelp
+python-sphinxcontrib-jquery
 python-sphinxcontrib-jsmath
 python-sphinxcontrib-qthelp
 python-sphinxcontrib-serializinghtml
@@ -2349,7 +2365,6 @@ qemu-ui-spice-app
 qemu-ui-spice-core
 qemu-user
 qemu-vhost-user-gpu
-qemu-virtiofsd
 qgpgme
 qhull
 qpdf
@@ -2503,6 +2518,7 @@ ruby-rspec-support
 ruby-ruby2_keywords
 ruby-stdlib
 ruby-stringio
+ruby-sync
 ruby-term-ansicolor
 ruby-test-unit
 ruby-time
@@ -2622,7 +2638,6 @@ taglib
 talloc
 taptempo
 tar
-tbb
 tcl
 tdb
 tdlib
@@ -2751,6 +2766,7 @@ virt-install
 virt-manager
 virt-viewer
 virtio-win
+virtiofsd
 virtualbox
 virtualbox-host-dkms
 visual-studio-code-bin
