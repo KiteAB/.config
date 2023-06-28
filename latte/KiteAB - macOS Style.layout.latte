@@ -104,7 +104,7 @@ PreloadWeight=0
 
 [Containments][1][Applets][2][Configuration][General]
 isInLatteDock=true
-launchers59=applications:org.kde.dolphin.desktop,applications:systemsettings.desktop,applications:st.desktop,applications:firefox.desktop,applications:emacs.desktop,applications:jetbrains-idea.desktop,applications:org.gnome.clocks.desktop,applications:steam-native.desktop,applications:net.lutris.Lutris.desktop,applications:hmcl-bin.desktop,file:///usr/share/applications/discord.desktop,applications:com.qq.weixin.deepin.desktop,applications:unityhub.desktop,applications:virtualbox.desktop,applications:com.obsproject.Studio.desktop,applications:org.kde.kdenlive.desktop,applications:aegisub.desktop,applications:org.inkscape.Inkscape.desktop,applications:electron-netease-cloud-music.desktop,applications:gimp.desktop,applications:org.kde.krita.desktop,file:///latte-separator1.desktop
+launchers59=applications:org.kde.dolphin.desktop,applications:systemsettings.desktop,applications:st.desktop,applications:firefox.desktop,applications:emacs.desktop,applications:jetbrains-idea.desktop,applications:org.gnome.clocks.desktop,applications:steam-native.desktop,applications:net.lutris.Lutris.desktop,applications:hmcl-bin.desktop,file:///usr/share/applications/discord.desktop,applications:qq.desktop,applications:unityhub.desktop,applications:virtualbox.desktop,applications:com.obsproject.Studio.desktop,applications:org.kde.kdenlive.desktop,applications:aegisub.desktop,applications:org.inkscape.Inkscape.desktop,applications:electron-netease-cloud-music.desktop,applications:gimp.desktop,applications:org.kde.krita.desktop,file:///latte-separator1.desktop
 
 [Containments][1][Applets][49]
 immutability=1
@@ -185,49 +185,58 @@ immutability=1
 plugin=org.kde.kscreen
 
 [Containments][15][Applets][123][Configuration]
-PreloadWeight=52
+PreloadWeight=6
 
-[Containments][15][Applets][125]
-immutability=1
-plugin=org.kde.plasma.bluetooth
-
-[Containments][15][Applets][125][Configuration]
-PreloadWeight=84
-
-[Containments][15][Applets][126]
+[Containments][15][Applets][124]
 immutability=1
 plugin=org.kde.plasma.mediacontroller_plus
 
-[Containments][15][Applets][126][Configuration]
+[Containments][15][Applets][124][Configuration]
 PreloadWeight=0
 
-[Containments][15][Applets][127]
+[Containments][15][Applets][125]
 immutability=1
 plugin=org.kde.plasma.mediacontroller
 
-[Containments][15][Applets][127][Configuration]
+[Containments][15][Applets][125][Configuration]
 PreloadWeight=0
+
+[Containments][15][Applets][126]
+immutability=1
+plugin=org.kde.plasma.nightcolorcontrol
+
+[Containments][15][Applets][127]
+immutability=1
+plugin=org.kde.plasma.battery
+
+[Containments][15][Applets][128]
+immutability=1
+plugin=org.kde.plasma.networkmanagement
+
+[Containments][15][Applets][129]
+immutability=1
+plugin=org.kde.plasma.bluetooth
 
 [Containments][15][Applets][16]
 immutability=1
 plugin=org.kde.kdeconnect
 
 [Containments][15][Applets][16][Configuration]
-PreloadWeight=50
+PreloadWeight=0
 
 [Containments][15][Applets][17]
 immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][15][Applets][17][Configuration]
-PreloadWeight=92
+PreloadWeight=36
 
 [Containments][15][Applets][18]
 immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][15][Applets][18][Configuration]
-PreloadWeight=80
+PreloadWeight=57
 
 [Containments][15][Applets][19]
 immutability=1
@@ -240,19 +249,12 @@ PreloadWeight=0
 DialogHeight=540
 DialogWidth=720
 
-[Containments][15][Applets][21]
-immutability=1
-plugin=org.kde.plasma.networkmanagement
-
-[Containments][15][Applets][21][Configuration]
-PreloadWeight=100
-
 [Containments][15][Applets][28]
 immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][15][Applets][28][Configuration]
-PreloadWeight=100
+PreloadWeight=52
 
 [Containments][15][Applets][28][Configuration][ConfigDialog]
 DialogHeight=540
@@ -289,27 +291,6 @@ plugin=org.kde.plasma.vault
 [Containments][15][Applets][32][Configuration]
 PreloadWeight=0
 
-[Containments][15][Applets][34]
-immutability=1
-plugin=org.kde.plasma.battery
-
-[Containments][15][Applets][34][Configuration]
-PreloadWeight=0
-
-[Containments][15][Applets][34][Configuration][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
-[Containments][15][Applets][34][Configuration][General]
-showPercentage=true
-
-[Containments][15][Applets][36]
-immutability=1
-plugin=org.kde.plasma.nightcolorcontrol
-
-[Containments][15][Applets][36][Configuration]
-PreloadWeight=0
-
 [Containments][15][Applets][70]
 immutability=1
 plugin=org.kde.plasma.keyboardlayout
@@ -320,6 +301,9 @@ PreloadWeight=0
 [Containments][15][ConfigDialog]
 DialogHeight=558
 DialogWidth=720
+
+[Containments][15][Configuration]
+PreloadWeight=2
 
 [Containments][15][General]
 extraItems=org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.networkmanagement,org.kde.plasma.mediacontroller,org.kde.plasma.devicenotifier,org.kde.kdeconnect,org.kde.plasma.printmanager,org.kde.plasma.bluetooth,org.kde.plasma.keyboardindicator,org.kde.plasma.vault,org.kde.plasma.nightcolorcontrol,org.kde.plasma.volume,org.kde.plasma.mediacontroller_plus,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.notifications,org.kde.kscreen
@@ -373,7 +357,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][4][Applets][14][Configuration]
-PreloadWeight=100
+PreloadWeight=57
 SystrayContainmentId=15
 
 [Containments][4][Applets][23]
@@ -381,7 +365,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][4][Applets][23][Configuration]
-PreloadWeight=92
+PreloadWeight=52
 
 [Containments][4][Applets][8]
 immutability=1
