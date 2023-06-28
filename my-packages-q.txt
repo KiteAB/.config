@@ -106,7 +106,6 @@ avr-binutils
 avr-gcc
 avr-libc
 avrdude
-awesome
 awesome-terminal-fonts
 axel
 ayatana-ido
@@ -145,6 +144,7 @@ bomber
 boost
 boost-libs
 botan
+botan2
 bovo
 box2d
 bpm-tools
@@ -156,7 +156,6 @@ breezy
 bridge-utils
 brltty
 brotli
-bspwm
 btrfs-progs
 bubblewrap
 bullet
@@ -194,6 +193,7 @@ chaotic-mirrorlist
 cheese
 chmlib
 chromaprint
+chrono-date
 chrpath
 cifs-utils
 clang
@@ -249,11 +249,8 @@ ddcutil
 debtap
 debuginfod
 deepin-udis86
-deepin-wine-helper
 deepin-wine-plugin
 deepin-wine-plugin-virtual
-deepin-wine-wechat
-deepin-wine6-stable
 default-cursors
 desktop-file-utils
 device-mapper
@@ -283,8 +280,8 @@ dolphin
 dolphin-plugins
 dosbox
 dosfstools
-dotnet-host
-dotnet-runtime
+dotnet-host-bin
+dotnet-runtime-bin
 dotnet-sdk
 dotnet-targeting-pack
 double-conversion
@@ -298,6 +295,7 @@ duktape
 dune
 dvdauthor
 dvgrab
+dvisvgm
 dxvk-bin
 dynarmic
 e2fsprogs
@@ -317,6 +315,7 @@ efivar
 eigen
 electron
 electron-netease-cloud-music
+electron25
 elementary-icon-theme
 elfutils
 elisa
@@ -334,6 +333,7 @@ esp8266-nonos-sdk
 esptool
 ethtool
 eventviews
+eww-wayland
 exa
 exfatprogs
 exiv2
@@ -391,6 +391,7 @@ flac
 flameshot
 flashrom
 flatpak
+flatpak-xdg-utils
 flex
 flightgear
 flightgear-data
@@ -539,6 +540,7 @@ gstreamer
 gstreamer-vaapi
 gtest
 gtk-doc
+gtk-layer-shell
 gtk-sharp-2
 gtk-update-icon-cache
 gtk-vnc
@@ -579,6 +581,7 @@ hwdata
 hwinfo
 hwloc
 hyphen
+hyprland
 i2c-tools
 iana-etc
 ibam
@@ -925,6 +928,7 @@ lib32-curl
 lib32-dbus
 lib32-dbus-glib
 lib32-dconf
+lib32-duktape
 lib32-e2fsprogs
 lib32-expat
 lib32-faudio
@@ -946,8 +950,6 @@ lib32-glibc
 lib32-glu
 lib32-gmp
 lib32-gnutls
-lib32-gst-plugins-base-libs
-lib32-gstreamer
 lib32-gtk2
 lib32-gtk3
 lib32-harfbuzz
@@ -1055,7 +1057,6 @@ lib32-libxslt
 lib32-libxss
 lib32-libxt
 lib32-libxtst
-lib32-libxv
 lib32-libxxf86vm
 lib32-llvm
 lib32-llvm-libs
@@ -1069,14 +1070,12 @@ lib32-ncurses
 lib32-nettle
 lib32-nspr
 lib32-nss
-lib32-ocl-icd
 lib32-openal
 lib32-opencl-mesa
 lib32-openssl
 lib32-openssl-1.0
 lib32-openssl-1.1
 lib32-opus
-lib32-orc
 lib32-p11-kit
 lib32-pam
 lib32-pango
@@ -1101,10 +1100,8 @@ lib32-smpeg
 lib32-sqlite
 lib32-systemd
 lib32-tdb
-lib32-udis86-git
 lib32-util-linux
 lib32-v4l-utils
-lib32-vkd3d
 lib32-vulkan-icd-loader
 lib32-vulkan-mesa-layers
 lib32-vulkan-radeon
@@ -1155,6 +1152,7 @@ libcddb
 libcdio
 libcdio-paranoia
 libcdr
+libcgif
 libcheese
 libchewing
 libclc
@@ -1179,6 +1177,7 @@ libdecor
 libdeflate
 libdiscid
 libdispatch
+libdisplay-info
 libdmtx
 libdrm
 libdv
@@ -1227,6 +1226,7 @@ libgovirt
 libgpg-error
 libgphoto2
 libgravatar
+libgsf
 libgssglue
 libgtop
 libgudev
@@ -1462,6 +1462,7 @@ libva-utils
 libvdpau
 libvdpau-va-gl
 libverto
+libvips
 libvirt
 libvirt-glib
 libvirt-python
@@ -1547,6 +1548,7 @@ linux-lts
 linux-lts-headers
 linux-zen
 linux-zen-headers
+linuxqq-nt-bwrap
 lirc
 lld
 lldb
@@ -1578,7 +1580,6 @@ lua52-lpeg
 lua52-luajson
 lua52-socket
 lua53
-lua53-lgi
 luajit
 luit
 lunar-client
@@ -1600,7 +1601,6 @@ makedumpfile
 mallard-ducktype
 man-db
 mangohud
-mangohud-common
 marble
 marble-common
 mariadb
@@ -1611,6 +1611,7 @@ markdownpart
 mathjax
 maven
 mbedtls
+mbedtls2
 mbox-importer
 md4c
 mdadm
@@ -1659,6 +1660,7 @@ mtdev
 mtools
 mujs
 multipath-tools
+musescore
 mypaint-brushes1
 nano
 nasm
@@ -1745,6 +1747,7 @@ openresolv
 openrgb
 openscenegraph
 openshadinglanguage
+openslide
 openssh
 openssl
 openssl-1.0
@@ -1764,6 +1767,7 @@ os-prober
 osinfo-db
 ossp
 ostree
+otf-font-awesome
 oxygen
 oxygen-sounds
 p11-kit
@@ -1771,8 +1775,8 @@ p7zip
 package-query
 packagekit
 packagekit-qt5
-pacman
 pacman-contrib
+pacman-lily
 pacman-mirrorlist
 pacmanlogviewer
 pahole
@@ -1784,6 +1788,7 @@ pamixer
 pango
 pangomm
 papirus-icon-theme
+parallel
 parley
 parted
 partitionmanager
@@ -1792,6 +1797,7 @@ pastebinit
 patch
 patchelf
 pavucontrol
+payload-dumper-go
 pciutils
 pcre
 pcre2
@@ -1935,7 +1941,6 @@ phonon-qt5-gstreamer
 php
 physfs
 picmi
-picom-git
 pim-data-exporter
 pim-sieve-editor
 pimcommon
@@ -2038,7 +2043,6 @@ python-cachecontrol
 python-cachetools
 python-cairo
 python-capng
-python-cchardet
 python-certifi
 python-cffi
 python-chardet
@@ -2075,6 +2079,7 @@ python-exceptiongroup
 python-executing
 python-fastbencode
 python-fastjsonschema
+python-faust-cchardet
 python-feedparser
 python-fido2
 python-filelock
@@ -2261,6 +2266,7 @@ python-toml
 python-tomli
 python-tomlkit
 python-tornado
+python-tqdm
 python-traitlets
 python-trove-classifiers
 python-twisted
@@ -2365,7 +2371,7 @@ qemu-ui-spice-app
 qemu-ui-spice-core
 qemu-user
 qemu-vhost-user-gpu
-qgpgme
+qgpgme-qt5
 qhull
 qpdf
 qqc2-desktop-style
@@ -2534,6 +2540,7 @@ ryujinx-git
 samba
 sane
 sbc
+scdoc
 schroedinger
 scons
 scrcpy
@@ -2576,6 +2583,7 @@ slock
 smartmontools
 smbclient
 smpeg
+snapd-xdg-open-git
 snapper
 snappy
 sndcpy-bin
@@ -2621,9 +2629,11 @@ supertuxkart
 svgpart
 svt-av1
 svt-hevc
+swaylock-effects
 sweeper
 swh-plugins
 swig
+swww
 sxhkd
 syndication
 syntax-highlighting
@@ -2672,9 +2682,13 @@ tesseract-data-eng
 tesseract-data-osd
 tevent
 texinfo
+texlive-basic
 texlive-bin
-texlive-core
+texlive-latex
 texlive-latexextra
+texlive-latexrecommended
+texlive-pictures
+the-honkers-railway-launcher-bin
 thefuck
 thin-provisioning-tools
 threadweaver
@@ -2713,7 +2727,7 @@ ttf-linux-libertine
 ttf-misans
 ttf-monaco
 ttf-ms-fonts
-ttf-nerd-fonts-symbols-2048-em
+ttf-nerd-fonts-symbols
 ttf-nerd-fonts-symbols-common
 ttf-opensans
 ttf-sarasa-gothic
@@ -2743,6 +2757,7 @@ uriparser
 usbmuxd
 usbredir
 usbutils
+uthash
 util-linux
 util-linux-libs
 utools
@@ -2792,6 +2807,7 @@ vulkan-validation-layers
 w3m
 wakatime
 wavpack
+waybar-hyprland
 wayland
 wayland-protocols
 wayland-utils
@@ -2806,8 +2822,10 @@ wget
 which
 whois
 wildmidi
-wine
+wine-for-wechat
+wine-gecko
 wine-mono
+wine-wechat-setup
 winetricks
 wireguard-tools
 wireless-regdb
