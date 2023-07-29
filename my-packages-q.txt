@@ -224,6 +224,7 @@ cowsay
 cpeditor
 cpio
 cpp-httplib
+cppdap
 cpupower
 cronie
 crow-translate
@@ -472,6 +473,7 @@ glib2-docs
 glibc
 glibmm
 glibmm-2.68
+glm
 glslang
 glu
 glusterfs
@@ -1071,7 +1073,7 @@ lib32-nettle
 lib32-nspr
 lib32-nss
 lib32-openal
-lib32-opencl-mesa
+lib32-opencl-clover-mesa
 lib32-openssl
 lib32-openssl-1.0
 lib32-openssl-1.1
@@ -1344,6 +1346,7 @@ libnma-common
 libnotify
 libnsl
 libnumbertext
+libnvme
 libodfgen
 libofa
 libogg
@@ -1728,8 +1731,9 @@ openal
 openbabel
 openbve
 opencc
+opencl-clover-mesa
 opencl-headers
-opencl-mesa
+opencl-rusticl-mesa
 opencollada
 opencolorio
 opencolorio1
@@ -1758,6 +1762,7 @@ openttd-opengfx
 openttd-opensfx
 openvdb
 openvpn
+openvr
 openxr
 optipng
 opus
@@ -1992,7 +1997,6 @@ powerdevil
 poxml
 ppp
 print-manager
-prismatik
 prismlauncher-git
 prison
 procps-ng
@@ -2129,6 +2133,7 @@ python-jupyter-core
 python-keyring
 python-keyrings-alt
 python-lazy-object-proxy
+python-lockfile
 python-logutils
 python-lxml
 python-magic
@@ -2293,6 +2298,7 @@ python-zc.lockfile
 python-zeroconf
 python-zipp
 python-zope-interface
+python-zstandard
 python2
 qbittorrent
 qca-qt5
@@ -2543,6 +2549,7 @@ sbc
 scdoc
 schroedinger
 scons
+scour
 scrcpy
 screen
 screenfetch
