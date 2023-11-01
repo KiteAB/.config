@@ -136,14 +136,15 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [DirSelect Dialog]
-DirSelectDialog Size=867,598
-History Items[$e]=file:///data,file:$HOME/Pictures/wallpapers,file:$HOME,file:$HOME/Pictures/wallpapers,file:$HOME/Pictures/wallpapers
+DirSelectDialog Size=834,598
+History Items[$e]=file:$HOME/Git/Math4Babies,file:$HOME/mc/地图/商单,file:$HOME/mc/地图/盾剑,file:$HOME/mc/地图/盾,file:$HOME/Downloads/地图/剑,file:///data,file:$HOME/Pictures/wallpapers,file:$HOME,file:$HOME/Pictures/wallpapers,file:$HOME/Pictures/wallpapers
 
 [General]
 BrowserApplication=userapp-Firefox-9I7AC1.desktop
 ColorSchemeHash=01662607e36cd33eacc7d7d7189f69c26b9a2cc8
 Name=Breeze Light
 Name[zh_CN]=Breeze 微风亮色
+XftAntialias=true
 XftHintStyle=hintslight
 XftSubPixel=rgb
 fixed=FiraCode Nerd Font Mono,10,-1,5,50,0,0,0,0,0

@@ -7,7 +7,7 @@ Switch keyboard layout to English (Colemak)=none,none,Switch keyboard layout to 
 Switch keyboard layout to English (US)=none,none,Switch keyboard layout to English (US)
 Switch keyboard layout to 英语（Colemak）=none,none,切换到键盘布局 英语（Colemak）
 Switch keyboard layout to 英语（美国）=none,none,切换到键盘布局 英语（美国）
-Switch to Next Keyboard Layout=none,Ctrl+Alt+K,Switch to Next Keyboard Layout
+Switch to Next Keyboard Layout=none,Meta+Alt+K,Switch to Next Keyboard Layout
 _k_friendly_name=Keyboard Layout Switcher
 
 [emacs.desktop]
@@ -125,6 +125,7 @@ Krohnkite: Three Column Layout=none,none,
 Krohnkite: Tile Layout=Meta+T,none,
 Krohnkite: Up/Prev=Meta+K,none,
 MinimizeAll=Meta+Shift+D,none,MinimizeAll
+Move Tablet to Next Output=none,none,Move the tablet to the next output
 MoveMouseToCenter=Meta+F6,Meta+F6,Move Mouse to Center
 MoveMouseToFocus=Meta+F5,Meta+F5,Move Mouse to Focus
 MoveZoomDown=none,none,Move Zoomed Area Downwards
