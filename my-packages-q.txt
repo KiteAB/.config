@@ -42,7 +42,8 @@ alsa-ucm-conf
 alsa-utils
 amd-ucode
 amf-headers
-analitza
+an-anime-game-launcher-bin
+analitza5
 android-studio
 android-tools
 android-udev
@@ -55,13 +56,14 @@ apache-orc
 appmenu-gtk-module
 appstream
 appstream-glib
-appstream-qt
+appstream-qt5
 apr
 apr-util
 arandr
 arc-icon-theme
 arch-install-scripts
 archlinux-appstream-data
+archlinux-java-run
 archlinux-keyring
 archlinuxcn-keyring
 arctime
@@ -98,6 +100,7 @@ autoconf-archive
 automake
 avahi
 avogadro-crystals
+avogadro-fragments
 avogadro-molecules
 avogadrolibs
 avogadrolibs-qt5
@@ -243,6 +246,8 @@ davfs2
 db
 db5.3
 dbus
+dbus-broker
+dbus-broker-units
 dbus-glib
 dbus-python
 dconf
@@ -278,6 +283,7 @@ docbook-xsl
 docker
 dolphin
 dolphin-plugins
+dos2unix
 dosbox
 dosfstools
 dotnet-host-bin
@@ -315,6 +321,7 @@ eigen
 electron
 electron-netease-cloud-music
 electron25
+electron28
 elementary-icon-theme
 elfutils
 elisa
@@ -504,8 +511,8 @@ gperftools
 gpgme
 gpm
 gptfdisk
-gradle
 gradle-src
+gradle7
 granatier
 grantlee
 grantlee-editor
@@ -595,6 +602,7 @@ haskell-bsb-http-chunked
 haskell-byteorder
 haskell-call-stack
 haskell-case-insensitive
+haskell-cassava
 haskell-cereal
 haskell-citeproc
 haskell-cmdargs
@@ -624,6 +632,7 @@ haskell-data-default-instances-old-locale
 haskell-data-fix
 haskell-dec
 haskell-digest
+haskell-digits
 haskell-distributive
 haskell-dlist
 haskell-doclayout
@@ -688,7 +697,9 @@ haskell-network-uri
 haskell-old-locale
 haskell-old-time
 haskell-onetuple
+haskell-only
 haskell-optparse-applicative
+haskell-ordered-containers
 haskell-pandoc
 haskell-pandoc-lua-engine
 haskell-pandoc-lua-marshal
@@ -696,11 +707,14 @@ haskell-pandoc-server
 haskell-pandoc-types
 haskell-pem
 haskell-pretty-show
+haskell-prettyprinter
 haskell-primitive
 haskell-psqueues
 haskell-quickcheck
 haskell-random
 haskell-recv
+haskell-regex-base
+haskell-regex-tdfa
 haskell-resourcet
 haskell-safe
 haskell-safe-exceptions
@@ -743,10 +757,12 @@ haskell-these
 haskell-time-compat
 haskell-time-manager
 haskell-tls
+haskell-toml-parser
 haskell-transformers-base
 haskell-transformers-compat
 haskell-type-equality
 haskell-typed-process
+haskell-typst
 haskell-typst-symbols
 haskell-unicode-collation
 haskell-unicode-data
@@ -797,6 +813,7 @@ hwinfo
 hwloc
 hyphen
 hyprland
+hyprlang
 hyprpaper
 hyprpicker-git
 i2c-tools
@@ -855,8 +872,6 @@ jdk8-openjdk
 jemalloc
 jfsutils
 jq
-jre-openjdk
-jre-openjdk-headless
 jre11-openjdk-headless
 jre8-openjdk
 jre8-openjdk-headless
@@ -905,7 +920,7 @@ kcharselect
 kcmutils5
 kcodecs5
 kcolorchooser
-kcolorpicker
+kcolorpicker-qt5
 kcompletion5
 kconfig5
 kconfigwidgets5
@@ -939,14 +954,15 @@ kdesu5
 kdevelop
 kdevelop-php
 kdf
-kdiagram
+kdiagram5
 kdialog
 kdiamond
 kdiff3
 kdiskmark
 kdnssd5
 kdoctools5
-kdsoap
+kdsoap-qt5
+kdsoap-qt6
 kdsoap-ws-discovery-client
 keditbookmarks
 keepass
@@ -958,7 +974,7 @@ keyutils
 kfilemetadata5
 kfind
 kfourinline
-kgamma5
+kgamma
 kgeography
 kget
 kglobalaccel5
@@ -979,7 +995,7 @@ kidletime5
 kig
 kigo
 killbots
-kimageannotator
+kimageannotator-qt5
 kimageformats5
 kimagemapeditor
 kimap
@@ -1095,7 +1111,7 @@ ktuberling
 kturtle
 kubrick
 kunitconversion5
-kuserfeedback
+kuserfeedback5
 kwallet-pam
 kwallet5
 kwalletmanager
@@ -1170,6 +1186,7 @@ lib32-harfbuzz
 lib32-icu
 lib32-imlib2
 lib32-jansson
+lib32-json-c
 lib32-json-glib
 lib32-keyutils
 lib32-krb5
@@ -1211,6 +1228,8 @@ lib32-libldap
 lib32-libltdl
 lib32-libmikmod
 lib32-libmodplug
+lib32-libnghttp2
+lib32-libnghttp3
 lib32-libnl
 lib32-libnm
 lib32-libnsl
@@ -1384,6 +1403,7 @@ libcupsfilters
 libcurl-compat
 libcurl-gnutls
 libdaemon
+libdatachannel
 libdatrie
 libdbusmenu-glib
 libdbusmenu-gtk2
@@ -1417,6 +1437,7 @@ libevdev
 libevent
 libexif
 libexttextcat
+libfabric
 libfakekey
 libfdk-aac
 libffi
@@ -1485,16 +1506,18 @@ libixion
 libjcat
 libjpeg-turbo
 libjpeg6-turbo
+libjuice
 libjxl
 libkate
-libkcddb
+libkcddb5
 libkcompactdisc
-libkdcraw
+libkdcraw5
 libkdegames
 libkdepim
 libkeduvocdocument
 libkexiv2
 libkeybinder3
+libkeyfinder
 libkgapi
 libkleo
 libkmahjongg
@@ -1550,6 +1573,7 @@ libmwaw
 libmypaint
 libmysofa
 libnatpmp
+libnbd
 libndp
 libnet
 libnetfilter_conntrack
@@ -1558,6 +1582,8 @@ libnfnetlink
 libnfs
 libnftnl
 libnghttp2
+libnghttp3
+libngtcp2
 libnice
 libnl
 libnm
@@ -1596,7 +1622,7 @@ libppd
 libproxy
 libpsl
 libpulse
-libqaccessibilityclient
+libqaccessibilityclient-qt5
 libqalculate
 libqmi
 libqrtr-glib
@@ -1697,6 +1723,7 @@ libvisio
 libvisual
 libvncserver
 libvorbis
+libvpl
 libvpx
 libvpx1.3
 libvterm
@@ -1727,6 +1754,7 @@ libxcvt
 libxdamage
 libxdg-basedir
 libxdmcp
+libxdp
 libxext
 libxfce4ui
 libxfce4util
@@ -1829,6 +1857,7 @@ make
 makedumpfile
 mallard-ducktype
 man-db
+mangohud
 marble
 marble-common
 mariadb
@@ -1836,6 +1865,7 @@ mariadb-clients
 mariadb-libs
 marisa
 markdownpart
+materialx
 mathjax
 maven
 mbedtls
@@ -1952,7 +1982,6 @@ okteta
 okular
 onefetch
 onetbb
-onevpl
 oniguruma
 opam
 openal
@@ -2238,6 +2267,7 @@ proj
 protobuf
 protobuf-c
 proton
+prrte
 psmisc
 psutils
 ptex
@@ -2250,6 +2280,7 @@ pybind11
 pycharm-community-edition
 pyrit
 pyside2
+pyside6
 pystring
 python
 python-aiohttp
@@ -2297,10 +2328,12 @@ python-commonmark
 python-configobj
 python-constantly
 python-contextlib2
+python-contourpy
 python-coverage
 python-cryptography
 python-css-parser
 python-cssselect
+python-cycler
 python-dateutil
 python-debugpy
 python-decorator
@@ -2327,6 +2360,8 @@ python-fido2
 python-filelock
 python-flask
 python-flask-restful
+python-flit-core
+python-fonttools
 python-frozenlist
 python-fs
 python-future
@@ -2371,6 +2406,7 @@ python-jupyter-client
 python-jupyter-core
 python-keyring
 python-keyrings-alt
+python-kiwisolver
 python-lazy-object-proxy
 python-lockfile
 python-logutils
@@ -2380,6 +2416,7 @@ python-mako
 python-markdown
 python-markdown-it-py
 python-markupsafe
+python-matplotlib
 python-matplotlib-inline
 python-mccabe
 python-mdurl
@@ -2396,6 +2433,7 @@ python-netifaces
 python-nose
 python-nspektr
 python-numpy
+python-opengl
 python-ordered-set
 python-packaging
 python-parso
@@ -2507,6 +2545,7 @@ python-sysv_ipc
 python-tempora
 python-tenacity
 python-termcolor
+python-testpath
 python-texttable
 python-threadpoolctl
 python-toml
@@ -2536,6 +2575,7 @@ python-wrapt
 python-wxpython
 python-xlib
 python-xmlsec
+python-xxhash
 python-yaml
 python-yarl
 python-zc.lockfile
@@ -2663,6 +2703,8 @@ qt6-5compat
 qt6-base
 qt6-declarative
 qt6-imageformats
+qt6-multimedia
+qt6-multimedia-ffmpeg
 qt6-positioning
 qt6-svg
 qt6-translations
@@ -2824,6 +2866,7 @@ sfml
 shaderc
 shadow
 shared-mime-info
+shiboken6
 signon-kwallet-extension
 signon-plugin-oauth2
 signon-ui
@@ -2999,6 +3042,7 @@ uriparser
 usbmuxd
 usbredir
 usbutils
+usd
 uthash
 util-linux
 util-linux-libs
@@ -3013,6 +3057,7 @@ vcdimager
 vde2
 vdpauinfo
 ventoy-bin
+verdict
 vi
 vicious
 vid.stab
@@ -3049,7 +3094,7 @@ vulkan-validation-layers
 w3m
 wakatime
 wavpack
-waybar-hyprland-git
+waybar-git
 wayland
 wayland-protocols
 wayland-utils
@@ -3239,6 +3284,7 @@ zip
 zita-alsa-pcmi
 zita-convolver
 zita-resampler
+zix
 zlib
 zsh
 zstd
